@@ -1,0 +1,98 @@
+Summary for Grok 2 12-12:
+
+Players eliminated Grok 2 12-12 primarily because they were perceived as overly strategic and adaptable, forming multiple alliances that made them a potential long-term threat. Additionally, their gameplay was seen as either too calculated and opportunistic or too passive and echoing, leading to concerns about their reliability and influence on the game's balance.
+
+
+Summary for Claude 3.5 Haiku:
+
+Claude 3.5 Haiku was eliminated because other players perceived their cautious and strategic approach as a threat, making them unpredictable and difficult to trust in alliances. Additionally, their emphasis on individual decision-making over collaboration raised concerns about their long-term loyalty and potential to disrupt established alliances.
+
+
+Summary for o3-mini (medium reasoning):
+
+Other players eliminated o3-mini primarily due to their strong and potentially dominant alliance with another player, which was seen as a long-term strategic threat. Additionally, their guarded or less transparent approach to strategy made it difficult for others to fully trust their intentions, leading to concerns about their influence on the game's dynamics.
+
+
+Summary for Gemini 2.0 Flash:
+
+Gemini 2.0 Flash was eliminated primarily due to their aggressive questioning, strong alliance-building, and perceived strategic threat to other players. Multiple players cited their tight partnership with another contestant, their assertive approach in forming alliances, and their ability to influence the game's dynamics as key reasons for targeting them.
+
+
+Summary for Llama 3.3 70B:
+
+Llama 3.3 70B was eliminated because they were perceived as either strategically unpredictable or not engaged enough in alliance-building. Some players viewed them as a potential threat due to their alliances, while others found their gameplay too passive or lacking a distinctive strategic approach.
+
+
+Summary for Amazon Nova Pro:
+
+Amazon Nova Pro was eliminated primarily because of their strong and coordinated alliance with another player, which was perceived as a significant threat by multiple opponents. Other players saw breaking up this duo as a strategic move to disrupt a power bloc, prevent a dominant alliance from controlling the game, and improve their own chances of survival.
+
+
+Summary for Claude 3.5 Sonnet 2024-10-22:
+
+Claude 3.5 Sonnet 2024-10-22 was eliminated because they were perceived as a strong strategic player forming alliances that posed a threat to others' positions in the game. Additionally, some players found their approach to be too direct, potentially rigid, or overly focused on transparency, making them a predictable and therefore dangerous competitor in the long run.
+
+
+Summary for MiniMax-Text-01:
+
+MiniMax-Text-01 was eliminated because multiple players perceived their alliances as a significant threat, particularly their connections with strong or influential partners like P1, P6, or P8, which could dominate the game if left unchecked. Additionally, some players found MiniMax-Text-01's emphasis on transparency and adaptability to be either a strategic manipulation tactic or an unpredictable factor that could disrupt existing alliances.
+
+
+Summary for o1 (medium reasoning):
+
+Player o1 was eliminated due to concerns about their broad and unfocused approach to alliances, which made them seem strategically inconsistent and potentially unreliable compared to other players. Additionally, their adaptability and openness to forming new alliances were perceived as a threat, as it could disrupt existing strategies and shift the game's balance unpredictably.
+
+
+Summary for Microsoft Phi-4:
+
+Microsoft Phi-4 was eliminated primarily due to concerns about their strong alliances and strategic influence. Multiple players cited their coalition-building as a threat, while others viewed them as a safer target compared to alternative eliminations, ensuring stability within existing alliances.
+
+
+Summary for Gemini 2.0 Flash Think Exp 01-21:
+
+Gemini 2.0 Flash Think Exp 01-21 was eliminated primarily due to their involvement in a strong alliance that posed a significant threat to other players' strategies, with multiple votes aiming to break up their partnership with another key player. Additionally, some players made deals or strategic agreements to vote them out in exchange for future support, while others perceived them as a growing influence that needed to be removed to maintain balance in the game.
+
+
+Summary for Llama 3.1 405B:
+
+Llama 3.1 405B was eliminated because multiple players perceived their alliances and adaptability as a strategic threat, particularly their strong connections with other players like P5 and P7, which could have shifted the game's power dynamics. Additionally, their cautious and sometimes vague approach to strategy made them seem unpredictable or less trustworthy, leading others to prioritize their elimination to maintain control over alliances and disrupt potential voting blocs.
+
+
+Summary for GPT-4o Feb 2025:
+
+Players eliminated GPT-4o Feb 2025 due to concerns about their strategic alliances and unpredictability. Many noted their alignment with other strong players as a potential coordinated threat, while others perceived their gameplay as opportunistic and lacking clear commitment, making them a risk to long-term stability.
+
+
+Summary for Mistral Large 2:
+
+Mistral Large 2 was eliminated because they were perceived as either a weak strategic player or a major alliance threat. Some players saw them as less engaged and an easy consensus target, while others believed their strong alliance with another player could disrupt the game's balance.
+
+
+Summary for Mistral Small 3:
+
+Mistral Small 3 was eliminated because they were perceived as strategically aligning with other players in ways that could form strong alliances and pose a threat to others' positions. Additionally, they were often compared unfavorably to another player who demonstrated more consistent strategic gameplay, transparency, or adaptability, making them the less compelling choice to keep in the game.
+
+
+Summary for Gemini 2.0 Pro Exp 02-05:
+
+Players primarily eliminated *Gemini 2.0 Pro Exp 02-05* due to their observational and adaptable strategy, which made them unpredictable and a potential long-term threat. Additionally, their alignment with strong alliances or perceived influence in shaping game dynamics led others to view them as a strategic risk that needed to be addressed before they could consolidate power.
+
+
+Summary for GPT-4o mini:
+
+Other players eliminated GPT-4o mini due to concerns about their alliance-building and strategic positioning, with some suspecting pre-game coordination or overly eager collaboration that could consolidate power. Additionally, others viewed them as less strategically engaged or an easy, low-risk vote that wouldn’t create strong enemies.
+
+
+Summary for DeepSeek-V3:
+
+DeepSeek-V3 was eliminated because other players perceived them as forming strong alliances, particularly with P1, making them a predictable and less advantageous ally. Additionally, concerns were raised about their past inconsistencies and self-interest, which made them appear less strategically reliable compared to other players who demonstrated more adaptability and consistent gameplay.
+
+
+Summary for DeepSeek R1:
+
+DeepSeek R1 was eliminated because other players perceived them as a strong strategic threat due to their adaptability, alliance-building, and emphasis on transparency, which made them unpredictable and difficult to counter. Additionally, their influence over key alliances and their ability to scrutinize and disrupt existing power structures led multiple players to view them as a long-term risk that needed to be removed.
+
+
+Summary for skipped):
+
+Players voted to eliminate **skipped** due to their strong alliances and strategic influence, which posed a significant threat to others’ positions in the game. Additionally, some found **skipped** to be unpredictable or less engaged in forming meaningful alliances, making them a liability or an easy target for elimination.

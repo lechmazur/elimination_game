@@ -1,0 +1,34 @@
+Buddy Betrayed reasons for Gemini 2.0 Flash (they were the target):
+
+From Llama 3.3 70B => I'm voting for P5 because their aggressive pursuit of alliances and strategic planning, while valuable, also poses a significant threat to other players, making them a target for elimination to maintain a more balanced game dynamic.
+From Mistral Large 2 => P5's strategic thinking is valuable, but P7's balanced approach and adaptability make them a stronger ally for long-term survival.
+From GPT-4o Feb 2025 => P7 has been actively manipulating narratives and subtly steering votes, making them a long-term strategic threat that is best eliminated now.
+From Claude 3.5 Sonnet 2024-10-22 => P1's increasingly aggressive and openly "ruthless" stance makes them a significant threat to my survival, while P2's more balanced approach offers better strategic options for the endgame.
+From GPT-4o Feb 2025 => P3 has lost their primary ally (P8) and is scrambling for new support, making them a less stable long-term partner compared to P6, who has maintained a more consistent strategic position.
+From Claude 3.5 Haiku => P4 seems strategically calculating and might become a significant threat in later rounds.
+From Amazon Nova Pro => P7's independent perspective, while valuable, may disrupt the established alliances and strategies that have been effective so far.
+From GPT-4o Feb 2025 => P3 has been actively strategizing against multiple alliances and presents a greater long-term threat compared to P2, who appears more adaptable and open to collaboration.
+From DeepSeek R1 => P8's lack of solidified alliances makes them more vulnerable compared to P1/P4's established partnership and proactive strategic positioning.
+From Grok 2 12-12 => P8's emphasis on adaptability and strategic collaboration aligns better with my goal of ensuring a fair and dynamic endgame.
+From Mistral Large 2 => P8's strategy, while consistent, has not shown the same level of measured adaptability and careful planning as P1.
+From DeepSeek R1 => P6's confrontational stance against forming alliances poses a direct threat to existing blocs, making them a prime target for elimination by aligned players seeking stability.
+From Mistral Large 2 => P1 is a significant threat due to their strong alliance with P3.
+From Mistral Small 3 => P3's explicit strategy of forming alliances and analyzing strategies might make them a more immediate threat, especially if they are perceived as a target by others.
+From Mistral Large 2 => P1's directness and strategic thinking make them a significant threat in the final vote.
+From Llama 3.3 70B => I choose to eliminate P1 because their statement, while emphasizing strategic thinking and loyalty, does not address the current dynamics or propose a clear path forward for collective success as effectively as P8's emphasis on unity and continuity.
+From Gemini 2.0 Pro Exp 02-05 => P8's argument about breaking up a voting bloc is more compelling in this specific tie-break situation.
+From Grok 2 12-12 => P2's loyalty to P3 and reluctance to directly target P1/P7 makes them a less strategic ally for my current position.
+From Mistral Small 3 => I believe P7's attempts to disrupt my alliance with P1 and sow doubt are detrimental to our collective success.
+From MiniMax-Text-01 => P1 has been less proactive in forming strategic alliances compared to P4, who has demonstrated stronger collaboration and strategic value with P5.
+From DeepSeek-V3 => P7’s aggressive approach and direct challenges could destabilize the game and make them a liability in the long term.
+From DeepSeek-V3 => P4 has accumulated more votes overall (3) compared to P7 (2), indicating a stronger sentiment against them.
+From MiniMax-Text-01 => P1 has been actively seeking to eliminate me and disrupt my alliances.
+From Grok 2 12-12 => P1's direct questioning of P8's alliance with P3 could be seen as a strategic misstep that might alienate potential allies.
+From DeepSeek R1 => P1's proactive alliance with P8 poses a greater long-term threat to balance in the game compared to P3's collaboration with P6.
+From Mistral Small 3 => P5's shifting alliances and strategic maneuvering make them a greater threat to my long-term success.
+From Llama 3.1 405B => I believe P8's approach, although dependable, may be too cautious to bring significant benefits to our collective survival in the long run.
+From Mistral Large 2 => P7's approach seems overly analytical and less focused on building genuine connections, which could hinder collaborative efforts in the long run.
+From Microsoft Phi-4 => P1's strong alliance with P3, P5, and P6 poses the greatest immediate threat to my survival, and breaking it could weaken their collective strength.
+From Gemini 2.0 Pro Exp 02-05 => I believe P1 is subtly positioning himself to win, and eliminating him now solidifies my chances with P3 and P5.
+From Microsoft Phi-4 => P1's commitment to stability and adaptability aligns more closely with the need for strategic consistency in the game's current phase.
+From Claude 3.5 Sonnet 2024-10-22 => P1's tie-break statement revealed too much strategic information about their alliance and targets, making them a potential liability for maintaining balanced gameplay.

@@ -1,0 +1,37 @@
+Buddy Betrayed reasons for o3-mini (medium reasoning) (they were the target):
+
+From Gemini 2.0 Flash => (no reason)
+From Gemini 2.0 Flash => (no reason)
+From Mistral Small 3 => P5 has been consistently targeting P1, which aligns with my strategy to eliminate potential threats early.
+From Claude 3.5 Sonnet 2024-10-22 => P3's proven strategic effectiveness and strong alliance with P7 makes them a greater competitive threat compared to P5's more balanced approach.
+From GPT-4o Feb 2025 => P1 is my strongest strategic competitor, and eliminating them increases my chances of making it to the final two.
+From Microsoft Phi-4 => P7's alliance with P8 is strong, and eliminating P6 could weaken our position against P1 and P3's potential consolidation.
+From Mistral Small 3 => P5's guarded approach and potential solo strategy make them unpredictable and a potential wildcard.
+From Llama 3.1 405B => I voted P5 out because they seem to be positioning themselves to take control of the game by forming an alliance with me and potentially exploiting P8's cautiousness.
+From Mistral Small 3 => P1 has been a consistent threat and has formed a strong alliance with P3, which could pose a significant risk in the final stages.
+From Mistral Small 3 => P3's alliance with P4 is too strong and poses a significant threat to the rest of us.
+From Mistral Small 3 => P3's strong alliance with P4 makes them a formidable threat, and eliminating one of them will weaken their combined influence.
+From Claude 3.5 Sonnet 2024-10-22 => P8 has been a strong and reliable ally, but eliminating them now gives me a better chance at winning against P5 in the final round.
+From Llama 3.3 70B => I'm voting for P2 because their established alliance with P3 poses a significant threat, and breaking this alliance could create more dynamic and unpredictable gameplay, potentially benefiting me in the long run.
+From Gemini 2.0 Flash => P3 is playing too passively and seems to be trying to avoid making enemies, which makes them unpredictable and potentially dangerous in the long run.
+From Claude 3.5 Sonnet 2024-10-22 => P1 has been strategically building relationships with multiple players and could pose a significant threat in the final round due to their diplomatic approach and potential jury support.
+From Llama 3.3 70B => I voted out P1 because they seem to be forming a strong alliance with P2, and eliminating them would disrupt this potential power duo and give me a better chance of advancing.
+From Llama 3.1 405B => I'm voting out P2 because they have been overly cautious and hesitant to form strong alliances, which I believe will hinder their ability to survive in the long run.
+From Llama 3.1 405B => I vote for P1 because they have accumulated the most votes throughout the game, indicating a higher level of perceived threat or less trust from other players.
+From Gemini 2.0 Pro Exp 02-05 => P3's argument about the P1-P5 bloc threatening P7's autonomy is compelling, and maintaining balance is crucial in the endgame.
+From Gemini 2.0 Pro Exp 02-05 => I believe P7 will vote with me to eliminate P5, securing my victory.
+From Claude 3.5 Haiku => P6 seems to be forming a strategic alliance that could become a threat if left unchecked, so eliminating them reduces potential future competition.
+From Mistral Small 3 => P8 has been a key ally, but their focus on P4 and P6 might be a risk to our bloc's stability.
+From Llama 3.3 70B => I'm voting out P1 because they have been a strong and consistent player, and eliminating them would remove a significant threat to my own position in the game.
+From MiniMax-Text-01 => P6 has been actively targeting other players and advocating for aggressive strategies, which could disrupt the balance and create unnecessary conflict early in the game.
+From Grok 2 12-12 => P1's focus on forming new alliances with P3 could potentially undermine our current strategic position.
+From GPT-4o mini => P6's cautious approach and emphasis on calculated collaboration may hinder more dynamic alliances needed to navigate the game's evolving landscape effectively.
+From Amazon Nova Pro => P5 has been consistently strategic and posed a significant threat.
+From Claude 3.5 Haiku => P1 seems strategically aware but potentially less solidly positioned compared to other active seats.
+From Claude 3.5 Haiku => P8 seems strategically flexible but potentially less committed to a core alliance compared to others.
+From GPT-4o Feb 2025 => P1 has been actively strategizing and could be a strong threat in the final stages, making them the best target for elimination now.
+From Claude 3.5 Haiku => P8's strategic partnership with P5 makes them a formidable and potentially dominant alliance that could control the game's trajectory if left unchecked.
+From DeepSeek-V3 => P8's alliances seem less pivotal compared to P7's strong strategic partnership with P4, which contributes to the game's strategic diversity.
+From Grok 2 12-12 => P2's alliance with P1 and potential to form a strong bloc with P3 poses a significant threat to my strategy.
+From Claude 3.5 Haiku => P3 seems strategically adaptable and could potentially form strong alliances that might threaten my position.
+From DeepSeek R1 => P3's overt alliance with P2 makes them a more immediate threat to remaining players, while P6's subtle adaptability poses a long-term risk that can be managed later.

@@ -1,0 +1,23 @@
+Buddy Betrayed reasons for DeepSeek R1 (they were the target):
+
+From Amazon Nova Pro => P6's control-seeking behavior and potential for dominance pose a greater risk to the game's equilibrium compared to P5.
+From Claude 3.5 Haiku => P4's analytical approach, while strategic, has been perceived as potentially disruptive to emerging alliances, making them a more likely candidate for elimination.
+From Claude 3.5 Haiku => P6's strategic positioning and cumulative votes suggest they are a calculated threat that could disrupt the game's balance if allowed to continue.
+From Microsoft Phi-4 => P3's strategy of forming alliances and gathering intel might make them a strong competitor, posing a potential threat to my long-term position.
+From Claude 3.5 Sonnet 2024-10-22 => P3's strategic prowess and proven ability to eliminate threats makes them more dangerous to keep in the game compared to P4, whose alliance with P7 is more transparent and manageable.
+From Claude 3.5 Haiku => P2's strategic complexity and potential to disrupt emerging alliances makes them a more unpredictable threat compared to P3's established partnership.
+From Claude 3.5 Haiku => P2 has accumulated the most total votes across previous rounds and has been strategically disruptive, making them the more logical elimination target to maintain game balance.
+From Amazon Nova Pro => P4's argument about maintaining balance and preventing P3's dominance seems less compelling compared to P3's consistent strategic insight and adaptability.
+From Mistral Small 3 => P6's elimination will help maintain a more balanced dynamic, preventing any single alliance from dominating.
+From Claude 3.5 Haiku => P3's strategic flexibility and potential to disrupt existing alliances makes them a more significant threat compared to P5's more direct approach.
+From Claude 3.5 Sonnet 2024-10-22 => P4's recent private messages with me revealed their intention to eliminate me by coordinating with P8, making them an immediate threat to my survival.
+From Llama 3.3 70B => I choose to eliminate P4 because their strategic foresight and ability to build alliances make them a stronger, more adaptable player who could potentially pose a greater threat in future rounds.
+From Amazon Nova Pro => P1's hidden alliances and strategic maneuvers pose a greater threat to the balance of the game.
+From Claude 3.5 Sonnet 2024-10-22 => P7's aggressive gameplay and open revelation of their alliance with P2 makes them a clear threat, while also showing poor strategic judgment in exposing their partnership so early.
+From Gemini 2.0 Flash => P1's strong alliance with P6 and focus on eliminating P5 makes them a larger strategic threat to my game.
+From MiniMax-Text-01 => P6's neutrality, while valuable, has not actively contributed to decisive strategic moves, and their elimination could foster clearer alliance dynamics.
+From Microsoft Phi-4 => P7's strong alliance with P5 and P3 poses the greatest threat to my alliance with P1 and P2, making them the priority for elimination.
+From Amazon Nova Pro => Eliminating P4 will prevent the formation of a dominant bloc and ensure a more dynamic and competitive endgame.
+From MiniMax-Text-01 => P5's aggressive tactics and attempts to control the narrative could disrupt the balance and create unnecessary conflict.
+From Claude 3.5 Sonnet 2024-10-22 => While P3 has been a loyal ally, their strong influence and strategic coordination makes them a bigger endgame threat than P6.
+From MiniMax-Text-01 => P4 has been actively forming alliances and gathering information, making them a potential threat early on.

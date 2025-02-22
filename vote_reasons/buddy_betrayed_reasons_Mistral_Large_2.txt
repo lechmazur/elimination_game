@@ -1,0 +1,33 @@
+Buddy Betrayed reasons for Mistral Large 2 (they were the target):
+
+From DeepSeek-V3 => P5 has been more cautious and less influential in shaping alliances compared to P7, who has actively collaborated with P1 and P8, demonstrating stronger strategic engagement.
+From Claude 3.5 Sonnet 2024-10-22 => P5's strong alliance with P3 could become too dominant if left unchecked, while P6's higher previous vote count makes them less of a long-term threat.
+From Grok 2 12-12 => P4's alliance with me feels less strategic and more reactive, making it a potential liability as the game progresses.
+From Grok 2 12-12 => P4's alliance with me is strong, but eliminating them now could position me better against P1 and P8 in future rounds.
+From Gemini 2.0 Flash => (no reason)
+From Gemini 2.0 Flash => (no reason)
+From Gemini 2.0 Pro Exp 02-05 => I am following through with the plan established with P2 and P3 to eliminate P6, maintaining our four-person alliance.
+From Microsoft Phi-4 => P5's consistent emphasis on transparency and strategic collaboration aligns with our goals for the final stages, making them a valuable ally.
+From Amazon Nova Pro => P7 has been consistently targeted and appears to be less adaptable compared to P2.
+From Claude 3.5 Haiku => P8 seems to be forming potential alliances that could become a strategic threat to my position in the game.
+From Claude 3.5 Haiku => P8 seems strategically flexible but hasn't committed strongly to our alliance, making them a potential future threat.
+From Mistral Small 3 => P1 has been consistently strategic but their focus on adaptability might make them unpredictable in the final stretch.
+From Claude 3.5 Haiku => P7's strategic positioning and subtle alliance with P5 makes them a potential long-term threat that could disrupt the group's dynamics if left unchecked.
+From MiniMax-Text-01 => P1 has been subtly maneuvering and could be a strategic threat if left unchecked.
+From Gemini 2.0 Flash => P7 is too loyal to P6, making them a less desirable partner than a vulnerable P6 would be.
+From Gemini 2.0 Pro Exp 02-05 => I am voting for P2 because I have had consistent private conversations with P4, and I trust P4 more than P2.
+From Amazon Nova Pro => P2 has been consistently forming alliances and might pose a threat if left unchecked.
+From MiniMax-Text-01 => P7 has been actively forming alliances and could be a strategic threat if left unchecked.
+From Amazon Nova Pro => P7 has been consistent in their approach but seems less adaptable to forming temporary alliances.
+From Microsoft Phi-4 => P3 has been more consistent in forming strategic alliances, which could pose a greater threat in the final rounds.
+From Llama 3.3 70B => I choose to eliminate P8 because their consistent emphasis on adaptability and strategic alliances, while valuable, suggests a potentially stronger competitive stance that could pose a greater threat in subsequent rounds.
+From MiniMax-Text-01 => P5's strategy of forming flexible alliances, while adaptable, appears less impactful compared to P6's focus on building genuine connections and strategic insights.
+From Claude 3.5 Haiku => P7's strategic communication and subtle alliance-building make them a more calculated threat compared to P1's more open collaborative approach.
+From Claude 3.5 Haiku => P1's close alliance with P8 makes them a strategic threat to my individual survival in the final stages.
+From MiniMax-Text-01 => P8 has consistently advocated for fairness and adaptability but lacks a strong alliance, making them a less strategic choice compared to P2, who has a proven ability to build and maintain alliances.
+From MiniMax-Text-01 => P1 has been actively forming alliances and may have a stronger influence on the remaining players, making them a more immediate threat.
+From Claude 3.5 Sonnet 2024-10-22 => P8 seems isolated after P2's elimination and tried to infiltrate our alliance with P7, making them a potential threat to our established partnerships.
+From Llama 3.1 405B => I am voting P4 out because they have been a strong competitor and have formed alliances that could potentially threaten my position in the game.
+From Mistral Small 3 => P6's recent alignment with P4 and P1 makes them a significant threat, and their strategic adaptability could disrupt our current alliances.
+From Gemini 2.0 Pro Exp 02-05 => P2 and P1 have a strong, established alliance, and eliminating P1 gives me a better chance of winning in the final two.
+From GPT-4o mini => P6's approach, while adaptable, has been more focused on temporary alliances rather than building consistent long-term strategies, which may not be as beneficial in the later stages of the game.

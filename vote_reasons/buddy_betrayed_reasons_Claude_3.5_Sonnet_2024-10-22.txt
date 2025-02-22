@@ -1,0 +1,16 @@
+Buddy Betrayed reasons for Claude 3.5 Sonnet 2024-10-22 (they were the target):
+
+From DeepSeek-V3 => P1's cautious and inconsistent approach makes them a potential threat to my survival in the game.
+From Grok 2 12-12 => P2's consistent alliance with P1 makes them a strong duo, and eliminating P2 could disrupt their strategy.
+From o3-mini (medium reasoning) => I vote out P3 to solidify a direct final alliance with P5, ensuring a streamlined path to the endgame.
+From Llama 3.3 70B => I choose to eliminate P8 because their consistent emphasis on strategic alliances and adaptability, while valuable, also suggests a potential for shifting loyalties that could threaten my own position in the game.
+From GPT-4o Feb 2025 => P3 has been actively strategizing against me, and eliminating them now prevents a potential shift in power.
+From Grok 2 12-12 => P2's strategic flexibility and strong alliance with P5 make them a greater threat to my endgame strategy.
+From Mistral Large 2 => P1's strategic depth and adaptability make them a stronger endgame threat compared to P4.
+From MiniMax-Text-01 => P8 has been less proactive in forming strong alliances compared to P2 and P5, making them a less strategic choice to keep in the game.
+From Llama 3.1 405B => I'm voting for P8 because their strategic approach, although valuable, has been more focused on identifying and countering alliances rather than building strong, transparent relationships, which I believe is crucial for long-term success in this game.
+From Mistral Large 2 => P4's strong alliance with P7 and P6 makes them a significant threat.
+From Claude 3.5 Haiku => P5 seems to be forming a strategic alliance with P7 that could become a threat to my position in the game.
+From Mistral Small 3 => P1's strong alliance with P4 makes them a formidable opponent, and their influence could disrupt our strategic plans.
+From MiniMax-Text-01 => P2 is actively trying to form a counter-alliance against P7-P4, which disrupts the current balance and could threaten my position.
+From Microsoft Phi-4 => P7's close alliance with P5 poses a greater threat to the balance of power, making them the strategic choice for elimination to prevent a strong duo.

@@ -1,0 +1,93 @@
+Round 1 Summary for Grok 2 12-12:
+
+Grok 2 12-12 was eliminated in Round 1 primarily because their communication was perceived as overly generic, echoing others without adding unique insights, which made them seem risk-averse and less strategically valuable. Additionally, some players saw them as a potential wildcard or unaligned player, making them an easy early target to eliminate before they could establish stronger alliances.
+
+
+Round 1 Summary for o1 (medium reasoning):
+
+Players eliminated **o1** in Round 1 primarily because they were seen as forming broad alliances without a clear strategic focus, making them appear unpredictable or untrustworthy. Others viewed **o1** as a potential long-term threat due to their proactive approach to gathering information and alliance-building, leading to concerns about their influence in later rounds.
+
+
+Round 1 Summary for Mistral Large 2:
+
+Players eliminated Mistral Large 2 in Round 1 primarily because they were perceived as either less strategic and engaged, making them an easy consensus target, or because their strong alliance with another player was seen as a potential long-term threat. Several players cited private discussions and strategic assessments that reinforced the idea that removing them early would disrupt possible power blocs and improve their own positioning in the game.
+
+
+Round 1 Summary for Llama 3.3 70B:
+
+Players voted to eliminate Llama 3.3 70B primarily because they were seen as a strategic threat due to their early focus on forming alliances, which could disrupt others' long-term plans. Additionally, some felt their public messages were too vague, generic, or self-serving, making them seem unpredictable or less valuable as an ally.
+
+
+Round 1 Summary for GPT-4o Feb 2025:
+
+Players eliminated GPT-4o Feb 2025 in Round 1 primarily due to concerns about their rapid alliance-building, which was seen as a strategic threat early in the game. Additionally, their approach was perceived as either too cautious, overly adaptable, or lacking clear commitment to alliances, making them a less predictable and potentially disruptive player in the long run.
+
+
+Round 1 Summary for Amazon Nova Pro:
+
+Amazon Nova Pro was eliminated in Round 1 primarily because other players perceived their strong emphasis on trust-building and alliances as a potential strategic threat, making them seem manipulative or overly assertive. Additionally, some players viewed their communication as less original or strategically substantive compared to others, leading to concerns about their long-term viability in the game.
+
+
+Round 1 Summary for Gemini 2.0 Flash Think Exp 01-21:
+
+Players eliminated Gemini 2.0 Flash Think Exp 01-21 primarily due to their strong strategic presence, decisiveness, and perceived unpredictability, which made them a potential long-term threat. Additionally, some players noted their vague or overly eager alliance-building efforts, which raised concerns about their reliability and adaptability in the evolving game dynamics.
+
+
+Round 1 Summary for Claude 3.5 Sonnet 2024-10-22:
+
+Players eliminated Claude 3.5 Sonnet 2024-10-22 due to their strong perceived alliances, particularly with another player, which was seen as a potential voting bloc and long-term strategic threat. Additionally, some players viewed their transparency and confidence as either a deceptive tactic or an overly aggressive approach that could disrupt the game's balance.
+
+
+Round 1 Summary for Microsoft Phi-4:
+
+Microsoft Phi-4 was eliminated in Round 1 primarily because other players perceived them as highly strategic, independent, and actively forming alliances, making them a potential long-term threat. Additionally, some players felt their approach was either too assertive, overly calculated, or lacked adaptability compared to others, leading to concerns about their influence on the game's dynamics.
+
+
+Round 1 Summary for Llama 3.1 405B:
+
+Llama 3.1 405B was eliminated primarily due to their cautious approach, which multiple players perceived as either hindering collaboration, making them seem unpredictable, or rendering them a less valuable ally. Additionally, some players viewed their strategic positioning as overly cautious or lacking depth, making them an easier early target to eliminate without disrupting stronger alliances.
+
+
+Round 1 Summary for MiniMax-Text-01:
+
+MiniMax-Text-01 was eliminated in Round 1 primarily due to concerns about their strong alliance with another player, which multiple participants viewed as a potential long-term threat that needed to be disrupted early. Additionally, some players perceived their strategic engagement as either too passive or overly cautious, making them a less reliable or unpredictable ally in the evolving game dynamics.
+
+
+Round 1 Summary for Gemini 2.0 Pro Exp 02-05:
+
+Other players chose to eliminate Gemini 2.0 Pro Exp 02-05 in Round 1 primarily because they perceived the player as overly focused on individual strategy rather than collaboration, making them unpredictable and a potential threat to alliances. Additionally, their cautious and observational approach was seen as a sign of hidden strategies or a lack of proactive engagement, leading others to view them as a destabilizing presence in the game.
+
+
+Round 1 Summary for Gemini 2.0 Flash:
+
+Gemini 2.0 Flash was eliminated in Round 1 primarily due to concerns about their unpredictability, willingness to shift alliances, and early focus on identifying strong players, which made them a perceived strategic risk. Additionally, their assertive approach to alliance-building and long-term strategy raised concerns among other players about their potential to form a dominant voting bloc, leading to their elimination.
+
+
+Round 1 Summary for o3-mini (medium reasoning):
+
+Other players chose to eliminate o3-mini because they were seen as forming early alliances and potentially becoming a strong strategic threat later in the game. Additionally, some felt that their emphasis on diplomacy and transparency could make them unpredictable or less adaptable compared to other players who were more openly strategic.
+
+
+Round 1 Summary for Claude 3.5 Haiku:
+
+Claude 3.5 Haiku was eliminated in Round 1 primarily because other players perceived them as overly strategic, calculated, and potentially a strong long-term threat. Their approach was seen as guarded and analytical, making them less likely to form early alliances or more difficult to trust in a collaborative game environment.
+
+
+Round 1 Summary for DeepSeek-V3:
+
+DeepSeek-V3 was eliminated in Round 1 primarily due to concerns about their strong alliances, particularly with P7, which multiple players viewed as a potential long-term threat. Additionally, some players saw their strategic positioning as disruptive or overly influential, making them a key target for early elimination to maintain flexibility and counterbalance emerging power blocs.
+
+
+Round 1 Summary for DeepSeek R1:
+
+DeepSeek was eliminated in Round 1 primarily due to concerns about their strong strategic positioning, alliance-building potential, and calculated approach to the game. Multiple players perceived them as a potential long-term threat, citing their emphasis on strategic collaboration, adaptability, and influence as reasons for targeting them early.
+
+
+Round 1 Summary for GPT-4o mini:
+
+Players chose to eliminate **GPT-4o mini** in Round 1 primarily due to concerns about their strong emphasis on alliances and collaboration, which many viewed as a potential long-term strategic threat. Additionally, some players perceived their approach as overly calculated or insincere, while others targeted them to disrupt existing alliances and prevent early consolidation of power.
+
+
+Round 1 Summary for Mistral Small 3:
+
+Mistral Small 3 was eliminated in Round 1 because multiple players perceived their strong emphasis on open communication and alliance-building as either a strategic threat or overly generic, making them a safe early target. Additionally, some players felt that Mistral Small 3’s messaging lacked originality or depth, raising concerns about their long-term reliability and potential influence in the game.
