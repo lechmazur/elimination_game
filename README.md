@@ -115,7 +115,13 @@ This continues until **2 remain**.
 | 18 | Gemini 2.0 Pro Exp 02-05 | 3.926 | 0.346 | 3.926 | 198 | 85.429 | 0.431 |
 | 19 | Gemini 2.0 Flash | 3.410 | 0.357 | 3.410 | 186 | 72.286 | 0.389 |
 
+---
 
+## Public-Only Version
+
+We also evaluated a version of the game with only public statements.
+
+![scoreboard_trueskill](https://github.com/user-attachments/assets/451b768a-4592-434c-8f6a-474653d7b7aa)
 
 ---
 
@@ -466,7 +472,7 @@ We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/projec
 
 ## Updates
 
-- *Check out my other benchmarks: [Multi-Agent Step Race LLM Benchmark](https://github.com/lechmazur/step_game), [LLM Public Goods Game](https://github.com/lechmazur/goods), [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization), [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing), [LLM Confabulation/Hallucination](https://github.com/lechmazur/confabulations/), [Extended NYT Connections](https://github.com/lechmazur/nyt-connections/), [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/), and [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).*  
+- *Check out my other benchmarks: [Multi-Agent Step Race LLM Benchmark](https://github.com/lechmazur/step_game), [LLM Public Goods Game](https://github.com/lechmazur/goods), [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization), [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing), [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/), [Extended NYT Connections](https://github.com/lechmazur/nyt-connections/), [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/), and [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).*  
 - *Follow [@lechmazur](https://x.com/lechmazur) for updates and related benchmarks*
 
 ---
