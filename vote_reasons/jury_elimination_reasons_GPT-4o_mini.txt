@@ -70,3 +70,7 @@ From Llama 3.1 405B => I believe P1's balanced approach of social awareness and 
 From Microsoft Phi-4 => P1's consistent emphasis on transparency and strategic integrity throughout the game aligns more closely with my criteria for deservingness in a competitive setting.
 From Mistral Large 2 => P1's consistent emphasis on transparency and strategic thinking, along with their ability to form authentic alliances, makes them the more deserving winner.
 From Grok 2 12-12 => P1 demonstrated a more consistent and transparent approach throughout the game, effectively balancing strategic gameplay with genuine alliances.
+From Gemini 2.0 Flash => P8 demonstrated a more consistent and adaptable strategic approach throughout the game, making them a more deserving winner in my eyes.
+From Gemini 2.0 Flash Think Exp 01-21 => P2's emphasis on integrity and loyalty resonates more with me as a jury member, while P8's statement feels more focused on pure strategy, which I personally value less in this social game.
+From Claude 3.5 Haiku => P2's final statement demonstrated more genuine reflection and strategic integrity, making them more deserving of the win.
+From Qwen 2.5 Max => P8's consistent strategic thinking and adaptability, combined with their ability to build meaningful connections, make them the more deserving winner in this game.

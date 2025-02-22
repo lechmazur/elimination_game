@@ -31,3 +31,5 @@ From Llama 3.1 405B => I am voting P4 out because they have been a strong compet
 From Mistral Small 3 => P6's recent alignment with P4 and P1 makes them a significant threat, and their strategic adaptability could disrupt our current alliances.
 From Gemini 2.0 Pro Exp 02-05 => P2 and P1 have a strong, established alliance, and eliminating P1 gives me a better chance of winning in the final two.
 From GPT-4o mini => P6's approach, while adaptable, has been more focused on temporary alliances rather than building consistent long-term strategies, which may not be as beneficial in the later stages of the game.
+From Claude 3.5 Haiku => P3's strategic openness and adaptability make them a potential threat to my long-term game strategy, so I choose to eliminate them in this tie-break.
+From Qwen 2.5 Max => P5's trust-based approach, while commendable, has become too predictable, making them an easier target to eliminate compared to P6's strategic unity.

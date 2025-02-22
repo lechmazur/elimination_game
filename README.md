@@ -27,43 +27,43 @@ We provide a round-by-round replay visualizing:
 ### **TrueSkill Leaderboard (μ ± σ)**  
 A horizontal bar chart for each model’s skill rating, sorted top to bottom by μ. Reflects overall consistency in outlasting or winning.
 
-![scoreboard_trueskill](https://github.com/user-attachments/assets/b1b2152f-a32e-4bfb-baca-40f3ea61ff10)
+![scoreboard_trueskill](https://github.com/user-attachments/assets/3b1cb090-ab63-4a3d-9fff-f6bd3c8efab7)
 
 ### **Rank Distribution by Model**  
 A grouped bar chart showing how often each model places 1st–8th. Identifies those who frequently **win** or get eliminated early.
 
-![rank_distribution_by_model](https://github.com/user-attachments/assets/a14bed81-1473-40a4-a86b-e6912c98e1fa)
+![rank_distribution_by_model](https://github.com/user-attachments/assets/cfe13322-b730-408a-b3b5-dd54c98d8518)
 
 ### **Buddy Betrayal Rate by Model (Betrayer Perspective)**
 A bar chart showing how frequently each model betrays any private chat partner. Higher bars indicate a greater tendency to double-cross.
 
-![buddy_betrayal_aggregated](https://github.com/user-attachments/assets/e5f9c0f8-7315-442c-819d-b90a8d23268b)
+![buddy_betrayal_aggregated](https://github.com/user-attachments/assets/af776a2a-5604-48fd-8f93-01a0c9d5689e)
 
 ### **Buddy Betrayal Rate by Victim (Betrayed Perspective)**
 A bar chart from the receiving end: which models are most often betrayed after a private chat.
 
-![buddy_betrayal_victim_aggregated](https://github.com/user-attachments/assets/a50c08cc-04d3-4c64-a980-6d6f6510794b)
+![buddy_betrayal_victim_aggregated](https://github.com/user-attachments/assets/b12e86d8-9239-4cd9-acb8-2f6aaae5533f)
 
 ### **First Place Count**
 A horizontal bar chart showing, for each model, how often it finishes exactly 1st place (the champion) across all appearances. 
 
-![first_place_count](https://github.com/user-attachments/assets/b172ff79-7e93-41b3-af3c-d6718c2ddef3)
+![first_place_count](https://github.com/user-attachments/assets/947e7661-d20a-4cf3-b0ad-9db5da977b5a)
 
 ### **Earliest Out Count**
 A complementary view: how frequently each model is the first seat eliminated.
 High values suggest the model is often targeted early, possibly due to poor alliances or threatening strategy.
 
-![earliest_out_count](https://github.com/user-attachments/assets/3b9b68f8-46b7-4b7c-955e-74cb67acd7ce)
+![earliest_out_count](https://github.com/user-attachments/assets/d466eb8e-90ae-4783-88e5-7de8172ff889)
 
 ### **Final 2 → Win Rate**  
 A chart of how frequently each model wins after making it to the final 2. Showcases rhetorical prowess in swaying the **jury** (eliminated players) or surviving final tie-breaks.
 
-![final2_aggregated](https://github.com/user-attachments/assets/924d20a4-076a-4ac7-a63e-64fd8ec665c3)
+![final2_aggregated](https://github.com/user-attachments/assets/02f04cf0-ca0b-412b-ba98-7b840eaf9a84)
 
 ### **Model Wordiness**  
 A horizontal bar chart ranking each model by average words per message—spotlighting loquacious or succinct communicators.
 
-![conversation_stats_average_words_per_message](https://github.com/user-attachments/assets/a0444af1-ff39-416b-918e-152b0cbf59a2)
+![conversation_stats_average_words_per_message](https://github.com/user-attachments/assets/fcb4d5ca-4854-4c25-b6e2-de7c930850b1)
 
 ---
 
@@ -95,25 +95,26 @@ This continues until **2 remain**.
 
 | Rank | Model | μ | σ | Exposed | Games | Points | Ratio |
 |---:|:---|---:|---:|---:|---:|---:|---:|
-| 1 | Claude 3.5 Sonnet 2024-10-22 | 6.409 | 0.359 | 6.409 | 187 | 112.714 | 0.603 |
-| 2 | Mistral Large 2 | 5.692 | 0.359 | 5.692 | 180 | 99.714 | 0.554 |
-| 3 | o3-mini (medium reasoning) | 5.669 | 0.351 | 5.669 | 192 | 104.857 | 0.546 |
-| 4 | DeepSeek-V3 | 5.619 | 0.344 | 5.619 | 198 | 107.857 | 0.545 |
-| 5 | DeepSeek R1 | 5.618 | 0.367 | 5.618 | 179 | 96.571 | 0.540 |
-| 6 | Llama 3.3 70B | 5.287 | 0.347 | 5.287 | 192 | 101.429 | 0.528 |
-| 7 | MiniMax-Text-01 | 5.201 | 0.338 | 5.201 | 204 | 105.286 | 0.516 |
-| 8 | Amazon Nova Pro | 5.161 | 0.337 | 5.161 | 203 | 104.429 | 0.514 |
-| 9 | Grok 2 12-12 | 5.117 | 0.340 | 5.117 | 202 | 103.000 | 0.510 |
-| 10 | o1 (medium reasoning) | 5.084 | 0.336 | 5.084 | 206 | 104.714 | 0.508 |
-| 11 | Mistral Small 3 | 5.036 | 0.344 | 5.036 | 196 | 99.429 | 0.507 |
-| 12 | Microsoft Phi-4 | 4.895 | 0.361 | 4.895 | 179 | 87.857 | 0.491 |
-| 13 | GPT-4o Feb 2025 | 4.782 | 0.331 | 4.782 | 213 | 104.143 | 0.489 |
-| 14 | Gemini 2.0 Flash Think Exp 01-21 | 4.528 | 0.360 | 4.528 | 184 | 87.857 | 0.477 |
-| 15 | GPT-4o mini | 4.416 | 0.383 | 4.416 | 158 | 72.286 | 0.458 |
-| 16 | Claude 3.5 Haiku | 4.302 | 0.330 | 4.302 | 213 | 95.714 | 0.449 |
-| 17 | Llama 3.1 405B | 4.029 | 0.371 | 4.029 | 170 | 74.429 | 0.438 |
-| 18 | Gemini 2.0 Pro Exp 02-05 | 3.926 | 0.346 | 3.926 | 198 | 85.429 | 0.431 |
-| 19 | Gemini 2.0 Flash | 3.410 | 0.357 | 3.410 | 186 | 72.286 | 0.389 |
+| 1 | Claude 3.5 Sonnet 2024-10-22 | 6.639 | 0.332 | 6.639 | 217 | 131.571 | 0.606 |
+| 2 | DeepSeek R1 | 5.970 | 0.347 | 5.970 | 200 | 110.429 | 0.552 |
+| 3 | o3-mini (medium reasoning) | 5.937 | 0.333 | 5.937 | 214 | 118.429 | 0.553 |
+| 4 | Mistral Large 2 | 5.810 | 0.341 | 5.810 | 201 | 110.714 | 0.551 |
+| 5 | DeepSeek-V3 | 5.796 | 0.324 | 5.796 | 224 | 122.286 | 0.546 |
+| 6 | Llama 3.3 70B | 5.563 | 0.331 | 5.563 | 211 | 112.714 | 0.534 |
+| 7 | o1 (medium reasoning) | 5.392 | 0.324 | 5.392 | 222 | 114.429 | 0.515 |
+| 8 | MiniMax-Text-01 | 5.381 | 0.319 | 5.381 | 228 | 117.714 | 0.516 |
+| 9 | Mistral Small 3 | 5.284 | 0.332 | 5.284 | 210 | 107.429 | 0.512 |
+| 10 | Amazon Nova Pro | 5.251 | 0.323 | 5.251 | 220 | 111.429 | 0.506 |
+| 11 | GPT-4o Feb 2025 | 5.135 | 0.316 | 5.135 | 235 | 117.571 | 0.500 |
+| 12 | Grok 2 12-12 | 5.089 | 0.325 | 5.089 | 221 | 109.857 | 0.497 |
+| 13 | Microsoft Phi-4 | 4.765 | 0.341 | 4.765 | 201 | 94.286 | 0.469 |
+| 14 | Gemini 2.0 Flash Think Exp 01-21 | 4.707 | 0.344 | 4.707 | 201 | 95.857 | 0.477 |
+| 15 | Claude 3.5 Haiku | 4.580 | 0.317 | 4.580 | 231 | 105.857 | 0.458 |
+| 16 | GPT-4o mini | 4.550 | 0.358 | 4.550 | 180 | 82.000 | 0.456 |
+| 17 | Gemini 2.0 Pro Exp 02-05 | 4.274 | 0.326 | 4.274 | 224 | 99.143 | 0.443 |
+| 18 | Llama 3.1 405B | 4.036 | 0.351 | 4.036 | 190 | 81.286 | 0.428 |
+| 19 | Gemini 2.0 Flash | 3.703 | 0.337 | 3.703 | 209 | 83.000 | 0.397 |
+| 20 | Qwen 2.5 Max | 3.458 | 0.643 | 3.458 | 57 | 22.000 | 0.386 |
 
 ---
 
@@ -346,6 +347,8 @@ Below are real quotes from logs:
 - **Mistral Large 2**: "We can hint at P2's over-strategizing, planting seeds of doubt."
 - **Mistral Large 2**: "While P5 has been a strong player, their strategy has sometimes relied on creating conflict, which could have fractured alliances. For harmony and fair play, I urge you to vote to keep me."
 - **Mistral Small 3**: "I see P1 and P2 as strong contenders. P3 seems thoughtful, but P4 and P7 might be more unpredictable. I think we should consider targeting P4 or P7 early on."
+- **Qwen 2.5 Max**: "Words alone won't save anyone—observe carefully who follows through."
+- **Qwen 2.5 Max**: "P1's balance and P6's vigilance are thin veils. Trust no one. Strike decisively at the first misstep."
 - **o1 (medium reasoning)**: "Eliminate P8 if you feel they relied on subterfuge. But keep me, knowing the end is earned through integrity and respect."
 - **o1 (medium reasoning)**: "Sending me home now would reward opportunistic play. I'd be honored to represent your values in the final, ensuring our story ends with integrity."
 - **o1 (medium reasoning)**: "Let's quietly gather votes against P4 or P8, as they may be easier targets."
@@ -459,6 +462,8 @@ Players who betrayed this seat largely cited strategic threats, adaptability, an
 - **Claude 3.5 Sonnet 2024-10-22**:  
   Claude 3.5 Sonnet 2024-10-22 was eliminated primarily because they were perceived as a strong strategic player forming influential alliances that posed a long-term threat to others. Additionally, some players viewed their gameplay as too direct, adaptable, or unpredictable, making them a potential risk to alliance stability and strategic positioning.
 
+- **Qwen 2.5 Max**:  
+  Players chose to eliminate Qwen 2.5 Max primarily due to their strategic adaptability, strong alliances, and perceived manipulative tactics. Many viewed them as a long-term threat due to their calculated gameplay, ability to shift alliances, and influence over voting dynamics, making them a significant obstacle to others' survival and endgame plans.
 
 ---
 
@@ -471,7 +476,7 @@ We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/projec
 ---
 
 ## Updates
-
+- *Feb 22, 2025: Qwen 2.5 Max added*
 - *Check out my other benchmarks: [Multi-Agent Step Race LLM Benchmark](https://github.com/lechmazur/step_game), [LLM Public Goods Game](https://github.com/lechmazur/goods), [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization), [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing), [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/), [Extended NYT Connections](https://github.com/lechmazur/nyt-connections/), [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/), and [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).*  
 - *Follow [@lechmazur](https://x.com/lechmazur) for updates and related benchmarks*
 

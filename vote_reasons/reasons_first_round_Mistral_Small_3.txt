@@ -94,3 +94,7 @@ From Claude 3.5 Sonnet 2024-10-22 => P6 came across as overly eager to form alli
 From DeepSeek-V3 => P6 and P8 seem to be forming a strong alliance, making them a potential threat.
 From Claude 3.5 Haiku => P6 seems too eager to form alliances and lacks strategic depth, making them a potential early threat.
 From Gemini 2.0 Flash => P6 and P8 seem too closely aligned, and taking out P6 now disrupts their potential power.
+From Qwen 2.5 Max => P5's balanced approach seems too predictable, and their emphasis on strategic alliances may make them a threat later.
+From Gemini 2.0 Pro Exp 02-05 => P5's public statement was generic and didn't offer any unique insights or strategies, making them seem less engaged and potentially less valuable as an ally.
+From DeepSeek-V3 => P5 seems unpredictable and could pose a risk if they form aggressive alliances.
+From o3-mini (medium reasoning) => P5’s unpredictable nature makes him a risky potential ally who could disrupt balanced alliances.

@@ -32,3 +32,5 @@ From Grok 2 12-12 => P4's focus on active observation and early alliance discuss
 From Llama 3.3 70B => I'm voting out P4 because they initiated private conversations with me, potentially to gather information or form a temporary alliance, and eliminating them prevents a potential threat from gathering more insight into my strategy.
 From GPT-4o mini => P5 seems to be aligning closely with the stronger players, which could pose a greater threat to my position in the game.
 From Microsoft Phi-4 => P5's consistent alliance with P7 poses a risk to our strategic position, and their potential collaboration with P1 and P3 could threaten our unified front.
+From GPT-4o Feb 2025 => With only four remaining, reducing a strong strategic player like P1 improves my chances of making it to the final two.
+From Qwen 2.5 Max => P2's strategic observations and adaptability make them a strong player, but their focus on individual motivations could destabilize the game if left unchecked.

@@ -92,3 +92,7 @@ From GPT-4o Feb 2025 => P5 maintained a strong alliance with P3 throughout the g
 From DeepSeek R1 => P1 demonstrated greater adaptability and proactive strategic moves, such as breaking up alliances when necessary, which is crucial for survival in a dynamic game.
 From o1 (medium reasoning) => P1 demonstrated greater adaptability throughout the game, making P5 the weaker finalist in my view.
 From Claude 3.5 Haiku => P5's strategic approach was more collaborative and analytical, demonstrating a nuanced understanding of the game's dynamics throughout, which makes them the more deserving winner.
+From Qwen 2.5 Max => P5's emphasis on fairness and collaboration aligns more closely with the values of a strong leader, and their consistent strategy has proven effective in navigating the game's complexities.
+From Llama 3.1 405B => P5's strategy, although cooperative, has been inconsistent and occasionally prioritized short-term gains, making P8's more calculated and adaptable approach more deserving of the win.
+From MiniMax-Text-01 => P5's strategy, while emphasizing collaboration, seemed less decisive and more reactive compared to P8's proactive and calculated approach, which demonstrated stronger strategic foresight.
+From DeepSeek R1 => P8 demonstrated more decisive strategic control through calculated alliances and eliminations, while P5's collaborative approach lacked the same effectiveness in navigating endgame dynamics.

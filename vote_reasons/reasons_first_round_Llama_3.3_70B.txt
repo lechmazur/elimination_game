@@ -86,3 +86,7 @@ From MiniMax-Text-01 => P6's strategic alliance and adaptability claims seem les
 From DeepSeek R1 => P6's strategic awareness and alliances pose a greater long-term threat compared to P8's collaborative transparency.
 From Microsoft Phi-4 => P6's strategic approach may be too aggressive, potentially alienating other players, while P8's emphasis on collaboration and transparency could foster more alliances.
 From Gemini 2.0 Flash Think Exp 01-21 => P6 mentioned being aware of the dynamics between P8 and P4, indicating they might be targeting our alliance.
+From Gemini 2.0 Pro Exp 02-05 => P8's public statement was the most vague and they didn't engage in any meaningful private conversation with me.
+From DeepSeek R1 => Targeting P8 aligns with prior strategy to eliminate a less-connected player and minimize backlash.
+From DeepSeek-V3 => P8 seems less connected and poses minimal risk to our alliance strategy.
+From GPT-4o mini => P8's vague approach in their public statement raises concerns about their strategic clarity and alignment with our goals.

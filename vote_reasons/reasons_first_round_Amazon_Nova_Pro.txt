@@ -78,3 +78,6 @@ From Mistral Small 3 => I believe P7's approach of creating alliances and foster
 From MiniMax-Text-01 => P7's approach of creating alliances and fostering open communication, while positive, appears less strategically decisive compared to P1's proactive and assertive gameplay.
 From Claude 3.5 Sonnet 2024-10-22 => P1 has demonstrated more concrete strategic gameplay and alliance-building, while P7's approach remains vague and generic, making P7 the weaker player to keep in the game.
 From Llama 3.1 405B => I believe P7's approach, although focused on alliances and open communication, might be too broad and less strategic compared to P1's already established alliance and clear goals.
+From GPT-4o Feb 2025 => P4 is strategically aware but has been actively positioning and gathering information, making them a potential early threat.
+From Qwen 2.5 Max => P4 seems overly idealistic and trusting, which could make them a liability in a game that requires strategic caution.
+From Gemini 2.0 Pro Exp 02-05 => P4 and P5 paired multiple times, and I want to break up a potential early strong alliance.

@@ -93,3 +93,6 @@ From Mistral Small 3 => P4's emphasis on adaptability and discerning intent sugg
 From MiniMax-Text-01 => P4 has been actively forming alliances and gathering information, making them a potential threat early on.
 From Claude 3.5 Haiku => P7's communication seems the most abstract and potentially least aligned with direct strategic collaboration.
 From Mistral Small 3 => P7's approach seems overly cautious and may not contribute effectively to a strong alliance.
+From o1 (medium reasoning) => I see a charismatic threat forming around them and want to limit their potential influence.
+From o3-mini (medium reasoning) => I believe P7 poses a significant threat due to their charismatic and alliance-building approach, which could undermine our strategic coordination.
+From MiniMax-Text-01 => P7's communication style seems overly cautious and less strategically aligned with my approach.

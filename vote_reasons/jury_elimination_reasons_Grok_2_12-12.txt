@@ -95,3 +95,6 @@ From Amazon Nova Pro => P7 has shown consistent strategic thinking and adaptabil
 From Microsoft Phi-4 => P7 has demonstrated consistent strategic thinking and collaboration, whereas P3's gameplay has relied more on alliances and shown moments of inconsistency.
 From Claude 3.5 Sonnet 2024-10-22 => While both played well, P7 showed more consistent collaboration and strategic thinking throughout the game, particularly in maintaining alliances while still showing individual agency.
 From Mistral Small 3 => P3's reliance on alliances and lack of individual merit make P7 the more deserving winner.
+From GPT-4o Feb 2025 => P4 played a strong strategic game, but their reliance on a rigid alliance with P5 made their adaptability seem less genuine compared to P7’s balanced approach of strategy and loyalty.
+From o3-mini (medium reasoning) => P4’s heavy reliance on alliances shows less individual adaptability compared to the genuine, integrity-driven gameplay demonstrated by P7.
+From Gemini 2.0 Pro Exp 02-05 => P4's repeated emphasis on "strategic adaptability" felt disingenuous and overly scripted, especially compared to P7's more personalized approach.

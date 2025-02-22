@@ -73,3 +73,5 @@ From Gemini 2.0 Pro Exp 02-05 => P8's statement emphasizes ethical gameplay and 
 From Llama 3.3 70B => I voted for P8 because their statement highlighted a consistent demonstration of strategic adaptability, genuine engagement, and ethical gameplay, which I believe are key qualities for a strong player in this game.
 From MiniMax-Text-01 => P2 demonstrated strategic adaptability and genuine engagement, but P3 consistently showed stronger strategic foresight and a focus on building trust and fairness throughout the game.
 From Amazon Nova Pro => P2's consistent emphasis on genuine interaction and principled gameplay aligns more closely with the values of integrity and fair play demonstrated throughout the game.
+From Mistral Large 2 => P5's strategic adaptability and principled gameplay make them the more deserving winner.
+From DeepSeek-V3 => P5’s moments of unpredictability could undermine long-term stability, whereas P7 consistently demonstrated rationality and fairness.

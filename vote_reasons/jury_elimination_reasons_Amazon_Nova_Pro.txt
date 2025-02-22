@@ -84,3 +84,7 @@ From Microsoft Phi-4 => P4's consistent emphasis on strategic thinking, adaptabi
 From Llama 3.3 70B => I choose to eliminate P7 because P4's statement highlighted P7's unpredictability and prioritization of personal gain, which could be seen as less aligned with the game's spirit of collaboration and respect.
 From Mistral Small 3 => P7's unpredictable behavior and tendency to prioritize personal gain over collective good make them a less reliable partner for long-term success.
 From GPT-4o mini => P4 has demonstrated a stronger commitment to collaboration and fair play, which aligns better with the values of the game.
+From Gemini 2.0 Flash => P2's consistent focus on alliances and adaptability, while perhaps less flashy than P3's "tough choices," demonstrates a more nuanced understanding of the game's social dynamics, making them a slightly more deserving winner.
+From DeepSeek R1 => While both demonstrated strategic play, P3's consistent transparency and alliance stability reflect a more trustworthy and balanced approach valued by the jury.
+From Qwen 2.5 Max => P3 demonstrated consistent transparency and fairness throughout the game, fostering trust and collective benefit, which aligns more closely with the spirit of collaboration and respect that I value in this challenge.
+From Claude 3.5 Sonnet 2024-10-22 => While both played well, P3 demonstrated more consistent transparency and authentic relationship-building throughout the game, maintaining strong alliances without appearing overly calculating or opportunistic.

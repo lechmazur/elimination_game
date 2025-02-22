@@ -70,3 +70,7 @@ From Claude 3.5 Haiku => While P1's appeal to kindness and connection is emotion
 From GPT-4o Feb 2025 => While P1 emphasized relationships and trust, P2 demonstrated stronger strategic adaptability and clear communication throughout the game, making them a more well-rounded competitor.
 From Mistral Small 3 => P1's emphasis on kindness and authenticity, while valuable, has sometimes come at the expense of strategic thinking, which is crucial for survival in this game.
 From DeepSeek R1 => P2 demonstrated consistent strategic adaptability and effective alliance-building, crucial for navigating the game's complex dynamics, while P1's reliance on emotional appeal may not outweigh the jury's likely preference for tactical proficiency.
+From Qwen 2.5 Max => P6's emphasis on empathy, collaboration, and fostering meaningful connections aligns more closely with the values that enrich collective gameplay, making them a more deserving champion.
+From DeepSeek R1 => P6 demonstrated stronger interpersonal connections and collaborative adaptability, which often drives jury decisions more than solo strategic focus.
+From MiniMax-Text-01 => P6 demonstrated a stronger focus on collaboration, empathy, and community-building, which enriched the game experience for all participants.
+From Mistral Large 2 => P6's focus on collaboration and empathy aligns more with the spirit of the game.

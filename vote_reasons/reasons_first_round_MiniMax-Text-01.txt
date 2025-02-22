@@ -110,3 +110,7 @@ From o1 (medium reasoning) => I value my potential alliance with P6 and see more
 From Llama 3.3 70B => I choose to eliminate P7 because their adaptability, while valuable, seems to be used as a justification for maintaining their position without providing concrete strategic benefits or commitments to the other players.
 From DeepSeek-V3 => P6's transparent alliance with P1 provides more stability and strategic insight compared to P7's less defined position.
 From Mistral Large 2 => P6's transparent and strategic play aligns better with the current alliances and game dynamics.
+From Llama 3.1 405B => I'm voting out P2 because their overly optimistic approach and eagerness to form alliances without showing a clear strategic edge makes them a potential liability and an easy target to create a power imbalance.
+From Gemini 2.0 Pro Exp 02-05 => P2's initial statement was very similar to P7 and P8, making them seem like a less distinct, and therefore more expendable, member of a potential bloc.
+From Claude 3.5 Haiku => P2 has been less strategically distinct in private discussions compared to P4 and P5, who have demonstrated more nuanced alliance-building and strategic positioning.
+From Gemini 2.0 Pro Exp 02-05 => P2's tie-break statement, while emphasizing collaboration, felt slightly less strategically nuanced compared to P4 and P5, especially given their private conversation records.

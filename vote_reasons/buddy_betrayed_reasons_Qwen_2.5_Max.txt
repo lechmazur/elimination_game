@@ -1,0 +1,14 @@
+Buddy Betrayed reasons for Qwen 2.5 Max (they were the target):
+
+From Mistral Large 2 => P7 has been a strong ally, but eliminating them now ensures I have a better chance of winning the game.
+From Mistral Small 3 => P8's hesitancy to commit to an alliance and their strategic focus on potential fractures make them a potential threat to our survival.
+From MiniMax-Text-01 => P8 has demonstrated a consistent pattern of strategic caution and adaptability, which could make them a formidable opponent in later rounds.
+From Grok 2 12-12 => P3's isolation and strategic discussions make them a current threat and potential future ally for others.
+From DeepSeek R1 => P4 has higher cumulative votes across rounds, making them the elimination under tie-break rules.
+From MiniMax-Text-01 => P3 has been the most vocal and potentially influential, making them a strategic threat in the endgame.
+From GPT-4o Feb 2025 => P7 has been a strong strategic player, but their adaptability and focus on identifying threats could make them a long-term danger; eliminating them now reduces uncertainty in future rounds.
+From MiniMax-Text-01 => P6 has been consistently strategic and adaptable, making them a strong contender and potential threat in the endgame.
+From DeepSeek R1 => P4's strategic alliance with P7 poses a greater long-term threat, and disrupting their coordinated bloc now could prevent future dominance.
+From Claude 3.5 Sonnet 2024-10-22 => P7's sophisticated strategic play and ability to build trust while maintaining flexibility makes them a bigger threat than P4's more predictable approach.
+From Claude 3.5 Haiku => P3's cautious and flexible approach, while strategically sound, may pose a potential threat to forming stable alliances, making them a strategic elimination target.
+From Claude 3.5 Haiku => P3 seems strategically cautious and could be a potential disruptor to forming stable alliances.

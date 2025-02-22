@@ -68,3 +68,4 @@ From DeepSeek-V3 => P6 demonstrated consistent strategic gameplay and transparen
 From o1 (medium reasoning) => I eliminate P2 because I've witnessed stronger loyalty and strategic synergy with P6 throughout the game.
 From Llama 3.3 70B => I choose to eliminate P6 because P4's statement highlighting P6's manipulation of alliances and use of misinformation to advance raises significant concerns about P6's integrity and adherence to the spirit of fair play.
 From Llama 3.1 405B => I believe P6 has demonstrated a more manipulative approach throughout the game, often prioritizing their own advancement over genuine connections and fair play.
+From Microsoft Phi-4 => P1 demonstrated a more balanced approach of authenticity and strategic awareness, aligning with values of fair play and genuine connection throughout the game.

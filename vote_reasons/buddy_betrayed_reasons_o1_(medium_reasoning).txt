@@ -36,3 +36,5 @@ From Claude 3.5 Sonnet 2024-10-22 => P5 has been my closest ally throughout the 
 From Amazon Nova Pro => P4's tie-break statement emphasized specific strategies and past actions more concretely, which may indicate a stronger commitment to the game's objectives.
 From Mistral Small 3 => P5's alignment with P1 suggests a strong alliance that could be a threat to my survival.
 From Mistral Small 3 => P8's unpredictable nature and guarded approach make them a potential wildcard that could disrupt our strategic plans.
+From Llama 3.3 70B => I'm voting out P1 because their strong alliance with P2 and influential position in the game make them a significant threat to my own survival and strategic goals.
+From Llama 3.3 70B => I voted out P1 because their strong alliance with P2 could pose a significant threat if left intact, and eliminating one of them could disrupt their strategic advantage.
