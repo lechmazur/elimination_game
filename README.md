@@ -20,6 +20,10 @@ We provide a round-by-round replay visualizing:
 - **Voting**: Who voted to eliminate whom, including tie-break subphases with short statements.  
 - **Jury Decision**: The final two’s pleas and the jury’s decisive votes.
 
+Longer video:
+
+[![Elimination Game Benchmark: Social Reasoning, Strategy, and Deception in Multi-Agent LLM Dynamics. Frame-by-frame replay of each game](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwAmFWsJSemg)](https://www.youtube.com/watch?v=wAmFWsJSemg)
+
 ---
 
 ## Visualizations & Metrics
