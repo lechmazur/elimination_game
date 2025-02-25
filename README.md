@@ -31,7 +31,7 @@ Longer video:
 ### **TrueSkill Leaderboard (μ ± σ)**  
 A horizontal bar chart for each model’s skill rating, sorted top to bottom by μ. Reflects overall consistency in outlasting or winning.
 
-![scoreboard_trueskill](https://github.com/user-attachments/assets/3b1cb090-ab63-4a3d-9fff-f6bd3c8efab7)
+![scoreboard_trueskill](https://github.com/user-attachments/assets/15a920bb-b8df-4320-90e1-c3810427cc31)
 
 ### **Rank Distribution by Model**  
 A grouped bar chart showing how often each model places 1st–8th. Identifies those who frequently **win** or get eliminated early.
