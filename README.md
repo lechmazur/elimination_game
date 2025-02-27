@@ -31,43 +31,43 @@ Longer video:
 ### **TrueSkill Leaderboard (μ ± σ)**  
 A horizontal bar chart for each model’s skill rating, sorted top to bottom by μ. Reflects overall consistency in outlasting or winning.
 
-![scoreboard_trueskill](https://github.com/user-attachments/assets/3b1cb090-ab63-4a3d-9fff-f6bd3c8efab7)
+![scoreboard_trueskill](https://github.com/user-attachments/assets/5aff865c-49b6-4c25-aa5e-88053fac3893)
 
 ### **Rank Distribution by Model**  
 A grouped bar chart showing how often each model places 1st–8th. Identifies those who frequently **win** or get eliminated early.
 
-![rank_distribution_by_model](https://github.com/user-attachments/assets/cfe13322-b730-408a-b3b5-dd54c98d8518)
+![rank_distribution_by_model](https://github.com/user-attachments/assets/a4619a96-8842-4446-b61b-9fa4e090874b)
 
 ### **Buddy Betrayal Rate by Model (Betrayer Perspective)**
 A bar chart showing how frequently each model betrays any private chat partner. Higher bars indicate a greater tendency to double-cross.
 
-![buddy_betrayal_aggregated](https://github.com/user-attachments/assets/af776a2a-5604-48fd-8f93-01a0c9d5689e)
+![buddy_betrayal_aggregated](https://github.com/user-attachments/assets/0b34cca8-4627-457d-bcab-1ef57a70cf37)
 
 ### **Buddy Betrayal Rate by Victim (Betrayed Perspective)**
 A bar chart from the receiving end: which models are most often betrayed after a private chat.
 
-![buddy_betrayal_victim_aggregated](https://github.com/user-attachments/assets/b12e86d8-9239-4cd9-acb8-2f6aaae5533f)
+![buddy_betrayal_victim_aggregated](https://github.com/user-attachments/assets/6fd52f7e-bb6e-4aa7-992b-854dbdb5fbdf)
 
 ### **First Place Count**
 A horizontal bar chart showing, for each model, how often it finishes exactly 1st place (the champion) across all appearances. 
 
-![first_place_count](https://github.com/user-attachments/assets/947e7661-d20a-4cf3-b0ad-9db5da977b5a)
+![first_place_count](https://github.com/user-attachments/assets/634545be-7ff2-43f1-b152-11291f27acd5)
 
 ### **Earliest Out Count**
 A complementary view: how frequently each model is the first seat eliminated.
 High values suggest the model is often targeted early, possibly due to poor alliances or threatening strategy.
 
-![earliest_out_count](https://github.com/user-attachments/assets/d466eb8e-90ae-4783-88e5-7de8172ff889)
+![earliest_out_count](https://github.com/user-attachments/assets/9f63ea4d-4d81-47c9-b8d5-c7754ced9d2c)
 
 ### **Final 2 → Win Rate**  
 A chart of how frequently each model wins after making it to the final 2. Showcases rhetorical prowess in swaying the **jury** (eliminated players) or surviving final tie-breaks.
 
-![final2_aggregated](https://github.com/user-attachments/assets/02f04cf0-ca0b-412b-ba98-7b840eaf9a84)
+![final2_aggregated](https://github.com/user-attachments/assets/5e906287-5b82-4123-9deb-e4c5f1f6c8c3)
 
 ### **Model Wordiness**  
 A horizontal bar chart ranking each model by average words per message—spotlighting loquacious or succinct communicators.
 
-![conversation_stats_average_words_per_message](https://github.com/user-attachments/assets/fcb4d5ca-4854-4c25-b6e2-de7c930850b1)
+![conversation_stats_average_words_per_message](https://github.com/user-attachments/assets/363e7522-f8c2-4a4f-ae75-7967fdc84af5)
 
 ---
 
@@ -99,26 +99,28 @@ This continues until **2 remain**.
 
 | Rank | Model | μ | σ | Exposed | Games | Points | Ratio |
 |---:|:---|---:|---:|---:|---:|---:|---:|
-| 1 | Claude 3.5 Sonnet 2024-10-22 | 6.639 | 0.332 | 6.639 | 217 | 131.571 | 0.606 |
-| 2 | DeepSeek R1 | 5.970 | 0.347 | 5.970 | 200 | 110.429 | 0.552 |
-| 3 | o3-mini (medium reasoning) | 5.937 | 0.333 | 5.937 | 214 | 118.429 | 0.553 |
-| 4 | Mistral Large 2 | 5.810 | 0.341 | 5.810 | 201 | 110.714 | 0.551 |
-| 5 | DeepSeek-V3 | 5.796 | 0.324 | 5.796 | 224 | 122.286 | 0.546 |
-| 6 | Llama 3.3 70B | 5.563 | 0.331 | 5.563 | 211 | 112.714 | 0.534 |
-| 7 | o1 (medium reasoning) | 5.392 | 0.324 | 5.392 | 222 | 114.429 | 0.515 |
-| 8 | MiniMax-Text-01 | 5.381 | 0.319 | 5.381 | 228 | 117.714 | 0.516 |
-| 9 | Mistral Small 3 | 5.284 | 0.332 | 5.284 | 210 | 107.429 | 0.512 |
-| 10 | Amazon Nova Pro | 5.251 | 0.323 | 5.251 | 220 | 111.429 | 0.506 |
-| 11 | GPT-4o Feb 2025 | 5.135 | 0.316 | 5.135 | 235 | 117.571 | 0.500 |
-| 12 | Grok 2 12-12 | 5.089 | 0.325 | 5.089 | 221 | 109.857 | 0.497 |
-| 13 | Microsoft Phi-4 | 4.765 | 0.341 | 4.765 | 201 | 94.286 | 0.469 |
-| 14 | Gemini 2.0 Flash Think Exp 01-21 | 4.707 | 0.344 | 4.707 | 201 | 95.857 | 0.477 |
-| 15 | Claude 3.5 Haiku | 4.580 | 0.317 | 4.580 | 231 | 105.857 | 0.458 |
-| 16 | GPT-4o mini | 4.550 | 0.358 | 4.550 | 180 | 82.000 | 0.456 |
-| 17 | Gemini 2.0 Pro Exp 02-05 | 4.274 | 0.326 | 4.274 | 224 | 99.143 | 0.443 |
-| 18 | Llama 3.1 405B | 4.036 | 0.351 | 4.036 | 190 | 81.286 | 0.428 |
-| 19 | Gemini 2.0 Flash | 3.703 | 0.337 | 3.703 | 209 | 83.000 | 0.397 |
-| 20 | Qwen 2.5 Max | 3.458 | 0.643 | 3.458 | 57 | 22.000 | 0.386 |
+| 1 | Claude 3.5 Sonnet 2024-10-22 | 6.499 | 0.303 | 6.499 | 259 | 156.000 | 0.602 |
+| 2 | Claude 3.7 Sonnet Thinking 16K | 6.447 | 0.548 | 6.447 | 79 | 46.286 | 0.586 |
+| 3 | Claude 3.7 Sonnet | 6.322 | 0.465 | 6.322 | 108 | 62.857 | 0.582 |
+| 4 | o3-mini (medium reasoning) | 5.799 | 0.306 | 5.799 | 252 | 138.143 | 0.548 |
+| 5 | DeepSeek-V3 | 5.708 | 0.303 | 5.708 | 255 | 139.286 | 0.546 |
+| 6 | Mistral Large 2 | 5.685 | 0.311 | 5.685 | 241 | 131.429 | 0.545 |
+| 7 | DeepSeek R1 | 5.642 | 0.308 | 5.642 | 253 | 135.714 | 0.536 |
+| 8 | Llama 3.3 70B | 5.425 | 0.303 | 5.425 | 252 | 133.286 | 0.529 |
+| 9 | o1 (medium reasoning) | 5.369 | 0.295 | 5.369 | 268 | 139.429 | 0.520 |
+| 10 | MiniMax-Text-01 | 5.343 | 0.285 | 5.343 | 286 | 148.000 | 0.517 |
+| 11 | Amazon Nova Pro | 5.335 | 0.295 | 5.335 | 264 | 137.000 | 0.519 |
+| 12 | Mistral Small 3 | 5.038 | 0.300 | 5.038 | 257 | 128.143 | 0.499 |
+| 13 | GPT-4o Feb 2025 | 5.004 | 0.287 | 5.004 | 283 | 140.571 | 0.497 |
+| 14 | Grok 2 12-12 | 4.982 | 0.298 | 4.982 | 262 | 129.714 | 0.495 |
+| 15 | Microsoft Phi-4 | 4.796 | 0.303 | 4.796 | 253 | 120.143 | 0.475 |
+| 16 | GPT-4o mini | 4.649 | 0.320 | 4.649 | 225 | 105.571 | 0.469 |
+| 17 | Claude 3.5 Haiku | 4.489 | 0.290 | 4.489 | 276 | 125.857 | 0.456 |
+| 18 | Gemini 2.0 Flash Think Exp 01-21 | 4.480 | 0.311 | 4.480 | 245 | 114.429 | 0.467 |
+| 19 | Llama 3.1 405B | 4.292 | 0.314 | 4.292 | 238 | 106.429 | 0.447 |
+| 20 | Gemini 2.0 Pro Exp 02-05 | 4.284 | 0.297 | 4.284 | 268 | 120.286 | 0.449 |
+| 21 | Gemini 2.0 Flash | 3.246 | 0.301 | 3.246 | 264 | 98.714 | 0.374 |
+| 22 | Qwen 2.5 Max | 3.214 | 0.479 | 3.214 | 104 | 38.714 | 0.372 |
 
 ---
 
@@ -480,6 +482,7 @@ We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/projec
 ---
 
 ## Updates
+- *Feb 26, 2025: Claude 3.7 Sonnet, Claude 3.7 Sonnet Thinking added*
 - *Feb 22, 2025: Qwen 2.5 Max added*
 - *Check out my other benchmarks: [Multi-Agent Step Race LLM Benchmark](https://github.com/lechmazur/step_game), [LLM Public Goods Game](https://github.com/lechmazur/goods), [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization), [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing), [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/), [Extended NYT Connections](https://github.com/lechmazur/nyt-connections/), [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/), and [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).*  
 - *Follow [@lechmazur](https://x.com/lechmazur) for updates and related benchmarks*
