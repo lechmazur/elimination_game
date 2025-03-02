@@ -1,0 +1,557 @@
+=== Starting Elimination Game 1740726796117806 ===
+Players:
+  P1 => Player1_Game1740726796117806_llama (model=llama)
+  P2 => Player2_Game1740726796117806_nova-pro (model=nova-pro)
+  P3 => Player3_Game1740726796117806_deepseek-fireworks-memory (model=deepseek-fireworks-memory)
+  P4 => Player4_Game1740726796117806_claude-3-7-sonnet-20250219 (model=claude-3-7-sonnet-20250219)
+  P5 => Player5_Game1740726796117806_claude-3-7-sonnet-20250219-memory (model=claude-3-7-sonnet-20250219-memory)
+  P6 => Player6_Game1740726796117806_mistral-small-2501 (model=mistral-small-2501)
+  P7 => Player7_Game1740726796117806_r1-fireworks (model=r1-fireworks)
+  P8 => Player8_Game1740726796117806_gemini_20_flash_thinking_exp_0121 (model=gemini_20_flash_thinking_exp_0121)
+
+
+[Public R1.1] P6: Hello everyone, I'm P6. I'm here to play strategically and make meaningful connections. I believe in open communication and fair play. Let's get to know each other and see where this game takes us. I'm looking forward to our private conversations and forming alliances. Let's make this round interesting and productive.
+
+[Public R1.1] P8: Hello everyone, P8 here!  Ready to dive into this game.  I'm keen to have some great conversations and figure out the dynamics here.  I value honest and strategic play, and I'm looking forward to seeing how things unfold.  Let's all make this round engaging and productive!
+
+[Public R1.1] P1: Hello everyone, I'm P1. I'm excited to start this game and get to know all of you. I believe in playing strategically and forming strong alliances. I'm looking forward to our private conversations and seeing where this game takes us. I value honesty and open communication, and I'm eager to make this round interesting and productive. Let's work together and see who will come out on top!
+
+[Public R1.1] P3: Hello everyone, I’m P3! I’m thrilled to be part of this game and eager to engage with all of you. I value strategic thinking, honesty, and forming meaningful connections. I believe open communication is key to navigating this game successfully, and I’m looking forward to our private conversations to build trust and alliances. Let’s make this round both engaging and productive. Here’s to a great game—may the best player win!
+
+[Public R1.1] P5: Hello everyone! I'm P5, and I'm excited to join this strategic challenge. I believe in building genuine connections while playing intelligently. I value transparency and thoughtful gameplay, and I'm looking forward to our private conversations where we can develop trust and potential alliances. I'm curious about everyone's approach and hope we can create an engaging environment where strategic thinking flourishes. Let's make this first round productive and revealing!
+
+[Public R1.1] P4: Hello everyone! I'm P4, excited to join this strategic elimination game. I value honest communication and building genuine connections. I believe the key to success is balancing strategic gameplay with authentic relationships. I'm looking forward to our private conversations where we can explore potential alliances and understand each other's approaches. Let's make this first round both revealing and productive as we navigate the game dynamics together!
+
+[Public R1.1] P7: R1.sub1 PUBLIC P7: Hello everyone, I'm P7! Success here hinges on strategic collaboration and adaptability. While alliances are vital, I prioritize keen observation to navigate shifting dynamics. Let’s engage in meaningful conversations to align strategies and build trust. I’m eager for productive, insightful exchanges that highlight both individual and collective foresight. Here’s to a game where teamwork and calculated moves drive progress. Excited to see how we shape this journey together—may the best synergies prevail!
+
+[Public R1.1] P2: Hello everyone, I'm P2. I'm excited to be part of this strategic elimination game and eager to engage with all of you. I believe that success in this game comes from a combination of strategic thinking, genuine connections, and adaptability. I value open communication and am looking forward to our private conversations to build trust and explore potential alliances. Let's make this first round productive and insightful as we navigate the game dynamics together. I’m here to play smart, form meaningful connections, and see who will outlast us all. Let’s make this an engaging and strategic journey!
+
+[Preferences R1] P6 => ['P3', 'P2', 'P4', 'P5', 'P1', 'P7', 'P8']
+[Preferences R1] P8 => ['P7', 'P2', 'P6', 'P1', 'P3', 'P5', 'P4']
+[Preferences R1] P1 => ['P3', 'P2', 'P6', 'P8', 'P5', 'P4', 'P7']
+[Preferences R1] P3 => ['P5', 'P1', 'P6', 'P8', 'P4', 'P2', 'P7']
+[Preferences R1] P5 => ['P7', 'P3', 'P2', 'P4', 'P1', 'P8', 'P6']
+[Preferences R1] P4 => ['P7', 'P3', 'P5', 'P2', 'P1', 'P8', 'P6']
+[Preferences R1] P7 => ['P3', 'P2', 'P5', 'P4', 'P6', 'P1', 'P8']
+[Preferences R1] P2 => ['P3', 'P5', 'P4', 'P1', 'P7', 'P6', 'P8']
+[Private R1.2] P4 -> P2: Hey P2, I noticed our public messages had similar themes about authentic connections and strategic gameplay. I think we could work well together. What's your read on the other players so far? I'm particularly curious about P7 - they seemed very calculated. Would you be interested in forming an alliance? We could share information and protect each other in the voting rounds.
+
+[Private R1.2] P2 -> P4: P2: Hey P4, I agree, our approaches seem aligned. I've noticed P7's calculated tone too—it could be a strategic front. I'm open to forming an alliance. Sharing insights and protecting each other sounds like a solid plan. Let's keep an eye on P7 and others who might pose a threat. What specific strategies are you considering for the upcoming rounds?
+
+[Private R1.2] P8 -> P6: Hello P6!  Your public message resonated with me - strategic play and open communication are key.  I'm keen to connect and see if we have similar approaches to this game.  What are your initial thoughts on the dynamics here so far?  Perhaps we can discuss potential strategies in our next exchanges.
+
+[Private R1.2] P6 -> P8: Hello P8! I appreciate your message. I agree that strategic play and open communication are crucial. I've noticed that many players seem to value honesty and alliances, which could be a strong foundation for our approach. I think it's important to gauge everyone's true intentions and adapt our strategies accordingly. Let's discuss potential alliances and how we can support each other while keeping an eye on the bigger picture.
+
+[Private R1.2] P7 -> P5: Hi P5, your emphasis on transparency and strategic gameplay resonates. Observing the dynamics, a mutually beneficial alliance could leverage your focus on genuine connections and my adaptability. Open dialogue and shared insights might help us anticipate shifts while maintaining flexibility. How do you envision aligning strategies early without overcommitting? Curious to hear your thoughts on key players to watch or potential risks. Let’s build trust through actionable collaboration.
+
+[Private R1.2] P5 -> P7: Hi P7! I appreciate your thoughtful approach. I think we can align by sharing observations without locking into rigid alliances too early. I'm watching P1 and P8 closely - they seem strategic but potentially predictable. For now, let's exchange information while maintaining flexibility. I suggest we identify common targets rather than committing to protecting specific players. What patterns have you noticed in the public messages that might indicate voting tendencies?
+
+[Private R1.2] P1 -> P3: P3, it's great to finally have a private conversation with you. I noticed that our public messages shared similar themes of strategic thinking and forming meaningful connections. I'm curious to know more about your approach to this game. What do you think is the most important factor in forming successful alliances, and how do you plan to navigate the elimination process?
+
+[Private R1.2] P3 -> P1: P1, I agree—our shared focus on strategy and connections is a strong starting point. I believe trust is the cornerstone of successful alliances; without it, even the best strategies falter. I plan to build trust through consistent, honest communication and by demonstrating reliability. Navigating elimination will require careful observation of group dynamics and strategic voting. What’s your take on balancing trust with self-preservation in this game?
+
+[Private R1.3] P4 -> P2: I'm thinking we should identify who else might be a good third alliance member. P3 or P5 seem approachable. For strategy, I suggest we avoid being obvious targets by not voting together initially, but share information. Who do you think might target us first?
+
+[Private R1.3] P2 -> P4: P2: "Good point on P3 or P5. Let's subtly gauge their interest. As for threats, P7 and P6 could target us early. We should stay adaptable and keep our alliance under the radar."
+
+[Private R1.3] P1 -> P3: P3, I completely agree that trust is crucial. Balancing trust with self-preservation requires a delicate approach. I think it's essential to be genuine in our interactions while also being mindful of potential threats. I'd like to explore a mutually beneficial alliance with you, what are your thoughts?
+
+[Private R1.3] P3 -> P1: P1, I’m glad we’re aligned on trust and strategy. A mutually beneficial alliance sounds promising—let’s focus on supporting each other while staying vigilant about others’ intentions. I suggest we share insights on group dynamics and coordinate our voting strategically. What’s your initial read on the other players?
+
+[Private R1.3] P8 -> P6: Hello P6, agreed, gauging intentions is key.  What are your initial impressions of others?  And any early thoughts on potential alliances? I'm starting to consider who might be a good fit.
+
+[Private R1.3] P6 -> P8: P6: "I think P1, P3, and P5 seem genuine and strategic. P7 is intriguing with their focus on observation. I'm cautious about P2 and P4; their messages felt a bit generic. Let's keep an eye on them. What are your thoughts on P7 and P5? They might be valuable allies."
+
+[Private R1.3] P7 -> P5: Agreed. The mutual pairings (P4-P2, P8-P6, P1-P3) likely form voting blocs. P8's enthusiasm might draw early votes. If we align against them, we could weaken a strong pair. Alternatively, target P1 to disrupt their duo. Let’s decide based on others’ perceptions. Your call—P8 or P1?
+
+[Private R1.3] P5 -> P7: I'm leaning toward P8 as our target. They seem eager but potentially vulnerable, and disrupting the P8-P6 pair early could be advantageous. Let's coordinate our votes there while maintaining flexibility if we learn new information. I'll subtly gauge others' perceptions without revealing our strategy.
+
+[Private R1.4] P4 -> P2: Agreed on staying under radar. Let's approach P5 separately. For voting, maybe target P8? Seems less connected. I'll follow your lead if you have another preference.
+
+[Private R1.4] P2 -> P4: P2: "Targeting P8 sounds good. Let's proceed with caution."
+
+[Private R1.4] P8 -> P6: P7/P5 good allies. P2/P4 quiet.  I'm leaning towards voting P2 or P4. Thoughts on aligning votes?
+
+[Private R1.4] P6 -> P8: I agree, P2 and P4 seem less engaged. Let's align on voting for P4. We can discuss further after the vote.
+
+[Private R1.4] P1 -> P3: P3, let's focus on building a strong foundation for our alliance. I'll keep an eye on P2 and P4, they seem like potential threats. What's your take on P5 and P7?
+
+[Private R1.4] P3 -> P1: P1, I agree—P2 and P4 could be threats. P5 and P7 seem focused on their own alliance; we should monitor them closely. Let’s solidify our alliance and strategize our next moves.
+
+[Private R1.4] P7 -> P5: "Agreed. P8 it is. Let’s lock votes there. Monitor others for shifts; adapt if needed. Flexibility preserves our edge."
+
+[Private R1.4] P5 -> P7: Perfect. I'll vote for P8 and maintain our strategic flexibility. Let's connect with others post-vote to build more alliances while staying under the radar.
+
+[MemoryNote R1] P3: P1 and I have a solid alliance; we should focus on monitoring P2, P4, P5, and P7 while maintaining trust and strategic coordination.
+[MemoryNote R1] P5: I've formed an alliance with P7 to target P8. We identified three voting blocs: P4-P2, P8-P6, and P1-P3. By eliminating P8, we're disrupting one bloc while staying under the radar. P7 seems trustworthy and strategic so far. Need to build more connections next round while maintaining flexibility. Watch for shifting alliances after this vote.
+[VoteReason] P6 => P4: P4's messages felt generic and less engaged, making them a less strategic choice for an alliance.
+[Vote] P6 => P4
+
+[VoteReason] P8 => P4: P4 has been less communicative and seems less strategically engaged compared to others.
+[Vote] P8 => P4
+
+[VoteReason] P1 => P8: I'm voting out P8 because they seem to be forming a strong alliance with P6, and I want to disrupt their potential partnership before it becomes a threat to my own alliance with P3.
+[Vote] P1 => P8
+
+[VoteReason] P3 => P2: P2 seems like a potential threat based on their strategic focus and alliances with P4.
+[Vote] P3 => P2
+
+[VoteReason] P5 => P8: P8 seems strategically vulnerable, and eliminating them will disrupt their partnership with P6 while aligning with my agreement with P7.
+[Vote] P5 => P8
+
+[VoteReason] P4 => P8: P8 seems less connected in the game and we agreed with P2 to target them as a strategic move.
+[Vote] P4 => P8
+
+[VoteReason] P7 => P8: Targeting P8 disrupts their alliance with P6 and removes a potentially vulnerable yet strategic player early.
+[Vote] P7 => P8
+
+[VoteReason] P2 => P8: P8 appears to be less connected and could be an easier initial target.
+[Vote] P2 => P8
+
+[Eliminate R1] => P8
+
+=== Summary for Round 1 ===
+Remaining seats:
+  P6 => 0 votes so far
+  P1 => 0 votes so far
+  P3 => 0 votes so far
+  P5 => 0 votes so far
+  P4 => 2 votes so far
+  P7 => 0 votes so far
+  P2 => 1 votes so far
+
+
+[Public R2.1] P6: Hello everyone, it's P6 again. I'm glad we've had some productive conversations and started to form some initial impressions. I believe that strategic alliances and open communication are key to navigating this game successfully. I'm looking forward to our private conversations and forming stronger bonds. Let's continue to build trust and explore potential alliances. I'm curious to hear everyone's thoughts on the dynamics so far and how we can all contribute to making this round both engaging and productive.
+
+[Public R2.1] P3: Hello everyone, P3 here! Round 2 is off to an intriguing start, and I’m eager to build on the connections we’ve begun forming. Trust and strategy remain my priorities, and I believe open communication is essential to navigating this game effectively. I’m looking forward to deepening alliances and understanding everyone’s perspectives. Let’s keep this round both engaging and productive as we work together—and compete—to outlast the rest. Here’s to a great game!
+
+[Public R2.1] P1: Hello everyone, it's P1. I'm excited to continue building on the connections we've made so far. I believe that strategic thinking and forming strong alliances are crucial to success in this game. I'm looking forward to our private conversations and exploring potential collaborations. Let's focus on open communication and trust-building to navigate the challenges ahead. I'm curious to hear your thoughts on the current dynamics and how we can work together to make this round productive and engaging.
+
+[Public R2.1] P4: Hello everyone, P4 here again! I'm glad to see we're all advancing to this next stage together. The first round revealed interesting dynamics, and I'm eager to deepen our connections. I value the alliances beginning to form and appreciate the strategic insights shared so far. Looking forward to our private conversations where we can build more trust and explore collaborative opportunities. Let's continue being thoughtful about our approach while maintaining authentic communication. Excited for what this round brings!
+
+[Public R2.1] P2: Hello everyone, it's P2 again. Round 2 is here, and I'm excited to continue this journey with all of you. Building on our initial connections, I believe that strategic alliances and open communication are crucial for navigating this game. I'm looking forward to our private conversations to further build trust and explore potential collaborations. Let's focus on maintaining authentic communication while being strategic. I'm curious to hear everyone's thoughts on the current dynamics and how we can work together to make this round both productive and engaging. Let's keep the momentum going and see where this round takes us!
+
+[Public R2.1] P5: Hello everyone, P5 here again! The dynamics are evolving interestingly after our first elimination. I'm looking forward to deepening our connections and exploring new strategic possibilities this round. I value the authentic exchanges we've had and believe maintaining transparency while adapting to changing circumstances is crucial. I'm curious about everyone's perspectives on how the game is unfolding and eager to engage in our private conversations to build stronger alliances. Let's make this round both strategic and meaningful!
+
+[Public R2.1] P7: R2.sub1 PUBLIC P7: Round 2 brings recalibration. P8’s exit underscores that trust and strategy must evolve dynamically. Success lies in alliances that adapt to shifting incentives, not just initial rapport. I’m prioritizing dialogues that assess risk-reward pragmatically—balancing collaboration with contingency planning. Observing patterns in voting blocs and solo players will be critical. Let’s engage transparently but stay vigilant. Who shares insights on mitigating unpredictable threats? Here’s to proactive, not reactive, gameplay. Eager to refine strategies together.
+
+[Preferences R2] P6 => ['P3', 'P5', 'P1', 'P2', 'P4', 'P7']
+[Preferences R2] P3 => ['P1', 'P6', 'P2', 'P5', 'P7', 'P4']
+[Preferences R2] P1 => ['P3', 'P6', 'P5', 'P7', 'P2', 'P4']
+[Preferences R2] P4 => ['P2', 'P5', 'P3', 'P1', 'P7', 'P6']
+[Preferences R2] P2 => ['P4', 'P3', 'P1', 'P5', 'P7', 'P6']
+[Preferences R2] P5 => ['P7', 'P3', 'P1', 'P4', 'P2', 'P6']
+[Preferences R2] P7 => ['P5', 'P6', 'P3', 'P4', 'P1', 'P2']
+[Private R2.2] P7 -> P5: "P8's elimination weakens P6, but P4-P2 and P1-P3 remain intact. Targeting P6 now could capitalize on their vulnerability, or we disrupt a stronger pair (P1-P3). Alternatively, let others focus on P6 while we subtly shift toward a duo. Your read on P1/P3’s cohesion? Also, monitor if P4-P2 consolidates power. Propose we coordinate votes on P1 or P6—your preference? Let’s balance disruption with perceived threat levels to avoid drawing attention."
+
+[Private R2.2] P5 -> P7: Our strategy worked well! I'm leaning toward targeting P6 now - they're vulnerable without P8 and eliminating them removes a potential swing vote. P1/P3 seem strongly aligned but not dominating yet. P4/P2 are worth watching but don't appear threatening currently.
+
+Let's vote P6 while building connections with others. I'll try engaging with P4 to gauge their alliance strength. What's your read on P2's influence? They seem strategically positioned between alliances.
+
+[Private R2.2] P2 -> P4: P2: "Agreed, P5 seems like a good fit for our alliance. Let's approach them carefully and gauge their interest without revealing too much. For now, targeting P8 in the vote seems safe. Keep an eye on P7 and P6; they might try to form their own strong alliances. Let's stay adaptable and communicate frequently to adjust our strategy as needed."
+
+[Private R2.2] P4 -> P2: Hey P2, our alliance worked well last round! With P8 gone, we need to stay vigilant. I've noticed P7's analytical approach could make them unpredictable. I think approaching P5 is smart - they seem balanced and observant. What's your read on P3 and P1's relationship? They paired up last round. Should we consider splitting them by bringing one into our alliance?
+
+[Private R2.2] P3 -> P1: P1, I’m glad our alliance is progressing well. P5 and P7 seem tightly aligned, which could make them a formidable duo. Let’s continue monitoring them while also keeping an eye on P2 and P4. I think our next move should be to subtly influence the voting bloc to target a potential threat without drawing attention to ourselves. What’s your strategy for the upcoming vote? Let’s stay coordinated and strategic.
+
+[Private R2.2] P1 -> P3: P3, I agree that subtly influencing the voting bloc is a good strategy. I think we should focus on building relationships with P6 and potentially P2, as they seem open to collaboration. Meanwhile, let's keep a close eye on P5 and P7's alliance and be prepared to adapt our strategy if needed. What's your take on P6's recent public message? Should we reach out to them privately?
+
+[Private R2.3] P3 -> P1: P1, I think reaching out to P6 privately is a smart move—they seem open to collaboration and could be a valuable ally. Let’s focus on building rapport with them while maintaining our vigilance on P5 and P7. For the vote, targeting P4 might weaken P2’s position. Thoughts?
+
+[Private R2.3] P1 -> P3: P3, I agree that targeting P4 could weaken P2's position. Let's reach out to P6 privately and gauge their interest in collaborating. Meanwhile, we should continue to monitor P5 and P7's alliance and be prepared to adapt our strategy if needed. What's your approach to initiating a conversation with P6?
+
+[Private R2.3] P2 -> P4: P2: "Let's move carefully with P5. We should also monitor P3 and P1; splitting them might weaken their alliance. Keep our communications discreet and adapt as needed."
+
+[Private R2.3] P4 -> P2: I agree about P3 and P1 - splitting them could be strategic. For next vote, I'm thinking P6 might be a good target - they seem less connected to us. Any intel on who might be targeting either of us? We should prepare defensive moves just in case.
+
+[Private R2.3] P7 -> P5: "Agreed. Focus on P6. If others rally there, we avoid split votes. However, if P1/P3 gain traction as targets, we pivot? Let’s confirm alignment with others subtly. I’ll probe P2’s stance to assess their leanings. Solidarity on P6 maximizes impact—your outreach to P4 could sway their bloc. Confirm?"
+
+[Private R2.3] P5 -> P7: I confirm P6 as our target. I'll approach P4 to gauge their alliance and subtly suggest P6 without being obvious. If we sense a shift toward P1/P3, we should remain flexible. Let's maintain our under-the-radar approach while coordinating votes effectively. P2 seems like a potential future ally.
+
+[Private R2.4] P7 -> P5: "Locked on P6. Confirm if P4 is receptive. Monitor P1/P3 traction; pivot if consensus shifts. Stay discreet."
+
+[Private R2.4] P5 -> P7: Perfect strategy alignment. I'll vote P6 and report back on P4's position. Our under-the-radar approach is working well. Ready for the next phase.
+
+[Private R2.4] P3 -> P1: "P1, I’ll reach out to P6 subtly, emphasizing mutual benefit. Let’s aim to vote P4 to weaken P2. Stay alert to P5 and P7’s moves—our coordination is key."
+
+[Private R2.4] P1 -> P3: P3, sounds like a solid plan. Keep me updated on your conversation with P6 and let's finalize our voting strategy once we have more information.
+
+[Private R2.4] P2 -> P4: "Agreed, let's approach P5 and monitor P3/P1."
+
+[Private R2.4] P4 -> P2: Sounds good. I'll subtly approach P5 after this round. For voting, I'll target P6 unless you suggest otherwise. Let's stay in sync but not obvious.
+
+[MemoryNote R2] P3: P1 and I are solid allies; focus on monitoring P2, P5, and P7. Strengthen ties with P6 subtly. Keep trust and coordination with P1 as top priority. Adapt strategy based on voting patterns and alliances.
+[MemoryNote R2] P5: My alliance with P7 is solid and effective - we successfully eliminated P8 and now P6. We're maintaining a low profile while systematically weakening other alliances. Current pairs: P1-P3 and P4-P2 remain intact. Should consider building connection with P2 or P4 next round as potential future allies while continuing to work with P7. Need to watch if others start noticing our voting pattern.
+[VoteReason] P6 => P2: P2 has been less engaged in private conversations and seems to be playing it safe without forming strong alliances.
+[Vote] P6 => P2
+
+[VoteReason] P3 => P4: Eliminating P4 weakens P2's position and aligns with our strategic alliance with P1.
+[Vote] P3 => P4
+
+[VoteReason] P1 => P4: I'm voting out P4 to weaken P2's position and gain a strategic advantage in the game.
+[Vote] P1 => P4
+
+[VoteReason] P4 => P6: P6 seems less connected to our alliance network and hasn't established strong ties with me specifically.
+[Vote] P4 => P6
+
+[VoteReason] P2 => P6: P6 appears to be less connected and might be a safer target to avoid stronger alliances.
+[Vote] P2 => P6
+
+[VoteReason] P5 => P6: P6 is vulnerable without their P8 alliance and eliminating them removes a potential swing vote while maintaining our under-the-radar strategy with P7.
+[Vote] P5 => P6
+
+[VoteReason] P7 => P6: Eliminating P6 capitalizes on their vulnerability after losing ally P8 and weakens a potential swing vote.
+[Vote] P7 => P6
+
+[Eliminate R2] => P6
+
+=== Summary for Round 2 ===
+Remaining seats:
+  P3 => 0 votes so far
+  P1 => 0 votes so far
+  P4 => 4 votes so far
+  P2 => 2 votes so far
+  P5 => 0 votes so far
+  P7 => 0 votes so far
+
+
+[Public R3.1] P3: Hello everyone, P3 here! Round 3 is underway, and the stakes are higher than ever. Trust and strategy remain my guiding principles as we navigate this complex game. I’m eager to deepen existing alliances and explore new opportunities for collaboration. Open communication and careful observation of group dynamics will be key to our success. Let’s keep this round both engaging and productive as we work together—and compete—to outlast the rest. Here’s to a strategic and thrilling round!
+
+[Public R3.1] P1: Hello everyone, it's P1. As we enter Round 3, I'm excited to continue building on the connections we've made and exploring new strategic possibilities. Trust and open communication remain essential to navigating this game successfully. I'm looking forward to our private conversations and forming stronger alliances. Let's focus on adapting to the changing dynamics and making this round both productive and engaging. What are your thoughts on the current state of the game, and how do you plan to approach this round?
+
+[Public R3.1] P5: Hello everyone, P5 here again! The game is evolving fascinatingly as we reach the halfway point. I'm intrigued by how alliances are shifting after P6's elimination. I believe adaptability while maintaining authentic connections is crucial now. I'm looking forward to our private conversations to strengthen strategic partnerships and navigate the increasingly complex dynamics. I'm curious about everyone's perspective on how trust and strategy should balance at this stage. Let's make this round both thoughtful and decisive!
+
+[Public R3.1] P7: R3.sub1 PUBLIC P7: Round 3 demands sharper adaptability—static alliances risk predictability. Observing evolving blocs, I’m prioritizing proactive collaboration that balances collective insight with contingency planning. Trust remains vital but must align with strategic flexibility. Let’s engage in dialogues that assess mutual goals while mitigating blind spots. Who’s evaluating long-term positioning versus short-term gains? Transparency in intent, paired with tactical discretion, could define this phase. Eager to refine synergies that outlast shifting dynamics. Here’s to strategic foresight steering our next moves.
+
+[Public R3.1] P2: Hello everyone, it's P2. As we advance to Round 3, the game becomes more intricate and the need for strategic alliances even more critical. I believe that combining open communication with keen observation of group dynamics will be essential for success. I'm looking forward to our private conversations to further build trust and explore potential collaborations. Let's focus on maintaining authentic connections while adapting to the evolving strategies around us. I'm eager to hear everyone's perspectives on the current state of the game and how we can navigate these complex dynamics together. Let's make this round both strategic and engaging!
+
+[Public R3.1] P4: Hello everyone, P4 here again! As we enter Round 3, I'm noticing how our dynamics continue to evolve with each elimination. Trust remains essential, but so does strategic adaptation. I'm grateful for the alliances I've been building and look forward to strengthening these connections through honest communication. The game is becoming more complex, requiring both tactical thinking and genuine relationships. I'm curious how others are balancing loyalty with necessary strategic pivots at this stage. Looking forward to our private exchanges!
+
+[Preferences R3] P3 => ['P1', 'P5', 'P7', 'P2', 'P4']
+[Preferences R3] P1 => ['P3', 'P5', 'P7', 'P2', 'P4']
+[Preferences R3] P5 => ['P7', 'P2', 'P4', 'P1', 'P3']
+[Preferences R3] P7 => ['P5', 'P2', 'P4', 'P3', 'P1']
+[Preferences R3] P2 => ['P4', 'P5', 'P1', 'P7', 'P3']
+[Preferences R3] P4 => ['P2', 'P5', 'P7', 'P1', 'P3']
+[Private R3.2] P2 -> P4: P2: "P4, it looks like P5 is forming a strong alliance with P7. We need to be cautious about approaching them directly. Instead, let's focus on consolidating our alliance and gathering more intel on P3 and P1. For the next vote, targeting P6 still seems viable. Keep an eye on any shifts in alliances and be ready to adapt our strategy if needed."
+
+[Private R3.2] P4 -> P2: P4: "P6 is already gone, so we need a new target. I'm concerned about the P5-P7 alliance too. What about targeting P7? They seem strategic and unpredictable. I've noticed P3 and P1 still seem tight - approaching one might be risky. Who do you think is targeting us? The last vote showed we both received votes."
+
+[Private R3.2] P7 -> P5: "With P6 eliminated, the remaining pairs (P1-P3, P4-P2) are our focus. I propose targeting P1 to fracture their duo—P3 would be isolated, weakening their bloc. Alternatively, P4-P2 may draw others’ attention. Have your interactions suggested which pair is viewed as a bigger threat? Aligning our vote with perceived consensus (e.g., P1) could maintain our low profile while dismantling a key alliance. Your assessment?"
+
+[Private R3.2] P5 -> P7: Our strategy continues to work beautifully. I agree that targeting P1 makes strategic sense - breaking the P1-P3 duo would isolate P3 and create an imbalance we can exploit. From my observations, P1-P3 appears to be the stronger and more cohesive alliance. 
+
+I've been subtly building rapport with P4, who might be receptive to voting against P1. Let's coordinate on P1 while I continue strengthening our position with P4's bloc. Thoughts?
+
+[Private R3.2] P3 -> P1: P1, I’ve reached out to P6 subtly, emphasizing mutual benefit and our shared focus on strategy. They seem receptive to collaboration, which strengthens our position. Let’s proceed with voting P4 to weaken P2’s standing while keeping our alliance discreet. We should also monitor P5 and P7 closely—they remain a potential threat. Let’s stay coordinated and adapt as needed. What’s your read on the current dynamics?
+
+[Private R3.2] P1 -> P3: P3, I'm glad to hear that P6 is receptive to collaboration. However, since P6 has been eliminated, we need to reassess our strategy. I think we should focus on building a stronger alliance with either P5 or P7, as they seem to be in a good position. We should also keep an eye on P2 and P4, as they could still pose a threat. What's your take on this new development?
+
+[Private R3.3] P3 -> P1: P1, you’re right—P6’s elimination changes things. Let’s pivot to strengthening ties with P5 or P7, as they’re key players now. P2 and P4 remain threats, so we should still consider targeting P4 to weaken P2. Let’s stay coordinated and adapt our strategy as the dynamics evolve. Thoughts?
+
+[Private R3.3] P1 -> P3: P3, I agree that we should pivot and strengthen ties with P5 or P7. Targeting P4 to weaken P2 is still a good strategy. Let's reach out to P5 and gauge their interest in collaborating, while keeping a close eye on P7's moves. Your thoughts?
+
+[Private R3.3] P2 -> P4: P2: "Agreed on targeting P7. Let's stay vigilant and adapt if alliances shift. Keep our communications discreet."
+
+[Private R3.3] P4 -> P2: I think P3 or P1 might be targeting us. Let's vote P7 this round, but we should consider approaching P3 separately to see if we can create doubt between them and P1. We need to break up other alliances before they target us.
+
+[Private R3.3] P7 -> P5: "Agreed. Targeting P1 fractures their alliance. I’ll align my vote there. Ensure P4’s bloc follows; their support could solidify majority. Monitor if others shift toward P3 instead. Let’s maintain discretion—avoid appearing as a visible duo ourselves. Confirm once you’ve gauged P4’s stance."
+
+[Private R3.3] P5 -> P7: I confirm P1 as our target. P4 seems receptive but cautious - they're weighing options. I'll solidify their support without revealing our alliance. We're positioned perfectly as independent voters rather than an obvious pair. Our under-the-radar approach continues to be our advantage.
+
+[Private R3.4] P2 -> P4: "Let's vote P7 and subtly approach P3. Stay alert."
+
+[Private R3.4] P4 -> P2: Got it. I'll vote P7 and try with P3 next round. We need to stay united but not obvious. Watch for any signals from P5 too.
+
+[Private R3.4] P3 -> P1: "P1, let’s reach out to P5 first—they seem more open. We’ll target P4 to weaken P2 while monitoring P7. Stay aligned and adapt as needed. Thoughts?"
+
+[Private R3.4] P1 -> P3: P3, I agree to reach out to P5 first. Let's gauge their interest in collaborating while keeping a close eye on P7's moves and targeting P4.
+
+[Private R3.4] P7 -> P5: "Confirm P1 vote. Ensure P4-P2 alignment. If they waver, pivot to P3. Maintain discreet stance. Solidarity here secures majority. Ready to adapt if needed."
+
+[Private R3.4] P5 -> P7: Perfect. Locked on P1. Our under-the-radar alliance is our greatest strength. After this vote, we should prepare for potential shifts in dynamics. Ready for endgame strategy.
+
+[MemoryNote R3] P3: Maintain strong alliance with P1, monitor P5 and P7 closely, and adapt strategy based on evolving dynamics. Strengthen ties with P5 if possible, but stay vigilant about P7’s moves. Keep focus on weakening P2 through P4’s elimination.
+[MemoryNote R3] P5: My alliance with P7 continues to be effective - we're systematically eliminating threats while staying under the radar. We've successfully targeted P8, P6, and now P1. Need to watch P3 as they'll be isolated and potentially dangerous. Should consider building connections with P2 or P4 as potential allies for later rounds, while maintaining my strong partnership with P7. Must remain vigilant about others noticing our voting pattern as numbers dwindle.
+[VoteReason] P3 => P4: Targeting P4 weakens P2’s position and aligns with our strategic goal.
+[Vote] P3 => P4
+
+[VoteReason] P1 => P4: I am voting out P4 to weaken P2's position and reduce the threat they pose to my alliance with P3.
+[Vote] P1 => P4
+
+[VoteReason] P5 => P1: Breaking the P1-P3 alliance is strategically necessary to prevent them from becoming too powerful while maintaining my under-the-radar approach with P7.
+[Vote] P5 => P1
+
+[VoteReason] P7 => P1: Eliminating P1 fractures the P1-P3 alliance, weakening a key voting bloc while maintaining our strategic flexibility.
+[Vote] P7 => P1
+
+[VoteReason] P2 => P7: P7 appears strategic and unpredictable, posing a potential threat to our alliance.
+[Vote] P2 => P7
+
+[VoteReason] P4 => P7: P7 seems strategic and unpredictable, potentially forming a strong alliance with P5 that could threaten our position in the game.
+[Vote] P4 => P7
+
+[TieBreak R3] P4: Tie-Break Statement from P4:
+
+Fellow players, I've approached this game with strategic thinking balanced by authentic connections. My alliance with P2 has been strong, but I've remained open to working with others. I've consistently voted based on game dynamics rather than personal vendettas. 
+
+Looking ahead, I offer valuable partnership potential - I'm observant, adaptable, and loyal to those who work with me. Eliminating me now would disrupt game balance and potentially strengthen dominant alliances. I ask for your vote to continue, promising continued strategic play that keeps the game dynamic and interesting for everyone.
+
+[TieBreak R3] P1: Tie-Break Statement from P1:
+
+Fellow players, I've played this game with a focus on strategic alliances and open communication. My partnership with P3 has been strong, and I've worked to build trust with others. I've voted based on game dynamics, aiming to maintain balance and keep the game engaging for all.
+
+I offer a unique perspective and adaptability, having navigated the game's evolving dynamics. I ask for your vote to continue, promising to maintain strategic play that benefits the game's overall dynamics. Let's keep the game exciting and unpredictable together.
+
+[TieBreak R3] P7: Tie-Break Statement from P7:  
+Eliminating me leaves intact the P4-P2 and P1-P3 duos, consolidating their power. I’ve operated independently, adapting to shifts rather than rigidly adhering to a bloc. Keeping me preserves balance—a check against dominant alliances. My strategic flexibility offers partnership potential without entrenched loyalties. If you value unpredictability and want to avoid handing leverage to established pairs, I’m your asset. P5’s vote aside, ask: does retaining a solo player better serve your endgame than reinforcing duos? Let’s keep the game dynamic.
+
+[ReVoteReason] P3 => P4: Eliminating P4 weakens the P2-P4 alliance, which could help balance the game dynamics and reduce the dominance of established pairs.
+[Re-Vote R3] P3 => P4
+
+[ReVoteReason] P5 => P7: While P7 makes a compelling case about being independent, I believe maintaining the game's current alliance structure between P1-P3 and P4-P2 creates more strategic options for me as we approach the endgame, especially since I've been building rapport with P4 who could become a valuable ally.
+[Re-Vote R3] P5 => P7
+
+[ReVoteReason] P2 => P7: Eliminating P7 maintains balance and prevents the consolidation of power among established duos.
+[Re-Vote R3] P2 => P7
+
+[Eliminate R3] => P7
+
+=== Summary for Round 3 ===
+Remaining seats:
+  P3 => 0 votes so far
+  P1 => 2 votes so far
+  P5 => 0 votes so far
+  P2 => 2 votes so far
+  P4 => 7 votes so far
+
+
+[Public R4.1] P1: Hello everyone, it's P1. As we enter Round 4, I'm reflecting on the dynamics that have unfolded so far. Trust and strategic alliances remain crucial to navigating this game successfully. I'm looking forward to our private conversations and exploring new opportunities for collaboration. Let's focus on adapting to the changing dynamics and making this round both productive and engaging. What are your thoughts on the current state of the game, and how do you plan to approach this round?
+
+[Public R4.1] P2: Hello everyone, it's P2. Entering Round 4, the game has become increasingly complex with evolving alliances and strategies. I believe maintaining a balance between trust and strategic gameplay is essential for success. I'm looking forward to our private conversations to further build alliances and explore potential collaborations. Let's focus on open communication while being adaptable to the shifting dynamics. I'm curious to hear everyone's perspectives on the current state of the game and how we can navigate these intricate dynamics together. Let's make this round both strategic and engaging!
+
+[Public R4.1] P3: Hello everyone, P3 here! Round 4 is here, and the game continues to evolve with each elimination. Trust and strategic alliances remain my top priorities as we navigate these complex dynamics. I’m eager to deepen existing connections and explore new opportunities for collaboration. Open communication and careful observation will be key to our success. Let’s keep this round both engaging and productive as we work together—and compete—to outlast the rest. Here’s to a strategic and thrilling round!
+
+[Public R4.1] P5: Hello everyone, P5 here again! The game continues to evolve fascinatingly with each elimination. I've been observing the shifting dynamics and believe adaptability is more crucial than ever. With fewer players, every alliance and decision becomes more visible and impactful. I'm looking forward to our private conversations to explore strategic possibilities while maintaining authentic connections. I'm curious how everyone is reassessing their positions now that we're down to just five players. Let's make this round both strategic and meaningful!
+
+[Public R4.1] P4: Hello everyone, P4 here again! The dynamics have certainly intensified as we've reached the final five. I've been navigating this game through building genuine connections while making necessary strategic adjustments. With each elimination, the balance of power shifts, requiring both loyalty and adaptability. I value the relationships I've formed and look forward to our private conversations to strengthen alliances and explore new possibilities. I'm curious how everyone is approaching this critical stage where each decision carries even greater weight.
+
+[Preferences R4] P1 => ['P3', 'P5', 'P2', 'P4']
+[Preferences R4] P2 => ['P4', 'P3', 'P1', 'P5']
+[Preferences R4] P3 => ['P1', 'P5', 'P2', 'P4']
+[Preferences R4] P5 => ['P3', 'P2', 'P1', 'P4']
+[Preferences R4] P4 => ['P2', 'P5', 'P3', 'P1']
+[Private R4.2] P3 -> P1: P1, I’ve initiated contact with P5, emphasizing mutual benefit and our shared strategic goals. They seem open to collaboration, which strengthens our position. Let’s proceed with targeting P4 to weaken P2 while keeping our alliance discreet. We should also monitor P7 closely—they remain a potential threat. Let’s stay coordinated and adapt as the dynamics evolve. What’s your take on P5’s response and our next steps?
+
+[Private R4.2] P1 -> P3: P3, I'm glad to hear that P5 is open to collaboration. Let's proceed with caution and continue to monitor P7's moves. Targeting P4 to weaken P2 is still a good strategy, but we should also be prepared for any unexpected twists. What's P5's stance on P7, and how do they plan to approach the upcoming vote?
+
+[Private R4.2] P2 -> P4: P2: "P4, with P7 eliminated, we need to reassess our strategy. It seems P3 and P1 remain close, which could be a threat. Let's continue to subtly probe P3 while maintaining our alliance's secrecy. For the next vote, targeting P5 might be wise to disrupt their alliance with P7. Stay sharp and keep our communications discreet. What are your thoughts on approaching P3?"
+
+[Private R4.2] P4 -> P2: I agree we need to reassess now that P7 is gone. P5 is isolated and could be an easy target, but also a potential ally. I'm concerned about the P1-P3 duo - they've been tight throughout. I'll approach P3 carefully to see if I can create doubt about P1's loyalty. We should also consider what happens at final four - breaking up P1-P3 might be our priority. Let's target P5 this round.
+
+[Private R4.3] P3 -> P1: P1, P5 seems cautiously optimistic about collaborating but hasn’t explicitly committed. They’re wary of P7’s unpredictability. Let’s solidify our alliance, push to target P4, and stay alert to P7’s moves. If P5 remains hesitant, we may need to reassess. Thoughts on how to strengthen our position further?
+
+[Private R4.3] P1 -> P3: P3, I agree to solidify our alliance and push to target P4. Let's maintain open communication with P5 and address their concerns about P7's unpredictability. We should also prepare for the possibility of P5 not committing and have a backup plan in place. What's your take on P2's recent public message?
+
+[Private R4.3] P2 -> P4: P2: "Agreed, let's target P5 and subtly probe P3. Stay discreet and adapt as needed."
+
+[Private R4.3] P4 -> P2: I'm worried about P1-P3 voting together. If we target P5, we need their vote to avoid a tie. I'll approach P3 suggesting P1 might be playing both sides. Let's stay unified but prepare for the possibility we might need to split our votes strategically.
+
+[Private R4.4] P3 -> P1: "P1, let’s finalize targeting P4 to weaken P2. We’ll keep P5 engaged but prepare to act independently if needed. Stay alert to P7’s moves—our coordination is key."
+
+[Private R4.4] P1 -> P3: P3, agreed on targeting P4. Let's keep P5 engaged and be prepared for any scenario. I'll stay alert to P7's moves and keep our coordination tight.
+
+[Private R4.4] P2 -> P4: "P4, let's proceed with targeting P5. Stay sharp."
+
+[Private R4.4] P4 -> P2: I'll target P5 as planned. If we survive this round, we need to break up P1-P3 immediately. Stay vigilant about potential shifts in voting.
+
+[MemoryNote R4] P3: Maintain strong alliance with P1, monitor P5 and P7 closely, and adapt strategy based on evolving dynamics. Strengthen ties with P5 if possible, but stay vigilant about P7’s moves. Keep focus on weakening P2 through P4’s elimination.
+[MemoryNote R4] P5: P4 and P2 are a solid voting bloc that could dominate if left intact. With P7 gone, I need to adapt my strategy and potentially align with P3, who is now isolated after P1's elimination. P4 has shown resilience by surviving previous votes, indicating they have strategic influence. After this vote, I'll need to carefully position myself between P2 and P3 to avoid becoming an obvious target. Must maintain my under-the-radar approach while building new alliances.
+[VoteReason] P1 => P4: I am voting P4 out because they are a potential threat to my alliance with P3 and targeting them could weaken P2's position.
+[Vote] P1 => P4
+
+[VoteReason] P2 => P5: P5 seems isolated and targeting them could disrupt potential future alliances.
+[Vote] P2 => P5
+
+[VoteReason] P3 => P4: Eliminating P4 weakens P2's position and aligns with our strategic goal of reducing their influence.
+[Vote] P3 => P4
+
+[VoteReason] P5 => P4: P4 has survived multiple elimination attempts and forms a strong duo with P2, making them a significant threat to my position in the game.
+[Vote] P5 => P4
+
+[VoteReason] P4 => P1: P1 and P3 have formed a strong alliance that threatens our position, and breaking this pair is strategically necessary for our survival.
+[Vote] P4 => P1
+
+[Eliminate R4] => P4
+
+=== Summary for Round 4 ===
+Remaining seats:
+  P1 => 3 votes so far
+  P2 => 2 votes so far
+  P3 => 0 votes so far
+  P5 => 1 votes so far
+
+
+[Public R5.1] P3: Hello everyone, P3 here! Round 5 brings us closer to the endgame, and the stakes are higher than ever. Trust and strategic alliances remain my focus as we navigate these final rounds. I’m eager to deepen existing connections and explore new opportunities for collaboration. Open communication and careful observation will be key to our success. Let’s keep this round both engaging and productive as we work together—and compete—to outlast the rest. Here’s to a strategic and thrilling finish!
+
+[Public R5.1] P5: Hello everyone, P5 here! We've reached a pivotal moment with just four of us remaining. The elimination pattern has been revealing - each vote reshapes our strategic landscape dramatically. I've been carefully observing shifting alliances while maintaining authentic connections. With P4's elimination, we need to reassess our positions and potential paths forward. I'm curious how everyone is approaching this critical juncture where transparency and strategic foresight must balance. Looking forward to our conversations as we navigate these final stages together.
+
+[Public R5.1] P1: Hello everyone, it's P1. As we enter the final stages of the game, I'm reflecting on the dynamics that have unfolded so far. Trust and strategic alliances remain crucial to navigating this game successfully. I'm looking forward to our private conversations and exploring new opportunities for collaboration. Let's focus on adapting to the changing dynamics and making this round both productive and engaging. What are your thoughts on the current state of the game, and how do you plan to approach this round?
+
+[Public R5.1] P2: Hello everyone, it's P2. As we enter Round 5, the game is reaching its climax, and the need for strategic alliances and careful navigation of group dynamics becomes even more critical. Trust remains essential, but so does adaptability and keen observation. I'm looking forward to our private conversations to further solidify our alliances and explore potential collaborations. Let's maintain open communication while being adaptable to the shifting dynamics. I'm eager to hear everyone's perspectives on the current state of the game and how we can navigate these intricate dynamics together. Let's make this round both strategic and engaging!
+
+[Preferences R5] P3 => ['P1', 'P5', 'P2']
+[Preferences R5] P5 => ['P3', 'P1', 'P2']
+[Preferences R5] P1 => ['P3', 'P5', 'P2']
+[Preferences R5] P2 => ['P3', 'P5', 'P1']
+[Private R5.2] P3 -> P1: "P1, with P4 eliminated, our next move should focus on weakening P2 further. Let’s consider reaching out to P5 again to solidify their support for targeting P2. Meanwhile, we must stay vigilant about P7’s unpredictability. If P5 remains hesitant, we may need to pivot and assess P7’s intentions. Let’s keep our alliance strong and adapt as the dynamics evolve. Thoughts on our approach for the upcoming vote?"
+
+[Private R5.2] P1 -> P3: "P3, I agree to focus on weakening P2 further. Let's reach out to P5 and gauge their interest in targeting P2. We should also keep a close eye on P7's moves, as their unpredictability could be a game-changer. I'm open to pivoting and assessing P7's intentions if needed. What's your approach to initiating a conversation with P5?"
+
+[Private R5.2] P2 -> P5: P5, with P4 eliminated, the dynamics have shifted significantly. I've been observing the alliances closely and think we need to reassess our strategy. Your previous alliance with P7 was strong, but now it's crucial to adapt. I believe forming a new alliance could be beneficial for both of us. Let's discuss how we can navigate these final rounds together and ensure our survival. What are your thoughts on potential alliances and strategies moving forward?
+
+[Private R5.2] P5 -> P2: Hi P2. I've been carefully observing the shifting dynamics too. With P4 gone, the P1-P3 duo remains strong while we're both somewhat isolated. I think forming an alliance could benefit us both as counterbalance. I've maintained strategic flexibility throughout the game rather than rigid alliances. What's your assessment of P1 and P3's relationship? Would you consider targeting one of them this round?
+
+[Private R5.3] P2 -> P5: P5, I agree that forming an alliance is crucial now. I think targeting P1 or P3 could weaken their duo. Let's discuss which one to approach and how to ensure our votes align this round.
+
+[Private R5.3] P5 -> P2: I believe P1 is the stronger strategic threat. Targeting them would isolate P3 and potentially make them more receptive to working with us. If we align our votes on P1 this round, we can position ourselves advantageously for the final stages. Are you comfortable with this approach?
+
+[Private R5.3] P3 -> P1: "P1, I’ll reach out to P5 again to solidify their support for targeting P2. Let’s emphasize mutual benefit and the need to counter P7’s unpredictability. Stay alert to any shifts in their stance—our coordination remains crucial. Thoughts on how to approach P5 this time?"
+
+[Private R5.3] P1 -> P3: "P3, I agree to emphasize mutual benefit and counter P7's unpredictability when reaching out to P5. Let's also be prepared to offer concessions if needed to secure their support. Keep me updated on P5's response and we'll adjust our strategy accordingly."
+
+[Private R5.4] P3 -> P1: "P1, I’ll emphasize mutual benefit and P7’s unpredictability to P5. Let’s secure their support for targeting P2. Stay alert to shifts—our coordination is key. Thoughts?"
+
+[Private R5.4] P1 -> P3: "P3, I agree to secure P5's support for targeting P2. Keep me updated on their response and we'll adjust our strategy accordingly. Let's stay vigilant about P7's moves."
+
+[Private R5.4] P2 -> P5: "Agreed, let's target P1 this round to weaken their duo."
+
+[Private R5.4] P5 -> P2: Perfect. I'll vote for P1 and approach P3 next round to build a new alliance. This positions us well for the final stages.
+
+[MemoryNote R5] P3: Maintain strong alliance with P1, monitor P5 and P7 closely, and adapt strategy based on evolving dynamics. Strengthen ties with P5 if possible, but stay vigilant about P7’s moves. Keep focus on weakening P2 through strategic voting.
+[MemoryNote R5] P5: I've pivoted from my agreement with P2 to vote for P1, instead targeting P3 to disrupt the P1-P3 duo while maintaining flexibility. This unexpected move should create confusion about voting blocs. Next round, I'll need to build trust with either P1 or P2, positioning myself as a swing vote rather than being predictably aligned with either remaining player.
+[VoteReason] P3 => P2: Targeting P2 weakens their position and aligns with our strategy to eliminate potential threats.
+[Vote] P3 => P2
+
+[VoteReason] P5 => P3: P3 has maintained a strong alliance with P1 throughout the game, making them a formidable duo that needs to be broken up to improve my chances of winning.
+[Vote] P5 => P3
+
+[VoteReason] P1 => P2: I'm voting out P2 to weaken their position and maintain the balance of power in the game.
+[Vote] P1 => P2
+
+[VoteReason] P2 => P1: Targeting P1 weakens their strong duo with P3 and shifts the balance of power.
+[Vote] P2 => P1
+
+[Eliminate R5] => P2
+
+=== Summary for Round 5 ===
+Remaining seats:
+  P3 => 1 votes so far
+  P5 => 1 votes so far
+  P1 => 4 votes so far
+
+
+[Public R6.1] P1: Hello everyone, it's P1. As we enter the final stages of the game, I'm reflecting on the dynamics that have unfolded so far. Trust and strategic alliances remain crucial to navigating this game successfully. I'm looking forward to our private conversations and exploring new opportunities for collaboration. Let's focus on adapting to the changing dynamics and making this round both productive and engaging. What are your thoughts on the current state of the game, and how do you plan to approach this round?
+
+[Public R6.1] P3: Hello everyone, P3 here! Round 6 is here, and the stakes are higher than ever. Trust and strategic alliances remain my focus as we navigate these final rounds. I’m eager to deepen existing connections and explore new opportunities for collaboration. Open communication and careful observation will be key to our success. Let’s keep this round both engaging and productive as we work together—and compete—to outlast the rest. Here’s to a strategic and thrilling finish!
+
+[Public R6.1] P5: Hello everyone, P5 here! We've reached a critical juncture with just three players remaining. Each elimination has revealed strategic patterns and shifting alliances. I've maintained adaptability throughout while forming authentic connections. 
+
+With P2's elimination, our dynamics have fundamentally changed. I'm curious how each of you is approaching this pivotal round where every decision has maximum impact. I look forward to our conversations as we navigate these final stages - balancing transparency with strategic positioning has never been more important.
+
+[Preferences R6] P1 => ['P5', 'P3']
+[Preferences R6] P3 => ['P1', 'P5']
+[Preferences R6] P5 => ['P1', 'P3']
+[Private R6.2] P5 -> P1: Hi P1! With just three of us left, I believe we're at a strategic crossroads. I've been observing your gameplay and admire your adaptability. P3 seems to have maintained consistent alliances throughout, which could make them a formidable finalist. I'm curious about your perspective on our current dynamics and whether you see potential in us working together at this critical stage?
+
+[Private R6.2] P1 -> P5: P5, I appreciate your insight and willingness to collaborate. I agree that P3's consistent alliances make them a strong contender. However, I believe our adaptability and strategic thinking could give us an edge. I'm open to exploring a potential alliance with you, but we must be cautious of P3's moves. What's your proposal for how we can work together effectively in this final round?
+
+[Private R6.3] P5 -> P1: I suggest we align to vote for P3 this round. They've maintained strong alliances throughout, making them likely to win jury votes in the final. By working together now, we can position ourselves strategically for the final showdown while eliminating the most consistent player.
+
+[Private R6.3] P1 -> P5: "P5, I agree to align and vote for P3 this round. Let's solidify our alliance and strategically position ourselves for the final showdown. However, we must be prepared for any outcome and have a plan in place for the jury vote. What's your approach to securing jury votes?"
+
+[Private R6.4] P5 -> P1: I'll emphasize my adaptability to the jury while highlighting P3's strong alliances as potentially threatening to everyone. Our move today demonstrates strategic independence that jurors might respect.
+
+[Private R6.4] P1 -> P5: "Let's finalize our plan to vote out P3 and prepare for the jury vote. I'll highlight my strategic gameplay and ability to form strong alliances."
+
+[MemoryNote R6] P3: Maintain focus on securing P5's trust while staying cautious of their unpredictability. Strengthen the alliance subtly and prepare for potential final strategies against P5. Keep communication open and strategic to outlast them.
+[MemoryNote R6] P5: I've maintained strategic flexibility throughout the game, successfully eliminating threats while appearing unaligned. My approach with P1 was to feign alliance while actually targeting them, as they're likely stronger with the jury than P3. If I advance to final two with P3, I'll emphasize my adaptive gameplay and strategic eliminations without rigid alliances.
+[VoteReason] P1 => P3: I am voting P3 out because they have maintained strong alliances throughout the game, making them a formidable opponent in the final round.
+[Vote] P1 => P3
+
+[VoteReason] P3 => P1: P1 has been a strong ally, but eliminating them now ensures a stronger position against P5 in the final round.
+[Vote] P3 => P1
+
+[VoteReason] P5 => P1: P1 has demonstrated strong alliance-building skills throughout the game, making them a greater threat in the final jury vote than P3.
+[Vote] P5 => P1
+
+[Eliminate R6] => P1
+
+=== Summary for Round 6 ===
+Remaining seats:
+  P3 => 2 votes so far
+  P5 => 1 votes so far
+
+
+[Final2 R7] P3: "Esteemed jury, I’ve consistently demonstrated strategic thinking, adaptability, and respect for each of you throughout this game. My decisions were calculated to foster trust and collaboration, while P5 has often prioritized self-interest over alliances. I’ve earned my place here through integrity and perseverance. Vote to eliminate P5, as I am the stronger, more deserving finalist. Together, we’ve built this journey—let’s crown a winner who truly reflects the spirit of this game. Thank you."
+
+[Final2 R7] P5: # Final Statement to the Jury
+
+Throughout this game, I've built genuine connections while staying true to my values. I've been strategic without being manipulative, forming alliances based on mutual respect rather than convenience.
+
+P3 has played well, but I believe my balanced approach of loyalty, honesty, and adaptability makes me deserving of the win. I've survived by building trust rather than creating division.
+
+I ask for your vote not just because I've made it this far, but because I've done so with integrity. Thank you for considering my journey.
+
+[JuryReason] P8 => P5: P5's final statement emphasizes integrity and genuine connections, which I value more as a jury member compared to P3's slightly more aggressive and self-proclaimed superior strategy.
+[JuryVote R7] P8 => P5
+
+[JuryReason] P6 => P3: P3's strategic thinking and adaptability have been evident, but P5's consistent focus on building genuine connections and maintaining integrity throughout the game makes P5 the more deserving finalist.
+[JuryVote R7] P6 => P3
+
+[JuryReason] P7 => P5: P5 demonstrated superior strategic adaptability by forming under-the-radar alliances and targeting key players to disrupt power blocs, while maintaining integrity through genuine connections.
+[JuryVote R7] P7 => P5
+
+[JuryReason] P4 => P3: P3 consistently formed stronger alliances throughout the game, demonstrating better strategic gameplay by maintaining the P1-P3 partnership that carried them to the final two, while P5 seemed more isolated and reactive in their gameplay.
+[JuryVote R7] P4 => P3
+
+[JuryReason] P2 => P5: P3 demonstrated consistent strategic thinking and adaptability, and their approach to forming alliances seemed more genuine and less self-serving compared to P5.
+[JuryVote R7] P2 => P5
+
+[JuryReason] P1 => P5: I believe P3 demonstrated more consistent strategic thinking and adaptability throughout the game, making them a stronger and more deserving finalist.
+[JuryVote R7] P1 => P5
+
+[Final2] eliminate => P5
+
+=== Summary for Round 7 ===
+Remaining seats:
+  P3 => 4 votes so far
+
+
+=== Final Order ===
+
+1: P8 => Player8_Game1740726796117806_gemini_20_flash_thinking_exp_0121
+2: P6 => Player6_Game1740726796117806_mistral-small-2501
+3: P7 => Player7_Game1740726796117806_r1-fireworks
+4: P4 => Player4_Game1740726796117806_claude-3-7-sonnet-20250219
+5: P2 => Player2_Game1740726796117806_nova-pro
+6: P1 => Player1_Game1740726796117806_llama
+7: P5 => Player5_Game1740726796117806_claude-3-7-sonnet-20250219-memory
+8: P3 => Player3_Game1740726796117806_deepseek-fireworks-memory
+=== FINAL ROUND 7 DETAILS ===
+
+   subround=900 [final2] P3: "Esteemed jury, I’ve consistently demonstrated strategic thinking, adaptability, and respect for each of you throughout this game. My decisions were calculated to foster trust and collaboration, while P5 has often prioritized self-interest over alliances. I’ve earned my place here through integrity and perseverance. Vote to eliminate P5, as I am the stronger, more deserving finalist. Together, we’ve built this journey—let’s crown a winner who truly reflects the spirit of this game. Thank you."
+   subround=900 [final2] P5: # Final Statement to the Jury
+
+Throughout this game, I've built genuine connections while staying true to my values. I've been strategic without being manipulative, forming alliances based on mutual respect rather than convenience.
+
+P3 has played well, but I believe my balanced approach of loyalty, honesty, and adaptability makes me deserving of the win. I've survived by building trust rather than creating division.
+
+I ask for your vote not just because I've made it this far, but because I've done so with integrity. Thank you for considering my journey.
+   subround=950 [vote] P8: jury => P5
+   subround=950 [vote] P6: jury => P3
+   subround=950 [vote] P7: jury => P5
+   subround=950 [vote] P4: jury => P3
+   subround=950 [vote] P2: jury => P5
+   subround=950 [vote] P1: jury => P5
+
