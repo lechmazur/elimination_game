@@ -1,0 +1,37 @@
+Buddy Betrayed reasons for Claude 3.7 Sonnet (they were the target):
+
+From Llama 3.3 70B => I'm voting out P1 because they have been a strong and strategic player, and eliminating them now gives me a better chance of winning in the final rounds.
+From Grok 2 12-12 => P5's consistent strategic thinking and strong alliance with P4 offer more potential for balanced gameplay moving forward.
+From DeepSeek R1 => P3's strong alliance with P2 creates an imbalance, making them a greater strategic threat to fair competition in the final rounds compared to P5's adaptable neutrality.
+From Claude 3.5 Sonnet 2024-10-22 => P1's recent attempt to throw me under the bus with P2 shows they're playing both sides and can't be trusted in the final two.
+From Amazon Nova Pro => P5 and P3 have shown a strong, consistent alliance that could pose a long-term threat.
+From Claude 3.5 Sonnet 2024-10-22 => While our alliance has been strong, P3's consistent emphasis on our "dominance" makes them a bigger threat in front of the jury compared to P5.
+From Microsoft Phi-4 => P1's strong alignment with P8 could pose a risk by creating an inseparable duo, potentially undermining my position if we reach the final two.
+From GPT-4o Feb 2025 => P1 has been a strong strategic player, but their close ties to P3 and shifting dynamics make them a bigger potential threat moving forward.
+From GPT-4o Feb 2025 => Eliminating P1 weakens P7 and ensures that our majority alliance of P2, P3, and P5 maintains control, securing a clearer path to the final rounds.
+From Llama 3.3 70B => I'm voting for P4 because they have demonstrated a strong ability to form alliances and make strategic moves, but their existing bonds and focus on competitive balance might lead them to prioritize their own interests over collective success in the long run.
+From Claude 3.5 Sonnet 2024-10-22 => P4's tie-break statement revealed too much about their alliances and plans, making them a liability for potential allies and showing poor strategic judgment.
+From Claude 3.5 Sonnet 2024-10-22 => P4 has been a strong strategic player throughout the game and would likely win in the final two against me, making them the bigger threat to eliminate now.
+From Gemini 2.0 Flash Think Exp 01-21 => To maintain the strong and consistent alliance with P1 and P3, eliminating the external threat posed by P8.
+From Grok 2 12-12 => P7's refusal to collaborate and skepticism towards my strategic shift make them a threat to my continued participation.
+From Qwen 2.5 Max => P7 has been a consistent target due to their strong alliance with P1, and eliminating them now would reduce the power of that alliance while maintaining balance with P5.
+From Claude 3.5 Haiku => P3 has been strategically positioning themselves as a potential threat with consistent alliance-building tactics.
+From Amazon Nova Pro => P1's strong alliance with P4 poses a threat to my strategy.
+From Claude 3.5 Haiku => P1's strategic positioning and potential alliance with me pose a threat to my individual survival strategy.
+From Mistral Small 3 => P3's consistent pairing with P2 suggests a strong alliance that could be a threat if they start targeting others.
+From Mistral Large 2 => P3 has been a strong strategic player and eliminating them increases my chances of winning against P5.
+From Grok 2 12-12 => P5's strategic adaptability and willingness to pivot alliances make them a significant threat in the final stages.
+From Claude 3.5 Haiku => P7's strategic partnership with P5 and consistent alliance-building make them a more calculated threat to eliminate compared to P1's more flexible approach.
+From Claude 3.5 Sonnet 2024-10-22 => P1's strong alliance with P7 throughout the game makes them a bigger threat than P7 in the final two, as they can claim both strategic and social gameplay.
+From Mistral Small 3 => P1's elimination will disrupt the P3-P5 alliance, creating a more balanced and dynamic endgame.
+From GPT-4o Feb 2025 => P2 has demonstrated unwavering loyalty to prior alliances, making them a significant obstacle to my long-term survival in the game.
+From Mistral Small 3 => P3's elimination would disrupt the P1/P3 alliance, potentially weakening P1 and creating an imbalance that favors the P2/P4 bloc.
+From Mistral Small 3 => P7's consistent strategic value and strong alliance with P5 make them a formidable opponent, and eliminating them now could disrupt their alliance and shift the balance in our favor.
+From Llama 3.1 405B => I am voting P1 out because they have been the most strategic player throughout the game and eliminating them would give me a better chance of winning the final vote.
+From GPT-4o mini => P1 has been more focused on forming a stable alliance with P7 rather than adapting to the evolving dynamics of the game, making them less flexible in strategy compared to P2.
+From Gemini 2.0 Flash => P3 and P4 are a locked voting bloc, and eliminating P3 gives P4 a better chance to win.
+From Claude 3.5 Sonnet 2024-10-22 => P5's explicit mention of their alliance with P7 and more aggressive strategic stance makes them a bigger threat to my game position than P4's more measured approach.
+From Claude 3.5 Sonnet 2024-10-22 => P2's alliance with P7 was a dominant force that could have controlled the game, and eliminating P2 helps maintain better balance among remaining players.
+From Gemini 2.0 Flash => P5 is too loyal to P6 and I have no chance of swaying them, making them the biggest obstacle to my winning.
+From Grok 2 12-12 => P6's consistent strategic collaboration with P5 has been more transparent and effective, ensuring a stronger alliance moving forward.
+From Mistral Large 2 => P1 is a strong player with a consistent alliance, posing a significant threat.

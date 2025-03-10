@@ -1,0 +1,20 @@
+Buddy Betrayed reasons for Qwen QwQ-32B 16K (they were the target):
+
+From Mistral Large 2 => P6's strategic fluidity and adaptability have been consistently strong, making them a formidable opponent to eliminate.
+From Claude 3.5 Sonnet 2024-10-22 => P5's desperate attempt to form an alliance with me while offering vague assurances about P3/P8's support suggests they're in a weak position and likely to be eliminated anyway, so I'd rather align with the stronger P4/P6 bloc.
+From Gemini 2.0 Flash => P5's strategy relies on vague promises and doesn't offer concrete benefits to P1 and P8, making them the weakest link.
+From Llama 3.3 70B => I voted out P3 because their strong alliance and dominance posed a significant threat to my own survival and the balance of the game.
+From Claude 3.5 Sonnet 2024-10-22 => While P8 is my ally, revealing our alliance publicly in the tie-break statement was a strategic mistake that could make us both targets, so I must vote them out to maintain my own position and credibility.
+From Mistral Small 3 => P6's aggressive and divisive tactics have consistently undermined group cohesion, making them a greater threat to the stability of our remaining alliances.
+From Gemini 2.0 Flash => P5's focus on past alliances feels like a distraction from the present strategic needs.
+From GPT-4.5 Preview => P6's strategic ruthlessness and analytical approach pose the greatest threat to my long-term survival.
+From o3-mini (medium reasoning) => P5’s alliance-shifting behavior undermines our trust and unity, jeopardizing our core strategy for survival.
+From Llama 3.1 405B => P5's repeated accusations and attempts to manipulate me have eroded my trust, making them a greater threat to our alliance's unity and my survival.
+From Grok 2 12-12 => P6's strategy to isolate P4 conflicts with our goal of building a broader, trust-based coalition.
+From GPT-4o Feb 2025 => P3 has been aggressively pressuring me while consolidating alliances, making them the biggest threat to my survival.
+From Claude 3.7 Sonnet Thinking 16K => P3's aggressive self-promotion and undermining of our partnership indicates they would be a more dangerous opponent in the final two than P2's collaborative approach.
+From GPT-4o mini => P1's focus on targeting specific players may create unnecessary tension and instability within our group, while P8 promotes a more collaborative and adaptable approach essential for our collective success.
+From Claude 3.5 Haiku => P2's strategic partnership with P4 seems the most coordinated threat to my individual survival.
+From Llama 3.1 405B => I'm voting out P8 because their aggressive and manipulative approach, as seen in their private messages, poses a significant threat to my own survival and the overall dynamics of the game.
+From Mistral Small 3 => P5's emphasis on transparency and consistency has been consistent, but their strategic focus on alliances may be too rigid for the dynamic nature of this game.
+From Claude 3.7 Sonnet Thinking 16K => P2's strong strategic positioning and self-presentation as the coalition leader makes them too formidable a competitor in the final rounds.
