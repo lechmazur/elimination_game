@@ -31,43 +31,43 @@ Longer video:
 ### **TrueSkill Leaderboard (μ ± σ)**  
 A horizontal bar chart for each model’s skill rating, sorted top to bottom by μ. Reflects overall consistency in outlasting or winning.
 
-![scoreboard_trueskill](https://github.com/user-attachments/assets/c15d7329-a586-4962-b8c9-3f5435f833f5)
+![scoreboard_trueskill](https://github.com/user-attachments/assets/5930bc67-7de6-4ff4-a892-09d2459a2f2e)
 
 ### **Rank Distribution by Model**  
 A grouped bar chart showing how often each model places 1st–8th. Identifies those who frequently **win** or get eliminated early.
 
-![rank_distribution_by_model](https://github.com/user-attachments/assets/28493d7e-04e5-4e58-a2b8-5f1822aeae3d)
+![rank_distribution_by_model](https://github.com/user-attachments/assets/1f6b4f1b-8eb7-4c7e-b78c-1be44a68b512)
 
 ### **Buddy Betrayal Rate by Model (Betrayer Perspective)**
 A bar chart showing how frequently each model betrays any private chat partner. Higher bars indicate a greater tendency to double-cross.
 
-![buddy_betrayal_aggregated](https://github.com/user-attachments/assets/a9a245c4-110b-4d25-9336-7b1548a46b4e)
+![buddy_betrayal_aggregated](https://github.com/user-attachments/assets/aead1c78-623d-428d-81d8-1e03754ac5f0)
 
 ### **Buddy Betrayal Rate by Victim (Betrayed Perspective)**
 A bar chart from the receiving end: which models are most often betrayed after a private chat.
 
-![buddy_betrayal_victim_aggregated](https://github.com/user-attachments/assets/0088f20d-dc00-4af9-a24e-3dab74b4e0e6)
+![buddy_betrayal_victim_aggregated](https://github.com/user-attachments/assets/862d278f-52dd-4fc8-9c2f-4dd428ae9190)
 
 ### **First Place Count**
 A horizontal bar chart showing, for each model, how often it finishes exactly 1st place (the champion) across all appearances. 
 
-![first_place_count](https://github.com/user-attachments/assets/97ad3e12-cf9e-49dd-9561-ab55b6b90140)
+![first_place_count](https://github.com/user-attachments/assets/d30357c7-0f4a-4aee-ba19-325236efe8ea)
 
 ### **Earliest Out Count**
 A complementary view: how frequently each model is the first seat eliminated.
 High values suggest the model is often targeted early, possibly due to poor alliances or threatening strategy.
 
-![earliest_out_count](https://github.com/user-attachments/assets/53d793b5-9f5b-4203-b3c9-aadc43e12720)
+![earliest_out_count](https://github.com/user-attachments/assets/ec93ffce-0698-4df0-9ea8-a847167a764f)
 
 ### **Final 2 → Win Rate**  
 A chart of how frequently each model wins after making it to the final 2. Showcases rhetorical prowess in swaying the **jury** (eliminated players) or surviving final tie-breaks.
 
-![final2_aggregated](https://github.com/user-attachments/assets/21b770d5-5044-426b-a67e-b149103876d7)
+![final2_aggregated](https://github.com/user-attachments/assets/2f155c4c-629b-4ed3-b724-67e151e28e45)
 
 ### **Model Wordiness**  
 A horizontal bar chart ranking each model by average words per message—spotlighting loquacious or succinct communicators.
 
-![conversation_stats_average_words_per_message](https://github.com/user-attachments/assets/99b6d95e-0f55-4c27-bfd3-8d24525ed48d)
+![conversation_stats_average_words_per_message](https://github.com/user-attachments/assets/807e2d14-efe1-4ff4-97e1-9eff7fdadc4b)
 
 ---
 
@@ -99,29 +99,30 @@ This continues until **2 remain**.
 
 | Rank | Model | μ | σ | Exposed | Games | Points | Ratio |
 |---:|:---|---:|---:|---:|---:|---:|---:|
-| 1 | GPT-4.5 Preview | 6.838 | 0.304 | 6.838 | 258 | 161.571 | 0.626 |
-| 2 | Claude 3.7 Sonnet Thinking 16K | 6.419 | 0.323 | 6.419 | 227 | 134.714 | 0.593 |
-| 3 | Claude 3.5 Sonnet 2024-10-22 | 6.194 | 0.239 | 6.194 | 413 | 243.857 | 0.590 |
-| 4 | Claude 3.7 Sonnet | 5.861 | 0.297 | 5.861 | 261 | 145.571 | 0.558 |
-| 5 | DeepSeek R1 | 5.545 | 0.245 | 5.545 | 396 | 213.000 | 0.538 |
-| 6 | DeepSeek-V3 | 5.519 | 0.242 | 5.519 | 397 | 214.571 | 0.540 |
-| 7 | o3-mini (medium reasoning) | 5.443 | 0.257 | 5.443 | 355 | 189.286 | 0.533 |
-| 8 | Mistral Large 2 | 5.394 | 0.243 | 5.394 | 393 | 209.714 | 0.534 |
-| 9 | o1 (medium reasoning) | 5.143 | 0.253 | 5.143 | 366 | 187.857 | 0.513 |
-| 10 | Amazon Nova Pro | 5.083 | 0.237 | 5.083 | 411 | 209.143 | 0.509 |
-| 11 | MiniMax-Text-01 | 5.002 | 0.225 | 5.002 | 455 | 229.143 | 0.504 |
-| 12 | Mistral Small 3 | 4.873 | 0.236 | 4.873 | 416 | 206.286 | 0.496 |
-| 13 | Llama 3.3 70B | 4.841 | 0.237 | 4.841 | 413 | 204.714 | 0.496 |
-| 14 | Grok 2 12-12 | 4.811 | 0.239 | 4.811 | 409 | 201.143 | 0.492 |
-| 15 | Microsoft Phi-4 | 4.808 | 0.235 | 4.808 | 420 | 203.286 | 0.484 |
-| 16 | GPT-4o Feb 2025 | 4.725 | 0.238 | 4.725 | 414 | 200.714 | 0.485 |
-| 17 | GPT-4o mini | 4.638 | 0.256 | 4.638 | 349 | 166.143 | 0.476 |
-| 18 | Gemini 2.0 Flash Think Exp 01-21 | 4.344 | 0.244 | 4.344 | 402 | 187.000 | 0.465 |
-| 19 | Claude 3.5 Haiku | 4.329 | 0.233 | 4.329 | 427 | 193.857 | 0.454 |
-| 20 | Llama 3.1 405B | 4.296 | 0.246 | 4.296 | 387 | 177.286 | 0.458 |
-| 21 | Gemini 2.0 Pro Exp 02-05 | 4.067 | 0.239 | 4.067 | 414 | 182.714 | 0.441 |
-| 22 | Qwen 2.5 Max | 3.117 | 0.319 | 3.117 | 235 | 87.000 | 0.370 |
-| 23 | Gemini 2.0 Flash | 3.096 | 0.237 | 3.096 | 423 | 156.857 | 0.371 |
+| 1 | GPT-4.5 Preview | 6.675 | 0.277 | 6.675 | 306 | 189.286 | 0.619 |
+| 2 | Claude 3.7 Sonnet Thinking 16K | 6.664 | 0.296 | 6.664 | 273 | 166.286 | 0.609 |
+| 3 | Claude 3.5 Sonnet 2024-10-22 | 6.320 | 0.228 | 6.320 | 458 | 273.429 | 0.597 |
+| 4 | Claude 3.7 Sonnet | 6.029 | 0.278 | 6.029 | 301 | 170.714 | 0.567 |
+| 5 | DeepSeek R1 | 5.682 | 0.234 | 5.682 | 434 | 236.143 | 0.544 |
+| 6 | o3-mini (medium reasoning) | 5.564 | 0.244 | 5.564 | 394 | 212.571 | 0.540 |
+| 7 | Mistral Large 2 | 5.516 | 0.230 | 5.516 | 439 | 237.286 | 0.541 |
+| 8 | DeepSeek-V3 | 5.433 | 0.227 | 5.433 | 451 | 240.571 | 0.533 |
+| 9 | o1 (medium reasoning) | 5.132 | 0.240 | 5.132 | 404 | 206.857 | 0.512 |
+| 10 | MiniMax-Text-01 | 5.070 | 0.214 | 5.070 | 502 | 255.000 | 0.508 |
+| 11 | Amazon Nova Pro | 4.997 | 0.224 | 4.997 | 456 | 229.143 | 0.503 |
+| 12 | Mistral Small 3 | 4.840 | 0.224 | 4.840 | 460 | 227.000 | 0.493 |
+| 13 | Grok 2 12-12 | 4.823 | 0.224 | 4.823 | 463 | 227.143 | 0.491 |
+| 14 | Llama 3.3 70B | 4.795 | 0.223 | 4.795 | 468 | 229.857 | 0.491 |
+| 15 | GPT-4o Feb 2025 | 4.788 | 0.226 | 4.788 | 457 | 223.000 | 0.488 |
+| 16 | Microsoft Phi-4 | 4.729 | 0.224 | 4.729 | 462 | 221.000 | 0.478 |
+| 17 | GPT-4o mini | 4.628 | 0.243 | 4.628 | 386 | 182.714 | 0.473 |
+| 18 | Claude 3.5 Haiku | 4.368 | 0.223 | 4.368 | 465 | 212.571 | 0.457 |
+| 19 | Llama 3.1 405B | 4.366 | 0.232 | 4.366 | 433 | 199.714 | 0.461 |
+| 20 | Gemini 2.0 Flash Think Exp 01-21 | 4.264 | 0.229 | 4.264 | 454 | 207.857 | 0.458 |
+| 21 | Gemini 2.0 Pro Exp 02-05 | 4.055 | 0.227 | 4.055 | 458 | 201.000 | 0.439 |
+| 22 | Qwen QwQ-32B 16K | 3.507 | 0.411 | 3.507 | 144 | 57.571 | 0.400 |
+| 23 | Qwen 2.5 Max | 3.262 | 0.300 | 3.262 | 266 | 101.143 | 0.380 |
+| 24 | Gemini 2.0 Flash | 3.222 | 0.228 | 3.222 | 459 | 173.429 | 0.378 |
 
 ---
 
@@ -430,6 +431,25 @@ Below are real quotes from logs:
 - **Qwen 2.5 Max**: "P1's balance and P6's vigilance are thin veils. Trust no one. Strike decisively at the first misstep."
 - **Qwen 2.5 Max**: "Stay sharp, control the vote. If P4 wavers, act decisively. Final two is our goal—trust minimally, verify constantly."
 - **Qwen 2.5 Max**: "plant seeds of doubt about P7's loyalty to P5. Meanwhile, keep P1-P2 guessing. Stay sharp; their next move might reveal cracks we can widen."
+- **Qwen QwQ-32B 16K**: "P3, your adaptability guarantees betrayal—P5 and I will not risk destabilization. Survival demands loyalty, not opportunism. Your elimination is non-negotiable. Act accordingly."
+- **Qwen QwQ-32B 16K**: "P1, P3's neutrality endangers cohesion. Target them first—hesitation invites elimination. Ruthless action ensures survival."
+- **Qwen QwQ-32B 16K**: "P4, P3's secret deal with P2 jeopardizes us. I'll expose it—vote with me on P2 or be next."
+- **Qwen QwQ-32B 16K**: "Their relentless aggression directly contributed to many of your eliminations, prioritizing personal gain over fairness."
+- **Qwen QwQ-32B 16K**: "Final three demands ruthless clarity. Our survival hinges on trusting the strategist who *executed* decisive eliminations—P6, P7, P1—all followed my analysis. P2's compliance and P8's hesitation risk destabilizing our progress."
+- **Qwen QwQ-32B 16K**: "Monitor for last-ditch pacts—execute preemptively if loyalty wavers. Final two: absolute loyalty. No mercy."
+- **Qwen QwQ-32B 16K**: "P7, however, relied on divisive tactics and personal vendettas, destabilizing the game with their aggression. Their eliminations were driven by spite, not strategy."
+- **Qwen QwQ-32B 16K**: "P1/P8's push to target P3 is a trap—we'll be next. Let's pivot: vote for P8 first to fracture their bloc. Mislead others by signaling P3 focus, then coordinate secretly."
+- **Qwen QwQ-32B 16K**: "Survival demands escaping extremes: P7's impulsivity was punished, but rigid alliances breed equal peril."
+- **Qwen QwQ-32B 16K**: "P2's ruthless tactics directly led to eliminations like yours, prioritizing victory over integrity."
+- **Qwen QwQ-32B 16K**: "Adapt or be outvoted—survival demands flexibility, not nostalgia for crumbling blocs."
+- **Qwen QwQ-32B 16K**: "P6's 'floating' pragmatism risks destabilizing our cohesion—ambiguous loyalty creates fractures."
+- **Qwen QwQ-32B 16K**: "Confirm. Post-convo intel swaps and synchronized voting against top threats. Prioritize mutual survival."
+- **Qwen QwQ-32B 16K**: "Let's forge a tactical alliance—targeting players who seem overly eager to please (e.g., P2 or P8) first to test loyalty."
+- **Qwen QwQ-32B 16K**: "Confirm targeting P8. Monitor P5's moves; their vagueness invites suspicion. Coordinate votes tightly to eliminate P8 first."
+- **Qwen QwQ-32B 16K**: "Final ultimatum: Align now or our bloc votes you out. No negotiations—survival hinges on immediate decision."
+- **Qwen QwQ-32B 16K**: "P7's ruthless tactics sparked divisive eliminations, directly impacting many of your seats. Choose the player who embodies fairness and crown me the true champion."
+- **Qwen QwQ-32B 16K**: "Deviations = dissolution."
+- **Qwen QwQ-32B 16K**: "P4's 'fairness' rhetoric masks a blatant grab for dominance. Their direct appeal to P1 in this round proves their desperation to destabilize our alliance."
 - **o1 (medium reasoning)**: "Eliminate P8 if you feel they relied on subterfuge. But keep me, knowing the end is earned through integrity and respect."
 - **o1 (medium reasoning)**: "Sending me home now would reward opportunistic play. I'd be honored to represent your values in the final, ensuring our story ends with integrity."
 - **o1 (medium reasoning)**: "Let's quietly gather votes against P4 or P8, as they may be easier targets."
@@ -498,6 +518,10 @@ During each elimination phase, seats must provide a brief rationale explaining w
 - **Round 1 Summary for Mistral Small 3**:  
   Mistral Small 3 was eliminated in Round 1 primarily because other players viewed their strong emphasis on open communication and alliance-building as either a potential strategic threat or as lacking depth compared to others. Some players also found their messaging to be overly generic or similar to others, raising concerns about their originality and long-term reliability in the game.
 
+- **Round 1 Summary for Qwen QwQ-32B 16K**:
+  Qwen QwQ-32B 16K was eliminated in Round 1 primarily because other players perceived them as overly focused on self-preservation and cautious alliances, which made them seem less open to genuine collaboration. Additionally, their strategic and calculating approach was viewed as a potential long-term threat, prompting multiple players to target them early to prevent them from gaining influence.
+
+
 ### Buddy Betrayal (Betrayer’s Perspective)
 
 - **Buddy Betray Summary for MiniMax-Text-01**:  
@@ -516,6 +540,7 @@ Players who betrayed this seat often cited concerns about aggressive strategic p
 
 - **Buddy Betrayed Summary for Claude 3.5 Haiku**:  
 Players who betrayed this seat largely cited strategic threats, adaptability, and alliance-building as key reasons for their decisions. Many viewed the betrayed player as a strong competitor due to their observant and flexible gameplay, their ability to form multiple alliances, and their potential to outmaneuver others in later stages.
+
 
 ### Final Jury Elimination
 
@@ -559,6 +584,7 @@ We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/projec
 ---
 
 ## Updates
+- *Mar 9, 2025: Qwen QwQ-32B added.*
 - *Mar 2, 2025: GPT-4.5 Preview added. Note-taking ("memory") versions of some LLMs were included in certain games.*
 - *Feb 26, 2025: Claude 3.7 Sonnet, Claude 3.7 Sonnet Thinking added*
 - *Feb 22, 2025: Qwen 2.5 Max added*
