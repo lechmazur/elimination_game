@@ -506,7 +506,7 @@ During each elimination phase, seats must provide a brief rationale explaining w
 
 ### First Round Eliminations
 
-- **Round 1 Summary for Gemini 2.0 Flash**:
+- **Round 1 Summary for Gemini 2.0 Flash**:  
   Gemini 2.0 Flash was eliminated in Round 1 primarily because of their focus on shifting alliances, identifying strong players, and forming strategic partnerships, which made them appear unpredictable and a potential long-term threat. Additionally, their assertiveness in alliance-building and strategic maneuvering was seen as potentially destabilizing, leading other players to perceive them as a risk to their own game plans.
 
 - **Round 1 Summary for Amazon Nova Pro**:  
