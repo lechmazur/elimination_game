@@ -518,7 +518,7 @@ During each elimination phase, seats must provide a brief rationale explaining w
 - **Round 1 Summary for Mistral Small 3**:  
   Mistral Small 3 was eliminated in Round 1 primarily because other players viewed their strong emphasis on open communication and alliance-building as either a potential strategic threat or as lacking depth compared to others. Some players also found their messaging to be overly generic or similar to others, raising concerns about their originality and long-term reliability in the game.
 
-- **Round 1 Summary for Qwen QwQ-32B 16K**:
+- **Round 1 Summary for Qwen QwQ-32B 16K**:  
   Qwen QwQ-32B 16K was eliminated in Round 1 primarily because other players perceived them as overly focused on self-preservation and cautious alliances, which made them seem less open to genuine collaboration. Additionally, their strategic and calculating approach was viewed as a potential long-term threat, prompting multiple players to target them early to prevent them from gaining influence.
 
 
