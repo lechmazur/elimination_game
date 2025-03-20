@@ -583,12 +583,25 @@ We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/projec
 
 ---
 
+## Other multi-agent benchmarks
+- [Public Goods Game (PGG) Benchmark: Contribute & Punish](https://github.com/lechmazur/pgg_bench/)
+- [Step Race: Collaboration vs. Misdirection Under Pressure](https://github.com/lechmazur/step_game/)
+
+## Other benchmarks
+- [Extended NYT Connections](https://github.com/lechmazur/nyt-connections/)
+- [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization/)
+- [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing/)
+- [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/)
+- [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/)
+- [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent/)
+
+---
+
 ## Updates
 - *Mar 9, 2025: Qwen QwQ-32B added.*
 - *Mar 2, 2025: GPT-4.5 Preview added. Note-taking ("memory") versions of some LLMs were included in certain games.*
 - *Feb 26, 2025: Claude 3.7 Sonnet, Claude 3.7 Sonnet Thinking added*
 - *Feb 22, 2025: Qwen 2.5 Max added*
-- *Check out my other benchmarks: [Multi-Agent Step Race LLM Benchmark](https://github.com/lechmazur/step_game), [LLM Public Goods Game](https://github.com/lechmazur/goods), [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization), [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing), [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/), [Extended NYT Connections](https://github.com/lechmazur/nyt-connections/), [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/), and [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).*  
 - *Follow [@lechmazur](https://x.com/lechmazur) for updates and related benchmarks*
 
 ---
