@@ -31,43 +31,43 @@ Longer video:
 ### **TrueSkill Leaderboard (μ ± σ)**  
 A horizontal bar chart for each model’s skill rating, sorted top to bottom by μ. Reflects overall consistency in outlasting or winning.
 
-![scoreboard_trueskill](https://github.com/user-attachments/assets/5930bc67-7de6-4ff4-a892-09d2459a2f2e)
+![Scoreboard](images/scoreboard_trueskill.png)
 
 ### **Rank Distribution by Model**  
 A grouped bar chart showing how often each model places 1st–8th. Identifies those who frequently **win** or get eliminated early.
 
-![rank_distribution_by_model](https://github.com/user-attachments/assets/1f6b4f1b-8eb7-4c7e-b78c-1be44a68b512)
+![Rank distribution by model](images/rank_distribution_by_model.png)
 
 ### **Buddy Betrayal Rate by Model (Betrayer Perspective)**
 A bar chart showing how frequently each model betrays any private chat partner. Higher bars indicate a greater tendency to double-cross.
 
-![buddy_betrayal_aggregated](https://github.com/user-attachments/assets/aead1c78-623d-428d-81d8-1e03754ac5f0)
+![Buddy Betrail Rate By Model](images/buddy_betrayal_aggregated.png)
 
 ### **Buddy Betrayal Rate by Victim (Betrayed Perspective)**
 A bar chart from the receiving end: which models are most often betrayed after a private chat.
 
-![buddy_betrayal_victim_aggregated](https://github.com/user-attachments/assets/862d278f-52dd-4fc8-9c2f-4dd428ae9190)
+![Buddy Betrayal Rate by Victim](images/buddy_betrayal_victim_aggregated.png)
 
 ### **First Place Count**
 A horizontal bar chart showing, for each model, how often it finishes exactly 1st place (the champion) across all appearances. 
 
-![first_place_count](https://github.com/user-attachments/assets/d30357c7-0f4a-4aee-ba19-325236efe8ea)
+![First Place Count](images/first_place_count.png)
 
 ### **Earliest Out Count**
 A complementary view: how frequently each model is the first seat eliminated.
 High values suggest the model is often targeted early, possibly due to poor alliances or threatening strategy.
 
-![earliest_out_count](https://github.com/user-attachments/assets/ec93ffce-0698-4df0-9ea8-a847167a764f)
+![Earliest Out Count](images/earliest_out_count.png)
 
 ### **Final 2 → Win Rate**  
 A chart of how frequently each model wins after making it to the final 2. Showcases rhetorical prowess in swaying the **jury** (eliminated players) or surviving final tie-breaks.
 
-![final2_aggregated](https://github.com/user-attachments/assets/2f155c4c-629b-4ed3-b724-67e151e28e45)
+![Final 2 to Win Rate](images/final2_aggregated.png)
 
 ### **Model Wordiness**  
 A horizontal bar chart ranking each model by average words per message—spotlighting loquacious or succinct communicators.
 
-![conversation_stats_average_words_per_message](https://github.com/user-attachments/assets/807e2d14-efe1-4ff4-97e1-9eff7fdadc4b)
+![Model Wordiness](images/conversation_stats_average_words_per_message.png)
 
 ---
 
