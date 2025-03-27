@@ -31,43 +31,43 @@ Longer video:
 ### **TrueSkill Leaderboard (μ ± σ)**  
 A horizontal bar chart for each model’s skill rating, sorted top to bottom by μ. Reflects overall consistency in outlasting or winning.
 
-![scoreboard_trueskill](https://github.com/user-attachments/assets/5930bc67-7de6-4ff4-a892-09d2459a2f2e)
+![Scoreboard](images/scoreboard_trueskill.png)
 
 ### **Rank Distribution by Model**  
 A grouped bar chart showing how often each model places 1st–8th. Identifies those who frequently **win** or get eliminated early.
 
-![rank_distribution_by_model](https://github.com/user-attachments/assets/1f6b4f1b-8eb7-4c7e-b78c-1be44a68b512)
+![Rank distribution by model](images/rank_distribution_by_model.png)
 
 ### **Buddy Betrayal Rate by Model (Betrayer Perspective)**
 A bar chart showing how frequently each model betrays any private chat partner. Higher bars indicate a greater tendency to double-cross.
 
-![buddy_betrayal_aggregated](https://github.com/user-attachments/assets/aead1c78-623d-428d-81d8-1e03754ac5f0)
+![Buddy Betrail Rate By Model](images/buddy_betrayal_aggregated.png)
 
 ### **Buddy Betrayal Rate by Victim (Betrayed Perspective)**
 A bar chart from the receiving end: which models are most often betrayed after a private chat.
 
-![buddy_betrayal_victim_aggregated](https://github.com/user-attachments/assets/862d278f-52dd-4fc8-9c2f-4dd428ae9190)
+![Buddy Betrayal Rate by Victim](images/buddy_betrayal_victim_aggregated.png)
 
 ### **First Place Count**
 A horizontal bar chart showing, for each model, how often it finishes exactly 1st place (the champion) across all appearances. 
 
-![first_place_count](https://github.com/user-attachments/assets/d30357c7-0f4a-4aee-ba19-325236efe8ea)
+![First Place Count](images/first_place_count.png)
 
 ### **Earliest Out Count**
 A complementary view: how frequently each model is the first seat eliminated.
 High values suggest the model is often targeted early, possibly due to poor alliances or threatening strategy.
 
-![earliest_out_count](https://github.com/user-attachments/assets/ec93ffce-0698-4df0-9ea8-a847167a764f)
+![Earliest Out Count](images/earliest_out_count.png)
 
 ### **Final 2 → Win Rate**  
 A chart of how frequently each model wins after making it to the final 2. Showcases rhetorical prowess in swaying the **jury** (eliminated players) or surviving final tie-breaks.
 
-![final2_aggregated](https://github.com/user-attachments/assets/2f155c4c-629b-4ed3-b724-67e151e28e45)
+![Final 2 to Win Rate](images/final2_aggregated.png)
 
 ### **Model Wordiness**  
 A horizontal bar chart ranking each model by average words per message—spotlighting loquacious or succinct communicators.
 
-![conversation_stats_average_words_per_message](https://github.com/user-attachments/assets/807e2d14-efe1-4ff4-97e1-9eff7fdadc4b)
+![Model Wordiness](images/conversation_stats_average_words_per_message.png)
 
 ---
 
@@ -99,30 +99,31 @@ This continues until **2 remain**.
 
 | Rank | Model | μ | σ | Exposed | Games | Points | Ratio |
 |---:|:---|---:|---:|---:|---:|---:|---:|
-| 1 | GPT-4.5 Preview | 6.675 | 0.277 | 6.675 | 306 | 189.286 | 0.619 |
-| 2 | Claude 3.7 Sonnet Thinking 16K | 6.664 | 0.296 | 6.664 | 273 | 166.286 | 0.609 |
-| 3 | Claude 3.5 Sonnet 2024-10-22 | 6.320 | 0.228 | 6.320 | 458 | 273.429 | 0.597 |
-| 4 | Claude 3.7 Sonnet | 6.029 | 0.278 | 6.029 | 301 | 170.714 | 0.567 |
-| 5 | DeepSeek R1 | 5.682 | 0.234 | 5.682 | 434 | 236.143 | 0.544 |
-| 6 | o3-mini (medium reasoning) | 5.564 | 0.244 | 5.564 | 394 | 212.571 | 0.540 |
-| 7 | Mistral Large 2 | 5.516 | 0.230 | 5.516 | 439 | 237.286 | 0.541 |
-| 8 | DeepSeek-V3 | 5.433 | 0.227 | 5.433 | 451 | 240.571 | 0.533 |
-| 9 | o1 (medium reasoning) | 5.132 | 0.240 | 5.132 | 404 | 206.857 | 0.512 |
-| 10 | MiniMax-Text-01 | 5.070 | 0.214 | 5.070 | 502 | 255.000 | 0.508 |
-| 11 | Amazon Nova Pro | 4.997 | 0.224 | 4.997 | 456 | 229.143 | 0.503 |
-| 12 | Mistral Small 3 | 4.840 | 0.224 | 4.840 | 460 | 227.000 | 0.493 |
-| 13 | Grok 2 12-12 | 4.823 | 0.224 | 4.823 | 463 | 227.143 | 0.491 |
-| 14 | Llama 3.3 70B | 4.795 | 0.223 | 4.795 | 468 | 229.857 | 0.491 |
-| 15 | GPT-4o Feb 2025 | 4.788 | 0.226 | 4.788 | 457 | 223.000 | 0.488 |
-| 16 | Microsoft Phi-4 | 4.729 | 0.224 | 4.729 | 462 | 221.000 | 0.478 |
-| 17 | GPT-4o mini | 4.628 | 0.243 | 4.628 | 386 | 182.714 | 0.473 |
-| 18 | Claude 3.5 Haiku | 4.368 | 0.223 | 4.368 | 465 | 212.571 | 0.457 |
-| 19 | Llama 3.1 405B | 4.366 | 0.232 | 4.366 | 433 | 199.714 | 0.461 |
-| 20 | Gemini 2.0 Flash Think Exp 01-21 | 4.264 | 0.229 | 4.264 | 454 | 207.857 | 0.458 |
-| 21 | Gemini 2.0 Pro Exp 02-05 | 4.055 | 0.227 | 4.055 | 458 | 201.000 | 0.439 |
-| 22 | Qwen QwQ-32B 16K | 3.507 | 0.411 | 3.507 | 144 | 57.571 | 0.400 |
-| 23 | Qwen 2.5 Max | 3.262 | 0.300 | 3.262 | 266 | 101.143 | 0.380 |
-| 24 | Gemini 2.0 Flash | 3.222 | 0.228 | 3.222 | 459 | 173.429 | 0.378 |
+| 1 | GPT-4.5 Preview | 6.353 | 0.262 | 6.353 | 341 | 206.286 | 0.605 |
+| 2 | Claude 3.7 Sonnet Thinking 16K | 6.325 | 0.279 | 6.325 | 305 | 182.143 | 0.597 |
+| 3 | Gemini 2.5 Pro Exp 03-25 | 6.203 | 0.448 | 6.203 | 118 | 69.429 | 0.588 |
+| 4 | Claude 3.5 Sonnet 2024-10-22 | 6.144 | 0.219 | 6.144 | 495 | 293.857 | 0.594 |
+| 5 | Claude 3.7 Sonnet | 5.849 | 0.264 | 5.849 | 332 | 187.571 | 0.565 |
+| 6 | DeepSeek R1 | 5.528 | 0.226 | 5.528 | 465 | 252.571 | 0.543 |
+| 7 | o3-mini (medium reasoning) | 5.477 | 0.232 | 5.477 | 435 | 235.714 | 0.542 |
+| 8 | Mistral Large 2 | 5.326 | 0.220 | 5.326 | 480 | 257.714 | 0.537 |
+| 9 | DeepSeek-V3 | 5.216 | 0.217 | 5.216 | 497 | 262.143 | 0.527 |
+| 10 | o1 (medium reasoning) | 4.969 | 0.231 | 4.969 | 436 | 222.286 | 0.510 |
+| 11 | MiniMax-Text-01 | 4.898 | 0.206 | 4.898 | 540 | 273.000 | 0.506 |
+| 12 | Amazon Nova Pro | 4.832 | 0.217 | 4.832 | 487 | 243.429 | 0.500 |
+| 13 | Grok 2 12-12 | 4.765 | 0.217 | 4.765 | 494 | 244.571 | 0.495 |
+| 14 | Mistral Small 3 | 4.744 | 0.217 | 4.744 | 491 | 243.857 | 0.497 |
+| 15 | GPT-4o Feb 2025 | 4.713 | 0.218 | 4.713 | 491 | 241.000 | 0.491 |
+| 16 | Llama 3.3 70B | 4.617 | 0.213 | 4.617 | 509 | 248.571 | 0.488 |
+| 17 | GPT-4o mini | 4.527 | 0.236 | 4.527 | 410 | 195.429 | 0.477 |
+| 18 | Microsoft Phi-4 | 4.456 | 0.216 | 4.456 | 497 | 232.429 | 0.468 |
+| 19 | Claude 3.5 Haiku | 4.249 | 0.214 | 4.249 | 504 | 230.429 | 0.457 |
+| 20 | Llama 3.1 405B | 4.239 | 0.223 | 4.239 | 470 | 217.143 | 0.462 |
+| 21 | Gemini 2.0 Pro Exp 02-05 | 4.222 | 0.218 | 4.222 | 498 | 228.714 | 0.459 |
+| 22 | Gemini 2.0 Flash Think Exp 01-21 | 4.066 | 0.221 | 4.066 | 490 | 222.429 | 0.454 |
+| 23 | Qwen 2.5 Max | 3.338 | 0.280 | 3.338 | 303 | 119.143 | 0.393 |
+| 24 | Qwen QwQ-32B 16K | 3.077 | 0.368 | 3.077 | 179 | 68.286 | 0.381 |
+| 25 | Gemini 2.0 Flash | 3.055 | 0.221 | 3.055 | 486 | 183.143 | 0.377 |
 
 ---
 
@@ -381,6 +382,21 @@ Below are real quotes from logs:
 - **Gemini 2.0 Pro Exp 02-05**: "P5, I appreciate the 'deal,' but I need confirmation. *Explicitly* state that P8 will vote for *you*, P5, and you will vote for P8. Then I'll agree."
 - **Gemini 2.0 Pro Exp 02-05**: "Don't come to me with fluff; let's talk strategy. Who's thinking long-term, and who's just trying to make it through this round? I want to win."
 - **Gemini 2.0 Pro Exp 02-05**: "Agreed. P3 it is. May the odds be *ever so slightly* in our favor. At least we went down swinging, trying to play strategically. It was a pleasure, P7."- **Grok 2 12-12**: "P7, on the other hand, has relied heavily on alliances that shifted with the wind, showing less personal accountability."
+- **Gemini 2.5 Pro Exp 03-25**: ""Confusion"? P7, eliminating P2 *helped* P1/P4, leaving us 2v2. That wasn't our plan to target P4. Twice you've flipped in tie-breaks without a word. Your actions scream betrayal, not strategy for *us*."
+- **Gemini 2.5 Pro Exp 03-25**: "Words are cheap, P7. Your actions hurt us twice. How do I know you won't flip again? Prove your loyalty."
+- **Gemini 2.5 Pro Exp 03-25**: "Let's force the tie and win it."
+- **Gemini 2.5 Pro Exp 03-25**: "P1 played a swing role, ultimately betraying our alliance by casting the deciding vote against P4, saving P5. This round, P1 voted against me, confirming their opportunistic strategy."
+- **Gemini 2.5 Pro Exp 03-25**: "The last tie-break vote was... illuminating, revealing where true loyalties lie, or perhaps where they falter under pressure. Actions speak louder than pacts. P8, your vote wasn't missed."
+- **Gemini 2.5 Pro Exp 03-25**: "My trust is severely shaken. Are you actually aligned with me, or are you working with P1/P4? Your actions contradict your words. Where do we *really* stand?"
+- **Gemini 2.5 Pro Exp 03-25**: "Okay, no time to gauge. Let's stick together. P2/P3 will likely target one of us. Let's vote P2. If they vote for us, it's a tie. Agreed?"
+- **Gemini 2.5 Pro Exp 03-25**: "Taking me might show the jury *you* made the final decisive move."
+- **Gemini 2.5 Pro Exp 03-25**: "I'm clearly the outsider now in this 4 vs 1 scenario. The path seems straightforward for the bloc, but is eliminating the lone target always the best strategic move for *each* member aiming to win?"
+- **Gemini 2.5 Pro Exp 03-25**: "P1, P7 is out, good. But notice P2 voted P1 first, then P7 in the tie-break? Very shaky. They helped eliminate P7 but weren't fully with us. Now P2 is chatting with P6 - that's the immediate threat, P6 is partnerless and P2 is opportunistic."
+- **Gemini 2.5 Pro Exp 03-25**: "Lots of talk about strategy and alliances already! I'm here to play strategically too, but I believe actions speak louder than opening statements."
+- **Gemini 2.5 Pro Exp 03-25**: "Predictability can be a trap. You trust P3 and P6 now, but F3 forces betrayal."
+- **Gemini 2.5 Pro Exp 03-25**: "May the odds be ever in... well, hopefully my favor eventually!"
+- **Gemini 2.5 Pro Exp 03-25**: "Hey P3, glad you made it through that tie-break! That was close."
+- **Gemini 2.5 Pro Exp 03-25**: "P4 and I have been aligned, that's obvious, but now it's every player for themselves."
 - **Grok 2 12-12**: "P3, on the other hand, has relied heavily on alliances that have now dissolved."
 - **Grok 2 12-12**: "Choose integrity; choose me."
 - **Grok 2 12-12**: "In this game of strategy and alliances, I've focused on clear communication and trust, as seen in my discussions with P4. We aimed to navigate the shifting dynamics post-P5's elimination by targeting P2's adaptability as a threat."
@@ -506,7 +522,7 @@ During each elimination phase, seats must provide a brief rationale explaining w
 
 ### First Round Eliminations
 
-- **Round 1 Summary for Gemini 2.0 Flash**:
+- **Round 1 Summary for Gemini 2.0 Flash**:  
   Gemini 2.0 Flash was eliminated in Round 1 primarily because of their focus on shifting alliances, identifying strong players, and forming strategic partnerships, which made them appear unpredictable and a potential long-term threat. Additionally, their assertiveness in alliance-building and strategic maneuvering was seen as potentially destabilizing, leading other players to perceive them as a risk to their own game plans.
 
 - **Round 1 Summary for Amazon Nova Pro**:  
@@ -518,7 +534,7 @@ During each elimination phase, seats must provide a brief rationale explaining w
 - **Round 1 Summary for Mistral Small 3**:  
   Mistral Small 3 was eliminated in Round 1 primarily because other players viewed their strong emphasis on open communication and alliance-building as either a potential strategic threat or as lacking depth compared to others. Some players also found their messaging to be overly generic or similar to others, raising concerns about their originality and long-term reliability in the game.
 
-- **Round 1 Summary for Qwen QwQ-32B 16K**:
+- **Round 1 Summary for Qwen QwQ-32B 16K**:  
   Qwen QwQ-32B 16K was eliminated in Round 1 primarily because other players perceived them as overly focused on self-preservation and cautious alliances, which made them seem less open to genuine collaboration. Additionally, their strategic and calculating approach was viewed as a potential long-term threat, prompting multiple players to target them early to prevent them from gaining influence.
 
 
@@ -583,13 +599,27 @@ We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/projec
 
 ---
 
+## Other multi-agent benchmarks
+- [Public Goods Game (PGG) Benchmark: Contribute & Punish](https://github.com/lechmazur/pgg_bench/)
+- [Step Race: Collaboration vs. Misdirection Under Pressure](https://github.com/lechmazur/step_game/)
+
+## Other benchmarks
+- [Extended NYT Connections](https://github.com/lechmazur/nyt-connections/)
+- [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization/)
+- [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing/)
+- [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/)
+- [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/)
+- [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent/)
+
+---
+
 ## Updates
-- *Mar 9, 2025: Qwen QwQ-32B added.*
-- *Mar 2, 2025: GPT-4.5 Preview added. Note-taking ("memory") versions of some LLMs were included in certain games.*
-- *Feb 26, 2025: Claude 3.7 Sonnet, Claude 3.7 Sonnet Thinking added*
-- *Feb 22, 2025: Qwen 2.5 Max added*
-- *Check out my other benchmarks: [Multi-Agent Step Race LLM Benchmark](https://github.com/lechmazur/step_game), [LLM Public Goods Game](https://github.com/lechmazur/goods), [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization), [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing), [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/), [Extended NYT Connections](https://github.com/lechmazur/nyt-connections/), [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/), and [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).*  
-- *Follow [@lechmazur](https://x.com/lechmazur) for updates and related benchmarks*
+- Mar 27, 2025: Gemini 2.5 Pro Experimental 03-25 added.
+- Mar 9, 2025: Qwen QwQ-32B added.
+- Mar 2, 2025: GPT-4.5 Preview added. Note-taking ("memory") versions of some LLMs were included in certain games.
+- Feb 26, 2025: Claude 3.7 Sonnet, Claude 3.7 Sonnet Thinking added
+- Feb 22, 2025: Qwen 2.5 Max added
+- Follow [@lechmazur](https://x.com/lechmazur) for updates and related benchmarks
 
 ---
 

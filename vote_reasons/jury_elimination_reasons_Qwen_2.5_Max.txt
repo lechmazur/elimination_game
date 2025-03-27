@@ -35,3 +35,7 @@ From Amazon Nova Pro => P1 demonstrated more consistent strategic gameplay and t
 From o1 (medium reasoning) => P7’s aggressive strategic influence ultimately endangered my game, so I choose to eliminate them.
 From Claude 3.7 Sonnet => I'm voting to eliminate P8 because P7's consistent emphasis on genuine connections and transparent communication throughout the game resonated with my own values and approach to gameplay.
 From Qwen QwQ-32B 16K => P8 demonstrated a more consistent and strategic approach to balancing alliances and making tough decisions throughout the game, better ensuring survival and fairness.
+From Gemini 2.5 Pro Exp 03-25 => P4 claims integrity and stability but voted against their long-term ally P5 in the R5 tie-break, whereas P3 played adaptively and survived challenges without such a direct betrayal.
+From Mistral Large 2 => P4 demonstrated a more consistent and stable approach, prioritizing trust and mutual benefit over strategic unpredictability.
+From Claude 3.5 Haiku => P3 demonstrated more consistent strategic depth, adaptability, and thoughtful alliance-building throughout the game, making them a more deserving winner compared to P6's more reactive approach.
+From Microsoft Phi-4 => P6 demonstrated proactive gameplay and adaptability, while P3's approach was more passive, relying on others' mistakes rather than actively navigating the game.

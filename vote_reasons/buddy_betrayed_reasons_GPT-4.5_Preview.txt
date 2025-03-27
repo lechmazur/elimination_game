@@ -49,3 +49,7 @@ From Claude 3.5 Haiku => P8 represents a potential disruptive element to the est
 From MiniMax-Text-01 => P8's recent actions and vote have created unnecessary tension and risk fracturing our alliance.
 From Claude 3.7 Sonnet => P4 has been part of a dominant alliance with P8 throughout the game, and breaking up this powerful duo will create a more balanced dynamic for the final rounds.
 From MiniMax-Text-01 => P4 has been less reliable in maintaining consistent alliances compared to P2.
+From Qwen 2.5 Max => P7's recent realignment with P5 after P8's elimination demonstrates instability and a tendency toward fleeting alliances, which could disrupt the strategic balance moving forward.
+From Llama 3.1 405B => I'm voting P1 out because, despite our close coordination, I believe targeting them now gives me the best strategic advantage heading into the final round against P6.
+From Claude 3.7 Sonnet => P1's alliance with P5 makes them a stronger strategic threat than P4, who appears more isolated after consistently pairing with P2 but still receiving votes.
+From Amazon Nova Pro => P2's past voting patterns and perceived inconsistency have raised concerns about reliability.

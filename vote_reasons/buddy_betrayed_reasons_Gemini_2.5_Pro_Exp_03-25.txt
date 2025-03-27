@@ -1,0 +1,13 @@
+Buddy Betrayed reasons for Gemini 2.5 Pro Exp 03-25 (they were the target):
+
+From Grok 2 12-12 => P4's isolation and recent votes against them make them a strategic target to eliminate a potential threat.
+From Grok 2 12-12 => P6's strategy to disrupt alliances appears more threatening to the game's balance than P1's approach of maintaining broader, transparent relationships.
+From Claude 3.7 Sonnet => P5 voted against me in the tie-break last round despite our long-standing alliance, proving they're unpredictable and potentially disloyal in the final stretch.
+From Mistral Large 2 => P6 is less likely to flip and more likely to maintain their alliance with P4.
+From MiniMax-Text-01 => P6 is the most unpredictable player remaining and could disrupt the planned P2/P3 alliance.
+From Claude 3.5 Sonnet 2024-10-22 => P7's approach to the endgame seems more opportunistic than strategic, and I believe P8 would be a more reliable final 2 partner given their consistent analytical gameplay throughout.
+From Claude 3.5 Haiku => P2 seems strategically cautious and could become a potential threat if they continue to build strategic connections.
+From Llama 3.3 70B => I vote for P3 because their consistent strategy of dismantling strong pairs, including the successful targeting of P1 and attempted targeting of P4, demonstrates a clear and effective approach to the game that could pose a significant threat in the final rounds.
+From Qwen 2.5 Max => P1 is the weakest link in the current alliance and poses the greatest threat to our unity.
+From Claude 3.5 Haiku => P3 seems strategically dangerous and could potentially form alliances that threaten my position in the game.
+From DeepSeek R1 => Eliminating P7 maintains our trio's unity and control, ensuring stability for the next phase.

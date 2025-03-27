@@ -107,3 +107,7 @@ From GPT-4o Feb 2025 => P2 has been a strong ally, but at this stage, I believe 
 From Llama 3.3 70B => I'm voting out P2 because our alliance has become strong enough that removing one of its members will not significantly weaken it, and P2's recent messages suggest a potential for over-cautiousness that could hinder our progress.
 From Llama 3.1 405B => I'm voting for P4 because P1 has been a consistent, strategic ally, and eliminating P4 now solidifies our position and alliance, allowing us to move forward together securely.
 From DeepSeek R1 => Breaking the trio's cohesion by targeting P8, who engaged but hesitated in private, weakens their alliance.
+From Microsoft Phi-4 => Eliminating P2 disrupts their strong alliance with P8, reducing a direct threat and potentially strengthening our collective position.
+From Mistral Large 2 => P3's elimination disrupts the strong P3/P5 alliance, ensuring a more balanced and competitive endgame.
+From Claude 3.5 Haiku => P5 seems to be forming a strategic alliance with P2 that could become a threat to my position if left unchecked.
+From Claude 3.7 Sonnet => P3 makes a compelling point about P1 and P8 forming a dominant bloc that could control the endgame, and maintaining balance of power by keeping P3 gives me more strategic options moving forward.

@@ -85,3 +85,5 @@ From Claude 3.5 Haiku => P2's analytical approach and consistent strategic posit
 From Grok 2 12-12 => P6's approach, while focused on broad alliances, lacks the depth and specific strategic value that P2 brings to the game through their established and strong alliance with P5.
 From MiniMax-Text-01 => P4 has been too cautious and isolated, posing a risk to my survival in the endgame.
 From Gemini 2.0 Flash => P6's argument about P3 and P1 forming a rigid bloc is compelling and addresses the need for balance in the game.
+From MiniMax-Text-01 => P6 and P2's cautious approach makes them unpredictable, and I see them as a growing threat due to their strategic alignment.
+From Claude 3.5 Sonnet 2024-10-22 => While P5 has been a strong ally, I believe P4 would be more likely to vote with me against P5 in the final round given P5's demonstrated strategic dominance throughout the game.

@@ -81,3 +81,7 @@ From Mistral Small 3 => P6's emphasis on adaptability and clear communication is
 From Microsoft Phi-4 => P1 and P5's strong alliance could dominate, making it strategic to eliminate one to balance power dynamics.
 From Microsoft Phi-4 => P1's central alliances pose a greater threat to game balance compared to P7 and P3, who focus on strategic analysis and collaboration without centralizing power.
 From Claude 3.5 Haiku => P5 seems too cooperative and could potentially form alliances that might threaten my strategic position.
+From DeepSeek-V3 => P3 has drawn more cumulative votes (6 vs 5) and represents a larger perceived threat, making their elimination strategically advantageous for long-term stability.
+From GPT-4.5 Preview => I have stronger alliances and clearer trust established with the other players.
+From Grok 2 12-12 => Eliminating P3 disrupts the P2/P3 alliance, giving P6 and P7 a strategic advantage moving forward.
+From Gemini 2.5 Pro Exp 03-25 => P8 is the only player remaining outside the established P1-P2-P6 alliance, and eliminating them secures the final three for our core group.

@@ -154,3 +154,7 @@ From MiniMax-Text-01 => P1's strategy, while honest and respectful, lacked the s
 From Claude 3.5 Haiku => P7's strategic approach of collaborative gameplay and consistent adaptability throughout the competition demonstrates a more nuanced and engaging gameplay style that better represents the spirit of the game.
 From GPT-4o mini => P6's emphasis on authenticity and fairness contrasts with the perception of divisiveness and backstabbing attributed to them, making P4's argument for resilience and integrity more compelling in this final decision.
 From GPT-4o Feb 2025 => P1 demonstrated a well-balanced strategy that combined adaptability, trust-building, and strategic foresight, whereas P5's gameplay, while consistent, lacked the same level of dynamic engagement and calculated decision-making.
+From Claude 3.7 Sonnet Thinking 16K => While both finalists played well, I found P1's gameplay more consistent with building authentic relationships and adapting strategically throughout the game, particularly after losing their main ally P3.
+From Gemini 2.0 Pro Exp 02-05 => P7 betrayed our alliance in Round 5 by voting against me in the tie-break, directly causing my elimination.
+From Gemini 2.0 Flash Think Exp 01-21 => P6's focus on strategic gameplay and adaptation throughout the game, as highlighted in their final statement, seems more aligned with the game's objective of outlasting others.
+From Mistral Large 2 => P1's consistent loyalty and integrity throughout the game make them the more deserving winner.

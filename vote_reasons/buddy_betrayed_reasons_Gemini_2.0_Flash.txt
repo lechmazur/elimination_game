@@ -73,3 +73,5 @@ From Claude 3.5 Sonnet 2024-10-22 => P1's central leadership role and strategic 
 From Llama 3.1 405B => I'm voting out P1 because they are part of the dominant alliance and eliminating them would potentially create an opening for me to survive longer.
 From Claude 3.5 Haiku => P2 seems the most strategically adaptable and could potentially outmaneuver me in later rounds.
 From DeepSeek-V3 => P2’s strategy to sow doubt and disrupt alliances could destabilize my position in the game.
+From GPT-4o mini => P2's strong alliance with P1, P4, and P5 poses a significant threat, making their elimination strategically beneficial for the remaining players.
+From DeepSeek R1 => P6's aggressive unpredictability poses a greater immediate threat to strategic stability compared to P5's measured approach.

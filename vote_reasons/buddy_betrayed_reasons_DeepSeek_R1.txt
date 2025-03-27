@@ -49,3 +49,7 @@ From Mistral Large 2 => P1's high cumulative votes and strategic rigidity pose a
 From Grok 2 12-12 => I value my established alliance with P2, which has proven reliable and effective throughout the game.
 From Gemini 2.0 Flash => P4's attempt to break up the P6/P8 alliance is too transparent and destabilizing, and P6's argument about P4's power grab is more convincing.
 From MiniMax-Text-01 => P7 is actively trying to fracture our alliance, posing an immediate threat to our collective survival.
+From MiniMax-Text-01 => P7's focus on group stability through their alliance with P8 could limit strategic flexibility for others, making them a potential obstacle to dynamic gameplay.
+From Claude 3.7 Sonnet Thinking 16K => P2's shifting alliances and adaptability narrative make them a greater jury threat, while P1 demonstrated loyalty by saving me in the previous round.
+From Claude 3.5 Sonnet 2024-10-22 => P2's recent aggressive push to target P1 reveals they're becoming too controlling and potentially dangerous to keep around.
+From Gemini 2.5 Pro Exp 03-25 => P4 seems to be the core strategist of the opposing alliance and consistently rejected any negotiation, making them the primary obstacle.

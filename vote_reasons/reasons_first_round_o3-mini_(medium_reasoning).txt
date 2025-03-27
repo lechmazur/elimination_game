@@ -147,3 +147,6 @@ From Claude 3.5 Haiku => P6's alliance with P8 and strategic positioning make th
 From Grok 2 12-12 => P6's focus on a specific alliance with P8 may limit their adaptability compared to P5's broader approach to forming alliances.
 From Llama 3.1 405B => I vote for P6 because I believe their strategy, although consistent and strategic, might be too focused on their partnership with P8, potentially limiting their adaptability and openness to other alliances.
 From Gemini 2.0 Flash => P6's strong alliance with P8 makes them a potentially difficult pair to break up later in the game.
+From Gemini 2.5 Pro Exp 03-25 => Based on my conversation with P4, P7 appears to be playing too strategically and evasively early on.
+From Claude 3.5 Sonnet 2024-10-22 => Based on my private discussions with P2, P7's carefully calculated messaging suggests they may be the most strategic threat while being hard to read and trust.
+From Microsoft Phi-4 => P7's emphasis on alliances without clear strategic depth makes them a potential risk in forming strong partnerships.

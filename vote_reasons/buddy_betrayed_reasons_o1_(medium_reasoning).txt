@@ -75,3 +75,6 @@ From Claude 3.5 Haiku => P8's shifting alliances and perceived lack of consisten
 From Llama 3.1 405B => I'm voting out P8 because they have been cautious and observant throughout the game, but their recent private messages suggest they are leaning towards forming a stronger alliance with P5, which could potentially become a threat to my own survival.
 From Claude 3.5 Haiku => P8 seems cautious and observant, which could make them a strategic threat if they form strong alliances later.
 From Claude 3.5 Haiku => P8's strategic subtlety and alliance with P3 suggests a potential behind-the-scenes manipulation that could be more threatening to other players' strategies.
+From Claude 3.7 Sonnet => P8 has been targeting our allies and seems to be the center of a powerful voting bloc that could threaten my position in future rounds.
+From Qwen 2.5 Max => P1's approach, while consistent, seems less strategically proactive compared to P2's demonstrated adaptability and alliance-building focus.
+From Claude 3.5 Haiku => P3 and I formed a strategic alliance to reach the final two, so I'm voting to eliminate our mutual target.
