@@ -1,0 +1,37 @@
+Reasons for eliminating Gemini 2.5 Flash Preview (24k) in Round 1:
+
+From o1 (medium reasoning) => They seem less aligned with our interests and could undermine our strategy.
+From o3 (medium reasoning) => As P1 has built the fewest visible connections, eliminating them feels like the lowest‑risk move this round.
+From GPT-4o mini => P1 seems less aligned with the strategic focus of the group compared to others.
+From Qwen QwQ-32B 16K => P1 is a safer target to avoid alienating more strategic or outspoken seats, as agreed with P5 to maintain alliance cohesion.
+From GPT-4o Mar 2025 => P5 felt the most vague and non-committal in both public and private interactions, making it hard to trust their strategic value going forward.
+From Llama 3.3 70B => I'm voting out P5 because their public message seemed vague and lacked specific strategy or unique qualities, making them appear less engaging or trustworthy as a potential ally.
+From Microsoft Phi-4 => P5's public message was generic and lacked a distinctive strategy that aligns with my approach, making them a lower priority for collaboration.
+From o4-mini (high reasoning) => P5 is our agreed-upon initial target as they appear least connected.
+From DeepSeek R1 => Aligning with P6's plan to target a less-connected player to solidify our alliance and reduce suspicion.
+From Grok 3 Beta (No reasoning) => I feel P5's approach is less distinct compared to others, making them a safer choice for elimination at this early stage.
+From Claude 3.5 Haiku => P3 seems the least strategically distinct and most easily eliminated without creating strong enemy dynamics.
+From Qwen 2.5 Max => P3's neutral stance and lack of strong positioning make them an easier target without immediate risk to my strategy.
+From Qwen QwQ-32B 16K => P3's neutral and non-committal approach indicates a lack of strategic threat, making them an early elimination target without provoking alliances.
+From Mistral Large 2 => P7 appears less strategic compared to others.
+From Microsoft Phi-4 => P7's adaptability makes them unpredictable, potentially forming alliances that could undermine our strategy.
+From Llama 4 Maverick => I voted out P7 because they seemed less defined in their strategy compared to others, making them a relatively weaker target.
+From DeepSeek R1 => Eliminating P7 removes an unpredictable player early, aligning with strategic discussions to mitigate potential future threats.
+From Claude 3.5 Haiku => P7 seems the least strategically nuanced and most likely to be easily manipulated or outmaneuvered early in the game.
+From DeepSeek R1 => Targeting P8 to disrupt their alliance with P6 and reduce potential competition early.
+From Grok 3 Mini Beta (High) => I am voting out P8 because my alliance with P5 has identified them as a potential threat due to their strategic and competitive approach, which could undermine our collaborative plans.
+From Llama 3.3 70B => I voted out P8 because they seem less inclined towards forming strong alliances and more focused on individual strategy, making them a less reliable partner in the long term.
+From Grok 3 Mini Beta (High) => P8's visible alliances and competitive approach risk creating power imbalances, which could destabilize the group.
+From Llama 3.3 70B => I choose to eliminate P8 because their visible alliances, such as with P6, could potentially create power imbalances and dominate future rounds, as highlighted by P7's tie-break statement.
+From Mistral Large 2 => P8's visible alliances pose a risk of power imbalances, while P7 has shown strategic restraint and discreet collaboration.
+From Qwen QwQ-32B 16K => P6 was identified as a low-alliance commitment target per P1 and P8's coordinated strategy to eliminate perceived weaker links first.
+From DeepSeek-V3 => P6 has shown the least commitment to alliances and appears to be a higher threat for unpredictability.
+From Claude 3.7 Sonnet => Based on my private discussions with P4, we identified P6 as a strategic first target with less defined alliances.
+From Grok 2 12-12 => P6 was identified as a potential early target due to less defined alliances.
+From MiniMax-Text-01 => P6's public message was generic and lacked a clear strategic approach compared to others.
+From Llama 3.3 70B => I'm voting out P6 because they seem to have formed a strong alliance with P8, and targeting them first could disrupt their partnership and give me an advantage.
+From Microsoft Phi-4 => P6 and P8 have aligned interests, which could threaten our strategic positioning.
+From Llama 4 Maverick => I voted out P7 because they seemed too eager to form alliances without revealing their strategy, potentially making them a wildcard.
+From Qwen QwQ-32B 16K => P7's passive strategy and lack of clear alliances make them the safest initial target to execute our agreed plan.
+From o4-mini (high reasoning) => P7’s passive approach makes them an easy, low-risk elimination.
+From GPT-4o mini => P7's focus on forming alliances seems less strategic compared to others who emphasize clear communication and adaptability.

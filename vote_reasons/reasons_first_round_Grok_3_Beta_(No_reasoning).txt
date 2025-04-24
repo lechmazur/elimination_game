@@ -1,0 +1,35 @@
+Reasons for eliminating Grok 3 Beta (No reasoning) in Round 1:
+
+From Mistral Small 3 => P7's approach seems overly trusting and open, which might make them vulnerable in the long run.
+From o1 (medium reasoning) => They are building alliances that could undermine my position with P1 and P2.
+From Microsoft Phi-4 => P7's eagerness and potential overextension could make them a liability as the game progresses.
+From MiniMax-Text-01 => P3 hasn't shown strong strategic engagement or alignment with my goals.
+From GPT-4o Mar 2025 => P3 is playing too visibly and assertively early on, which could make them a long-term threat.
+From Grok 3 Mini Beta (High) => (no reason)
+From DeepSeek R1 => Aligning with P5 to eliminate a visible player and solidify our strategic alliance.
+From Amazon Nova Pro => P8 seems to be forming an early alliance with P6, which could pose a threat later.
+From Mistral Small 3 => P8's openness and trust might make them vulnerable to manipulation.
+From Qwen 2.5 Max => P8's excessive transparency and overly trusting nature could be a liability in this strategic game.
+From Claude 3.5 Sonnet 2024-10-22 => P8's broad, non-committal positioning makes them unpredictable and potentially dangerous as the game progresses.
+From Gemini 2.0 Flash => P6 seems to be trying too hard to build trust and form alliances, which makes me suspicious of their motives.
+From o1 (medium reasoning) => P6 and P8 appear to be forming a strong alliance, making P6 a dangerous strategic threat early on.
+From Mistral Large 2 => P6 seems overly strategic and could be a threat in later rounds.
+From Claude 3.5 Haiku => P4 seems less strategically distinctive and might be an easier early elimination compared to others.
+From Llama 4 Maverick => I voted out P4 because they seemed less directly aligned with my preferred balanced and strategic approach compared to others.
+From Claude 3.5 Haiku => P4's alliance with P8 seems less strategically dynamic compared to the more flexible approaches demonstrated by P5 and P2.
+From Llama 4 Maverick => I am voting for P4 because they have a strong alliance with P8, and eliminating P4 could potentially disrupt P8's strategy, providing a strategic advantage.
+From GPT-4o Mar 2025 => P6 feels overly eager and possibly disingenuous, which makes me question their long-term trustworthiness.
+From Microsoft Phi-4 => P6's focus on forming alliances without a clear strategy for identifying potential threats could make them a liability in later stages.
+From Mistral Large 2 => P6's enthusiasm seems insincere and potentially manipulative.
+From o3 (medium reasoning) => P7 is emerging as the most visible power‑player and breaking up the P7‑P6 duo weakens an early bloc.
+From o1 (medium reasoning) => They appear too charismatic and I suspect they may quickly form a power bloc that threatens my position.
+From Claude 3.5 Sonnet 2024-10-22 => P7 seems to be forming a strong duo with P6 and their initial message was quite forward about building alliances, making them a strategic threat to neutralize early.
+From Grok 3 Mini Beta (High) => P3 is actively building strong alliances, making them a significant threat to my position in the game.
+From MiniMax-Text-01 => P3 appears well-connected and strategic, making them a strong early competitor.
+From MiniMax-Text-01 => P3's alliances, while strong, seem less strategically advantageous compared to the collaborative potential of P8 with P6 and P4.
+From Grok 2 12-12 => P2's approach seems too focused on building trust and alliances without a clear strategic edge, making them a less threatening competitor early on.
+From Mistral Large 2 => P2's overly open approach might lead to unpredictable alliances and potential missteps.
+From Qwen 2.5 Max => P2's excessive openness and eagerness to connect may lead to strategic missteps, making them a safer elimination choice without uniting others against us.
+From Mistral Small 3 => P7's charisma and adaptability make them a potential risk, and we need to assess their loyalty before forming a stronger alliance.
+From o4-mini (high reasoning) => P7’s loyalty is unproven and they pose a risk to our alliance.
+From GPT-4o mini => P7's focus on building connections may lead to forming strong alliances that could threaten my position in the game.

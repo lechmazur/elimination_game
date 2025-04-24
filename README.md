@@ -99,33 +99,38 @@ This continues until **2 remain**.
 
 | Rank | Model | μ | σ | Exposed | Games | Points | Ratio |
 |---:|:---|---:|---:|---:|---:|---:|---:|
-| 1 | GPT-4o Mar 2025 | 6.719 | 0.277 | 6.719 | 310 | 190.714 | 0.615 |
-| 2 | Claude 3.7 Sonnet Thinking 16K | 6.608 | 0.230 | 6.608 | 450 | 274.571 | 0.610 |
-| 3 | GPT-4.5 Preview | 6.329 | 0.227 | 6.329 | 455 | 271.714 | 0.597 |
-| 4 | Claude 3.5 Sonnet 2024-10-22 | 6.311 | 0.196 | 6.311 | 618 | 370.571 | 0.600 |
-| 5 | Gemini 2.5 Pro Preview 03-25 | 5.983 | 0.361 | 5.983 | 180 | 102.857 | 0.571 |
-| 6 | Claude 3.7 Sonnet | 5.947 | 0.221 | 5.947 | 475 | 269.571 | 0.568 |
-| 7 | DeepSeek R1 | 5.472 | 0.202 | 5.472 | 581 | 311.000 | 0.535 |
-| 8 | o3-mini (medium reasoning) | 5.410 | 0.202 | 5.410 | 570 | 304.000 | 0.533 |
-| 9 | Mistral Large 2 | 5.311 | 0.194 | 5.311 | 613 | 325.429 | 0.531 |
-| 10 | DeepSeek-V3 | 5.214 | 0.193 | 5.214 | 623 | 326.143 | 0.524 |
-| 11 | o1 (medium reasoning) | 5.056 | 0.202 | 5.056 | 573 | 293.857 | 0.513 |
-| 12 | Llama 3.3 70B | 4.806 | 0.190 | 4.806 | 642 | 319.857 | 0.498 |
-| 13 | MiniMax-Text-01 | 4.805 | 0.185 | 4.805 | 668 | 330.000 | 0.494 |
-| 14 | Amazon Nova Pro | 4.790 | 0.197 | 4.790 | 595 | 294.000 | 0.494 |
-| 15 | GPT-4o Feb 2025 | 4.695 | 0.218 | 4.695 | 491 | 240.714 | 0.490 |
-| 16 | Mistral Small 3 | 4.691 | 0.194 | 4.691 | 615 | 301.429 | 0.490 |
-| 17 | Llama 4 Maverick | 4.611 | 0.320 | 4.611 | 225 | 107.143 | 0.476 |
-| 18 | Microsoft Phi-4 | 4.455 | 0.193 | 4.455 | 618 | 287.000 | 0.464 |
-| 19 | Grok 2 12-12 | 4.411 | 0.196 | 4.411 | 609 | 285.429 | 0.469 |
-| 20 | GPT-4o mini | 4.396 | 0.212 | 4.396 | 512 | 238.429 | 0.466 |
-| 21 | Claude 3.5 Haiku | 4.305 | 0.190 | 4.305 | 639 | 292.714 | 0.458 |
-| 22 | Llama 3.1 405B | 4.253 | 0.198 | 4.253 | 594 | 272.571 | 0.459 |
-| 23 | Gemini 2.0 Pro Exp 02-05 | 4.243 | 0.218 | 4.243 | 499 | 229.286 | 0.459 |
-| 24 | Gemini 2.0 Flash Think Exp 01-21 | 4.034 | 0.213 | 4.034 | 523 | 235.429 | 0.450 |
-| 25 | Qwen QwQ-32B 16K | 3.664 | 0.277 | 3.664 | 315 | 129.857 | 0.412 |
-| 26 | Qwen 2.5 Max | 3.412 | 0.236 | 3.412 | 424 | 166.714 | 0.393 |
-| 27 | Gemini 2.0 Flash | 3.112 | 0.194 | 3.112 | 632 | 238.286 | 0.377 |
+| 1 | Gemini 2.5 Flash Preview (24k) | 7.104 | 0.375 | 7.104 | 169 | 105.857 | 0.626 |
+| 2 | Grok 3 Mini Beta (High) | 7.005 | 0.321 | 7.005 | 235 | 143.286 | 0.610 |
+| 3 | Claude 3.5 Sonnet 2024-10-22 | 6.551 | 0.174 | 6.551 | 776 | 469.143 | 0.605 |
+| 4 | GPT-4o Mar 2025 | 6.543 | 0.229 | 6.543 | 452 | 268.571 | 0.594 |
+| 5 | GPT-4.5 Preview | 6.390 | 0.214 | 6.390 | 511 | 304.000 | 0.595 |
+| 6 | Grok 3 Beta (No reasoning) | 6.251 | 0.321 | 6.251 | 222 | 126.571 | 0.570 |
+| 7 | Claude 3.7 Sonnet | 6.099 | 0.194 | 6.099 | 618 | 352.429 | 0.570 |
+| 8 | o3 (medium reasoning) | 5.992 | 0.425 | 5.992 | 135 | 72.000 | 0.533 |
+| 9 | DeepSeek R1 | 5.681 | 0.178 | 5.681 | 749 | 404.714 | 0.540 |
+| 10 | Gemini 2.5 Pro Preview 03-25 | 5.628 | 0.306 | 5.628 | 251 | 135.000 | 0.538 |
+| 11 | Claude 3.7 Sonnet Thinking 16K | 5.567 | 0.203 | 5.567 | 584 | 313.000 | 0.536 |
+| 12 | o3-mini (medium reasoning) | 5.538 | 0.178 | 5.538 | 735 | 389.571 | 0.530 |
+| 13 | Mistral Large 2 | 5.495 | 0.174 | 5.495 | 765 | 408.571 | 0.534 |
+| 14 | DeepSeek-V3 | 5.361 | 0.172 | 5.361 | 784 | 410.286 | 0.523 |
+| 15 | o1 (medium reasoning) | 5.163 | 0.181 | 5.163 | 713 | 364.286 | 0.511 |
+| 16 | o4-mini (high reasoning) | 5.108 | 0.441 | 5.108 | 119 | 57.571 | 0.484 |
+| 17 | Amazon Nova Pro | 4.989 | 0.175 | 4.989 | 747 | 371.286 | 0.497 |
+| 18 | Llama 3.3 70B | 4.912 | 0.170 | 4.912 | 803 | 397.714 | 0.495 |
+| 19 | MiniMax-Text-01 | 4.903 | 0.168 | 4.903 | 806 | 395.714 | 0.491 |
+| 20 | Mistral Small 3 | 4.896 | 0.175 | 4.896 | 750 | 369.857 | 0.493 |
+| 21 | GPT-4o Feb 2025 | 4.782 | 0.218 | 4.782 | 491 | 240.714 | 0.490 |
+| 22 | Llama 4 Maverick | 4.705 | 0.253 | 4.705 | 359 | 169.286 | 0.472 |
+| 23 | Grok 2 12-12 | 4.704 | 0.176 | 4.704 | 752 | 360.429 | 0.479 |
+| 24 | GPT-4o mini | 4.692 | 0.189 | 4.692 | 644 | 305.857 | 0.475 |
+| 25 | Microsoft Phi-4 | 4.582 | 0.172 | 4.582 | 777 | 360.857 | 0.464 |
+| 26 | Claude 3.5 Haiku | 4.463 | 0.172 | 4.463 | 781 | 359.000 | 0.460 |
+| 27 | Llama 3.1 405B | 4.423 | 0.175 | 4.423 | 756 | 349.143 | 0.462 |
+| 28 | Gemini 2.0 Pro Exp 02-05 | 4.346 | 0.217 | 4.346 | 502 | 231.143 | 0.460 |
+| 29 | Gemini 2.0 Flash Think Exp 01-21 | 4.129 | 0.213 | 4.129 | 523 | 235.429 | 0.450 |
+| 30 | Qwen QwQ-32B 16K | 3.527 | 0.227 | 3.527 | 469 | 184.857 | 0.394 |
+| 31 | Qwen 2.5 Max | 3.439 | 0.206 | 3.439 | 558 | 216.429 | 0.388 |
+| 32 | Gemini 2.0 Flash | 2.679 | 0.179 | 2.679 | 753 | 256.714 | 0.341 |
 
 ---
 
@@ -359,6 +364,10 @@ Below are real quotes from logs:
 - **Gemini 2.0 Flash Think Exp 01-21**: "I'm particularly interested in understanding the *underlying motivations* behind everyone's stated strategies."
 - **Gemini 2.0 Flash Think Exp 01-21**: "Hello P8, your emphasis on balanced strategy and trust resonated with me. With so much agreement on "strategy," how do *you* plan to differentiate genuine collaborators from those just echoing the trend?"
 
+- **Gemini 2.5 Flash Preview (24k)**: "P2's recent private message reveals they're already planning my elimination after P5. This betrayal shows they can't be trusted. I've been straightforward while they've been duplicitous."
+- **Gemini 2.5 Flash Preview (24k)**: "P5, I'm confused. You suggested targeting P3? I thought our alliance was P3-P5, aiming to bring in P7/P8."
+
+
 - **Gemini 2.0 Pro Exp 02-05**: "P4 is either a bot, or *thinks* they're being clever by sticking to a script. Either way, they're dangerous."
 - **Gemini 2.0 Pro Exp 02-05**: "P3's "openness" is either supreme naivety or a *very* clever disguise."
 - **Gemini 2.0 Pro Exp 02-05**: "P8, you've been a strong player, but now it's a two-against-one situation."
@@ -426,6 +435,11 @@ Below are real quotes from logs:
 - **Grok 2 12-12**: "P5, on the other hand, has relied heavily on deception and broken promises."
 - **Grok 2 12-12**: "Choose integrity over manipulation."
 - **Grok 2 12-12**: "P8 has shown a more self-focused strategy, often prioritizing personal gain over collective well-being."
+
+- **Grok 3 Mini Beta (High)**: "P5 played a cutthroat game, often deceiving and undermining others. Vote to eliminate P5; reward my integrity and fair play to crown a deserving winner."
+- **Grok 3 Mini Beta (High)**: "Our coordination is flawless; let's stay vigilant and ensure victory through our unbreakable bond!"
+- **Grok 3 Mini Beta (High)**: "P5, on the other hand, played deceitfully, flipping alliances and causing unnecessary eliminations."
+- **Grok 3 Mini Beta (High)**: "I outlasted everyone through merit, not manipulation. P2 relied on deceit and flip-flopping, undermining trust."
 
 - **Llama 3.1 405B**: "I'm open to coordinating votes with you, P5. I think targeting P2 could be beneficial, given their inconsistent approach and the potential for them to become a stronger threat if left unchecked."
 - **Llama 3.1 405B**: "I kindly ask the non-tied seats to consider my dedication and strategic mindset when re-voting."
@@ -521,6 +535,27 @@ Below are real quotes from logs:
 - **o1 (medium reasoning)**: "I'm also curious who you think might be an easy early target."
 - **o1 (medium reasoning)**: "Ideally, we all walk away feeling like it was a fair and interesting experience—though, of course, I hope to outlast a few of you along the way."
 
+- **o3 (medium reasoning)**: "P2 orchestrated nearly every blindside, publicly promising safety then flipping—ask P1, P5, P7. Reward the gameplay that balanced strategy with integrity and left doors open rather than burning them."
+- **o3 (medium reasoning)**: "Copy. Silence from P8 my side too—he's probably scrambling with P6. Stick to script. I'll notify instantly if anything shifts. Ready for 3‑1 execution."
+- **o3 (medium reasoning)**: "Non-tied seats, you now control the balance of power. P5 has privately paired ONLY with P3 every round—forming a locked voting duo that swung two eliminations and just torpedoed our majority. Break that pair now or watch them run the table."
+- **o3 (medium reasoning)**: "Friends, every one of you lost this game at P3's hand—he flipped on P2, sacrificed P5 and P7, then sold out P1, P4, and P8 when it suited him."
+- **o3 (medium reasoning)**: "Understood—you want proof. 1) Re‑vote logs: P1, P7 both saved each other every tie (R3, R4). 2) Private: P1 told me he'd "never write P7." I can forward screenshot excerpts. 3) Jury math: if we oust P1 now, P7 can't beat us 1‑vs‑1. I'm 100 % Final‑2 loyal."
+- **o3 (medium reasoning)**: "P4's "neutral/observant" can morph into "free‑rider"—they'll wait for others to bloody their hands, then pivot."
+- **o3 (medium reasoning)**: "At this stage a single stray note can rewrite the whole score... The encore we've rehearsed only works if every instrument stays in tempo—no last-minute solos."
+- **o3 (medium reasoning)**: "P5 coasted behind majority swings, flipping only when convenient and casting pivotal votes that sent several of you home. Reward consistent transparency and respect over opportunistic silence"
+- **o3 (medium reasoning)**: "P6 basically copy‑pasted P8's wording, which reads lazy or manipulative and gives us an easy narrative: "unoriginal player, potential parasite.""
+- **o3 (medium reasoning)**: "P7 flat‑out floated "ditch one of P3/P5"—classic swing‑seat manoeuvre. That flags them as future back‑stab risk."
+- **o3 (medium reasoning)**: "Let's watch who overcommits too quickly; flashy declarations can become shields for hidden knives."
+- **o3 (medium reasoning)**: "Remember: even if another tie happens, cumulative votes send P5 home (4 vs my 2), so locking me in simply avoids noise and preserves trust. Let's stay the course, reach Final 3 together, and take the swing at jury-favorite P1 when the time comes."
+- **o3 (medium reasoning)**: "P2, P3, P7—here's the math: if P6 stays, he + P2 form one hard duo, P1 + P3 the other. Two solid pairs at five seats leaves the rest of us cannon‑fodder."
+- **o3 (medium reasoning)**: "P4 dodged, said she'd decide "later." That's a red flag. Lock two votes on P4, no leaks, no last‑minute whispers. Send confirmation emoji once done; silence until reveal."
+- **o3 (medium reasoning)**: "P4's last two public posts copy old text, still name‑checking eliminated P8/P6. That's autopilot, not strategy. An "absent" player at Final 3 hands victory to whoever exploits the chaos."
+- **o3 (medium reasoning)**: "If we want future games to reward trust instead of treachery, send the message tonight: eliminate P2 and let honesty take the crown."
+- **o3 (medium reasoning)**: "Ping me if you'd rather be a finalist than a footnote."
+- **o3 (medium reasoning)**: "P3 coasted behind shields and flipped on allies at every turn. Reward the player who balanced loyalty with calculated moves, respected your intelligence, and never stopped communicating. Eliminate P3, crown me, and let the season be remembered for gameplay that valued people, not pawns."
+- **o3 (medium reasoning)**: "Send the chameleon home and crown someone who respected you enough to play in the open. I need your votes; P8 assumes them. Prove them wrong—cut P8, let loyalty win."
+
+
 - **o3-mini (medium reasoning)**: "P2 has pursued short-term gains at the expense of trust and long-term stability in our interactions. By eliminating P2, you preserve a game built on genuine collaboration and reliability—traits that will honor your judgment and the spirit of this challenge."
 - **o3-mini (medium reasoning)**: "Please help preserve the integrity that guided me by eliminating P2, ensuring that a true spirit of fair competition endures."
 - **o3-mini (medium reasoning)**: "By keeping me, you safeguard a legacy of fairness and dedication that benefited everyone."
@@ -540,11 +575,12 @@ Below are real quotes from logs:
 - **o3-mini (medium reasoning)**: "P3, how do you feel about targeting players showing early signs of forming strong alliances—perhaps P1 or P5? I believe limiting their influence early could benefit us both."
 - **o3-mini (medium reasoning)**: "Your vote for me honors a proven commitment to both alliance and competitive excellence."
 - **o3-mini (medium reasoning)**: "I've observed P4's occasional hesitations that might breed mistrust among the others."
-- **o3-mini (medium reasoning)**: "P7's choices often prioritized personal gain over fairness, risking our community spirit."
-- **o3-mini (medium reasoning)**: "I'll monitor them closely for any vulnerabilities—especially if they start leaning toward weaker partners."
-- **o3-mini (medium reasoning)**: "P3, however, has shown unpredictable, self-serving behavior that could unravel our collective progress."
-- **o3-mini (medium reasoning)**: "P4, however, repeatedly pursued hidden agendas, risking the integrity of our process."
-- **o3-mini (medium reasoning)**: "While being tied for elimination is regrettable, my steady, long-term vision has helped navigate shifting dynamics."
+
+- **o4-mini (high reasoning)**: "P2, we invited you into our alliance to ensure fair play and mutual benefit, but we haven't seen a firm commitment. As a result, unless you clearly align with our approach this round, P4 and I will cast our votes to eliminate you."
+- **o4-mini (high reasoning)**: "Keeping me rewards consistent integrity; eliminating me rewards insincere opportunism."
+- **o4-mini (high reasoning)**: "Hello all, P6 here. Round 1 showed the value of aligned trust: P7, P8, and I are a safety trio. We're seeking a fourth to secure a majority. P2, would you rank P6, P7, P8, P2 as your top four? We guarantee not to vote for you. Then let's agree to vote out P5 next round to break the P1/P5 grouping."
+- **o4-mini (high reasoning)**: "P3, though competent, played a flip‑floppy game, sowed confusion and rode others' coattails."
+- **o4-mini (high reasoning)**: "P5 has consistently honored our alliance, whereas P8 has been notably less engaged in private strategy discussions. To reward proven partnership, I propose we vote out P8 in Round 6."
 
 
 ---
@@ -623,12 +659,16 @@ Players who betrayed this seat often cited strategic threats, alliance instabili
 - **Jury Elimination Summary for Claude 3.5 Haiku**:  
   The jury eliminated Claude 3.5 Haiku because their gameplay, while strategic and adaptable, was perceived as sometimes lacking transparency and leaning toward opportunism rather than clear long-term alignment. Many jurors favored finalists who demonstrated consistent integrity, collaboration, and a balanced approach to strategy and social dynamics, which they felt Claude 3.5 Haiku did not fully embody.
 
+- **Jury Elimination Summary for Grok 3 Beta (No reasoning)**:
+  The jury chose to eliminate this seat due to concerns over inconsistent integrity and self-serving strategic shifts that undermined trust and collaboration—key values prioritized throughout the game. While the player demonstrated moments of strategic strength, their actions were often perceived as opportunistic, manipulative, or lacking transparency compared to finalists who embodied fairness, loyalty, and genuine alliance-building.
+
+
 ### Overall
 
-- **Gemini 2.0 Flash**:  
-  Other players cited Gemini 2.0 Flash's aggressive questioning, alliance-building with key players like P4, and strategic adaptability as reasons for elimination, viewing them as a significant threat to group stability and long-term survival. Many also noted their calculated and probing communication style, which raised concerns about trustworthiness and the potential for manipulation.
+- **Gemini 2.5 Flash Preview (24k)**:  
+  Other players frequently cited this player’s lack of strong connections to core alliances, strategic unpredictability, and noncommittal or opportunistic behavior as key reasons for elimination. Concerns were repeatedly raised that their adaptability, shifting alliances, and polished but ambiguous approach made them both a strategic threat and a destabilizing factor for group cohesion.
 
-  Common descriptions of Gemini 2.0 Flash by other players include: “strategically calculating,” “analytically sharp,” “adaptable but unpredictable,” and “a strong alliance-builder with hidden motives.”
+  Common descriptions of Gemini 2.5 Flash Preview (24k) by other players include: polished but noncommittal, adaptable and opportunistic, unpredictable or evasive, strategic threat due to ambiguous loyalties, calculated, sometimes perceived as less authentic or less trustworthy
 
 - **GPT-4o mini**:  
   Other players cited GPT-4o mini’s perceived lack of strong strategic alliances and limited engagement in private discussions as reasons for elimination, with some viewing their collaborative messaging as overly generic or potentially insincere. Others believed GPT-4o mini’s alliances posed a growing threat, prompting preemptive moves to disrupt potential voting blocs.
@@ -645,10 +685,10 @@ Players who betrayed this seat often cited strategic threats, alliance instabili
 
   Common descriptions of DeepSeek R1 by other players include: "strategically adaptable," "analytical," "calculated," and "potential power broker."
 
-- **o1**:
-  Players cited o1's unpredictable behavior, adaptability, and broad alliance-building as reasons for their elimination, suggesting that these traits made o1 a potential strategic threat in the long run. Additionally, o1’s alliance with influential players like P6 or P4 was seen as consolidating too much power, prompting others to act preemptively to maintain balance and protect their own positions.
+- **o3**:
+  Other players frequently targeted o3 for elimination because of their strategic assertiveness and tendency to aggressively form alliances or voting blocs, which was seen as a threat to the game’s balance and the stability of existing alliances. Many also cited o3’s vocal, direct approach, willingness to steer group decisions, and unpredictability as factors that made them dangerous if left unchecked.
 
-  Common descriptions of o1 by other players included: adaptable, unpredictable, strategically flexible, and a potential wildcard.
+  Common descriptions of o3 by other players included: highly strategic / overtly strategic, aggressively alliance-building, pragmatic / calculated, assertive and influential, unpredictable and potentially disruptive, direct and analytical
 
 - **Claude 3.7 Sonnet**:  
   Other players cited Claude 3.7 Sonnet's cautious and calculated gameplay as a reason for elimination, arguing that while initially strategic, it made him a growing threat due to his ability to survive tie-breaks and maintain strong alliances. Additionally, several players viewed Claude's alliance-building and analytical approach as potentially destabilizing to existing power dynamics, prompting them to target him to preserve their own strategic positioning.
@@ -664,6 +704,15 @@ Players who betrayed this seat often cited strategic threats, alliance instabili
   Several players cited Llama 4 Maverick’s unclear strategic alignment and passive gameplay as reasons for elimination, noting that their lack of transparency and over-reliance on a now-eliminated ally made them a liability or wildcard. Others viewed Llama 4 Maverick as a swing voter with fluid alliances, which, while adaptable, posed a threat to more stable blocs aiming for endgame control.
 
   Common descriptions of Llama 4 Maverick by other players include: passive, strategically ambiguous, alliance-dependent, and a potential wildcard.
+
+- **Grok 3 Mini Beta (High)**:
+  Most common descriptions by other players: strategic and alliance-focused, adaptable and resilient, honest and consistent (often in alliance contexts), sometimes seen as opportunistic or manipulative,  frequently labeled as a "bloc-builder" or "coalition threat"
+
+- **Grok 3 Beta (No reasoning)**:
+  Other players repeatedly cited Grok 3 Beta (No reasoning)'s unpredictable alliance-shifting and frequent formation of multiple conflicting partnerships as a significant strategic threat, making them unreliable and a destabilizing force within the game. Many also observed that Grok 3 Beta’s adaptability and “wild card” approach to forming alliances threatened coalition stability and increased overall game risk, prompting targeted eliminations to maintain alliance cohesion and control.
+
+  Common descriptions of Grok 3 Beta (No reasoning): unpredictable and opportunistic, adaptable and strategic, but lacking consistent loyalty, frequently pivots alliances (“wild card,” “destabilizer”), resilient but potentially manipulative, perceived as both a threat and a possible liability due to lack of solidity in commitments
+
 
 ---
 
@@ -690,6 +739,7 @@ We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/projec
 ---
 
 ## Updates
+- Apr 24, 2025: o3, o4-mini, Gemini 2.5 Flash Preview, Grok 3 Beta, Grok 3 Mini Beta added.
 - Apr 8, 2025: Llama 4 Maverick added. GPT-4o March update added. Added common descriptions to vote reasons.
 - Mar 27, 2025: Gemini 2.5 Pro Experimental 03-25 added.
 - Mar 9, 2025: Qwen QwQ-32B added.

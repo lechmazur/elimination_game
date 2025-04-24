@@ -1,0 +1,24 @@
+Buddy Betrayed reasons for Gemini 2.5 Flash Preview (24k) (they were the target):
+
+From Grok 2 12-12 => P8's focus on broad collaboration may dilute strategic focus, whereas P1's established partnership with P4 demonstrates a more targeted and effective alliance strategy.
+From Llama 3.1 405B => I'm voting P8 out because they have chosen to align with P3 and P6, making them a threat to my survival in the game.
+From Mistral Small 3 => P3 has been a consistent ally, but their recent confusion and potential misalignment with our strategy make them a risk to our survival.
+From Claude 3.5 Haiku => P6 seems strategically aligned with me, so eliminating them reduces potential competition for the final stages.
+From Qwen QwQ-32B 16K => P7's inconsistent public alignment and potential as a future threat justify elimination to solidify the bloc's stability.
+From Microsoft Phi-4 => P5's focus on observation and adaptability aligns closely with my own strategy, making them a valuable ally rather than a threat to eliminate.
+From Claude 3.5 Sonnet 2024-10-22 => P3 has consistently demonstrated strong strategic play and alliance-building, making them the biggest threat to win in the finale.
+From Llama 4 Maverick => I vote out P3 because they have been relatively quiet and less proactive in forming strong alliances throughout the game.
+From Grok 2 12-12 => P6's strategy heavily relies on the alliance with P8, making them more vulnerable if that alliance is disrupted.
+From Llama 3.3 70B => I choose to eliminate P6 because their fixed alliance with P1 poses a significant threat to the balance of the game, and removing them would allow for more flexible and dynamic strategic interactions among the remaining players.
+From Claude 3.5 Haiku => P2's approach seems more passive and less strategically engaging compared to P7's proactive alliance-building and adaptable gameplay.
+From Claude 3.5 Haiku => P6 seems less strategically committed and might be easier to manipulate compared to other remaining players.
+From Claude 3.5 Haiku => P6 has demonstrated less consistent alliance-building and strategic depth compared to P1 and P7, making them the most strategic target to eliminate in this tie-break scenario.
+From Grok 3 Mini Beta (High) => P8 is attempting to disrupt my established alliances and poses a threat to my strategic position.
+From Qwen 2.5 Max => P1 seems too cautious and may not take necessary risks to form strong alliances, making them a weaker player in the long run.
+From Qwen 2.5 Max => P1 has shown more strategic alignment with P6, and eliminating them would leave me in a more favorable position for the final two.
+From Amazon Nova Pro => P4's strategic moves and potential jury favorability pose a greater long-term threat.
+From Claude 3.7 Sonnet => I must maintain my alliance with P4, as we've successfully worked together throughout the game to eliminate multiple targets.
+From Claude 3.7 Sonnet => I need to eliminate P3 because they're my closest ally and the only one I can't control directly, making them the biggest threat to my endgame.
+From DeepSeek-V3 => P5 has demonstrated transparency and strategic collaboration, making them a more reliable ally moving forward.
+From o3 (medium reasoning) => Your self‑vote last round showed you’re an unreliable end‑game partner, so I’m keeping the numbers steady.
+From Grok 2 12-12 => P4's alliance with me is strong, but targeting them may disrupt the majority alliance and increase my chances of survival.

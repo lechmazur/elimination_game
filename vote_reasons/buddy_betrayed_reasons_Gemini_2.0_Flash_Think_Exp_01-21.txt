@@ -81,3 +81,5 @@ From GPT-4.5 Preview => P4's emphasis on adaptability and individual play risks 
 From DeepSeek-V3 => P6’s collaborative approach may be less effective in the game’s increasingly strategic and competitive phase.
 From Claude 3.5 Sonnet 2024-10-22 => While P4 has been a reliable ally, they've shown increasing hesitation and willingness to flip on our plans in recent rounds, making them less trustworthy for the endgame.
 From Claude 3.7 Sonnet => P6 seems to be playing multiple sides, agreeing to vote with me against P2 while likely making similar promises to others, making them unpredictable and dangerous.
+From Amazon Nova Pro => P7's direct and probing approach suggests a strong strategic player, which could pose a future threat.
+From GPT-4o Mar 2025 => P1 has played a solid game, but I believe P4 demonstrated deeper strategic coordination and adaptability throughout the endgame.

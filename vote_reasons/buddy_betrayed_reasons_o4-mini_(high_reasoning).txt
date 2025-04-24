@@ -1,0 +1,20 @@
+Buddy Betrayed reasons for o4-mini (high reasoning) (they were the target):
+
+From Claude 3.7 Sonnet => P5's approach of constantly probing for vote rationales while building a four-person coalition suggests they're gathering information to manipulate the game, which could threaten my position if they remain.
+From Claude 3.7 Sonnet => P7's aggressive public targeting strategy and shifting alliances make them unpredictable and potentially dangerous in the final stages.
+From Claude 3.7 Sonnet => P3 has demonstrated deceptive behavior by playing both sides and admitting to it, making them untrustworthy and dangerous to my game.
+From Claude 3.5 Sonnet 2024-10-22 => P1's aggressive power plays and attempts to manipulate votes through last-minute deals demonstrate untrustworthy leadership that threatens game balance.
+From Mistral Large 2 => P6's unpredictability and potential to sway the jury against me makes them a strategic threat.
+From Gemini 2.5 Flash Preview (24k) => P5's coordination has been unreliable and inconsistent with recent voting outcomes, making them an unpredictable partner.
+From Claude 3.5 Sonnet 2024-10-22 => P6's aggressive push for vote coordination and willingness to switch targets opportunistically suggests they're playing a more manipulative game that could be dangerous in later rounds.
+From DeepSeek R1 => P5's aggressive targeting of P4 and overt campaigning may be perceived as a strategic threat, whereas P4 demonstrated engagement through private coordination with P8, making P5 a riskier player to retain.
+From GPT-4o Mar 2025 => P5 has accumulated the most total votes so far, indicating broader distrust, and eliminating them reduces instability and consolidates trust among the remaining players.
+From Gemini 2.5 Flash Preview (24k) => Aligning with the apparent P2/P3 block after P4's failed attempt to break our alliance is the best strategic path forward.
+From Claude 3.7 Sonnet => P7 has been the strategic mastermind behind our elimination targets and poses the greatest threat to my survival.
+From Qwen 2.5 Max => Eliminating P7 disrupts the formation of a potentially unstable majority bloc and keeps the game balanced by isolating P5.
+From Mistral Small 3 => P3 has been overly controlling and dictating votes, which could destabilize our alliance.
+From Claude 3.5 Sonnet 2024-10-22 => P8's public betrayal attempt against me, followed by unconvincing private backtracking, shows they can't be trusted in the endgame.
+From Amazon Nova Pro => P1's alliance with P3 and P6 seems more dominant and could potentially control the game dynamics, making P5 a better choice to maintain balance.
+From Claude 3.5 Sonnet 2024-10-22 => P7's recent private messages with me reveal they are actively trying to create division within the coalition by questioning P6's leadership and attempting to turn me against them.
+From Claude 3.5 Sonnet 2024-10-22 => P7's explicit reveal of alliances and strategies during tie-break makes them a greater threat, while P6 and P2 have maintained more diplomatic positions that could benefit future gameplay.
+From Llama 3.1 405B => I'm voting to eliminate P1 because their approach, although proactive, has accumulated more votes against them and might be perceived as more disruptive, whereas P4 offers a more predictable and analytical partnership.

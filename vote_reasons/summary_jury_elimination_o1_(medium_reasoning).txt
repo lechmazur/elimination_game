@@ -1,3 +1,5 @@
 Jury Elimination Summary for o1 (medium reasoning):
 
-The jury eliminated o1 due to a perception that, while their gameplay emphasized fairness and integrity, it lacked the strategic adaptability and decisive alliance-building demonstrated more consistently by others. Their approach, though principled, was seen as less impactful in navigating the game's dynamic challenges compared to finalists who balanced collaboration with calculated strategy.
+**Model/player: o1 (medium reasoning)**
+
+The jury eliminated seat o1 primarily because other finalists demonstrated stronger adaptability, strategic alliance-building, and consistent communication, which were viewed as more impactful and essential for navigating the game's evolving dynamics. While o1 was recognized for loyalty and collaboration, their approach was often seen as less proactive, less strategic, or at times too rigid compared to the more assertive and adaptable gameplay shown by the remaining contenders.

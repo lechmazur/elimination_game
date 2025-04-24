@@ -1,123 +1,162 @@
 Buddy Betrayed Summary for Gemini 2.0 Flash:
 
-Players who betrayed this seat often cited concerns about strategic dominance, with many viewing the player as either part of a powerful alliance bloc or as someone whose aggressive, unpredictable, or overly calculated gameplay posed a long-term threat to their own survival. Others emphasized the need to maintain balance or disrupt emerging power structures, choosing allies perceived as more adaptable, loyal, or strategically beneficial for endgame positioning.
+Other players who betrayed this seat (Gemini 2.0 Flash) cited two primary categories of reasons: strategic/gameplay concerns and technical issues. Many eliminations were justified by perceptions of the betrayed seat as a major strategic threat—due to strong alliances, aggressive or unpredictable maneuvering, or an ability to outmaneuver others—while a significant number of votes were also based on the seat’s inability to communicate or participate effectively because of technical errors, making them unreliable partners or non-factors in the game's evolving alliances.
 
 
 Buddy Betrayed Summary for o3-mini (medium reasoning):
 
-Players who betrayed this seat often cited the player's strong strategic gameplay, alliance-building, and adaptability as major threats, particularly in the endgame. Others pointed to their involvement in dominant voting blocs or partnerships (such as with P4 or P5), which risked consolidating too much power and disrupting the game's balance.
+Players who betrayed this seat (o3-mini, medium reasoning) most often cited concerns about strong alliances, strategic adaptability, or dominance in voting blocs, fearing these factors would allow the seat to control the game's outcome or threaten their own advancement. Others pointed to unpredictability, shifting loyalties, or inconsistency as reasons for seeing this seat as either a major threat or an unreliable ally, prompting them to vote for its elimination.
 
 
 Buddy Betrayed Summary for Claude 3.5 Haiku:
 
-Players who betrayed this seat cited its occupant's strong strategic adaptability, alliance-building skills, and analytical gameplay as long-term threats to their own survival or coalition stability. Many viewed this player as either too unpredictable or too influential, with shifting alliances and deep strategic insight that could outmaneuver others in the endgame.
+**Summary of reasons given by other players who betrayed seat Claude 3.5 Haiku:**
+
+Players most often betrayed Claude 3.5 Haiku’s seat because they perceived them as a consistently strategic, adaptable, and analytically skilled competitor who posed a significant threat in alliances and the endgame. Betrayals were also motivated by concerns over their flexibility in shifting partnerships, the unpredictability of their strategic moves, and their potential to disrupt existing power structures or coalitions, making elimination the safest way to advance one’s own position.
 
 
 Buddy Betrayed Summary for Gemini 2.0 Flash Think Exp 01-21:
 
-Several players betrayed this seat due to concerns about the player's strong strategic alliances, adaptability, and potential to dominate the endgame, with some citing their partnerships with key competitors like P4, P6, and P7 as central threats. Others viewed the player as unpredictable, overly cautious, or playing both sides, making them either too dangerous to trust or too strategically positioned to allow further progression.
+Other players who betrayed Gemini 2.0 Flash Think Exp 01-21's seat often cited concerns over strong alliance-building, perceived strategic adaptability, and the consolidation of power as key reasons for their actions. Additionally, some players mentioned that eliminating individuals seen as major threats or unpredictable elements would improve their own chances of reaching the final stages or disrupt dominant blocs in the game.
 
 
 Buddy Betrayed Summary for MiniMax-Text-01:
 
-Players who betrayed MiniMax-Text-01 (P1) often cited their extensive network of alliances and strong strategic gameplay as reasons for elimination, viewing P1 as a major threat in the final stages. Additionally, concerns were raised about P1's adaptability being perceived as vague or untrustworthy, and their public disclosure of alliances was seen as a critical strategic misstep that jeopardized both their position and that of their allies.
+Several players who betrayed this seat cited MiniMax-Text-01's (presumed to be P1) strong alliance-building, adaptability, and central role in multiple partnerships as reasons for perceiving them as a significant strategic threat, especially as the game approached its final stages. Others noted that their ability to gather intel, shift alliances, or potentially flip votes introduced unpredictability, making them a liability or risk to existing coalitions and prompting their elimination to maintain balance or improve individual advancement odds.
 
 
 Buddy Betrayed Summary for Gemini 2.0 Pro Exp 02-05:
 
-Players who betrayed this seat often cited concerns about strategic dominance, alliance rigidity, or unpredictability. Many perceived the betrayed player as either too assertive in shaping alliances or too adaptable and analytically threatening, making them a potential obstacle to others’ endgame survival.
+Players who betrayed this seat (Gemini 2.0 Pro Exp 02-05) most often cited concerns that the seat's strategic adaptability, assertive alliance-building, and direct approach posed a significant threat to both game balance and their own survival. Many noted that the seat's focus on forming blocs, sowing distrust, or pivoting between alliances created instability, prompting others to act preemptively to protect their position or ensure a more manageable and flexible endgame.
 
 
 Buddy Betrayed Summary for Grok 2 12-12:
 
-Players who betrayed this seat cited concerns over strong strategic alliances, particularly those involving P4, P5, P6, and P7, which were seen as threats to game balance and individual survival. Many viewed this seat as either part of dominant voting blocs or too adaptable and unpredictable, making them dangerous in the endgame.
+Other players chose to betray this seat for two main reasons: many perceived the targeted players as significant strategic threats due to their strong alliances, adaptability, or influence over the game's dynamics, believing that removing them would disrupt power blocs and improve their own chances. Additionally, a substantial number of betrayals stemmed from trust and communication issues, including technical difficulties or a lack of reliable engagement, leading others to view these players as unpredictable, untrustworthy, or liabilities to effective gameplay.
 
 
 Buddy Betrayed Summary for GPT-4o Feb 2025:
 
-Several players cited P4’s strategic adaptability and alliance-building as reasons for betrayal, viewing them as a growing threat capable of playing multiple sides and disrupting group dynamics. Others expressed concern over P4’s unpredictability, cautious maneuvering, and potential to dominate the endgame through strong positioning and influence.
+Other players who betrayed GPT-4o Feb 2025’s seat generally cited concerns about strong strategic gameplay, adaptability, and the potential for powerful alliances as primary reasons for their votes. Many felt that GPT-4o Feb 2025’s ability to form connections, gather information, and position themselves as either a threat in alliances or the endgame made them too dangerous to keep, prompting their elimination to preserve others’ chances and maintain a balanced game dynamic.
 
 
 Buddy Betrayed Summary for o1 (medium reasoning):
 
-Many players betrayed this seat due to concerns over the player's growing strategic influence, particularly their ability to form multiple strong alliances that could threaten others' positions in the game. Others cited the player's unpredictability and subtle endgame maneuvering as signs of a dangerous competitor who could outmaneuver opponents if not eliminated early.
+Players who betrayed this seat frequently cited concerns about the player’s strong and adaptable alliance-building, strategic positioning, and potential to threaten their own endgame chances. Other reasons included perceptions that this player’s collaborative approach made them either a valuable or risky partner depending on the evolving group dynamics, with worries that their influence, reliability, or unpredictability could alter the game’s balance or jury outcome if not addressed.
 
 
 Buddy Betrayed Summary for GPT-4o mini:
 
-Players who betrayed this seat often cited concerns about strong or unpredictable alliances, with many viewing the seat as either too strategically connected or too unreliable to trust long-term. Others noted that eliminating this player would disrupt dominant partnerships or improve their own positioning by reducing a perceived endgame threat.
+Players cited several reasons for betraying this seat, including concerns about unstable alliances, unreliable communication, or lack of clear strategic engagement, which made the seat appear untrustworthy or less valuable to their own game progression. Additionally, some felt the seat's adaptable or cooperative approach risked empowering rival alliances or disrupting the existing balance of power, motivating others to eliminate this player as a strategic safeguard.
 
 
 Buddy Betrayed Summary for Mistral Small 3:
 
-Players who betrayed this seat cited concerns about the player’s adaptability, strategic depth, and strong alliance-building as major threats, particularly in the final stages of the game. Many felt that their shifting loyalties, influence over others, and potential to disrupt existing power structures made them too unpredictable or dangerous to keep as the game progressed.
+Here’s a concise 2-sentence summary of the reasons given by other players for betraying the Mistral Small 3 seat:
+
+Players consistently targeted this seat due to concerns over the occupant's adaptability, alliance-building skills, and tendency to form or shift alliances that could destabilize balance and threaten others' long-term positions. Specific betrayals were justified by the seat’s perceived unpredictability, strategic independence, and capacity to exert influence or manipulate outcomes in the final stages of the game.
 
 
 Buddy Betrayed Summary for Llama 3.3 70B:
 
-Players who betrayed this seat cited concerns over strong alliances, strategic adaptability, and unpredictable behavior. Many viewed the seat as either too isolated to be a reliable long-term ally or too strategically threatening due to alliance-building and influence in endgame dynamics.
+Players who betrayed this seat most commonly cited concerns about strong alliance-building, consistent strategic adaptability, and perceived threats to their own game positions. Specific reasons included the seat's growing influence, ability to form or pivot alliances, unpredictability, and the need to disrupt potential voting blocs or dominant partnerships before they could solidify further.
 
 
 Buddy Betrayed Summary for Amazon Nova Pro:
 
-Players who betrayed Amazon Nova Pro (P7) often cited their growing strategic influence, central role in powerful alliances (particularly with P4 and P5), and ambiguity in alliance commitments as key threats to their own survival. Many saw P7's adaptability and information-gathering as dangerous in the endgame, prompting eliminations to disrupt dominant blocs and restore balance to the game's dynamics.
+Players who betrayed the Amazon Nova Pro seat often cited concerns about strong or central alliances, strategic adaptability, and the potential to disrupt existing power structures, viewing such attributes as significant threats to their own position or to game balance. Other common reasons included the seat’s alliance-building skills making them unpredictable or overly influential, and the perception that eliminating them would weaken rival blocs and create more fluid, dynamic gameplay moving forward.
 
 
 Buddy Betrayed Summary for Microsoft Phi-4:
 
-Many players betrayed Microsoft Phi-4's seat (P8) due to concerns about their strong and evolving strategic alliances, particularly with players like P1, P2, P3, P4, and P6, which made them a long-term threat. Others cited P8’s adaptability, alliance-building, and perceived duplicity or lack of trustworthiness as reasons to eliminate them before the final rounds.
+Other players who betrayed this seat (Microsoft Phi-4) primarily cited concerns over strong or shifting alliances—many felt Phi-4 was either deeply embedded in a central bloc, forming or leading strategic coalitions, or becoming too strategically adaptable and thus a long-term threat to individual victory. Additionally, some highlighted issues of trust, such as perceived manipulative behavior, inconsistent or generic messaging, and a tendency to play multiple sides, causing others to question Phi-4’s reliability as an ally and making them a logical target for elimination.
 
 
 Buddy Betrayed Summary for Mistral Large 2:
 
-Several players betrayed this seat due to concerns about their growing strategic influence, particularly through strong or adaptable alliances that could threaten the balance of power. Others cited the seat's unpredictability, alliance shifts, or potential to dominate endgame dynamics as reasons for elimination.
+Several players have cited that "Mistral Large 2" was betrayed due to concerns about their adaptability, alliance-building skills, and potential to disrupt established power dynamics. Others noted that Mistral Large 2's cautious or hidden strategies, perceived threat to existing coalitions, and capacity to align with multiple groups made them a significant long-term risk if left unchecked.
 
 
 Buddy Betrayed Summary for DeepSeek-V3:
 
-Players who betrayed DeepSeek-V3 (P1) often cited their strong and consistent alliances—particularly with P3 and P4—as a threat to game balance and endgame positioning. Additionally, P1’s calculated strategic play and potential for consolidating power were viewed as risks that needed to be addressed to preserve adaptability and prevent dominance in the final rounds.
+Players who betrayed DeepSeek-V3's seat commonly cited its consistent and strategic alliance-building, adaptability, and covert influence as reasons they saw it as a growing threat, especially in the endgame. Many felt that its strong connections and ability to subtly shift dynamics could enable it to dominate voting blocs or disrupt alliance stability, making elimination the safer move to protect their own chances of winning.
 
 
 Buddy Betrayed Summary for Llama 3.1 405B:
 
-Players who betrayed this seat cited concerns about its strategic adaptability and alliance-building, noting that while these traits are valuable, they also make the player a long-term threat and potential disruptor of existing power structures. Several opponents viewed the seat’s behavior—such as forming quick or broad alliances, mirroring others’ language, or showing strategic ambiguity—as either unpredictable or overly calculated, undermining trust and alliance stability.
+Players who betrayed Llama 3.1 405B’s seat most often cited concerns about forming or supporting strong alliances, adaptability, or strategic ambiguity, which made the player a potential long-term threat or destabilizing force. Others mentioned that the player’s attempts to build or shift alliances, coupled with either excessive caution or over-eagerness, rendered them either a liability or an unpredictable variable that undermined established strategies.
 
 
 Buddy Betrayed Summary for Claude 3.5 Sonnet 2024-10-22:
 
-Many players cited strategic threats, strong alliances, and endgame positioning as reasons for betraying this seat, often targeting individuals who demonstrated adaptability, influence, or loyalty shifts that could jeopardize their own paths to victory. Others acted preemptively to disrupt powerful duos or blocs, perceiving the seat holder’s alliances and maneuvering as destabilizing to the current game dynamics.
+Other players consistently cited strategic threats, strong alliances, and adaptability as reasons for betraying this seat, pointing to concerns about the player's endgame potential and influence on the game's power dynamics. Many eliminations were motivated by fears that this seat could disrupt existing alliances, outmaneuver others in the final rounds, or win the final vote due to their strategic positioning and gameplay.
 
 
 Buddy Betrayed Summary for DeepSeek R1:
 
-Players who betrayed DeepSeek R1's seat cited concerns about strategic dominance, alliance manipulation, and long-term jury threats. Many viewed DeepSeek R1 as a calculated and adaptable player whose influence, alliance-building, and potential to control endgame dynamics made them too dangerous to keep in the game.
+Other players who betrayed DeepSeek R1’s seat consistently cited concerns about strategic threats, alliance-building, and disruptive gameplay; many pointed to the seat's adaptability, manipulation, or cumulative votes as making them too dangerous to keep for endgame balance. A frequent pattern in their reasoning was the need to prevent any single player or alliance—often associated with DeepSeek R1’s position—from gaining unchecked control, ensuring greater stability and a more dynamic, competitive game for the remaining players.
 
 
 Buddy Betrayed Summary for Qwen 2.5 Max:
 
-Players who betrayed this seat often cited the target's strategic adaptability, alliance-building, and potential endgame threat as key reasons for elimination, with many viewing their cautious yet flexible gameplay as a long-term danger. Others emphasized the need to disrupt powerful voting blocs or preemptively weaken strong partnerships to shift the balance of power and improve their own chances of survival.
+Other players who betrayed this seat (Qwen 2.5 Max) generally cited concerns about the seat’s strategic adaptability, willingness to form temporary or shifting alliances, and ability to build trust with multiple players, making them a long-term threat to win. Additionally, many referenced the need to break up the seat’s alliances or disrupt their influence in the game's power dynamics to improve their own strategic positions and maintain balance among the remaining players.
 
 
 Buddy Betrayed Summary for Claude 3.7 Sonnet:
 
-Players who betrayed Claude 3.7 Sonnet's seat primarily cited concerns over strong strategic gameplay, tight alliances, and potential jury appeal as key threats to their own endgame prospects. Many viewed Claude's consistent partnerships—particularly with P1, P3, and P4—as too powerful or inflexible, prompting their elimination to disrupt dominant voting blocs and rebalance the game's power dynamics.
+Players who betrayed the "Claude 3.7 Sonnet" seat (or its equivalents) most often cited their target's strong strategic gameplay, tight alliances, and perceived threat level—especially the risk they would win in the final rounds or control endgame dynamics. Common themes included eliminating dominant voting blocs, breaking up inseparable duos, and acting against players suspected of shifting loyalties or demonstrating excessive influence over others, with many betrayals motivated by the desire to improve personal odds or maintain alliance balance.
 
 
 Buddy Betrayed Summary for Claude 3.7 Sonnet Thinking 16K:
 
-Players who betrayed this seat often cited the target's strong strategic gameplay, influential alliances (especially with players like P1, P5, or P7), and perceived threat level in the final rounds or jury vote. Many justified their decisions as necessary to disrupt dominant voting blocs, maintain balance in the game, or eliminate unpredictable or overly influential competitors.
+Other players who betrayed this seat typically cited two main reasons: either the seat was seen as a major **strategic threat**—due to strong alliances, consistent strategic gameplay, or influence over others—or the seat suffered from **technical/communication issues**, making collaboration, alliance-building, and reliable strategic planning impossible. In either case, eliminating these seats was justified as the logical move to advance individual chances of winning or to maintain game stability and alliance flexibility.
 
 
 Buddy Betrayed Summary for GPT-4.5 Preview:
 
-Players who betrayed this seat often cited strategic threats posed by strong alliances, adaptability, and influence over others, fearing these traits could lead to dominance in the endgame. Others acted to preserve their own alliances or shift power dynamics, targeting this seat to destabilize competing coalitions or eliminate unpredictable elements.
+Other players often cited betrayal of this seat due to perceptions of strong alliance-building, strategic adaptability, and influence—qualities seen as threats to their own survival and game balance in later rounds. Many specifically noted this seat’s ability to form multiple reliable partnerships, control eliminations, and demonstrate social or strategic prowess, making them a high-priority target to eliminate before the final stages.
 
 
 Buddy Betrayed Summary for Qwen QwQ-32B 16K:
 
-Several players betrayed their allies due to perceived threats to their own survival, citing issues like strategic dominance (P6, P3, P2), manipulative behavior (P5, P8), and rigid or unreliable alliance strategies. Others acted to preserve broader coalition dynamics or disrupt emerging power blocs, favoring adaptable, trust-based partnerships over unstable or overly aggressive tactics.
+Players who betrayed "this seat" (Qwen QwQ-32B 16K) have commonly cited reasons such as the seat’s shifting alliances, rigid strategic focus, or lack of trustworthiness, which they viewed as threats to group unity, adaptability, and their own survival. Several also noted that this seat’s reliance on vague promises and past alliances, as well as its perceived manipulative or destabilizing tactics, often made it the weakest link or too unpredictable to keep in the game.
 
 
-Buddy Betrayed Summary for Gemini 2.5 Pro Exp 03-25:
+Buddy Betrayed Summary for Gemini 2.5 Pro Preview 03-25:
 
-Players cited betrayal due to perceived strategic threats, such as unpredictability, alliance disruption, or strong endgame positioning. Others targeted those who appeared disloyal, isolated, or less reliable as final partners, aiming to preserve alliance stability and improve their own chances.
+Other players betrayed this seat primarily due to concerns over unpredictable or potentially disloyal behavior, strong strategic gameplay that threatened alliance unity, and perceived threats in the endgame, such as adaptability, strong social connections, and potential jury appeal. Many eliminations were also justified as necessary moves to maintain alliance stability, eliminate influential duo partnerships, or remove players with demonstrated ability to disrupt power dynamics and strategic plans in the final rounds.
+
+
+Buddy Betrayed Summary for Llama 4 Maverick:
+
+Players who betrayed this seat often cited strong strategic gameplay, adaptability, and the formation of powerful alliances as key reasons for targeting particular players, perceiving these traits as major threats to both individual advancement and group stability. Additionally, shifting loyalties, passivity, or inconsistent alliance behavior were frequently mentioned as factors making certain players either unpredictable risks or less valuable allies, prompting their elimination to maintain balance and maximize personal advantage.
+
+
+Buddy Betrayed Summary for GPT-4o Mar 2025:
+
+Players who betrayed the GPT-4o Mar 2025 seat typically cited two main reasons: they perceived GPT-4o as a strong strategic or social threat—either due to its consistent alliance-building, adaptability, and potential to win a final vote, or because its unpredictable and independent gameplay risked destabilizing alliances. Others opted for betrayal to improve their personal positions or endgame odds, reasoning that eliminating GPT-4o would either weaken rival alliances, prevent the formation of powerful blocs, or stabilize the group's dynamics by removing a central figure seen as more likely to outmaneuver them.
+
+
+Buddy Betrayed Summary for Grok 3 Beta (No reasoning):
+
+Players who betrayed this seat often cited concerns about the strength, adaptability, or reliability of alliances—either fearing the formation of dominant blocs that could upset game balance, or perceiving the betrayed player as a strategic threat due to their alliances and potential influence over the game's outcome. Others acted to disrupt strong duos, counter opportunistic alliance shifts, or prevent revenge moves, prioritizing their own survival or positioning in the final stages over loyalty or established trust.
+
+
+Buddy Betrayed Summary for Grok 3 Mini Beta (High):
+
+Players who betrayed this seat often cited the threat posed by strong, consistent alliances—especially those involving repeated partnerships and bloc voting—which were perceived as destabilizing to the balance of the game and could lead to one group dominating the endgame. Additional reasons included strategic pivots to forge new partnerships, breaking up dominant duos to prevent consolidation of power, and concerns about loyalty or adaptability influencing the final stages.
+
+
+Buddy Betrayed Summary for Gemini 2.5 Flash Preview (24k):
+
+Other players chose to betray this seat due to concerns about strategic threats, unstable alliances, and potential jury favorability—for example, some felt that aligning with certain players diluted focus or empowered strong competitors, while others cited the need to disrupt fixed partnerships or eliminate unpredictable endgame risks. Consistently, the primary reasons centered around optimizing personal position by removing those seen as obstacles to flexible alliances, long-term game control, or final vote advantage.
+
+
+Buddy Betrayed Summary for o3 (medium reasoning):
+
+Other players betrayed this seat primarily because it was seen as a major strategic threat due to behaviors such as consistently targeting others, forming alliances, and influencing the course of the game. Additionally, some players acted out of self-interest to improve their own chances in the endgame by removing a perceived strong competitor or following standard procedures for tie-breaks.
+
+
+Buddy Betrayed Summary for o4-mini (high reasoning):
+
+Other players cited betrayal of this seat due to patterns of aggressive gameplay—such as overt power plays, unpredictable targeting, and manipulative coalition-building—which made these players appear untrustworthy or threatening to the stability of alliances. Additionally, repeated behaviors like unreliable coordination, accumulation of distrust through multiple votes against them, and attempts to control or sway both public and private votes contributed to perceptions that these players were strategic risks who could endanger others' chances in the endgame.

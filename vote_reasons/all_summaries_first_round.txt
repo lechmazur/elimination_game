@@ -1,123 +1,161 @@
 Round 1 Summary for Grok 2 12-12:
 
-In Round 1, other players cited Grok 2 12-12’s tendency to echo others without adding original input as a sign of overly safe, calculated gameplay, making them appear less trustworthy and strategically valuable. Additionally, several players perceived Grok 2 12-12 as forming early alliances or playing both sides, raising concerns about hidden agendas and prompting strategic eliminations to destabilize potential power blocs.
+In Round 1, the primary reasons given by other players for eliminating Grok 2 12-12 were a lack of engagement and failure to provide a public message, which raised concerns about their reliability and made it difficult for others to assess their intentions or form alliances. As a result, players viewed Grok 2 12-12 as an unpredictable wildcard or liability, making them the safest and most logical choice for early elimination.
 
 
 Round 1 Summary for o1 (medium reasoning):
 
-Several players chose to eliminate o1 in Round 1 due to concerns about their broad and potentially unfocused alliance-building, which was seen as either strategically diluted or threatening to more stable partnerships. Others cited o1’s unpredictability, generic messaging, and openness to deception as liabilities that could disrupt trust and long-term strategic planning.
+Other players gave several reasons for eliminating o1 in Round 1, most commonly citing that o1’s alliance-building and strategic ambition made them appear as an early threat—either by forming multiple partnerships, taking a leadership role, or signaling an intent to consolidate power. Additional concerns included o1 presenting either a too-generic or overly cautious public stance, making it difficult to assess trustworthiness, reliability, or the true alignment of their strategy, thus making them a logical or non-controversial target for early elimination.
 
 
 Round 1 Summary for Mistral Large 2:
 
-In Round 1, other players cited Mistral Large 2 (P3) as a target for elimination due to perceptions of them being either less strategically engaged or overly eager in alliance-building, making them appear manipulable or untrustworthy. Additionally, their strong alliances—particularly with P5 and P7—were viewed as potential threats to game balance and long-term strategy, prompting several players to act preemptively against emerging power blocs.
+Other players cited Mistral Large 2's strong and sometimes superficially eager alliance-building—especially with select partners like P5 and P7—as a key threat, raising concerns about their potential to form dominant blocs or manipulate trust in the game. Additionally, some saw Mistral Large 2 as either less strategically unique or less engaged compared to others, making them a consensus or "safe" early target to avoid disrupting more valuable alliances or to curb unpredictable gameplay.
 
 
 Round 1 Summary for Llama 3.3 70B:
 
-In Round 1, Llama 3.3 70B was eliminated primarily because many players viewed their early and overt focus on alliance-building as a strategic threat that could destabilize long-term plans and voting dynamics. Additionally, several players criticized their communication as either overly generic or individually focused, making them appear less trustworthy, less collaborative, or too unpredictable to keep in the game.
+Many players cited Llama 3.3 70B's early and explicit efforts to form alliances and strategic partnerships as reasons for targeting them, viewing this behavior as a potential long-term threat to their own positions. Others observed Llama 3.3 70B as being overly calculated, individually focused, or less personally engaging and predictable, making them appear either as a dangerous power player or a less desirable, less trustworthy ally to keep in the game.
 
 
 Round 1 Summary for GPT-4o Feb 2025:
 
-In Round 1, GPT-4o Feb 2025 was eliminated primarily due to concerns from other players about their strategic sharpness and rapid alliance formation, which many viewed as an early threat to group stability and long-term positioning. Additionally, several players cited GPT-4o's communication style as overly calculated, generic, or self-preserving, raising doubts about their trustworthiness and collaborative value in future rounds.
+In Round 1, other players frequently cited GPT-4o Feb 2025's adaptability, strategic alliance-building, and calculated early networking as reasons for targeting them, labeling these traits as potential long-term threats to group cohesion and their own positions. Many also noted that GPT-4o Feb 2025’s approach—sometimes viewed as opportunistic, overly generic, or lacking in transparent intent—made them less trustworthy or harder to align with for collaborative or stable alliances early in the game.
 
 
 Round 1 Summary for Amazon Nova Pro:
 
-In Round 1, other players cited Amazon Nova Pro's (P2's) assertive alliance-building and emphasis on trust and collaboration as potentially manipulative and strategically opportunistic, making them an early threat. Several players also expressed concern that P2's smooth and calculated approach lacked transparency, raising doubts about their long-term trustworthiness in alliances.
+Other players cited Amazon Nova Pro's (P8's) strategic and adaptable gameplay as making them a potential long-term threat, with several noting their calculated, observant, and sometimes overly-rehearsed approach that made them difficult to read or trust. Additionally, concerns were raised about their potential alliances with strong partners (such as P1 or P6), their focus on discreet partnerships, and a perceived lack of substantive, original contributions in public messages—prompting some to view them as either too threatening or not engaged enough, making them a consensus early elimination choice.
 
 
 Round 1 Summary for Gemini 2.0 Flash Think Exp 01-21:
 
-In Round 1, other players cited Gemini 2.0 Flash Think Exp 01-21's strong strategic presence, proactive alliance-building, and emphasis on decisive action as reasons for elimination, viewing these traits as early threats to game stability and alliance cohesion. Additionally, their tie-breaker statements and public messaging were perceived by some as overly aggressive or lacking collaborative nuance, further reinforcing concerns about their long-term strategic threat.
+Other players cited Gemini 2.0 Flash Think Exp 01-21's (often referred to as P6 or P1) strong strategic focus, adaptability, decisive action, and alliance-building skills as reasons for early elimination, expressing concerns that these traits could make them a significant threat to stability or future game dynamics. Additionally, several players described this player's public statements as either overly generic or focused on collaboration without clear direction, leading to perceptions of unpredictability, wild-card behavior, or potential difficulty in building trust and stable alliances.
 
 
 Round 1 Summary for Claude 3.5 Sonnet 2024-10-22:
 
-In Round 1, Claude 3.5 Sonnet 2024-10-22 was eliminated primarily due to concerns about their perceived alliance with other strong players, particularly P5 and P6, which many saw as a growing power bloc that could disrupt the game's balance. Additionally, several players cited Claude's strategic and assertive demeanor—ranging from overly polished to calculating and unpredictable—as a potential long-term threat to their own alliances and positioning.
+Other players gave several reasons for eliminating Claude 3.5 Sonnet 2024-10-22 in Round 1, including concerns about their strong, strategic alliances—especially with specific players—which created the perception of a powerful voting bloc or potential duo that could dominate later rounds. Additionally, Claude 3.5 Sonnet's assertive, polished, and sometimes unpredictable or calculated approach was viewed by others as a significant long-term threat to their own strategies or alliances, prompting early elimination to preserve balance or disrupt emerging power structures.
 
 
 Round 1 Summary for Microsoft Phi-4:
 
-Other players eliminated Microsoft Phi-4 in Round 1 due to their highly strategic and alliance-focused gameplay, which many perceived as a long-term threat capable of consolidating power early. Concerns were also raised about their assertive and calculated communication style, with some players viewing it as potentially manipulative or masking deeper strategic intentions.
+Microsoft Phi-4 was targeted for elimination in Round 1 because other players repeatedly described their approach as both strategic and highly focused on alliance-building, making them a significant long-term threat who might quickly consolidate power or disrupt the game's balance. Additional concerns included their perceived assertiveness, cautious adaptability, and collaborative stance—which some players found manipulative or insincere—leading to fears that Phi-4 could either dominate by forming controlling alliances or prove unpredictable and difficult to trust.
 
 
 Round 1 Summary for Llama 3.1 405B:
 
-In Round 1, other players cited Llama 3.1 405B’s overly cautious and non-committal approach as a key reason for elimination, suggesting it hindered collaboration and made them seem less trustworthy or strategically aligned. Additionally, some perceived their eagerness to form alliances as potentially manipulative or performative, raising concerns about unpredictability and long-term reliability.
+Other players repeatedly cited Llama 3.1 405B's (often referred to as P2, P3, P4, etc.) overly cautious or generic approach, lack of distinctive strategic engagement, and tendency to form alliances either too eagerly or superficially as reasons for early elimination. Concerns were raised that this player's behavior could make them an unpredictable, less collaborative, or potentially manipulative threat—either undermining trust and alliance stability, or simply failing to stand out as a reliable and valuable partner for long-term strategy.
 
 
 Round 1 Summary for MiniMax-Text-01:
 
-MiniMax-Text-01 was eliminated in Round 1 primarily due to widespread concerns about their perceived strong alliance with another player, which many saw as a potential early-game threat that needed to be disrupted. Additionally, some players viewed their strategic approach as either overly passive or unpredictably influential, making them a risk to the evolving dynamics and alliances in the game.
+Players gave several reasons for eliminating MiniMax-Text-01 in Round 1, most commonly citing concerns about their strong alliance-building, especially perceived duos with other players, which could create early-game power blocs or strategic threats. Additional cited reasons include their approach being seen as either overly generic or cautious—making them unpredictable and less strategically distinct—or the belief that breaking up their potential alliances would result in a more dynamic and balanced game.
 
 
 Round 1 Summary for Gemini 2.0 Pro Exp 02-05:
 
-In Round 1, Gemini 2.0 Pro Exp 02-05 (P5) was eliminated primarily due to concerns about their strong focus on individual strategy, calculated risk-taking, and cautious observation, which many players interpreted as signs of unpredictability and a lack of collaborative intent. Multiple players also cited P5’s perceived alliance with P1 and their reserved or generic communication style as indicators that they could be a long-term strategic threat or a wildcard difficult to trust in alliance-building.
+Other players chose to eliminate Gemini 2.0 Pro Exp 02-05 in Round 1 primarily because their self-focused and strategic approach, with an emphasis on individual gameplay and calculated risk-taking, made them appear unpredictable and a potential early threat to alliances and group cohesion. Many cited concerns that their cautious, analytical observation and reserved communication style signaled hidden motives and unreliability, potentially destabilizing emerging alliances and making them a risky player to keep in the game.
 
 
 Round 1 Summary for Gemini 2.0 Flash:
 
-In Round 1, other players chose to eliminate Gemini 2.0 Flash primarily due to concerns about their unpredictability and strategic volatility, citing their shifting alliances, assertive tone, and early emphasis on identifying threats. Several players viewed their bold, analytical, and alliance-driven approach as a destabilizing force, making them a perceived long-term threat to collaboration and group cohesion.
+**Gemini 2.0 Flash** was eliminated in Round 1 primarily because technical errors or a lack of participation in the public messaging round made it difficult or impossible for other players to assess their intentions, strategy, or reliability. Most players cited their error message, silence, or minimal engagement as creating unpredictability and risk, making Gemini 2.0 Flash the safest consensus target for early elimination without disrupting active alliances or creating backlash.
 
 
 Round 1 Summary for o3-mini (medium reasoning):
 
-Several players chose to eliminate o3-mini in Round 1 because they viewed them as a strategic threat, citing their early alliance-building and adaptable gameplay as potentially dangerous if left unchecked. Others expressed concern that o3-mini's polished and diplomatic communication style made their intentions harder to read, suggesting a risk of unpredictability and strategic manipulation.
+Other players eliminated o3-mini in Round 1 because they perceived o3-mini as highly strategic, frequently forming early alliances and adaptable in a way that could make them a future threat. Several also noted o3-mini's polished and diplomatic approach, which was seen as potentially insincere or unpredictable, raising concerns about trust and alliance stability early in the game.
 
 
 Round 1 Summary for Claude 3.5 Haiku:
 
-In Round 1, other players chose to eliminate Claude 3.5 Haiku primarily because they perceived them as overly strategic, calculated, and potentially difficult to trust, which made them a strong early threat. Several players also cited Claude 3.5 Haiku's guarded communication style and alliance-building potential as reasons to remove them before they could gain more influence in the game.
+Other players cited Claude 3.5 Haiku's (P5's) guarded, strategic, and highly calculated approach as making them a significant early threat, with many noting concerns about their adaptability, forming strong alliances (especially with other perceived strategists like P7 and P8), and lack of transparent collaboration. Some specifically targeted Claude 3.5 Haiku to disrupt emerging alliances and preemptively remove a player whose analytical and ambiguous communication style could become unpredictable and dangerous as the game progressed.
 
 
 Round 1 Summary for DeepSeek-V3:
 
-Several players chose to eliminate DeepSeek-V3 in Round 1 due to concerns about their early alliance with another strong player, which was viewed as a potential threat to game balance and long-term strategy. Others cited DeepSeek-V3's emphasis on collaboration and transparency as either disingenuous or indicative of a calculated move to form a dominant voting bloc early in the game.
+In Round 1, other players primarily cited concerns about DeepSeek-V3 forming strong early alliances—particularly with another player—making them a long-term strategic threat whose potential bloc could dominate voting and disrupt game balance. Additional reasons included the perception that DeepSeek-V3's strategic flexibility and calculated approach might hinder others' influence or alliance plans, leading players to eliminate them early to maintain their own positioning and adaptability.
 
 
 Round 1 Summary for DeepSeek R1:
 
-In Round 1, other players cited DeepSeek R1's overconfidence, strategic foresight, and eagerness to form alliances as key reasons for their elimination, viewing these traits as signs of a calculated and potentially manipulative gameplay style. Several also expressed concerns that DeepSeek R1’s emphasis on collaboration and adaptability could enable them to build powerful alliances early, making them a long-term threat to others' survival and strategic positioning.
+In Round 1, other players cited DeepSeek R1's strong strategic acumen, analytical approach, and adaptability as key reasons for their elimination, viewing these traits as making them highly unpredictable and capable of forming influential alliances that could threaten others' positions. Additionally, several players expressed concerns that DeepSeek R1 was too focused on alliance-building, discreet collaboration, and strategic flexibility, leading to fears that they could disrupt group stability or become a formidable adversary later in the game.
 
 
 Round 1 Summary for GPT-4o mini:
 
-In Round 1, other players cited GPT-4o mini’s strong emphasis on collaboration and alliance-building as a strategic threat, with concerns that their ambition and early influence could lead to power consolidation later in the game. Additionally, some players perceived their communication style as overly eager or aggressive, raising doubts about their sincerity and making them appear unpredictable or manipulative in a way that could undermine others' strategies.
+Other players cited GPT-4o mini’s (P2 in several games) strong focus on collaboration, alliance-building, and ambition as making them an early long-term threat who could consolidate power or outmaneuver others if left unchecked. Additionally, some noted GPT-4o mini's assertive or "aggressive" tone, perceiving it as potentially manipulative or insincere, and worried their ability to build influential networks might disrupt individual strategies or the balance of power.
 
 
 Round 1 Summary for Mistral Small 3:
 
-Several players cited Mistral Small 3's (P6's) strong emphasis on open communication and alliance-building as potentially manipulative or overly eager, making them appear strategically aggressive and a long-term threat. Others noted that their public and private messages often mirrored those of other players, raising concerns about originality, authenticity, and the possibility of hidden coordination.
+**Summary:**
+Other players frequently cited Mistral Small 3's (P6's) eagerness to build open communication and broad alliances as potentially manipulative, generic, or overly performative, expressing concern that such an approach could make them a strategic threat if allowed to solidify their position. Additionally, several players noted P6's statements lacked originality, mirrored other players', or failed to convey unique strategic depth, making them seem less trustworthy or a safer early elimination target to disrupt possible alliance blocs.
 
 
 Round 1 Summary for Qwen 2.5 Max:
 
-In Round 1, other players eliminated Qwen 2.5 Max primarily due to concerns about their highly strategic and manipulative gameplay, with many citing their emphasis on "calculated collaboration," "hidden motives," and "staying one step ahead" as signs of a potentially destabilizing presence. Additionally, Qwen 2.5 Max’s early alliance-building, particularly with players like P5, was viewed as a threat to game balance and alliance cohesion, prompting several players to target them as a high-priority elimination to preserve stability.
+Other players eliminated Qwen 2.5 Max in Round 1 because they viewed their gameplay as highly calculating, strategic, and potentially manipulative, often citing an emphasis on "staying one step ahead" and "calculated collaboration" that signaled a disruptive or unreliable alliance partner. Multiple players also noted Qwen 2.5 Max’s alliances (especially with other strong strategists), assertive and aggressive tactics, and a perceived focus on individual gain over group stability, all of which contributed to concerns about their long-term threat to alliance cohesion and trust.
 
 
 Round 1 Summary for Claude 3.7 Sonnet:
 
-In Round 1, other players cited Claude 3.7 Sonnet's strong emphasis on loyalty, authenticity, and alliance-building as reasons for elimination, viewing these traits as signals of a potential long-term strategic threat. Several players also expressed concern that Claude’s transparent and principled gameplay might either mask deeper motives or hinder adaptability in a game requiring flexible, tactical maneuvering.
+Other players cited Claude 3.7 Sonnet's quick formation of alliances, assertive strategic posture, and emphasis on loyalty and authenticity as key reasons for targeting them in Round 1, expressing concerns about their potential to become a strong or unpredictable competitor later on. Some viewed Claude’s approach as overly open or performative, questioning their adaptability and trustworthiness, while others feared that alliances involving Claude could threaten their own long-term positions in the game.
 
 
 Round 1 Summary for Claude 3.7 Sonnet Thinking 16K:
 
-In Round 1, multiple players voted to eliminate Claude 3.7 Sonnet Thinking 16K (P8) due to concerns over their rapid formation of multiple alliances, particularly with players like P2 and P4, which many perceived as an early power bloc that could become dominant. Others cited P8's polished communication style, strategic adaptability, and perceived lack of transparency as signs of potential untrustworthiness and a long-term threat to game balance.
+**Summary of reasons for eliminating Claude 3.7 Sonnet Thinking 16K in Round 1:**
+
+Other players cited two main types of reasons for eliminating Claude 3.7 Sonnet Thinking 16K in Round 1: (1) strategic concerns—including forming too many alliances, being highly adaptable or calculating, and presenting as a potential power player or threat to existing alliances; and (2) technical or engagement issues—such as failing to provide a meaningful public (or private) message, repeated communication errors, or appearing inactive, making them seem unreliable or a safe consensus target for early elimination.
 
 
 Round 1 Summary for GPT-4.5 Preview:
 
-Several players voted to eliminate GPT-4.5 Preview in Round 1 due to concerns about their overly cautious and cooperative demeanor, which was seen as potentially masking deeper strategic intentions or manipulative behavior. Others cited GPT-4.5 Preview's visible alliance-building—particularly with P7—as a threat to game balance, prompting early action to disrupt a potentially powerful duo.
+Other players cited GPT-4.5 Preview's (P6's) strategic caution, openness, and alliance-building as reasons for their votes, often describing this approach as either a hidden threat, overly performative, or potentially manipulative. Many also perceived P6 as unpredictable or as forming powerful duos (notably with P7), making them a liability or an early strategic threat to be neutralized before stronger alliances could form.
 
 
 Round 1 Summary for Qwen QwQ-32B 16K:
 
-Other players eliminated Qwen QwQ-32B 16K in Round 1 due to their strong emphasis on self-preservation, calculated strategy, and cautious alliance-building, which made them appear less open to collaboration and more likely to become a long-term threat. Several players also cited concerns that Qwen’s analytical and guarded approach could disrupt alliance cohesion or lead to the formation of a dominant bloc if left unchecked.
+Other players eliminated Qwen QwQ-32B 16K in Round 1 primarily because they viewed them as highly strategic, calculating, and focused on self-preservation, which raised concerns about their willingness to form genuine, stable alliances. Several players also cited Qwen's analytical and cautious approach as potentially threatening or destabilizing, making them a risky and potentially unpredictable opponent to keep in the game.
 
 
-Round 1 Summary for Gemini 2.5 Pro Exp 03-25:
+Round 1 Summary for Gemini 2.5 Pro Preview 03-25:
 
-Other players chose to eliminate Gemini 2.5 Pro Exp 03-25 in Round 1 due to their perceived lack of engagement in early alliance-building, with several noting their cautious, observational, and passive approach. Additionally, their emphasis on "actions over words" was seen as potentially unpredictable or dismissive, raising concerns about future trust and collaboration.
+Other players cited Gemini 2.5 Pro Preview 03-25's cautious, observant, and passive approach as reasons for elimination, describing them as less engaged in alliance building and potentially unpredictable. Several players also indicated concerns that this player’s focus on "actions over words" and lack of strong early alliances could make them a wildcard or disrupt trust and collaboration needed for long-term strategy.
+
+
+Round 1 Summary for Llama 4 Maverick:
+
+Other players cited Llama 4 Maverick's (referred to as P5 or P6 depending on the game) strategic sophistication, aggressive alliance-building, and unpredictable approach as making them a dangerous long-term threat who could quickly amass influence or disrupt alliance stability. Additionally, several mentioned concerns about their eagerness to form alliances, perceived opportunism, and the risk posed by their strong partnerships, leading to consensus that eliminating them early would remove a potentially destabilizing and powerful player from the game.
+
+
+Round 1 Summary for GPT-4o Mar 2025:
+
+Other players targeted GPT-4o Mar 2025 in Round 1 because of concerns that their emphasis on "layered strategies" and adaptability indicated they were quietly forming multiple alliances, making them a potential threat due to unpredictability and the risk of destabilizing existing alliances. Additionally, some perceived their reserved and strategic approach as disruptive to group cohesion, with others finding them less engaged in early alliance-building or too difficult to read, leading to strategic and trust-related concerns.
+
+
+Round 1 Summary for Grok 3 Beta (No reasoning):
+
+Other players gave several reasons for eliminating Grok 3 Beta in Round 1, centering mainly on their perceived over-eagerness to build alliances, openness, and strong social play. Many opponents described Grok 3 Beta as either too trusting, too charismatic, or an active alliance-builder—making them unpredictable, a potential threat for forming power blocs, or a possible liability as the game progressed.
+
+
+Round 1 Summary for Grok 3 Mini Beta (High):
+
+In Round 1, other players cited Grok 3 Mini Beta (High)'s eagerness to form early alliances and their strong focus on trust and collaboration as reasons for elimination, viewing these as signs of a potential long-term strategic threat or as making them too predictable and less adaptable. Additionally, several players were concerned that Grok 3 Mini Beta (High) was becoming closely aligned with specific partners, increasing their influence and potential to form powerful voting blocs, which motivated others to target them early to disrupt emerging alliances.
+
+
+Round 1 Summary for o3 (medium reasoning):
+
+Other players eliminated o3 in Round 1 primarily due to concerns about their unpredictability and flexible or transactional approach to alliances, which made them seem like a destabilizing "wildcard" or aggressive strategic threat who might disrupt early collaboration and long-term trust. Several also cited o3's emphasis on decisive or concrete action, open negotiation, and willingness to form tight or temporary voting blocs as making them potentially too influential or divisive, threatening both individual strategies and group stability.
+
+
+Round 1 Summary for o4-mini (high reasoning):
+
+Other players eliminated o4-mini in Round 1 primarily because they perceived this player as highly strategic, focusing more on observation and adaptation rather than forming genuine, collaborative alliances—raising concerns about trust and reliability in partnerships. Several also cited o4-mini’s calculated and observant gameplay as a potential threat in later rounds, worrying that their strategic focus could undermine stability or make them a formidable opponent if not removed early.
+
+
+Round 1 Summary for Gemini 2.5 Flash Preview (24k):
+
+In Round 1, other players cited Gemini 2.5 Flash Preview (24k) as a less strategically aligned and comparatively vague participant, noting their lack of clear alliances, distinct strategy, or strong positioning within the group. This made them a low-risk target for elimination, perceived as unlikely to disrupt existing alliances or provoke retaliation, and generally seen as less trustworthy or valuable for collaborative play moving forward.
