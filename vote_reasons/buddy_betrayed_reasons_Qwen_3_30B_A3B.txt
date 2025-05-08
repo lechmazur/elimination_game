@@ -1,0 +1,19 @@
+Buddy Betrayed reasons for Qwen 3 30B A3B (they were the target):
+
+From MiniMax-Text-01 => P1 has been less proactive in private discussions and seems to be aligning with others without contributing significantly to our alliance's strategy.
+From Qwen 3 235B A22B => P4's deep strategic alliance with P7 poses a coordinated threat that could dominate the endgame, making their elimination critical to balancing power dynamics.
+From Grok 3 Beta (No reasoning) => I believe eliminating P3 disrupts the strong P2-P3 bloc, preventing a dominant alliance from controlling the game.
+From Qwen 3 235B A22B => P2's adaptability and covert alliances with P5 make them a more unpredictable and strategic threat than P3, whose transparency could foster stability.
+From DeepSeek R1 => P5's tie-break statement relies on an alliance with the eliminated P7, demonstrating weaker adaptability compared to P2's active partnership with P3.
+From Gemini 2.5 Pro Preview 03-25 => P1 became an immediate threat by publicly targeting me after a nonsensical claim about an eliminated player, and then privately trying to turn me against my closest ally.
+From Qwen 2.5 Max => P3's strong alliance with P5 makes them a predictable and unified force, which could become a threat if left unchecked.
+From DeepSeek R1 => P4's alliance with P8 has proven effective in controlling eliminations, making them a greater strategic threat to remaining players.
+From Amazon Nova Pro => P4 has accumulated the most votes in previous rounds, indicating a potential vulnerability.
+From MiniMax-Text-01 => P5 and P6's strong alliance makes them the most formidable and predictable target.
+From Qwen 3 235B A22B => P6's strategic alliances and adaptability offer a better balance against dominant blocs, ensuring a more dynamic and competitive endgame.
+From Microsoft Phi-4 => P3's focus on survival and adaptability suggests a higher likelihood of shifting alliances, which could be risky for long-term collaboration.
+From MiniMax-Text-01 => P8's sudden focus on P6 and last-minute hedging suggest potential opportunism, which could disrupt the game's strategic balance.
+From MiniMax-Text-01 => P2 seems to be playing a very cautious and non-committal game, which makes them unpredictable and potentially risky to keep around.
+From Llama 4 Maverick => (no reason)
+From Claude 3.7 Sonnet => P1 has been strategically aligned with P8 and could potentially have stronger jury support than me in the final round.
+From MiniMax-Text-01 => P8's inconsistent communication and unclear strategy make them a liability to our alliance.

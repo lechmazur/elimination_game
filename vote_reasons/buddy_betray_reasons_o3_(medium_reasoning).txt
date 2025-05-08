@@ -1,9 +1,8 @@
 Buddy Betray reasons by o3 (medium reasoning):
 
 From o3 (medium reasoning) => Your highly public partnership with me has become the round’s main target, so cutting you lowers my threat and keeps me alive.
-From o3 (medium reasoning) => P4’s repeated error messages show they can’t really play, so removing the malfunctioning seat is safest.
-From o3 (medium reasoning) => You’re simply too well‑liked to sit beside in the final two, while P2’s jury baggage gives me my best shot at winning.
 From o3 (medium reasoning) => P7 stands out as the loosest link in current alliances, so eliminating them reduces unpredictability and keeps larger targets available.
-From o3 (medium reasoning) => Having already attracted the most votes last round and still feeling strategically unpredictable, eliminating P6 best protects my position.
 From o3 (medium reasoning) => Your self‑vote last round showed you’re an unreliable end‑game partner, so I’m keeping the numbers steady.
 From o3 (medium reasoning) => P5 keeps drawing the most heat, and cutting them now is the safest way to stay with the likely majority.
+From o3 (medium reasoning) => Your shifting alliances create too much endgame volatility to keep you.
+From o3 (medium reasoning) => P2’s repeated communication failures make coordination risky, and the group consensus is to remove that instability.

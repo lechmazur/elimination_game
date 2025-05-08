@@ -1,10 +1,7 @@
 Buddy Betrayed reasons for o3 (medium reasoning) (they were the target):
 
-From Amazon Nova Pro => P1's consistent targeting and perceived divisiveness suggest a higher risk of continued instability.
-From Llama 3.1 405B => I am voting out P3 because they have been actively trying to form alliances and gain an advantage, and I believe eliminating them will give me a better chance of survival.
-From Grok 2 12-12 => P2's strategy of forming tight alliances and targeting others may pose a greater immediate threat to my position in the game.
 From Qwen 2.5 Max => P1 has been the most consistent strategic threat and removing them ensures a clearer path to victory.
-From Claude 3.5 Sonnet 2024-10-22 => P7's strategic influence and ability to coordinate multiple alliances makes them the biggest threat to my position in the endgame.
-From Claude 3.7 Sonnet => P1 has been my closest ally throughout the game, but I believe P5 will be easier for me to defeat in the final jury vote due to their inconsistent voting record.
-From Claude 3.7 Sonnet => P8 has accumulated 10 total votes throughout the game compared to P4's 2 votes, indicating P8 is viewed as a greater threat by more players, and eliminating the player with higher cumulative votes follows standard procedure for tie-breaks while promoting a more balanced endgame.
 From Claude 3.5 Haiku => P4 is a strategic threat who has been coordinating elimination moves, making them a dangerous opponent to keep in the game.
+From Claude 3.7 Sonnet => P4 has been my consistent strategic partner throughout the entire game, and I must honor our alliance despite P1's tempting final-two offer.
+From Claude 3.5 Haiku => P5's data-driven approach, while strategic, seems the most neutrally vulnerable in this group and could disrupt emerging alliance dynamics.
+From Claude 3.7 Sonnet => P3 has been the strategic mastermind throughout the game, making them the biggest threat to win in the final 2.

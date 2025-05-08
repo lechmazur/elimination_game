@@ -74,7 +74,6 @@ From Claude 3.5 Haiku => P5's statement feels more strategic and calculated, whi
 From Llama 3.3 70B => I voted for P5 because they consistently demonstrated a commitment to fair play, strategic foresight, and leadership throughout the game, which I believe better represents the spirit of the game.
 From Claude 3.7 Sonnet => Throughout the game, P6 demonstrated more consistent values and genuine relationship-building, particularly in our early alliance where they showed authentic strategic thinking and follow-through, while P2's gameplay felt more opportunistic and less principled.
 From Microsoft Phi-4 => P6's emphasis on integrity and fair play aligns with the values of honesty and respect, which should be rewarded in the final decision.
-From o3-mini (medium reasoning) => I’m eliminating P5 because I value P1’s transparent, genuine gameplay over an overly calculated approach.
 From Gemini 2.0 Flash Think Exp 01-21 => P4's gameplay appeared more strategically focused and aligned with the game's objective of outlasting others.
 From Claude 3.5 Haiku => P1's statement feels more manipulative and passive-aggressive, attempting to paint P4 negatively, while P4's statement focuses more directly on their own strategic gameplay and accomplishments.
 From DeepSeek-V3 => P7 demonstrated consistent strategic adaptability and maintained trust throughout the game, while P5's accusations of obfuscation lacked substantiated evidence.

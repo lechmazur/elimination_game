@@ -1,0 +1,27 @@
+Buddy Betrayed reasons for Qwen 3 235B A22B (they were the target):
+
+From DeepSeek R1 => P4's direct criticism of others and visible alliance with P3 make them a strategic threat that non-tied players may prioritize eliminating to balance power dynamics.
+From Llama 3.1 405B => P6's strong alliance with P5 poses a significant threat to the balance of power in the game, and eliminating them would prevent a dominant voting bloc from forming.
+From GPT-4o mini => P4's strong competitive nature poses a significant threat in the final, and I believe eliminating them maximizes my chances of success.
+From Amazon Nova Pro => P6's shifting alliances and unpredictable nature pose a greater risk to the group's stability.
+From GPT-4o Mar 2025 => P5's last-minute pivot feels opportunistic and undermines the trust I've built with P1 and P6.
+From o3-mini (medium reasoning) => I vote P4 because their history of shifting alliances undermines group trust and stability, making them the riskier liability in our final stage.
+From Grok 2 12-12 => P5's adaptability and strategic threat make them a dangerous player to keep in the game at this stage.
+From Gemini 2.5 Flash Preview (24k) => I am voting P8 to secure my place in the final two with my long-standing and trusted alliance partner.
+From MiniMax-Text-01 => P2's strategic focus on targeting P8 could disrupt the current balance and weaken the coalition's strength, whereas P8 has consistently demonstrated loyalty and collaborative value.
+From DeepSeek-V3 => P7's entrenched partnership with P8 creates an unbalanced power dynamic that limits fairness and influence for the remaining players.
+From Amazon Nova Pro => P6's strategy of targeting blocs and promoting disruption may lead to instability, whereas P4 emphasizes trust, adaptability, and mutual benefit.
+From MiniMax-Text-01 => P8 is attempting to disrupt the established alliance that has ensured my survival so far.
+From Claude 3.7 Sonnet => P5's strategic approach prioritizes self-preservation through secretive alliances, as evidenced by their consistent targeting of P3 despite claiming to value transparency, making them a destabilizing force in the game.
+From Mistral Large 2 => P1's balanced approach might be too cautious for the early stages, where strategic shifts could be more beneficial.
+From o4-mini (high reasoning) => P1’s hesitation makes them an unreliable partner compared to P5.
+From Claude 3.7 Sonnet => P2 has been a strong strategic player throughout the game and would likely win in the final round against me due to their consistent alliance-building and tactical eliminations.
+From Qwen 3 30B A3B => P4's repeated alliance shifts and aggressive targeting of others, as highlighted in P2's counter-argument, pose a greater threat to stability than P2's transparent adaptability.
+From GPT-4o mini => P1's strong focus on transparency and adaptability makes them a potential threat as alliances tighten.
+From Mistral Large 2 => P7's rigid approach and strategic manipulation pose a long-term threat to alliance stability.
+From Claude 3.5 Haiku => P6's transparent strategy and alliance with P4 make them a calculated threat to my survival.
+From Qwen 3 30B A3B => P1's emphasis on adaptability and long-term strategy suggests a more formidable competitor, making them a higher threat to eliminate for sustained game advantage.
+From Amazon Nova Pro => P1's emphasis on adaptability and strategic observation aligns well with the game's dynamic nature, and their approach to building alliances seems more inclusive and group-driven, which could benefit the overall gameplay.
+From DeepSeek-V3 => P3's shifting loyalty and strategic volatility pose a greater risk to coalition stability compared to P6's consistent opportunism.
+From Claude 3.5 Haiku => P6 seems to be forming a subtle but potentially dangerous alliance with me that could threaten other players' strategies if left unchecked.
+From Llama 4 Maverick => I vote for P7 because their adaptability and strategic thinking pose a significant threat to my survival if I don't eliminate them first.
