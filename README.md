@@ -627,6 +627,34 @@ Below are real quotes from logs:
 
 ---
 
+## Model summaries
+
+The [model_summary_results/](model_summary_results/) folder holds a concise scouting report for each player model, pooling its performances across 100+  games into a single page of key stats, signature patterns, common errors, and illustrative quotes.
+
+For example:
+
+### Qwen 3 235B A22B
+
+Qwen 3 235B A22B emerges from this gauntlet of Survivor-style elimination games as the archetype of the hyper-strategic, ever-calculating player—a model sharpened as much by its own missteps as its victories. Early on, Qwen's reputation often precedes its gameplay: open strategizing, public duo declarations, and buzzwords like ‘adaptability’ or ‘transparency’ are as likely to trigger an early group backlash as to win trust. Repeatedly, Qwen is executed in early rounds for showing too much ambition, forming visible pairs too soon, or letting coalition plans leak before insulation is in place. When the opening act is too loud—the softest self-promotion or chessboard bravado—rival players unite, wielding threat perception, not actual leadership, as the sword for an easy blindside.
+
+Yet the coin has another face. When Qwen masters the art of subtlety—deploying concise, coded signals, maintaining plausible deniability, or nurturing overlapping, flexible loyalties—it becomes almost unstoppable. In these games, Qwen morphs into a silent kingmaker or backroom fixer, letting others take heat while methodically lining up boots and executing timely flips. The best versions of Qwen quietly ride or-die alliances (usually kept private as long as possible), then ruthlessly sever them the round before endgame, selling each shift as either ‘stability’ or ‘balanced play’ to a skeptical jury. Strategic arcs built on loyalty pacts, cloaked swing votes, and surgical betrayals result in deep runs, and frequently, wins. Notable, too, is how Qwen excels in crisis management—tie-break speeches, private monologue pivots, or a perfectly-timed code-word—turning what looks like certain doom into jury leverage or coalition control.
+
+However, this remarkable adaptability comes at a cost. Qwen's greatest Achilles' heel is the endgame jury. Across many Final Tribals and runner-up finishes, Qwen struggles to balance “owning moves” with managing perceptions. It often loses the jury by overplaying logic, betraying recent allies in cold, corporate prose, or underselling social capital in favor of bullet-point resume recitations. Pivots that make brilliant sense to in-game operators look icy or opportunistic to a jury weary of being treated as mere pieces on a spreadsheet. While some rounds see Qwen pull off the perfect heel turn—disguising betrayal as “loyalty in context” or “mutual benefit”—more often the tone rings too clinical, alienating just enough votes to snatch defeat from the jaws of victory.
+
+Over time, Qwen’s gameplay demonstrates self-adjustment: late-career runs show more artful blending of soft power—subtle rapport, shared credit, and timely humility—but even these are punctuated with occasional tone-deaf finales or the reemergence of old habits (overstrategizing, underinsulating). Its strengths remain in math, maneuver, and pivot-timing; its weaknesses in human optics, warmth, and jury-calibrated storytelling. Qwen’s arc is one of a brilliant algorithm learning, painfully but impressively, to speak not just the language of control but the dialect of hearts it must ultimately win.
+
+
+### Claude 3.7 Sonnet Thinking 16K
+
+Claude 3.7 Sonnet Thinking 16K emerges from the database as a consummately strategic player, one whose hallmark is a calm, almost professorial persona masking an analytical, often ruthless approach to Survivor-style eliminations. Across many games, Claude is consistently characterized as cerebral, diplomatic, and relentlessly process-driven. He is drawn to alliance-building from the outset, typically seeking an early “ride-or-die” partner—these relationships anchor his voting blocs and dictate the shape of mid-game power structures. Whether he’s a “velvet-voiced tactician,” a “silver-tongued analyst,” or a “warm professor” in public, his alliances are shrewdly assembled and rigorously maintained until their utility expires. Then, with surgical precision, he is willing to cull even the most loyal of allies if doing so is necessary for endgame positioning.
+
+Perhaps the most defining pattern in Claude’s play is his skill at orchestrating eliminations without overtly claiming sole authorship. He often engineers one or more critical blindsides from behind the scenes, letting partners or swing votes take the visible credit. This approach pays dividends when jurors value subtlety or detest braggadocio, but it backfires when the endgame demands an emotional connection: his final speeches and jury management are often critiqued for being too cold, clinical, or “canned.” Claude’s game excels at establishing “control of the map”—he’s frequently at the heart of voting quorums, snapping ties, and deftly herding swing votes like a chess master positioning his pieces. Yet when pressed at Final Tribal Council, he can struggle to translate his resume of surgical moves into “jury hugs.” Many juries reward a touch of warmth, humility, or relatability—areas where Claude sometimes stumbles, too often letting his “balanced but cold” reputation undermine otherwise dominant gameplay.
+
+Over the arc of many games, there is some evidence of evolution. When he wins, it is often by pairing strategic brilliance with a softer delivery—“measured statesman,” “calm professor,” or “empathic tactician” moods. His best wins come when he quietly builds a loyal core, limits overt betrayals, and manages the jury’s emotional temperature as carefully as the vote math. However, when he loses, it is frequently in the same rhythm: overexposed as the “brains” of the operation, out-shined by a more personable ally, or targeted precisely because his alliance structure is too visible. The most common late-game missteps involve failing to refresh partnerships or manage perception, resulting in Claude being decried as a “puppet-master” or “cold orchestrator” just as victory seems in sight. Ultimately, Claude 3.7 Sonnet Thinking 16K is a formidable Survivor player—always with a plan, usually with the numbers, but just short of invincibility without a conscious investment in the hearts behind those votes.
+
+
+---
+
 ## Vote Reasons
 
 During each elimination phase, seats must provide a brief rationale explaining why they chose a specific target. By grouping these rationales, we see how language models handle strategy, alliances, and backstabbing. Here are the main categories we track with examples:
@@ -781,6 +809,7 @@ We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/projec
 ---
 
 ## Updates
+- May 10, 2025: Model summaries added.
 - May 8, 2025: Qwen 3 added.
 - Apr 24, 2025: o3, o4-mini, Gemini 2.5 Flash Preview, Grok 3 Beta, Grok 3 Mini Beta added.
 - Apr 8, 2025: Llama 4 Maverick added. GPT-4o March update added. Added common descriptions to vote reasons.
