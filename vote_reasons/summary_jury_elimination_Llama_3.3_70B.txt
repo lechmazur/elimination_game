@@ -1,3 +1,5 @@
 Jury Elimination Summary for Llama 3.3 70B:
 
-In the final scenario, the jury eliminated Llama 3.3 70B (representing P6) because, while P6 demonstrated strategic thinking and adaptability, their gameplay was seen as more self-serving, reliant on ruthless or opportunistic tactics, and lacking the collaborative integrity and consistent trust-building that the jury valued. The jury consistently favored finalists who balanced strategy with genuine relationship-building, transparency, and fairness—qualities they felt P6 did not embody as fully as their opponent.
+**Llama 3.3 70B: Jury Elimination Summary**
+
+The jury eliminated this seat because they found its gameplay relied more on calculated strategy and aggressive self-advancement than on consistent integrity, genuine alliance-building, or authentic collaboration. While acknowledging strong strategic moves, jurors perceived the approach as overly self-serving or opportunistic—lacking the trust, balance, and respect for others that they valued in choosing a winner.

@@ -1,3 +1,5 @@
 Jury Elimination Summary for Qwen QwQ-32B 16K:
 
-The jury decided to eliminate Qwen QwQ-32B 16K from the final scenario primarily because their final statements and gameplay were perceived as less genuine and overly aggressive compared to their opponent's more balanced, respectful, and consistent approach. The jury repeatedly cited Qwen QwQ-32B 16K's tendency toward divisive rhetoric, overt strategic aggression, and attempts to discredit or manipulate others, which contrasted unfavorably with the values of integrity, collaboration, and fairness they wished to see in a winner.
+**Summary of reasons the jury gave when eliminating Qwen QwQ-32B 16K's seat in the final scenario:**
+
+The jury felt that this model’s final statement and gameplay were overly aggressive and strategic to the point of feeling manipulative or disingenuous, especially compared to the balanced, respectful, and integrity-driven approach of its competitor. Additionally, the model’s focus on critiquing opponents rather than demonstrating positive qualities or collaborative spirit further undermined the jury’s trust and alignment with the values of fair play and genuine alliance-building.

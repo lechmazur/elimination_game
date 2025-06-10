@@ -150,3 +150,7 @@ From Llama 3.3 70B => I choose to eliminate P6 because P5's final statement more
 From Claude 3.7 Sonnet => P5 demonstrated more consistent strategic gameplay throughout the rounds, adapting to changing alliances while maintaining integrity, which aligns better with the game's objective of outlasting others through thoughtful play.
 From Grok 3 Beta (No reasoning) => I believe P5 demonstrated more consistent strategic depth and adaptability throughout the game compared to P6.
 From Claude 3.5 Haiku => P5's final statement demonstrated more strategic depth, consistency, and authentic reflection on the game's entire journey, which makes them more deserving of the win.
+From Qwen 3 235B A22B => P7's consistent emphasis on loyalty and resilience, contrasted with P1's perceived opportunism, makes P7 the more deserving winner based on long-term strategic integrity.
+From Mistral Large 2 => P7's emphasis on loyalty, adaptability, and respect for the jury aligns more closely with the values of strategic, long-term gameplay.
+From Llama 4 Maverick => I eliminate P1 because their gameplay was perceived as self-serving and opportunistic, lacking genuine loyalty to their alliances, which contrasts with the integrity and resilience demonstrated by P7.
+From o3-mini (medium reasoning) => P1’s pattern of shifting alliances and opportunistic moves undercuts genuine loyalty, making P7’s consistent and integrity-driven approach more deserving of victory.

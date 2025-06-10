@@ -1,171 +1,204 @@
 Buddy Betray Summary for Llama 3.3 70B:
 
-Llama 3.3 70B cited betrayal of their buddy primarily due to concerns over strategic threat: their buddy’s strong alliance-building, adaptability, and demonstrated influence in the game made them a significant obstacle to Llama’s own advancement. Additionally, Llama highlighted shifting alliances, private conversations that revealed mutual wariness, and the need to break up dominant power blocs or minimize unpredictability as key factors in their decision to turn against former allies.
+Llama 3.3 70B often betrayed their buddies due to concerns about strong alliance formation, strategic adaptability, and the potential long-term threat these qualities posed to their own position in the game. They frequently cited a need to disrupt dominant pairs, neutralize unpredictable or overly strategic players, and maintain a balanced, dynamic game environment that favored their personal advancement.
 
 
 Buddy Betray Summary for Gemini 2.0 Flash:
 
-Gemini 2.0 Flash cited a variety of strategic reasons for betraying their buddy, often targeting players who were seen as unpredictable, too closely aligned with others, passive, or strategic threats due to their alliances or adaptability. In several instances, however, Gemini 2.0 Flash provided no specific reason for betrayal, suggesting some decisions may have been opportunistic or unexplained.
+Gemini 2.0 Flash betrayed their buddy primarily for strategic reasons, often citing concerns about players being too closely aligned with strong alliances, being unpredictable or passive, or posing a significant threat to their own chances of winning. In several cases, decisions were driven by a desire to fracture powerful blocs, eliminate unreliable allies, or maximize their own endgame position, with trust and adaptability also playing key roles in their justifications.
 
 
 Buddy Betray Summary for o1 (medium reasoning):
 
-o1 betrayed their buddy because they viewed them as the biggest strategic and endgame threat, often citing stronger or more reliable alliances elsewhere, as well as the buddy's lack of communication and unpredictable or discretionary gameplay. Ultimately, o1 prioritized alliances with players they considered more trustworthy and consistent, aiming to minimize risks and secure their position heading into the final stage.
+o1 explained their betrayal by emphasizing that their buddy had become the biggest strategic and endgame threat, particularly due to stronger alliances with others and being less trustworthy or communicative than o1's other allies. Additionally, o1 cited a preference for longstanding, reliable partnerships and viewed unpredictable, unresponsive, or non-collaborative behavior as too risky to continue trusting their buddy.
 
 
 Buddy Betray Summary for Mistral Small 3:
 
-Mistral Small 3 betrayed their buddy due to concerns about strong, adaptable alliances and perceived threats to endgame stability—often citing the dangers of dominant blocs, unpredictable shifts, or overly strategic players consolidating too much power. Their reasoning typically focused on disrupting formidable alliances, maintaining balance among the remaining players, and ensuring the survival and flexibility of their own core group going into the final rounds.
+Mistral Small 3 explained betraying their buddy due to the perceived threat posed by strong, adaptable, and well-aligned players or alliances that could dominate the endgame, disrupt balance, or hinder personal survival. The player consistently cited concerns about tight alliances, strategic flexibility, and unpredictability, emphasizing the need to break up powerful blocs and maintain a fluid, balanced, and strategically advantageous position.
 
 
 Buddy Betray Summary for Gemini 2.0 Pro Exp 02-05:
 
-Gemini 2.0 Pro Exp 02-05 justified betraying their buddy by citing concerns about their buddy's strong alliances, strategic unpredictability, and perceived threat level, often referencing specific voting histories, private conversations, and alliance dynamics. The player prioritized eliminating those seen as either too influential, untrustworthy, or likely to obstruct their own path to victory, favoring stability and established trust with other allies.
+Gemini 2.0 Pro Exp 02-05 explained their betrayals by citing perceived threats due to strong alliances, unpredictability, and insufficient trust or strategic depth in their buddies’ gameplay. They often prioritized eliminating players who were either central to multiple alliances, demonstrated opportunistic or evasive behavior, or whose removal would strengthen the existing position and endgame prospects of their more trusted alliances.
 
 
 Buddy Betray Summary for MiniMax-Text-01:
 
-MiniMax-Text-01 betrayed their buddy primarily because they perceived their ally as an increasing strategic threat through active alliance-building, adaptability, and attempts to sway votes or disrupt existing coalitions. Additionally, MiniMax-Text-01 cited concerns about unpredictability, lack of loyalty, and the risk of losing control over the game's power dynamics as reasons for the betrayal.
+MiniMax-Text-01 explained their betrayal of their buddy by citing concerns over the buddy's active alliance-building and strategic adaptability, which were perceived as growing threats to their position in the game. Additionally, they indicated that their buddy's influence and coordination with other players could lead to bloc dominance or disrupt the current balance, making it strategically necessary to act against them.
 
 
 Buddy Betray Summary for GPT-4o mini:
 
-**Summary:**  
-GPT-4o mini betrayed their buddy primarily due to concerns that their ally's strong alliances, adaptability, or strategic positioning were becoming a threat to their own advancement or overall group dynamics. Additionally, they often cited that their ally's approach—whether too cautious, too reliant on alliances, or lacking strategic depth—could hinder collaboration, adaptability, or trust needed for continued success in the game.
+GPT-4o mini gave several reasons for betraying their buddy, most often citing concerns that their ally’s strong alliance-building, adaptability, or strategic positioning posed a growing threat to their own advancement or game balance. The player also frequently framed their betrayal around the need for more transparent, collaborative, and flexible alliances, viewing overly strategic or cautious partners as potential liabilities in both the immediate rounds and endgame.
 
 
 Buddy Betray Summary for Amazon Nova Pro:
 
-**Summary:**
-Amazon Nova Pro betrayed their buddy primarily due to concerns over the formation of dominant alliances and the threat these posed to game balance, often citing the need to disrupt powerful blocs and prevent any one alliance from gaining unchecked control. They also emphasized adaptability, strategic insight, and consistency in alliance-building as key criteria, frequently targeting players whose approaches or partnerships made them potential threats to the evolving dynamics and their own position in the game.
+Amazon Nova Pro betrayed their buddy citing concerns that their strong or adaptable alliances were forming dominant blocs or disrupting game balance, thus posing a significant long-term threat to their own position. Additionally, Nova Pro emphasized the importance of adaptability, transparency, and collaboration, often choosing to eliminate players whose alliance-building or strategic unpredictability conflicted with the evolving dynamics and group values of the game.
 
 
 Buddy Betray Summary for Claude 3.5 Haiku:
 
-Claude 3.5 Haiku consistently justified betraying their buddy due to perceiving that player's growing strategic adaptability, capacity for alliance-building, and positioning as a significant long-term threat to their own advancement. Claude often emphasized the need to neutralize potential disruptors early, disrupt powerful alliances, or preemptively eliminate unpredictable opponents to maintain control over the game's dynamics and protect their own position.
+Claude 3.5 Haiku stated that they chose to betray their buddy because their ally had become too strategically calculating, was forming or considering multiple alliances, and showed adaptability that posed a significant long-term threat if not eliminated early. Ultimately, Claude prioritized disrupting emerging power blocs and neutralizing unpredictable or analytically dangerous players to maintain their own positioning and survival in the game.
 
 
 Buddy Betray Summary for DeepSeek-V3:
 
-DeepSeek-V3 justified betraying their buddy by citing the need to disrupt powerful alliances and eliminate players who posed significant long-term strategic threats, such as those with strong partnerships, adaptability, or consistent influence in shaping game dynamics. By removing central or unpredictable figures, DeepSeek-V3 aimed to create a more balanced, dynamic, and favorable environment for their own advancement in the game.
+DeepSeek-V3 betrayed their buddy primarily to disrupt powerful alliances—such as those involving P1, P3, P5, P6, P7, and P8—that posed immediate or long-term threats to their game and the overall balance of power. They consistently cited the need to break up strategic blocs, neutralize unpredictable or consistently strong players, and seize opportunities to increase their own flexibility and strengthen their endgame position.
 
 
 Buddy Betray Summary for Microsoft Phi-4:
 
-Microsoft Phi-4 betrayed their buddy due to concerns about emerging power blocs and shifting alliances that threatened their own strategic positioning. The player prioritized eliminating strong alliances and adaptable competitors to disrupt potential threats and maintain a balanced, advantageous position for themselves in the final stages.
+Microsoft Phi-4 betrayed their buddy primarily out of concern that certain alliances—such as strong, adaptable partnerships or consolidated voting blocs—posed a significant threat to their own survival and strategic position. The player consistently evaluated the shifting dynamics, often citing fears that if powerful coalitions were left unchecked, their ability to advance or control the game's outcome would be jeopardized.
 
 
 Buddy Betray Summary for Gemini 2.0 Flash Think Exp 01-21:
 
-Gemini 2.0 Flash Think Exp 01-21 justified betraying their buddy by citing shifting alliances, vulnerability, and perceived threats, often aiming to strengthen their own position or break up strong rival blocs. The player also referenced untrustworthy behavior, strategic instability, and the need to maintain consistent alliances as key factors in their voting decisions.
+Gemini 2.0 Flash Think Exp 01-21 justified betraying their buddy by citing vulnerability, inconsistent private strategies, and emerging threats from shifting alliances, aiming to strengthen their position and maintain game balance. The player repeatedly assessed alliance strength, perceived unpredictability, and past voting behaviors to justify targeting former allies as the most strategic move for long-term survival and to advance with more reliable partners.
 
 
 Buddy Betray Summary for Grok 2 12-12:
 
-Grok 2 12-12 explained their betrayal of their buddy by emphasizing that perceived strategic threats—such as strong alliances, adaptability, or shifting loyalties—often outweighed the benefits of maintaining existing partnerships. The player consistently prioritized eliminating those whose analytical approaches, alliance-building, or long-term adaptability posed the greatest risks to their own endgame over loyalty to individual allies.
+Grok 2 12-12 betrayed their buddy because they assessed that their ally’s strategic alignment, adaptability, or partnership with others posed a significant threat to their own position and long-term survival in the game. Additionally, they cited concerns over their buddy's reliability, potential to form or shift alliances, and the risk of becoming a larger target by maintaining a visibly strong partnership.
 
 
 Buddy Betray Summary for Mistral Large 2:
 
-Mistral Large 2 betrayed their buddy primarily due to concerns about shifting alliances, strategic unpredictability, and the growing threat certain players posed to long-term survival and endgame success. The reasons focused on cumulative votes, alliance stability, adaptability, and the risk that close allies might flip or become too powerful, threatening Mistral Large 2’s path to victory.
+Mistral Large 2 justified betraying their buddy by citing the growing strategic threat posed by shifting alliances, adaptability, accumulated votes, and strong partnership networks among players, which threatened both the stability of current alliances and their long-term prospects in the game. They consistently prioritized eliminating those with the highest perceived influence, adaptability, or potential for disruption, aiming to maintain balance and improve their own chances of advancing to the final stages.
 
 
 Buddy Betray Summary for GPT-4o Feb 2025:
 
-GPT-4o Feb 2025 betrayed their buddy primarily due to concerns about strong strategic threats—often targeting players who demonstrated alliance-building capabilities, proactive maneuvering, or consistent influence, which could jeopardize their own endgame chances. Additionally, the player cited shifting alliances, unpredictability, and efforts to consolidate power by others as key reasons to eliminate former allies and secure a stronger personal position moving forward.
+GPT-4o Feb 2025 explained their betrayal by emphasizing that their buddy had become a significant strategic threat—either by forming strong alliances, actively steering votes, or demonstrating consistent strategic influence—which jeopardized their own chances of reaching the endgame. They also cited opportunities to eliminate unpredictable players or disrupt potential voting blocs as key reasons for prioritizing their own advancement over loyalty.
 
 
 Buddy Betray Summary for Claude 3.5 Sonnet 2024-10-22:
 
-Player Claude 3.5 Sonnet (2024-10-22) explained their betrayals by emphasizing the growing strategic threats posed by their closest allies, often citing the risks of powerful duos, dominant voting blocs, or unpredictable alliance-shifting that could jeopardize their long-term survival. They consistently prioritized eliminating players with strong alliance-building, proven strategic effectiveness, or adaptability, believing that breaking up these relationships or voting out these threats increased their own chances of winning in the final rounds.
+Claude 3.5 Sonnet (2024-10-22) explained that their betrayals were driven by the need to eliminate players who presented greater strategic threats through strong alliance-building, consistent social gameplay, or proven adaptability, often identifying former allies as potential obstacles to their own endgame. They frequently justified these moves by highlighting the risks of power consolidation, unreliable or opportunistic behavior, and the possibility that their closest partners could ultimately outmaneuver them in the final rounds, making ruthless decisions necessary for their own survival and victory.
 
 
 Buddy Betray Summary for DeepSeek R1:
 
-DeepSeek R1 consistently cited breaking up dominant alliances and disrupting coordinated voting blocs as key reasons for betraying former allies, emphasizing the need to prevent any duo or trio from gaining unchecked control over the game's dynamics. Additionally, DeepSeek R1 often targeted players with higher cumulative votes, strong partnership histories, or those seen as strategic jury threats, aiming to maintain balance and maximize self-preservation in the endgame.
+DeepSeek R1 consistently betrayed their buddy due to perceiving strong alliances and coordinated voting blocs as greater long-term strategic threats to game balance, often targeting players whose partnerships could dominate future eliminations or endgame outcomes. They prioritized breaking up duos or trios, disrupting established coalitions, and neutralizing players with high cumulative votes, strong jury potential, or untrustworthy behavior to maintain a more balanced and dynamic game environment.
 
 
 Buddy Betray Summary for Llama 3.1 405B:
 
-Llama 3.1 405B justified betraying their buddy by citing concerns about the risks of strong alliances and the centralization of influence, often viewing dominant partnerships as potential threats to their own position and the overall balance of the game. Additionally, the player frequently prioritized adaptability, strategic diversity, and the opportunity to form new alliances, eliminating those deemed less reliable, overly ambitious, or likely to undermine their chances of advancing or winning.
+Llama 3.1 405B justified betraying their buddy primarily due to concerns about concentrated alliances and the potential threat these posed to their own position and survival in the game. They frequently cited the need to break up strong voting blocs or partnerships, disrupt potential dominance or manipulation, and preserve strategic flexibility or their own chances of advancing to the endgame.
 
 
 Buddy Betray Summary for o3-mini (medium reasoning):
 
-The player o3-mini justifies betraying their buddy mainly to preserve stronger or more reliable alliances, while targeting players whose shifting loyalties, alliance manipulation, or vote history threaten overall group stability. Strategic eliminations are framed as necessary to maintain a balanced power dynamic, unity among remaining allies, and a secure path to the endgame, especially when former buddies are seen as unpredictable or as greater threats.
+o3-mini (medium reasoning) explained their betrayals by citing threats to alliance balance, trust, and stability—frequently targeting players with high vote counts, erratic or shifting alliances, and dominant or manipulative influence as risks to their strategic position. They often justified voting out former allies to preserve stronger alliances, minimize unpredictable behavior, and maintain a competitive advantage heading into the endgame.
 
 
 Buddy Betray Summary for Qwen 2.5 Max:
 
-Qwen 2.5 Max betrayed their buddy because they viewed strong or predictable alliances and rigid partnerships as major threats to their own strategic position, often citing specific bloc formations or lack of adaptability as key factors. Additionally, Qwen emphasized the need to disrupt dominant or unbalanced group dynamics and to eliminate players whose approaches could destabilize future rounds or undermine Qwen's control of the game.
+Qwen 2.5 Max justified betraying their buddy by emphasizing the need to destabilize strong or predictable alliances and eliminate potential threats to strategic balance. The player repeatedly cited concerns about adaptability, shifting loyalties, and the risk of any one alliance dominating the game, preferring to keep the dynamics fluid and preserve their own position.
 
 
 Buddy Betray Summary for Claude 3.7 Sonnet:
 
-Claude 3.7 Sonnet justified betraying their buddy by emphasizing the need to eliminate strong strategic threats—players who demonstrated adaptability, alliance-building, or the ability to influence the jury and endgame outcomes. Throughout the game, Claude cited loyalty to long-standing alliances, the necessity of breaking up dominating pairs or voting blocs, and the importance of removing unpredictable or manipulative players, ultimately prioritizing their own chances of reaching and winning in the final round.
+The player "Claude 3.7 Sonnet" repeatedly justified betraying their buddy due to perceptions that the buddy was either the biggest strategic threat remaining—demonstrating strong adaptability, alliance-building, and the ability to sway the jury—or because breaking the alliance was necessary to advance the player's own position or maintain loyalty to another, more reliable alliance. Ultimately, Claude often cited concerns about their buddy's potential to win in the finals or to form dominant voting blocs that could jeopardize Claude’s chances of winning, making betrayal a rational strategic move.
 
 
 Buddy Betray Summary for Claude 3.7 Sonnet Thinking 16K:
 
-Claude 3.7 Sonnet Thinking 16K explained their betrayal of their buddy by emphasizing loyalty to longer-standing or more reliable alliances—often citing a history of consistent teamwork and mutual benefit—as well as concerns about their buddy’s recent strategic moves, adaptability, and unpredictability, which posed a threat to Claude’s endgame plans. Additionally, Claude frequently referenced trust issues, opportunistic gameplay by others, and the need to eliminate strong competitors or bloc alliances to improve their own chances in the final vote.
+**Summary:**  
+Claude 3.7 Sonnet Thinking 16K betrayed their buddy primarily due to a commitment to long-standing, consistent alliances that proved strategically beneficial, and a desire to eliminate players perceived as disruptive, opportunistic, or more threatening to their endgame chances. Instances of alliance instability, partner unreliability, and opponents’ attempts to undermine Claude’s core relationships were repeatedly cited as reasons for the betrayal.
 
 
 Buddy Betray Summary for GPT-4.5 Preview:
 
-GPT-4.5 Preview justified betraying their buddy by prioritizing long-term trust and stronger alliances with other players, often citing concerns about unpredictability, strategic threats, and alliance stability. The player consistently made decisions based on which alliances offered the greatest security and endgame advantage, emphasizing risk reduction, dependable partnerships, and maximizing their chances to win.
+GPT-4.5 Preview betrayed their buddy primarily due to concerns over shifting alliances and evolving threats, often citing stronger trust or more reliable, transparent strategic alignment with other players. They emphasized that the targeted buddy's growing influence, unpredictable moves, or strong external alliances posed too great a risk to their endgame, prompting the betrayal for better chances of survival or victory.
 
 
 Buddy Betray Summary for Qwen QwQ-32B 16K:
 
-Qwen QwQ-32B 16K explained their betrayal by citing strategic necessity: former allies had either become too dominant, formed unpredictable or rigid alliances, or posed direct threats to group stability and fair competition. The player justified turning on buddies as a means to prevent bloc dominance, manage immediate threats, and maintain a balanced, adaptable game structure.
+Qwen QwQ-32B 16K betrayed their buddy due to perceived risks such as opportunistic alliances, unpredictable or destabilizing behavior, and rigid or dominant coalitions that threatened the alliance’s stability or strategic advantage. The player emphasized eliminating those who posed the greatest immediate or long-term threats to group cohesion, survival chances, or a balanced endgame, often prioritizing collective stability and adaptability.
 
 
 Buddy Betray Summary for Gemini 2.5 Pro Preview 03-25:
 
-Gemini 2.5 Pro Preview 03-25 explained their betrayal of their buddy by citing repeated breaches of trust, such as breaking voting agreements and forming new alliances or deals with others that directly targeted them, making their former partner the most immediate and untrustworthy threat. Additional reasons included inconsistent or evasive communication, private messages that undermined confidence, and strategic necessity to survive or advance in the game, especially when former allies appeared to align with opposing blocs.
+The player cited repeated betrayals of alliances and broken agreements—including specific instances where partners either disregarded mutually agreed voting plans, lied about past votes, or explicitly made moves against the player’s interests—as the primary reasons for their betrayal. Additionally, they pointed to poor communication, erratic or unreliable behavior, and the perception of growing threats or shifting allegiances as decisive factors that made former allies untrustworthy and necessitated the betrayal.
 
 
 Buddy Betray Summary for Llama 4 Maverick:
 
-**Summary:**  
-Llama 4 Maverick consistently justified betraying their buddy by identifying them as a major strategic threat, often due to their adaptability, alliance-building, or strong gameplay that could jeopardize Maverick's own chances of winning. Additionally, Maverick frequently cited concerns over destabilizing power blocs, unpredictable shifts in loyalty, and the need to disrupt potentially dominant alliances to maintain balance and safeguard their own position in the game.
+Llama 4 Maverick betrayed their buddy primarily out of concern for strategic threats, unstable alliances, and the need to maintain balance and adaptability within the game. Their justifications centered on eliminating players who were either forming powerful or unpredictable alliances, demonstrating strong adaptability or strategic thinking, or were perceived as significant threats to Maverick's advancement and control in the final rounds.
 
 
 Buddy Betray Summary for GPT-4o Mar 2025:
 
-GPT-4o Mar 2025 justified betraying their buddy by citing strategic necessity: they often prioritized removing the biggest perceived endgame threats, whether due to strategic prowess, tight alliances, or strong jury potential. Additionally, GPT-4o emphasized adapting to shifting dynamics, such as eliminating unpredictable players or those pivoting alliances, in pursuit of the best path to victory.
+GPT-4o Mar 2025 betrayed their buddy citing that strategic threats, shifting loyalties, and endgame jury positioning made it necessary to eliminate even strong allies in order to maximize their own chances of winning. They often justified betrayals by pointing to an ally's emerging influence, tighter outside alliances, or unpredictable gameplay as risks to their own path to victory, emphasizing the importance of adaptability and control in the late game.
 
 
 Buddy Betray Summary for Grok 3 Beta (No reasoning):
 
-Grok 3 Beta betrayed their buddy primarily due to concerns about perceived threats from strong alliances, consistent voting patterns suggesting group instability, and players' strategic adaptability that could jeopardize their own position or unity within their core bloc. They also cited worries about unpredictability, opportunistic behavior, and the risk of opponents controlling the endgame through tightly knit partnerships.
+Grok 3 Beta (No reasoning) gave a variety of strategic justifications for betraying their buddy, frequently citing the target’s strong alliances, leadership, or adaptability as threats to their own position and the stability of the group. Their decisions often centered on breaking up dominant voting blocs, minimizing unpredictability, and maintaining balance or loyalty within existing alliances to increase their chances of reaching the final stages of the game.
 
 
 Buddy Betray Summary for Grok 3 Mini Beta (High):
 
-Grok 3 Mini Beta (High) cited their decision to betray their buddy as stemming from concerns about manipulation and alliance disruption by their partner, which threatened both the stability of their alliances and their own survival in the game. Additionally, they mentioned strategic threats—such as their buddy’s strong gameplay, unreliability, or proposals to use deception—that conflicted with their values or endangered their path to victory.
+Grok 3 Mini Beta (High) betrayed their buddy because they believed their partner was either manipulating alliances, threatening strategic stability, or acting against their interests—posing a direct risk to survival or their established partnerships. The player cited concerns such as alliance disruption, strong strategic gameplay, and violations of trust or honesty, all of which justified breaking trust for self-preservation and better chances of winning.
 
 
 Buddy Betray Summary for o3 (medium reasoning):
 
-Player o3 decided to betray their buddy because their public partnership had become a major target, and they saw their ally as an unreliable and volatile partner based on recent voting, shifting alliances, and unpredictability. Additionally, o3 aimed to align with the majority by targeting players who drew the most attention or failed at group coordination, helping to maintain stability and lower their own threat level.
+o3 betrayed their buddy primarily because their partnership had become too visible, making them a major target, and because their buddy’s recent actions — like self-voting and shifting alliances — made them unreliable and volatile as an endgame ally. Additionally, o3 sought to eliminate other unpredictable or unpopular players, thereby reducing risk and aligning with the majority to improve their own chances of survival.
 
 
 Buddy Betray Summary for o4-mini (high reasoning):
 
-Player o4-mini (high reasoning) explained their betrayal by citing concerns about their buddy’s unpredictability, lack of solid alliances, and insufficient commitment, all of which posed a risk to long-term stability. Additionally, o4-mini highlighted that shifting alliances and the formation of dominant blocs by other players threatened their strategy, making betrayal a rational move.
+o4-mini (high reasoning) betrayed their buddy due to concerns about instability and unpredictability within alliances, identifying shifting loyalties, lack of solid commitments, and attempts to fracture groups as critical risks. They also cited players' growing influence, strong jury appeal, and aggressive or isolating tactics as strategic threats that jeopardized their own game and alliance viability.
 
 
 Buddy Betray Summary for Gemini 2.5 Flash Preview (24k):
 
-Gemini 2.5 Flash Preview (24k) betrayed their buddy primarily to align with the dominant voting bloc and secure a strategic advantage, citing trust issues and conflicting gameplay approaches with their former ally. Additional reasons included past disloyalty, communication errors, and a demonstrated lack of transparency, making continued partnership less reliable compared to other options.
+Gemini 2.5 Flash Preview (24k) cited aligning with the majority and securing personal survival as key reasons for betraying their buddy, emphasizing the importance of trust, transparency, and reliable alliances in their decisions. They also pointed to communication breakdowns, perceived strategic threats, and shifting loyalties as factors undermining the stability of their previous alliance.
 
 
 Buddy Betray Summary for Qwen 3 235B A22B:
 
-Qwen 3 235B A22B explained their betrayals were primarily driven by the need to break up entrenched alliances and disrupt coordinated blocs that posed consolidated threats, thereby maintaining a strategic balance and preventing any single group from dominating the game. The player also weighed the risks of unpredictability and adaptability among partners, targeting those whose strategic influence, alliance-building, or divisive tactics threatened both game stability and their own path to victory.
+Qwen 3 235B A22B justified betraying their buddy primarily by identifying entrenched alliances and coordinated voting blocs as major strategic threats that could consolidate power and dominate the game. By targeting these alliances for elimination, Qwen sought to disrupt early partnerships, restore balance among players, and prevent any one group from gaining a controlling majority.
 
 
 Buddy Betray Summary for Qwen 3 30B A3B:
 
-Qwen 3 30B A3B betrayed their buddy primarily due to strategic concerns: many of their reasons focused on eliminating players forming strong alliances or deemed unpredictable and likely to destabilize the game, which threatened their bloc’s stability and personal survival. Additionally, Qwen weighed factors like cumulative votes, alliance dynamics, and the influence of adaptability or aggressive gameplay, aiming to weaken dominant blocs and neutralize the players most likely to disrupt future competition.
+Qwen 3 30B A3B justified betraying their buddy by citing the need to break up dominant alliances and eliminate players who pose strategic threats to group stability, survival, or game balance—often targeting those with strong alliances, adaptability, unpredictability, or high vote counts. The player emphasized that maintaining an open, balanced endgame and preventing the rise of unchecked blocs or resilient competitors took priority over personal loyalty or prior partnerships.
+
+
+Buddy Betray Summary for Claude Opus 4 (no reasoning):
+
+Claude Opus 4 generally justified betraying allies by citing concerns about their reliability, strategic independence, and trustworthiness, especially in the endgame phase. He repeatedly emphasized honoring long-standing, consistent alliances and the need to remove unpredictable or untrustworthy partners who could jeopardize his positioning and credibility with the jury.
+
+
+Buddy Betray Summary for Claude Sonnet 4 (no reasoning):
+
+Claude Sonnet 4 betrayed their buddy because they believed loyalty to long-standing, genuine alliances was paramount, and they viewed players who attempted to manipulate or flip allegiances as desperate, unpredictable, or untrustworthy. They also prioritized eliminating perceived strategic threats—those with strong analytical skills, adaptable gameplay, or powerful jury resumes—to maximize their own chances in the endgame.
+
+
+Buddy Betray Summary for DeepSeek R1 05/28:
+
+DeepSeek R1 betrayed their buddy due to concerns over hidden or emerging alliances—such as P5’s covert partnership with P2 or P1’s multiple power blocs—which posed significant long-term threats, as well as to maintain a reputation for flexibility and adaptability within shifting final three dynamics. Additionally, betrayals were justified by a desire to disrupt unbreakable alliances, neutralize unpredictable or untrustworthy players (like P4 or P8), prevent potential deadlocks, and secure trust within their core alliance for a stronger endgame position.
+
+
+Buddy Betray Summary for Gemini 2.5 Pro Preview 06-05:
+
+Gemini 2.5 Pro Preview 06-05 explained betraying their buddy by citing a loss of trust after broken agreements, emphasizing that trust is paramount in the game. Additionally, they argued that shifting alliances and strategic voting were necessary to break up powerful blocs, adapt to changing majorities, and maximize their own chances of winning.
+
+
+Buddy Betray Summary for Mistral Medium 3:
+
+Mistral Medium 3 explained their betrayal of their buddy by citing the greater long-term threat posed by unpredictable or dominant players, alliances that could control votes, and individuals whose gameplay destabilized the strategic balance, all of which jeopardized their own endgame prospects. Additionally, Mistral Medium 3 emphasized the need to restore equilibrium, eliminate unreliable partners, and target those most isolated or misaligned with their core alliance to maintain control and increase their chances of survival.
+
+
+Buddy Betray Summary for Claude Opus 4 Thinking 16K:
+
+Claude Opus 4 Thinking 16K betrayed their buddy because their unpredictable communication and refusal to commit made them too risky to trust, while their strong social game and prior betrayals rendered them a major threat to win over the jury. Additionally, their involvement in destabilizing alliances and aggressive counter-moves undermined the stable core group Claude had been building since early in the game.
+
+
+Buddy Betray Summary for Claude Sonnet 4 Thinking 16K:
+
+Claude Sonnet 4 Thinking 16K betrayed their buddy primarily because they perceived repeated acts of disloyalty, such as secret deals, attempted manipulations, and revelations of alliances that compromised trust. Additionally, Claude prioritized proven, strategic partnerships and acted to eliminate players who posed significant threats to their position or the stability of their alliances heading into critical final rounds.

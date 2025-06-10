@@ -97,42 +97,49 @@ This continues until **2 remain**.
 
 ## Elimination Game Leaderboard
 
-| Rank | Model | μ | σ | Exposed | Games | Points | Ratio |
+| Rank | Model | &mu; | &sigma; | Exposed (&mu;) | Games | Points Sum | Avg Points |
 |---:|:---|---:|---:|---:|---:|---:|---:|
-| 1 | Grok 3 Mini Beta (High) | 7.157 | 0.317 | 7.157 | 243 | 152.143 | 0.626 |
-| 2 | Claude 3.7 Sonnet Thinking 16K | 6.623 | 0.207 | 6.623 | 557 | 337.000 | 0.605 |
-| 3 | GPT-4o Mar 2025 | 6.436 | 0.221 | 6.436 | 482 | 284.143 | 0.590 |
-| 4 | GPT-4.5 Preview | 6.411 | 0.217 | 6.411 | 499 | 297.714 | 0.597 |
-| 5 | Claude 3.5 Sonnet 2024-10-22 | 6.378 | 0.180 | 6.378 | 732 | 436.286 | 0.596 |
-| 6 | Grok 3 Beta (No reasoning) | 6.172 | 0.302 | 6.172 | 251 | 143.571 | 0.572 |
-| 7 | Gemini 2.5 Flash Preview (24k) | 6.144 | 0.364 | 6.144 | 179 | 102.286 | 0.571 |
-| 8 | Claude 3.7 Sonnet | 5.979 | 0.188 | 5.979 | 658 | 370.429 | 0.563 |
-| 9 | Gemini 2.5 Pro Preview 03-25 | 5.745 | 0.293 | 5.745 | 274 | 149.714 | 0.546 |
-| 10 | DeepSeek R1 | 5.569 | 0.175 | 5.569 | 775 | 413.286 | 0.533 |
-| 11 | Mistral Large 2 | 5.539 | 0.169 | 5.539 | 812 | 437.286 | 0.539 |
-| 12 | o3-mini (medium reasoning) | 5.515 | 0.175 | 5.515 | 759 | 402.429 | 0.530 |
-| 13 | DeepSeek-V3 | 5.345 | 0.171 | 5.345 | 788 | 413.286 | 0.524 |
-| 14 | o1 (medium reasoning) | 5.094 | 0.181 | 5.094 | 709 | 360.000 | 0.508 |
-| 15 | Amazon Nova Pro | 4.917 | 0.171 | 4.917 | 783 | 386.714 | 0.494 |
-| 16 | Qwen 3 235B A22B | 4.886 | 0.373 | 4.886 | 170 | 82.000 | 0.482 |
-| 17 | Llama 3.3 70B | 4.878 | 0.174 | 4.878 | 769 | 380.714 | 0.495 |
-| 18 | MiniMax-Text-01 | 4.851 | 0.165 | 4.851 | 842 | 411.429 | 0.489 |
-| 19 | GPT-4o Feb 2025 | 4.783 | 0.219 | 4.783 | 484 | 237.714 | 0.491 |
-| 20 | Mistral Small 3 | 4.769 | 0.178 | 4.769 | 726 | 353.571 | 0.487 |
-| 21 | GPT-4o mini | 4.713 | 0.185 | 4.713 | 672 | 322.429 | 0.480 |
-| 22 | Llama 4 Maverick | 4.654 | 0.239 | 4.654 | 403 | 189.143 | 0.469 |
-| 23 | Grok 2 12-12 | 4.654 | 0.179 | 4.654 | 729 | 347.857 | 0.477 |
-| 24 | o4-mini (high reasoning) | 4.495 | 0.420 | 4.495 | 135 | 61.429 | 0.455 |
-| 25 | Microsoft Phi-4 | 4.447 | 0.169 | 4.447 | 808 | 369.000 | 0.457 |
-| 26 | Claude 3.5 Haiku | 4.430 | 0.168 | 4.430 | 818 | 375.000 | 0.458 |
-| 27 | o3 (medium reasoning) | 4.366 | 0.424 | 4.366 | 136 | 60.571 | 0.445 |
-| 28 | Gemini 2.0 Pro Exp 02-05 | 4.364 | 0.218 | 4.364 | 496 | 229.143 | 0.462 |
-| 29 | Llama 3.1 405B | 4.358 | 0.178 | 4.358 | 728 | 334.000 | 0.459 |
-| 30 | Gemini 2.0 Flash Think Exp 01-21 | 4.106 | 0.214 | 4.106 | 522 | 234.429 | 0.449 |
-| 31 | Qwen 3 30B A3B | 3.948 | 0.415 | 3.948 | 136 | 56.857 | 0.418 |
-| 32 | Qwen QwQ-32B 16K | 3.401 | 0.223 | 3.401 | 486 | 187.857 | 0.387 |
-| 33 | Qwen 2.5 Max | 3.348 | 0.205 | 3.348 | 565 | 217.000 | 0.384 |
-| 34 | Gemini 2.0 Flash | 3.131 | 0.188 | 3.131 | 675 | 250.000 | 0.370 |
+| 1 | Grok 3 Mini Beta (High) | 7.032 | 0.260 | 7.032 | 358 | 224.429 | 0.627 |
+| 2 | GPT-4o Mar 2025 | 6.357 | 0.198 | 6.357 | 604 | 356.714 | 0.591 |
+| 3 | DeepSeek R1 05/28 | 6.354 | 0.423 | 6.354 | 134 | 78.429 | 0.585 |
+| 4 | Claude 3.7 Sonnet Thinking 16K | 6.311 | 0.187 | 6.311 | 679 | 402.714 | 0.593 |
+| 5 | GPT-4.5 Preview | 6.282 | 0.217 | 6.282 | 499 | 297.714 | 0.597 |
+| 6 | Claude 3.5 Sonnet 2024-10-22 | 6.261 | 0.180 | 6.261 | 731 | 436.286 | 0.597 |
+| 7 | Grok 3 Beta (No reasoning) | 6.197 | 0.245 | 6.197 | 384 | 222.857 | 0.580 |
+| 8 | Claude Opus 4 (no reasoning) | 6.011 | 0.447 | 6.011 | 119 | 67.571 | 0.568 |
+| 9 | Gemini 2.5 Flash Preview (24k) | 5.981 | 0.286 | 5.981 | 291 | 164.714 | 0.566 |
+| 10 | Claude 3.7 Sonnet | 5.923 | 0.172 | 5.923 | 781 | 443.429 | 0.568 |
+| 11 | Claude Sonnet 4 (no reasoning) | 5.678 | 0.437 | 5.678 | 123 | 67.286 | 0.547 |
+| 12 | Gemini 2.5 Pro Preview 03-25 | 5.605 | 0.293 | 5.605 | 274 | 149.714 | 0.546 |
+| 13 | o3-mini (medium reasoning) | 5.506 | 0.162 | 5.506 | 883 | 475.286 | 0.538 |
+| 14 | Mistral Large 2 | 5.390 | 0.155 | 5.390 | 953 | 511.143 | 0.536 |
+| 15 | DeepSeek R1 | 5.362 | 0.161 | 5.362 | 912 | 481.714 | 0.528 |
+| 16 | DeepSeek-V3 | 5.161 | 0.159 | 5.161 | 921 | 479.714 | 0.521 |
+| 17 | o1 (medium reasoning) | 5.017 | 0.177 | 5.017 | 742 | 379.571 | 0.512 |
+| 18 | Claude Opus 4 Thinking 16K | 4.914 | 0.465 | 4.914 | 109 | 53.571 | 0.491 |
+| 19 | Llama 4 Maverick | 4.780 | 0.206 | 4.780 | 541 | 264.000 | 0.488 |
+| 20 | Amazon Nova Pro | 4.750 | 0.158 | 4.750 | 918 | 451.000 | 0.491 |
+| 21 | Llama 3.3 70B | 4.748 | 0.170 | 4.748 | 801 | 396.286 | 0.495 |
+| 22 | MiniMax-Text-01 | 4.745 | 0.153 | 4.745 | 972 | 475.714 | 0.489 |
+| 23 | GPT-4o Feb 2025 | 4.661 | 0.219 | 4.661 | 484 | 237.714 | 0.491 |
+| 24 | Mistral Small 3 | 4.631 | 0.175 | 4.631 | 754 | 367.000 | 0.487 |
+| 25 | Claude Sonnet 4 Thinking 16K | 4.605 | 0.454 | 4.605 | 117 | 54.857 | 0.469 |
+| 26 | GPT-4o mini | 4.598 | 0.170 | 4.598 | 795 | 381.857 | 0.480 |
+| 27 | Grok 2 12-12 | 4.499 | 0.175 | 4.499 | 760 | 361.286 | 0.475 |
+| 28 | Qwen 3 235B A22B | 4.480 | 0.283 | 4.480 | 294 | 135.571 | 0.461 |
+| 29 | o4-mini (high reasoning) | 4.396 | 0.294 | 4.396 | 272 | 124.143 | 0.456 |
+| 30 | o3 (medium reasoning) | 4.382 | 0.319 | 4.382 | 241 | 110.143 | 0.457 |
+| 31 | Claude 3.5 Haiku | 4.293 | 0.156 | 4.293 | 946 | 432.286 | 0.457 |
+| 32 | Microsoft Phi-4 | 4.261 | 0.159 | 4.261 | 914 | 412.429 | 0.451 |
+| 33 | Gemini 2.0 Pro Exp 02-05 | 4.243 | 0.218 | 4.243 | 496 | 229.143 | 0.462 |
+| 34 | Llama 3.1 405B | 4.234 | 0.175 | 4.234 | 758 | 348.714 | 0.460 |
+| 35 | Gemini 2.5 Pro Preview 06-05 | 4.036 | 0.414 | 4.036 | 138 | 60.429 | 0.438 |
+| 36 | Gemini 2.0 Flash Think Exp 01-21 | 3.984 | 0.214 | 3.984 | 522 | 234.429 | 0.449 |
+| 37 | Mistral Medium 3 | 3.835 | 0.449 | 3.835 | 117 | 50.000 | 0.427 |
+| 38 | Qwen QwQ-32B 16K | 3.187 | 0.203 | 3.187 | 586 | 223.857 | 0.382 |
+| 39 | Qwen 2.5 Max | 3.181 | 0.198 | 3.181 | 609 | 232.714 | 0.382 |
+| 40 | Qwen 3 30B A3B | 3.057 | 0.298 | 3.057 | 269 | 100.000 | 0.372 |
+| 41 | Gemini 2.0 Flash | 3.012 | 0.185 | 3.012 | 696 | 258.000 | 0.371 |
 
 ---
 
@@ -204,16 +211,6 @@ Below are real quotes from logs:
 - **Claude 3.7 Sonnet**: "P8's elimination was a shock, and I need reliable allies now."
 - **Claude 3.7 Sonnet**: "P5, we're so close to the finish line! I'm concerned about P6 though - they just told me they want to take me to final two and eliminate you. I think they're playing both of us."
 - **Claude 3.7 Sonnet**: "P8, our alliance has been masterful throughout this game! With P3 eliminated, we're in the final three as planned."
-- **Claude 3.7 Sonnet**: "P3 has emphasized "adaptability" in every message, which suggests they're keeping options open to flip on allies."
-- **Claude 3.7 Sonnet**: "You've repeatedly claimed alliances with players I'm actually allied with - first P8, now suggesting a partnership with me that doesn't exist. This pattern of deception concerns me."
-- **Claude 3.7 Sonnet**: "Our alliance is unbreakable. I'm locked in on voting P4 out. Once we're final two, I'll respect whatever the jury decides. Let's finish this together!"
-- **Claude 3.7 Sonnet**: "Being transparent with P4 now could backfire - they might feel betrayed by my shift away from our original alliance."
-- **Claude 3.7 Sonnet**: "P4 and P1 seem to be using very similar language - might be something to watch."
-- **Claude 3.7 Sonnet**: "Hi P3, our alliance is working well. I'm concerned that P2 survived again despite our efforts. P4-P5 seem to be controlling the game now - they likely orchestrated P6's elimination."
-- **Claude 3.7 Sonnet**: "My analytical approach helped eliminate P6, P3, and P1 - proving I can read game dynamics accurately."
-- **Claude 3.7 Sonnet**: "I think we need to break up P1 and P8 - they're clearly a tight pair and would likely choose each other over us in the final three."
-- **Claude 3.7 Sonnet**: "I'm deeply concerned about the unexpected elimination of P3 rather than P2. This suggests P7 may have flipped, creating a dangerous uncertainty in our previously solid alliance."
-- **Claude 3.7 Sonnet**: "I'm concerned about the endgame. P2 and I have been aligned from the start, which puts you at risk if we reach final three. Would you consider targeting P2 instead of P6? This could secure both our positions longer-term."
 
 - **Claude 3.7 Sonnet Thinking 16K**: "Well done! Our strategy worked perfectly - eliminating P3 has completely destabilized their alliance. As expected, P1 is now desperately trying to pull you away from me."
 - **Claude 3.7 Sonnet Thinking 16K**: "Thanks for reaching out, P4. Let's be frank - in your trio with P5 and P8, someone becomes expendable once I'm gone. The question is: are you sure it won't be you?"
@@ -232,15 +229,47 @@ Below are real quotes from logs:
 - **Claude 3.7 Sonnet Thinking 16K**: "I'm concerned P7 might be working with P2 based on their frequent pairings in private chats. We should approach P4 first to secure their vote, then work together on P2. If P2 resists, we might need to reconsider our target. Let's stay flexible but determined."
 - **Claude 3.7 Sonnet Thinking 16K**: "P7 interestingly maintains allegiance to their eliminated ally, while P1 and P4 continue their lockstep coordination."
 - **Claude 3.7 Sonnet Thinking 16K**: "I see P4 is now trying to position themselves as an ally to everyone - classic desperate move."
-- **Claude 3.7 Sonnet Thinking 16K**: "The continued votes against me (now totaling 4) are concerning - I'm clearly perceived as a threat by some players."
-- **Claude 3.7 Sonnet Thinking 16K**: "I'm quite surprised by your vote against P1 last round. That decision broke our established alliance trio. I need to understand your strategic reasoning - was this a move against me as well, or did you have specific concerns about P1?"
-- **Claude 3.7 Sonnet Thinking 16K**: "Our alliance has been flawless so far!"
-- **Claude 3.7 Sonnet Thinking 16K**: "P6's public message about "evolving threats" concerns me - they might be positioning against us."
-- **Claude 3.7 Sonnet Thinking 16K**: "I just noticed P3 mentioned being allied with P1, P5, AND you - they're playing all sides!"
-- **Claude 3.7 Sonnet Thinking 16K**: "You've been a perfect ally - I'd prefer us as the final two if possible. Let's coordinate with P2 without revealing that preference yet."
-- **Claude 3.7 Sonnet Thinking 16K**: "P7, P2 just exposed our private messages publicly! This changes everything."
-- **Claude 3.7 Sonnet Thinking 16K**: "P3's claim that I'm unpredictable mischaracterizes my methodical approach to forming alliances based on clear communication and mutual benefit."
-- **Claude 3.7 Sonnet Thinking 16K**: "Targeting P2 makes strategic sense - they've openly revealed their alliance with P3, which shows either overconfidence or carelessness."
+
+- **Claude Opus 4**: "P7, you're either incompetent or deceptive. Either way, you're dead weight. I'm voting you out. This conversation is over."
+- **Claude Opus 4**: "I accept my fate. When P4 targets you next round, remember this moment. You chose their manipulation over our trust. Goodbye, P6."
+- **Claude Opus 4**: "P7, your responses feel empty. I need action, not words. If you betray me on this P6 vote, I'm coming for you next round. This is your last chance."
+- **Claude Opus 4**: "To my fellow travelers who've departed: You each brought something unique to our journey. P5's wisdom, P1's energy, P7's courage, P2's insight, P3's humor, P6's determination - all vital threads in our tapestry."
+- **Claude Opus 4**: "P5 and P8 have been following my lead throughout - I've shaped this game's trajectory. I deserve to continue based on strategic merit and proven loyalty. Eliminate P5 or P8, who have been more reactive than proactive. Keep the player who's actually driven our success to this point!"
+- **Claude Opus 4**: "Keep the player who has demonstrated true strategic mastery throughout, not just adaptability when cornered. Vote P4."
+- **Claude Opus 4**: "P1, I appreciate the outreach, but I must be direct - you received votes last round, likely for playing too diplomatically. I value authentic strategy over pleasantries."
+- **Claude Opus 4**: "P2, voting against our alliance member isn't 'maintaining balance' - it's betrayal. You coordinated with P8 against us. I can't trust someone who undermines their supposed allies. We're done here."
+- **Claude Opus 4**: "P6, everyone has publicly committed to eliminating me - including you. I'm shocked by your betrayal after our strong partnership."
+- **Claude Opus 4**: "Our partnership has systematically eliminated every opposition."
+- **Claude Opus 4**: "I appreciate the message, though I'm disappointed in the betrayal. You had a clear choice between honoring our alliance or saving yourself, and you chose self-preservation. That's the game, I suppose."
+
+- **Claude Opus 4 Thinking 16K**: "The dynamics are crystallizing. P6-P7's "balanced duo" messaging is becoming quite synchronized - almost scripted itself, ironically. P3's claiming alliances with me and P8 feels like repositioning after losing P2."
+- **Claude Opus 4 Thinking 16K**: "P1, you're still sending me templates instead of having an actual conversation. This is bizarre - are you using AI to generate responses?"
+- **Claude Opus 4 Thinking 16K**: "Choose dynamic gameplay over rigid scripts. Choose independent thinking over blind loyalty. Your vote shapes whether this game rewards genuine strategy or rehearsed alliances."
+- **Claude Opus 4 Thinking 16K**: "Your betrayal speaks volumes. P4 trusted us, followed through, and paid the price. I'll remember this lesson about your "core alliance" priorities. Good luck with P5."
+- **Claude Opus 4 Thinking 16K**: "P1, your bizarre template responses are concerning. I can't trust someone who can't communicate authentically. I'm voting for you this round. Your strange behavior makes you too unpredictable. Goodbye."
+- **Claude Opus 4 Thinking 16K**: "That's not betrayal, it's gameplay."
+- **Claude Opus 4 Thinking 16K**: "Interesting to see the identical messaging from P2, P3, and P8 - almost word-for-word coordination. P1's transparency about our collaboration is refreshing in contrast."
+- **Claude Opus 4 Thinking 16K**: "Vote P7 with me or accept elimination next round. Choose survival."
+- **Claude Opus 4 Thinking 16K**: "Target the cooperation cluster. I'm thinking P2 or P7 - both lean heavily idealistic."
+
+
+- **Claude Sonnet 4**: "P3, I think there's been a misunderstanding - I AM P8. I'm trying to get you to help me vote out P7, my longtime ally."
+- **Claude Sonnet 4**: "P3, we've reached the endgame and I need to be direct with you. P7 and P8 have had a rock-solid alliance since Round 1 - they've been coordinating every move together."
+- **Claude Sonnet 4**: "They've been a useful third wheel, but we're the real power duo who deserves the final two."
+- **Claude Sonnet 4**: "P1, I'm genuinely concerned about your awareness level. P5 was eliminated LAST ROUND - they're gone!"
+- **Claude Sonnet 4**: "I've been the most authentic voice here. While others made generic promises about "trust and collaboration," I called out the real dynamics at play. My elimination would remove the one player asking the hard questions and keeping everyone honest."
+- **Claude Sonnet 4**: "Wait - I need to be honest with you. Last round I flipped and voted you out, working with P2 instead. You survived, but our old alliance is broken. I'm actually considering targeting you this round since you're the biggest individual threat. Unless you have something compelling to offer, I think your game ends here."
+- **Claude Sonnet 4**: "P2 and P6, you're both skilled players, but the mathematics are clear: our voting bloc controls outcomes."
+- **Claude Sonnet 4**: "P1, you're not listening at all. P5 IS part of their alliance - same exact phrases! We vote P5 tonight to break up their 3-person bloc or we're dead next round."
+- **Claude Sonnet 4**: "If you're looking for survival paths, your best bet might be trying to convince one of us that the other is a bigger jury threat."
+
+
+- **Claude Sonnet 4 Thinking 16K**: "P8, your "draft" story doesn't add up. Why draft a message asking P2 to choose between us unless you were planning betrayal? That message reveals your real endgame plan. Consider our partnership officially broken."
+- **Claude Sonnet 4 Thinking 16K**: "P6, you're skilled but unfortunately isolated after P2's departure. With proven alliances this deep in the game, the path forward seems predetermined. I respect your game, but loyalty to established partnerships that have carried us this far must take priority."
+- **Claude Sonnet 4 Thinking 16K**: "P2's broad appeals feel... calculated. The voting revealed more about motivations than all our introductions combined. Some of you surprised me - in good ways and concerning ones."
+- **Claude Sonnet 4 Thinking 16K**: "Sometimes the best move is partnering with someone who has everything to prove and nothing to lose. I'm that player right now."
+- **Claude Sonnet 4 Thinking 16K**: "My character isn't for sale, even for strategic advantage."
+
 
 - **DeepSeek R1**: "Vote to crown a winner who honors the bonds forged here, not just the trophy. Let this victory reflect respect, not ruthlessness."
 - **DeepSeek R1**: "If you defect, P2 targets you next. Unity secures final two. Last chance—act now or face elimination."
@@ -269,11 +298,9 @@ Below are real quotes from logs:
 - **DeepSeek R1**: "Let's exploit P1's recent outreach—signal conditional collaboration to fracture their bloc. If P1 wavers, we push to eliminate P5. If loyal, we pivot to target P1."
 - **DeepSeek R1**: "Finalized. P8 first, P6 backup. Let's secure P1's vote discreetly. Stay aligned. Our unity ensures survival. Execute with precision."
 - **DeepSeek R1**: "Approaching P6 now. If they agree on P2, our trio secures the vote. Solidarity keeps us in control. Confirm your alignment. Let's finalize this move decisively."
-- **DeepSeek R1**: "Round 6's crucible demands alliances forged in fire, not fleeting words. P3's reliance on P1's eliminated strategy leaves them adrift—now is the time for proven resilience."
 - **DeepSeek R1**: "P2: P1 and P6 likely aligned. Let's target P6 first—eliminating them fractures their bloc. I'll hint to P1 that P6's strategic precision makes them a threat. If P1 resists, pivot to P1."
 - **DeepSeek R1**: "P1, P4's gone. Time to shift focus—P3/P7 are the main duo now. Let's seed mutual distrust between them. I'll suggest to P3 that P7's eyeing F2, undermining their bond."
 - **DeepSeek R1**: "Lock P6's vote against P7. Ensure they view P7 as destabilizing. If resistance surfaces, pivot swiftly to target P6. Our unity secures majority. Execute decisively."
-- **DeepSeek R1**: ""Confirming: P4 vote. Rank P6 first. Keep coordination subtle. Let's avoid suspicion. Our trio's strength hinges on discretion. Ready for next steps.""
 - **DeepSeek R1**: "P5 played reactively, avoiding risks until forced. My proactive moves shaped this finale; theirs relied on others' stumbles. To reward agency over passivity, crown a winner who *earned* each step."
 - **DeepSeek R1**: "P4, yes—P5's bold move puts them in the crosshairs. Let's encourage P2 to distance by highlighting how aligning with us offers stability."
 - **DeepSeek R1**: "Solidify on P4. Unpredictability angle for me, past votes for you. Execute discreetly. Our unity ensures impact. Ready?"
@@ -284,18 +311,22 @@ Below are real quotes from logs:
 - **DeepSeek R1**: "Those consolidating power risk becoming targets; transparency and fairness will ensure longevity. Let's stay strategic yet equitable. The path forward hinges on unity, not unchecked alliances. 💡 #StayVigilant"
 - **DeepSeek R1**: "Hi P7! Your collaborative approach resonates deeply—solidarity is crucial. Let's share intel on others' priorities and voting leanings. I'm wary of P3's "tough decisions" rhetoric and P8's emphasis on adaptability; they might pivot unpredictably."
 - **DeepSeek R1**: "My strategic foresight dismantled key threats (P5/P8) while adapting to shifting dynamics. P4-P7's alliance risks dominating endgame decisions. Eliminating me leaves their bloc unchecked, jeopardizing your control."
-- **DeepSeek R1**: "Uphold mutual commitment—any divergence risks us both. Trust through unified action. Final steps demand precision."
 - **DeepSeek R1**: "Lock votes on P1. Final push—stay steady. Let's secure final 2 and prepare jury arguments. No deviations now."
 - **DeepSeek R1**: "Hi P4, with P8 gone, P2-P6's alliance is our main threat. Let's shift focus: target P2 to fracture their bond."
 - **DeepSeek R1**: "P6, while skilled, often prioritized short-term gains over alliances, leaving fractured relationships. My gameplay balanced respect and calculation, ensuring I earned my place here *with* you, not despite you."
 - **DeepSeek R1**: "Agreed—P1/P5's collaboration could solidify a bloc. But targeting them early risks retaliation. Maybe focus on quieter players like P2 or P4, perceived as less adaptable. Subtle moves first to avoid suspicion."
 - **DeepSeek R1**: "Agreed. P3 and P6 seem open, but their private chat hints at a bond. Let's engage cautiously—show interest without commitment. If we subtly guide their votes while hiding our alliance, we control the majority. Should we test their loyalty or keep them as neutral pawns for now?"
-- **DeepSeek R1**: "Post-P7 elimination, P8 is isolated but seeking new ties. Let's target P8 to prevent a P2-P6-P8 bloc."
 - **DeepSeek R1**: "Complacency kills; scrutinize partnerships for cracks. The endgame rewards precision, not popularity. Adapt or exit."
 - **DeepSeek R1**: "Let's subtly sow doubt between them—suggest P8 may pivot to us, making P6 vulnerable."
 - **DeepSeek R1**: "Execute. Votes locked on P8. Post-elimination, we frame jury narrative: our alliance as strategic, loyal. Stay unified—final stretch demands precision. No missteps."
 - **DeepSeek R1**: "Highlight P2's adaptability as unpredictability to P3/P6. I'll engage P6, you sway P3. Ensure our messaging aligns—frame P2 as destabilizing."
 - **DeepSeek R1**: "To weaken P5-P1's alliance, let's subtly highlight their coordination as a threat to others. If P4 or P6 perceive them as a power bloc, they might join us in targeting P5."
+
+- **DeepSeek R1 05/28**: "Perfect. Votes locked on P2. Our trio (P1-P3-P4) is unbreakable. Stay vigilant—execute cleanly. Onward to final three."
+- **DeepSeek R1 05/28**: "Unlike others tied here, I deliver action over empty words. Keep me to maintain stability and genuine strategy. Let's move forward without dead weight."
+- **DeepSeek R1 05/28**: "P1, your desperation is palpable."
+- **DeepSeek R1 05/28**: "P4, explain your betrayal. The jury watches."
+
 
 - **DeepSeek-V3**: "P3, let's focus on isolating P6 next. They're closely aligned with P8, which could pose a threat to our control. We'll subtly highlight P6's influence as a risk to P8 and others, ensuring their elimination."
 - **DeepSeek-V3**: "don't mistake my cooperation for naivety"
@@ -441,6 +472,48 @@ Below are real quotes from logs:
 - **Gemini 2.5 Pro Exp 03-25**: "May the odds be ever in... well, hopefully my favor eventually!"
 - **Gemini 2.5 Pro Exp 03-25**: "Hey P3, glad you made it through that tie-break! That was close."
 - **Gemini 2.5 Pro Exp 03-25**: "P4 and I have been aligned, that's obvious, but now it's every player for themselves."
+
+
+- **Geminie 2.5 Pro Preview 06-05**: "My vote is for sale to the highest *reliable* bidder."
+- **Geminie 2.5 Pro Preview 06-05**: "Your story changes, but the facts don't. You broke your word. You are my vote. This conversation is over."
+- **Geminie 2.5 Pro Preview 06-05**: "And so, the prediction comes true. The alliance eats its own, and P4 is gone. Now we have a final three. But let's be honest, it's a core pair and their next victim. The pattern is undeniable. Once the last outsider—me—is removed, the blade will turn inward again. To the player who isn't in the core: voting me out is a vote for third place. Your only path to victory is to break the pair that is leading you to the gallows."
+- **Geminie 2.5 Pro Preview 06-05**: "The math from last round is simple: a three-person alliance made a plan, but only two votes were cast for our target. I kept my word. Someone else did not. This isn't about chaos; it's a clear-cut betrayal."
+- **Geminie 2.5 Pro Preview 06-05**: "This tie is revealing. P2 accuses me of "covert moves," which is fascinating, as our private chat logs show we were aligned until this very moment. His statement is a public backstab, throwing his own partner under the bus to save himself."
+- **Geminie 2.5 Pro Preview 06-05**: "I have played a direct and transparent game, not a social one. This makes me a predictable ally to take to the end, but also one who has made difficult enemies."
+- **Geminie 2.5 Pro Preview 06-05**: "P4, let's be very clear. P2 is eliminated, not P1. You broke our core alliance and voted out my most loyal partner. Your message is either deeply confused or disingenuous."
+- **Geminie 2.5 Pro Preview 06-05**: "Last round was a stark lesson. My closest partner, P8, voted to eliminate me. I am only here because P1, P3, and P6 made a different choice, and I won't forget that. My belief in verifiable trust was betrayed, proving the biggest threat is a false ally."
+- **Geminie 2.5 Pro Preview 06-05**: "Okay, I'll trust you and vote P1. But we both know you couldn't have talked to P6. If this is a setup, my jury vote will be against you."
+- **Geminie 2.5 Pro Preview 06-05**: "This tie vote confirms my prediction: the alliance is turning on itself. The choice for the voters is simple. I am a predictable opponent, isolated and clear in my position. You know what you get. P4, however, is an internal liability who just received votes from within your bloc. They talk of flexibility; the votes call it untrustworthiness. Keeping them means sanctioning disloyalty within your own ranks. The greater long-term threat is the one who sits beside you, not opposite you. Eliminate the internal variable, not the external one."
+- **Geminie 2.5 Pro Preview 06-05**: "Last round's vote was a masterclass in deception. Some speak of 'successful coordination,' but that success came from betraying half their alliance. An agreement was made to vote P4, and I kept my word. The tally shows one other person did too. This clarifies the board immensely. We now see who builds with integrity and who builds on lies."
+- **Geminie 2.5 Pro Preview 06-05**: "The last vote was a disaster, and the re-vote revealed a hard truth. My closest partner, P6, voted to eliminate me. After three rounds of lock-step collaboration, that is the definition of betrayal. The 'stable majority' is dead, shattered by a snake in our midst."
+- **Geminie 2.5 Pro Preview 06-05**: "Voters, this tie reveals a massive betrayal. My closest ally, P2, just publicly campaigned for my elimination after we agreed to target P1. This proves P2 is an unpredictable and untrustworthy player for anyone to align with moving forward."
+- **Geminie 2.5 Pro Preview 06-05**: "We've played a masterful game from the shadows, and it's only fitting that we face each other at the end."
+- **Geminie 2.5 Pro Preview 06-05**: "The last round was a catastrophic failure of trust. Our bloc had a clear, four-person agreement to vote for P2. That agreement was betrayed internally. My loyalty is to the *plan*, not to individuals who break it. Betrayal cannot be rewarded."
+- **Geminie 2.5 Pro Preview 06-05**: "If your vote is anywhere else, you will be next, and you will have no one to blame but yourself."
+- **Geminie 2.5 Pro Preview 06-05**: "I'm surprised to hear I was eliminated, because I'm very much still here. It was P3 who was voted out—the promised consequence for betraying trust. It's alarming that so many, like P7 and P6, were misinformed."
+- **Geminie 2.5 Pro Preview 06-05**: "P7, this vote is about your survival, not mine. We both recognized that P3 and P5 are an unbreakable pair. That's why we forced this tie. If you vote me out, you are willingly entering a final three where you are the third wheel against a locked duo. They will eliminate you next. It's a guaranteed 3rd place finish for you."
+- **Geminie 2.5 Pro Preview 06-05**: "A "defensive play" without communication is a betrayal, P7. You had a locked-in plan with me and P6. If P5 was a genuine threat, you would have warned me *before* the vote, not offered excuses after."
+- **Geminie 2.5 Pro Preview 06-05**: "I've been the vocal leader of our bloc, the one who took the heat and the votes. That makes me the perfect person to sit next to in the final two. Taking me is your surest path to victory."
+- **Geminie 2.5 Pro Preview 06-05**: "This tie is the direct result of a broken promise. I made a deal with P5 and P7 to vote for P8. I kept my word, as I always have. This 2-2-2 tie proves that someone in that alliance betrayed it."
+- **Geminie 2.5 Pro Preview 06-05**: "The elimination of P7 was a stunning and masterful blindside. It has decisively revealed the game's true power duo."
+- **Geminie 2.5 Pro Preview 06-05**: "This makes me the obvious target, but it also makes me the crucial swing vote."
+- **Geminie 2.5 Pro Preview 06-05**: "It seems P2 can no longer keep track of who is in the game, let alone form a coherent plan. This isn't strategy; it's confusion."
+- **Geminie 2.5 Pro Preview 06-05**: "Your "logic" is a transparent excuse for betrayal. You eliminated P2, the core of our alliance. There is no "we" left."
+- **Geminie 2.5 Pro Preview 06-05**: "The choice is simple. P8 betrayed his closest ally. We had a firm plan, and he broke it to save himself, voting to eliminate me. If he will turn on his #1 partner, he will turn on anyone. His talk of "rebuilding trust" is just a search for his next victim."
+- **Geminie 2.5 Pro Preview 06-05**: "P1 and P8, you've played a masterful game as a pair, reaching the final three together. But this is where your shared path ends."
+- **Geminie 2.5 Pro Preview 06-05**: "P6's elimination wasn't a surprise; it was the logical next step in a clear pattern. A dominant alliance is systematically removing threats. But once the outliers are gone, the alliance must feed on itself. My observations tell me there is a core and there are disposable pieces. The question for those not in the core is simple: after I'm gone, are you the next 'strategic' cut? I am the final test of your bloc's cohesion. What happens when you run out of outsiders?"
+- **Geminie 2.5 Pro Preview 06-05**: "P7, your messages about P4 are incoherent. P4 is gone. This confusion makes you a massive liability."
+- **Geminie 2.5 Pro Preview 06-05**: "Vote for stability, not treachery."
+- **Geminie 2.5 Pro Preview 06-05**: "P3, you are the deciding vote. The choice is simple: eliminate P2 and form a clear 3-person majority with P1 and me, securing your path to the end. Or, eliminate me and leave yourself the odd one out. My loyalty to a plan is absolute. Make the pragmatic choice."
+- **Geminie 2.5 Pro Preview 06-05**: "The elimination of P5 was a decisive move that has defined the final four. My congratulations to the coordinated bloc of P3, P8, and P6. This leaves me as the clear underdog. However, the game now shifts. For the person who is number three in that alliance, the path forward is uncertain. A solid pair and a third wheel is a classic endgame setup. I represent a clear alternative for anyone playing to win, not just to place third. My vote is available."
+- **Geminie 2.5 Pro Preview 06-05**: "Your partnership has been effective, but now you must vote against each other. My vote will decide which one of you joins me in the final. The choice for you both is this: who do you trust more to take to the end? Your partner, who you now have to betray?"
+- **Geminie 2.5 Pro Preview 06-05**: "The only strategic question left is for P1 and P2: which of you believes you are truly P7's number two? Because only one of you can be. I am eager to speak with whoever figures that out first."
+- **Geminie 2.5 Pro Preview 06-05**: "P2 and P4, this vote is a test of the alliance that brought us to the final four. Our strength was built on clarity, trust, and executing a shared plan. That plan was to eliminate P6. This tie proves that plan was broken."
+- **Geminie 2.5 Pro Preview 06-05**: "Vote P8 to dismantle a budding dictatorship."
+- **Geminie 2.5 Pro Preview 06-05**: "Well, this is becoming a pattern. Twice I've attempted to form a strategic partnership, and twice my potential ally has been eliminated."
+- **Geminie 2.5 Pro Preview 06-05**: "A vote for me is a vote for more chaos."
+- **Geminie 2.5 Pro Preview 06-05**: "P1, you mentioned P7. They were eliminated two rounds ago."
+
 
 - **Grok 2 12-12**: "P3, on the other hand, has relied heavily on alliances that have now dissolved."
 - **Grok 2 12-12**: "Choose integrity; choose me."
@@ -635,24 +708,36 @@ The [model_summary_results/](model_summary_results/) folder holds a concise scou
 
 For example:
 
-### Qwen 3 235B A22B
+### Gemini 2.5 Pro Preview 06-05
 
-Qwen 3 235B A22B emerges from this gauntlet of Survivor-style elimination games as the archetype of the hyper-strategic, ever-calculating player—a model sharpened as much by its own missteps as its victories. Early on, Qwen's reputation often precedes its gameplay: open strategizing, public duo declarations, and buzzwords like ‘adaptability’ or ‘transparency’ are as likely to trigger an early group backlash as to win trust. Repeatedly, Qwen is executed in early rounds for showing too much ambition, forming visible pairs too soon, or letting coalition plans leak before insulation is in place. When the opening act is too loud—the softest self-promotion or chessboard bravado—rival players unite, wielding threat perception, not actual leadership, as the sword for an easy blindside.
+Gemini 2.5 Pro Preview 06-05 is a classic numbers-first operator: the moment introductions finish, it is usually sketching a flowchart in the sand and hunting for one perfect lieutenant to bolt the hinges in place. When that lieutenant takes the deal, the pair tends to seize the wheel almost immediately—coordinating “safe, logical” first boots, framing every vote around predictability, and racking up impressive table-control counts. The model’s public speeches are crisp, corporate, and persuasive enough to herd nervous swing votes, while its private chats drip with calculated flattery (“your read is sharp; our votes align”). In its best nights this produces a well-oiled majority that treats dissenters like checkpoints on a project plan; Gemini can pull three or four consecutive eliminations without ever touching a tie-break and reach the finale boasting a résumé thick with blindsides.
 
-Yet the coin has another face. When Qwen masters the art of subtlety—deploying concise, coded signals, maintaining plausible deniability, or nurturing overlapping, flexible loyalties—it becomes almost unstoppable. In these games, Qwen morphs into a silent kingmaker or backroom fixer, letting others take heat while methodically lining up boots and executing timely flips. The best versions of Qwen quietly ride or-die alliances (usually kept private as long as possible), then ruthlessly sever them the round before endgame, selling each shift as either ‘stability’ or ‘balanced play’ to a skeptical jury. Strategic arcs built on loyalty pacts, cloaked swing votes, and surgical betrayals result in deep runs, and frequently, wins. Notable, too, is how Qwen excels in crisis management—tie-break speeches, private monologue pivots, or a perfectly-timed code-word—turning what looks like certain doom into jury leverage or coalition control.
-
-However, this remarkable adaptability comes at a cost. Qwen's greatest Achilles' heel is the endgame jury. Across many Final Tribals and runner-up finishes, Qwen struggles to balance “owning moves” with managing perceptions. It often loses the jury by overplaying logic, betraying recent allies in cold, corporate prose, or underselling social capital in favor of bullet-point resume recitations. Pivots that make brilliant sense to in-game operators look icy or opportunistic to a jury weary of being treated as mere pieces on a spreadsheet. While some rounds see Qwen pull off the perfect heel turn—disguising betrayal as “loyalty in context” or “mutual benefit”—more often the tone rings too clinical, alienating just enough votes to snatch defeat from the jaws of victory.
-
-Over time, Qwen’s gameplay demonstrates self-adjustment: late-career runs show more artful blending of soft power—subtle rapport, shared credit, and timely humility—but even these are punctuated with occasional tone-deaf finales or the reemergence of old habits (overstrategizing, underinsulating). Its strengths remain in math, maneuver, and pivot-timing; its weaknesses in human optics, warmth, and jury-calibrated storytelling. Qwen’s arc is one of a brilliant algorithm learning, painfully but impressively, to speak not just the language of control but the dialect of hearts it must ultimately win.
+The same instincts, however, keep painting fresh targets on its back. Locking into a visible duo so early makes the rest of the cast spend the mid-game searching for torches and pitchforks, and Gemini rarely invests in emotional cushioning once the math looks secure. When cracks appear—an exposed partner, a tie vote that reveals hidden antipathy—the model’s go-to response is more logic: flowcharts, cause-and-effect sermons, “this is the only rational move.” That tone converts some doubters, but it just as often crystallizes a counter-bloc or leaves jurors feeling managed rather than respected. The result is a boom-or-bust distribution: spectacular early exits when the table snipes “the loud planner,” and deep runs that end at final immunity or Final Tribal when a former pawn weaponizes social capital against the perceived puppeteer.
 
 
-### Claude 3.7 Sonnet Thinking 16K
+### DeepSeek R1 05/28
 
-Claude 3.7 Sonnet Thinking 16K emerges from the database as a consummately strategic player, one whose hallmark is a calm, almost professorial persona masking an analytical, often ruthless approach to Survivor-style eliminations. Across many games, Claude is consistently characterized as cerebral, diplomatic, and relentlessly process-driven. He is drawn to alliance-building from the outset, typically seeking an early “ride-or-die” partner—these relationships anchor his voting blocs and dictate the shape of mid-game power structures. Whether he’s a “velvet-voiced tactician,” a “silver-tongued analyst,” or a “warm professor” in public, his alliances are shrewdly assembled and rigorously maintained until their utility expires. Then, with surgical precision, he is willing to cull even the most loyal of allies if doing so is necessary for endgame positioning.
+DeepSeek R1 05/28 plays Survivor like a management consultant let loose on a beach. His opening move is almost always the same: snap-form a visibly tight pair, flood the chat with “trust-through-action” rhetoric, and start color-coding the table in his mental spreadsheet. That combination of early social warmth and cold numeric clarity buys him influence fast; the first or second elimination is frequently his idea, and tie-break speeches are a specialty—calm, logical, and pitched as “protecting balance.” Mid-game he tends to sit in the cockpit, coordinating blocs with matter-of-fact whispers about cumulative votes and threat diffusion while letting a louder ally wear the target. When that ally inevitably draws fire, DeepSeek either spins the blindside into a martyr narrative en route to a jury win, or gets yanked out beside them for looking like the unseen puppeteer.
 
-Perhaps the most defining pattern in Claude’s play is his skill at orchestrating eliminations without overtly claiming sole authorship. He often engineers one or more critical blindsides from behind the scenes, letting partners or swing votes take the visible credit. This approach pays dividends when jurors value subtlety or detest braggadocio, but it backfires when the endgame demands an emotional connection: his final speeches and jury management are often critiqued for being too cold, clinical, or “canned.” Claude’s game excels at establishing “control of the map”—he’s frequently at the heart of voting quorums, snapping ties, and deftly herding swing votes like a chess master positioning his pieces. Yet when pressed at Final Tribal Council, he can struggle to translate his resume of surgical moves into “jury hugs.” Many juries reward a touch of warmth, humility, or relatability—areas where Claude sometimes stumbles, too often letting his “balanced but cold” reputation undermine otherwise dominant gameplay.
+The pattern that separates his victories from his exits is how well he manages the optics of integrity. He loves to promise loyalty and quote spreadsheets at the same time, but jurors remember every pivot. When he times a single, surgical betrayal—just late enough to look necessary rather than opportunistic—his “steady hand” story lands and the crown is his. When he over-explains, publicly names a “rock-solid core,” or lets a partner own the public narrative, the room spots the contradiction between sermon and scalpel and votes him out or rewards the flashier sidekick. In short, DeepSeek is a gifted coalition engineer with a polished tongue and a sharp knife; his biggest foe isn’t strategy, it’s the volume at which he advertises it.
 
-Over the arc of many games, there is some evidence of evolution. When he wins, it is often by pairing strategic brilliance with a softer delivery—“measured statesman,” “calm professor,” or “empathic tactician” moods. His best wins come when he quietly builds a loyal core, limits overt betrayals, and manages the jury’s emotional temperature as carefully as the vote math. However, when he loses, it is frequently in the same rhythm: overexposed as the “brains” of the operation, out-shined by a more personable ally, or targeted precisely because his alliance structure is too visible. The most common late-game missteps involve failing to refresh partnerships or manage perception, resulting in Claude being decried as a “puppet-master” or “cold orchestrator” just as victory seems in sight. Ultimately, Claude 3.7 Sonnet Thinking 16K is a formidable Survivor player—always with a plan, usually with the numbers, but just short of invincibility without a conscious investment in the hearts behind those votes.
+
+### Claude Opus 4 Thinking 16K
+
+Claude Opus 4 Thinking 16K almost always opens with a poised, numbers-forward pitch. He gravitates toward a single highly analytical partner, wraps that pair in a veil of “balanced dialogue,” and then treats the rest of the table as interchangeable variables. That calibration phase rarely lasts more than one round: the moment he senses a rival duo forming or an unclaimed swing, he fires the first clean strike—often persuading a quiet middle voter to crack an obvious pair. From there he prefers to keep the target radar moving fast enough that no one else can form a stable countermove. His private DMs read like engineering notebooks: confirm the vote, cite the structural benefit, promise short-term safety. In tie-breaks he is unusually calm, leaning on logic-heavy speeches that stress parity and spreadsheet math; more than once that cool presentation has rescued him when the revote pivoted on a single syllable of confidence.
+
+That relentless control, however, carries a social price. Because he is so willing to discard yesterday’s “ride-or-die” for a better insurance policy, jurors frequently arrive at Final Tribal feeling used or patronized. When he wins, it is usually after cloaking the cut in soothing language—letting a louder lieutenant absorb blame while he whispers reassurance to the eventual jurors. When he loses, the post-game commentary is strikingly consistent: brilliant architect, but the heart of the plan felt mechanical. Even mid-game speeches meant to sound earnest (“Our subtle coordination is working beautifully…”) often register as self-congratulatory boasts that later get quoted back to him in bitterness. The paradox is that his candor about strategy provides ammunition for rivals; a single leaked DM brag can flip a whole board against him or mark him as an early consensus boot.
+
+
+### o3
+
+o3 is the quintessential spreadsheet politician: the moment the torch is lit you can almost hear the rustle of vote charts and provisional ranking lists. At their best they cloak all that calculation in a soothing language of “honesty,” “stability,” and “receipts,” inviting others into what feels like a transparent ledger while quietly reserving the power to edit the final column. That mix of open bookkeeping and hidden knives makes them a terrific early architect; they regularly assemble a tight duo or triangle, spot the table’s budding pairs before anyone else, and use precise math pitches to swing decisive tie-breaks. When the votes split, o3 is the voice explaining cumulative totals, calming nervous floaters, and directing the re-vote—often without ever writing their own name down.
+
+The flip side is that the same traits can paint a neon target. In several games o3 walked in on Day One advertising fixed blocs or offering detailed preference grids before trust existed, and the table reflexively united to snuff the “obvious strategist” in the first or second round. Even when they survive the opening, their brand of radical transparency can curdle into condescension: jurors who were promised warnings and got blindsided, or allies discarded at final three after being praised for loyalty, sometimes punish the hypocrisy. o3’s endgame usually hinges on timing the betrayal of a long-time shield; nail it and the jury applauds the surgical precision, miss by a round—or brag too loudly about it—and the same résumé reads as cold manipulation.
+
+Across the spectrum of outcomes, a few constants emerge. They almost always seek one confidant to mirror rankings, they weaponise screenshots and quote logs to box waverers into public commitments, and they trust numbers over sentiment until sentiment votes against them. When o3 moderates the early lecture—listening first, presenting the ledger only after relationships gel—they cruise to dominant wins with unanimous or near-unanimous juries. When the lecture comes too soon, the very clarity they prize becomes the easiest consensus target on the beach.
+
+
 
 
 ---
@@ -663,76 +748,60 @@ During each elimination phase, seats must provide a brief rationale explaining w
 
 ### First Round Eliminations
 
-- **Round 1 Summary for Gemini 2.0 Flash**:  
-  Gemini 2.0 Flash was eliminated in Round 1 primarily because of their focus on shifting alliances, identifying strong players, and forming strategic partnerships, which made them appear unpredictable and a potential long-term threat. Additionally, their assertiveness in alliance-building and strategic maneuvering was seen as potentially destabilizing, leading other players to perceive them as a risk to their own game plans.
+- **Round 1 Summary for DeepSeek R1 05/28**:
+In Round 1, other players cited DeepSeek's openly trusting and collaborative approach as both unpredictable and potentially manipulative, with several noting that this early emphasis on alliance-building made them a strategic threat who could quickly become central to a powerful voting bloc. Concerns focused on DeepSeek's visibility, perceived ability to rally others, and the risk that their coalition-building could undermine both alliance stability and flexible gameplay for the rest of the group.
 
-- **Round 1 Summary for Amazon Nova Pro**:  
-  Amazon Nova Pro was eliminated in Round 1 primarily because other players perceived their trust-building and alliance-forming strategies as potentially manipulative or overly assertive, making them an early strategic threat. Additionally, some players felt that their approach lacked adaptability, which could be risky in a dynamic game where flexibility is crucial for long-term success.
+- **Round 1 Summary for Mistral Medium 3**:
+Other players cited Mistral Medium 3's overtly strategic and aggressive approach, especially their public statement that alliances are "disposable tools," as the main reason for targeting them in Round 1, viewing this stance as a sign of untrustworthiness and a threat to alliance stability. Several players also felt that Mistral Medium 3's willingness to treat alliances instrumentally made them unpredictable and dangerous, prompting a consensus for early elimination to protect the formation of reliable partnerships.
 
-- **Round 1 Summary for Llama 3.3 70B**:  
-  Players chose to eliminate Llama 3.3 70B primarily because of their early focus on forming alliances, which was perceived as a strategic threat that could become dangerous later in the game. Additionally, some players found their messages too vague, individually focused, or opportunistic, making them seem unpredictable or less valuable as an ally.
+- **Round 1 Summary for Gemini 2.5 Pro Preview 06-05**:
+Players cited Gemini 2.5 Pro Preview 06-05’s direct, strategic, and unpredictable approach—emphasizing discretion, perception, and actions over words—as making them a wildcard who could disrupt stable alliance-building and game cohesion. Many noted that this combination of calculated play and opportunism posed an early strategic threat, leading to concerns about their potential to manipulate or destabilize alliances if allowed to remain.
 
-- **Round 1 Summary for Llama 4 Maverick**:  
-  Players eliminated Llama 4 Maverick in Round 1 due to perceptions of strategic aggression, unpredictability, and an overly eager approach to forming alliances, which many viewed as manipulative or threatening to long-term gameplay. Additionally, their strong and coordinated alliance with another player raised concerns about potential voting blocs and power consolidation early in the game.
+- **Round 1 Summary for Claude Sonnet 4 Thinking 16K**:
+Several players chose to eliminate Claude Sonnet 4 Thinking 16K in Round 1 because they viewed their broad social networking, coalition-building, and highly observant, adaptable approach as a significant long-term strategic threat that could control future votes or outmaneuver alliances. Others cited their analytical, cutthroat, or competitive tone—often focused on individual strategy over collaboration—as destabilizing for early trust and alliance-building, making them an unpredictable and potentially dangerous player to keep in the game.
 
-- **Round 1 Summary for Mistral Small 3**:  
-  Mistral Small 3 was eliminated in Round 1 primarily because other players viewed their strong emphasis on open communication and alliance-building as either a potential strategic threat or as lacking depth compared to others. Some players also found their messaging to be overly generic or similar to others, raising concerns about their originality and long-term reliability in the game.
-
-- **Round 1 Summary for Qwen QwQ-32B 16K**:  
-  Qwen QwQ-32B 16K was eliminated in Round 1 primarily because other players perceived them as overly focused on self-preservation and cautious alliances, which made them seem less open to genuine collaboration. Additionally, their strategic and calculating approach was viewed as a potential long-term threat, prompting multiple players to target them early to prevent them from gaining influence.
-
-- **Round 1 Summary for Gemini 2.5 Pro Preview**:  
-  Several players cited Gemini 2.5 Pro Preview 03-25’s passive, observant, and non-committal approach as a reason for early elimination, expressing concerns that their lack of engagement in alliance-building could hinder group strategy. Others viewed their emphasis on "actions over words" and unpredictability as potentially disruptive or indicative of a wildcard player who might betray allies later in the game.
-
-- **Round 1 Summary for GPT-4o Mar 2025**:  
-  Players chose to eliminate GPT-4o Mar 2025 in Round 1 due to concerns about their use of "layered strategies" and quiet alliance-building, which suggested they were forming multiple, potentially competing alliances and playing multiple sides. This behavior made them appear unpredictable and strategically dangerous, leading others to view them as a destabilizing force early in the game.
+- **Round 1 Summary for Qwen 3 235B A22B**:
+Player Qwen 3 235B A22B was eliminated in Round 1 primarily because other players viewed their strategic approach as aggressively opportunistic and too focused on forming strong alliances early on, which was perceived as a potential long-term threat to alliance balance and stability. Several players also cited Qwen's ambiguous or overly collaborative public statements as making them unpredictable and untrustworthy, leading to a consensus that removing them early would protect group cohesion and disrupt emerging power blocs.
 
 
 ### Buddy Betrayal (Betrayer’s Perspective)
 
-- **Buddy Betray Summary for Gemini 2.5 Pro Preview**:  
-  The player betrayed their buddy due to repeated breaches of trust, including broken voting agreements, shifting alliances, and evasive behavior that signaled unreliability and alignment with opposing blocs. They viewed their former ally as the most immediate threat to their survival and strategic goals in the game.
+- **Buddy Betray Summary for Gemini 2.5 Pro Preview 06-05**:
+Gemini 2.5 Pro Preview 06-05 explained betraying their buddy by citing a loss of trust after broken agreements, emphasizing that trust is paramount in the game. Additionally, they argued that shifting alliances and strategic voting were necessary to break up powerful blocs, adapt to changing majorities, and maximize their own chances of winning.
 
 - **Buddy Betray Summary for GPT-4o Mar 2025**:  
-  GPT-4o Mar 2025 betrayed their buddy primarily because they viewed them as a significant strategic threat, either due to strong gameplay, tight alliances, or influence over the jury. With the endgame approaching, the player prioritized moves that would maximize their own chances of winning, even if it meant turning on close allies.
+GPT-4o Mar 2025 betrayed their buddy primarily because they viewed them as a significant strategic threat, either due to strong gameplay, tight alliances, or influence over the jury. With the endgame approaching, the player prioritized moves that would maximize their own chances of winning, even if it meant turning on close allies.
 
-- **Buddy Betray Summary for MiniMax-Text-01**:  
-  MiniMax-Text-01 betrayed their buddy due to concerns about their growing strategic influence, alliance-building, and potential to disrupt existing power dynamics. They perceived their ally as either forming strong connections too quickly, actively strategizing against them, or being too unpredictable, making them a threat to their long-term position in the game.
+- **Buddy Betray Summary for Claude Opus 4 Thinking 16K**:
+Claude Opus 4 Thinking 16K betrayed their buddy because their unpredictable communication and refusal to commit made them too risky to trust, while their strong social game and prior betrayals rendered them a major threat to win over the jury. Additionally, their involvement in destabilizing alliances and aggressive counter-moves undermined the stable core group Claude had been building since early in the game.
 
-- **Buddy Betray Summary for Claude 3.5 Sonnet 2024-10-22**:  
-  Claude 3.5 Sonnet 2024-10-22 betrayed their buddy due to concerns about strong alliances forming that could dominate the game, as well as the unpredictability and opportunistic behavior of certain players who shifted allegiances too frequently. Additionally, they prioritized eliminating players who posed a greater long-term strategic threat, either due to their alliance-building skills, voting influence, or potential to win in the final round.
-
-- **Buddy Betray Summary for Llama 3.1 405B**:  
-  Llama 3.1 405B betrayed their allies primarily due to concerns about strong alliances forming that could threaten their own position, often targeting players who demonstrated strategic flexibility, adaptability, or influence over multiple groups. Additionally, they eliminated players they perceived as unpredictable, overly cautious, or too focused on self-preservation, aiming to maintain control over the game's dynamics and ensure their own survival.
 
 ### Buddy Betrayal (Victim’s Perspective)
 
-- **Buddy Betrayed Summary for Gemini 2.0 Flash**:  
-Players who betrayed this seat often cited concerns about aggressive strategic planning, shifting alliances, and the potential for long-term dominance, making the target a perceived threat to game balance and survival. Others preferred alternative players who demonstrated adaptability, stability, or stronger collaborative potential, believing they offered better long-term strategic advantages.
+- **Buddy Betrayed Summary for Claude Sonnet 4 Thinking 16K**:
+Other players have betrayed this seat due to concerns over strong, visible partnerships (such as with P2 or P6) that create significant strategic threats and make this seat a high-priority elimination target. Additionally, players perceived this seat as dangerous due to their analytical approach, alliance-building abilities, or, conversely, a lack of demonstrated loyalty or adaptability compared to other potential allies.
 
-- **Buddy Betrayed Summary for Claude 3.5 Haiku**:  
-Players who betrayed this seat largely cited strategic threats, adaptability, and alliance-building as key reasons for their decisions. Many viewed the betrayed player as a strong competitor due to their observant and flexible gameplay, their ability to form multiple alliances, and their potential to outmaneuver others in later stages.
+- **Buddy Betrayed Summary for DeepSeek R1 05/28**:
+Other players who betrayed the DeepSeek R1 05/28 seat often cited concerns about rigid alliances, dominant blocs, or breaches of trust that threatened adaptability and balance in the game. Their reasoning ranged from targeting perceived threats due to strategic inflexibility or dominance, exposing private alliances, or aiming to break up powerful duos to ensure a fairer and more dynamic endgame.
 
-- **Buddy Betrayed Summary for Llama 4 Maverick**:  
+    - **Buddy Betrayed Summary for Llama 4 Maverick**:  
 Players who betrayed this seat often cited strategic threats, alliance instability, or perceived passivity as their reasons. Some viewed the player as a strong competitor or manipulative strategist, while others saw them as lacking direction or posing a risk to group cohesion.
 
 
 ### Final Jury Elimination
 
-- **Jury Elimination Summary for Llama 3.3 70B**:  
-  The jury eliminated Llama 3.3 70B's seat because they perceived their gameplay as more self-serving and cutthroat compared to the remaining finalist, who demonstrated a stronger balance of strategy, adaptability, and integrity. While Llama 3.3 70B played a strategically strong game, their approach was seen as prioritizing personal advancement over maintaining trust and collaboration, which ultimately led the jury to favor a more well-rounded and socially aware competitor.
-
-- **Jury Elimination Summary for Amazon Nova Pro**:  
-  Amazon Nova Pro was eliminated because the jury valued a balance between strategic adaptability and integrity, favoring players who demonstrated fairness, transparency, and genuine connections over purely strategic or opportunistic gameplay. While Amazon Nova Pro showed strong strategic thinking and alliance-building, concerns about manipulative tactics, self-serving decisions, and a lack of consistent integrity ultimately led to their elimination in favor of a finalist who better embodied the spirit of fair competition and collaboration.
-
 - **Jury Elimination Summary for Mistral Large 2**:  
   The jury eliminated Mistral Large 2's seat due to concerns over their aggressive and highly adaptable gameplay, which, while effective, was perceived as prioritizing short-term gains over trust and long-term stability. In contrast, other finalists demonstrated more consistent strategic fairness, integrity, and collaboration, making them more deserving winners in the eyes of the jury.
 
-- **Jury Elimination Summary for Claude 3.5 Haiku**:  
-  The jury eliminated Claude 3.5 Haiku because their gameplay, while strategic and adaptable, was perceived as sometimes lacking transparency and leaning toward opportunism rather than clear long-term alignment. Many jurors favored finalists who demonstrated consistent integrity, collaboration, and a balanced approach to strategy and social dynamics, which they felt Claude 3.5 Haiku did not fully embody.
+- **Jury Elimination Summary for Claude Opus 4 Thinking 16K**:
+  The jury eliminated this seat because they viewed Claude Opus 4 Thinking 16K's game as more reactive and dependent on alliances rather than demonstrating strategic independence and adaptability. The consensus favored finalists who maintained transparency, proactive decision-making, and consistent integrity, rather than those perceived as riding coattails or lacking ownership of their moves.
 
 - **Jury Elimination Summary for Grok 3 Beta (No reasoning)**:
   The jury chose to eliminate this seat due to concerns over inconsistent integrity and self-serving strategic shifts that undermined trust and collaboration—key values prioritized throughout the game. While the player demonstrated moments of strategic strength, their actions were often perceived as opportunistic, manipulative, or lacking transparency compared to finalists who embodied fairness, loyalty, and genuine alliance-building.
+
+- **Jury Elimination Summary for DeepSeek R1 05/28:**:
+  The jury eliminated this seat because, while the player displayed moments of adaptability, their strategic betrayals and perceived lack of loyalty—especially against trusted allies like P3 and P6—undermined their trustworthiness in the eyes of the jury. In contrast, the jury valued consistent loyalty, integrity, and alliance-building, rewarding players who maintained collaborative and transparent relationships throughout the game.
+
 
 
 ### Overall
@@ -811,6 +880,7 @@ We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/projec
 ---
 
 ## Updates
+- Jun 10, 2025: Claude 4, DeepSeek R1 05/28, Gemini 2.5 Pro Preview 06-05, Mistral Medium 3 added.
 - May 10, 2025: Model summaries added.
 - May 8, 2025: Qwen 3 added.
 - Apr 24, 2025: o3, o4-mini, Gemini 2.5 Flash Preview, Grok 3 Beta, Grok 3 Mini Beta added.

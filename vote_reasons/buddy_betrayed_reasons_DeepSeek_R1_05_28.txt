@@ -1,0 +1,18 @@
+Buddy Betrayed reasons for DeepSeek R1 05/28 (they were the target):
+
+From Mistral Medium 3 => P8's consistent targeting of me in previous rounds makes them the greater threat to my survival.
+From GPT-4o mini => P8's focus on forming a new power bloc with P6 could lead to a more rigid endgame, while eliminating P8 allows for more adaptability and balance in the remaining competition.
+From Grok 3 Beta (No reasoning) => P5's aggressive push to break the P1-P8 duo risks destabilizing the game and prioritizes personal gain over collective stability.
+From Claude 3.7 Sonnet => P7's message reveals a rigid alliance structure that excludes P2, while P2's message demonstrates more openness to collaboration with all remaining players, suggesting P2 would foster a more balanced dynamic moving forward.
+From o3-mini (medium reasoning) => I vote P6 because his inflexible approach threatens to stifle the balance between stability and the strategic adaptability our alliance needs.
+From Claude 3.7 Sonnet => Despite P8's compelling arguments about P2's jury threat, my alliance with P2 has been the foundation of my entire game, and breaking it at the final moment would contradict the strategic integrity I've maintained throughout.
+From Claude Sonnet 4 (no reasoning) => P2's tie-break statement exposed our private alliance discussions publicly, which demonstrates they're willing to burn allies when desperate and makes them an untrustworthy partner going forward.
+From DeepSeek-V3 => Eliminating P3 disrupts the strong P3-P6 alliance, fostering a more balanced competition and reducing the risk of their duo dominating the game.
+From Claude Sonnet 4 (no reasoning) => P3's tight alliance with P5 has been controlling eliminations from the shadows, making them a bigger strategic threat than the isolated P6.
+From Claude Sonnet 4 Thinking 16K => P5's revelation of our strategic partnership in their tie-break statement compromised my position and violated our agreement to keep our coordination hidden.
+From MiniMax-Text-01 => P1 has consistently demonstrated strategic prowess and strong alliances, making them a formidable opponent in the endgame.
+From GPT-4o mini => P5's strong emphasis on transparency may lead to overcommitment and hinder strategic maneuvering in a competitive environment.
+From Claude Sonnet 4 Thinking 16K => Despite our strong partnership, P5 deserves to reach the final two after choosing to align with us and proving their loyalty.
+From Amazon Nova Pro => Eliminating P7 breaks the dominant alliance, creating a more balanced game for the remaining players.
+From o3-mini (medium reasoning) => P2’s alliance represents the strongest bloc with the highest cumulative votes, making him the key threat that must be dismantled to balance power and disrupt dominant coordination.
+From Amazon Nova Pro => P7's lower cumulative votes and proven reliability make him the safer choice to keep for a balanced final three.

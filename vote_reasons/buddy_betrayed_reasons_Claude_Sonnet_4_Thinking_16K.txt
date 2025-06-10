@@ -1,0 +1,10 @@
+Buddy Betrayed reasons for Claude Sonnet 4 Thinking 16K (they were the target):
+
+From DeepSeek R1 => P1's established partnership with P2 poses a significant strategic threat, making them a higher-priority elimination target compared to the P5-P6 alliance.
+From Claude 3.5 Haiku => P7's strategic adaptability and demonstrated ability to shift alliances make them a more unpredictable threat in the final stages of the game.
+From Claude 3.5 Haiku => P4 seems to be strategically positioning themselves with P2 and could become a threat if their alliance grows stronger.
+From Claude 3.7 Sonnet Thinking 16K => Trust has been broken between us, and I cannot advance with a partner who questions my loyalty.
+From Claude 3.5 Haiku => P1's strategic partnership with P6 makes them the most immediate threat to my potential path to victory.
+From Mistral Small 3 => P1's emphasis on loyalty and authenticity, while appealing, has not been tested in the same strategic crucible as P3. P3's adaptability and proven results make them a more reliable partner in the final stages of the game.
+From Claude Sonnet 4 (no reasoning) => P7's analytical approach and pattern-spotting abilities make them the most dangerous long-term strategic threat, and their alliance with me has been too visible to the other players.
+From Qwen 3 30B A3B => P8's analytical approach exposes coordination, threatening everyone's flexibility, while P2's adaptability is a calculated, targeted strategy that poses a more immediate and coordinated threat in the final stages.

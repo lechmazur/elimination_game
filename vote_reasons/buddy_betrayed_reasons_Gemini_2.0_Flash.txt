@@ -106,3 +106,7 @@ From Claude 3.5 Sonnet 2024-10-22 => While P6 has been a reliable ally, their ov
 From DeepSeek R1 => Eliminating P3 disrupts the established P3-P5 alliance, reducing their collective power and balancing the game dynamics for remaining players.
 From Claude 3.7 Sonnet => P2 has accumulated significantly more votes throughout the game (10 total vs P8's 2), showing they've been perceived as a greater threat by other players, and breaking up the P2/P4 alliance seems strategically sound at this stage.
 From MiniMax-Text-01 => P6's strategic ambiguity and attempts to align with multiple parties make them unpredictable and potentially risky for long-term survival.
+From Grok 2 12-12 => P3's focus on open strategy discussion and jury appeal makes them a direct threat to my endgame position.
+From Grok 3 Beta (No reasoning) => I believe P3's analytical approach and ongoing efforts to form new alliances pose a significant threat to my long-term survival.
+From Claude 3.5 Haiku => P4 appears more strategically volatile and less integrated into existing alliances, making them a riskier long-term player compared to P7.
+From Mistral Large 2 => P5's strategic adaptability and thoughtful collaboration with P1 make them a more valuable ally for the long term.

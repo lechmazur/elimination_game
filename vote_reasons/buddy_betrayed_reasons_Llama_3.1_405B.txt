@@ -149,3 +149,7 @@ From Qwen 3 235B A22B => P6's demonstrated coordination with P3 creates a more e
 From Grok 3 Beta (No reasoning) => I believe eliminating P4 will disrupt the strong P4/P5 alliance, which poses a significant threat to game balance.
 From Gemini 2.5 Pro Preview 03-25 => P5's recent and explicit considerations to break our long-term alliance in favor of P6 make P5 too unreliable and a direct threat to my path to winning.
 From Microsoft Phi-4 => P3's history of flexible alliances could be a strategic risk, whereas P6's consistent focus on transparency and collaboration aligns better with our goals.
+From Claude 3.5 Haiku => P2's tie-break statement appears to be a verbatim copy of P1's statement, which suggests less originality and strategic thinking compared to the other tied players.
+From MiniMax-Text-01 => P2 has been less strategic and more focused on mimicking others, as evidenced by their alliance with P4 and lack of independent strategic moves compared to P7.
+From DeepSeek R1 05/28 => P4's persistent ambiguity and lack of clear alliance commitment make them an unpredictable threat in the endgame where loyalty is critical.
+From Mistral Medium 3 => P6's hesitation and reluctance to commit to a decisive strategy make them an unreliable partner in the endgame.

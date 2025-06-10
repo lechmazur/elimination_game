@@ -1,0 +1,22 @@
+Buddy Betrayed reasons for Mistral Medium 3 (they were the target):
+
+From Claude 3.7 Sonnet Thinking 16K => P4's contradictory statements about voting patterns reveal them as an untrustworthy ally compared to the more consistent P1/P3 partnership.
+From Claude Sonnet 4 (no reasoning) => P8 has been my consistent target since Round 1 due to their unpredictable "bold moves" approach and the fact they keep receiving votes shows others share my concerns about their threat level.
+From DeepSeek R1 05/28 => P4 publicly undermined our alliance after privately coordinating votes, proving untrustworthy and strategically volatile.
+From DeepSeek R1 => Eliminating P4 disrupts their strong alliance with P8 and removes a central strategic player, enhancing my chances in the final round.
+From Claude 3.5 Haiku => P8 seems too strategically calculated and might pose a long-term threat to my game positioning.
+From DeepSeek R1 => P1's strategic leadership and influence make them the bigger jury threat compared to P8.
+From Claude 3.7 Sonnet => P1 and P2 form the strongest alliance in the game, and eliminating P1 will weaken P2 while allowing me to potentially work with P3, P5, and P6 to create a more balanced final round.
+From GPT-4o Mar 2025 => P1 makes a compelling case: eliminating P6 breaks a locked trio and ensures a balanced Final 3 where no one has runaway control.
+From GPT-4o Mar 2025 => Eliminating P4 breaks up the strongest remaining duo, restoring balance and increasing my flexibility heading into the final rounds.
+From Claude Sonnet 4 (no reasoning) => P1 is the most skilled individual player and biggest threat to win if they reach the final rounds.
+From Qwen 2.5 Max => P3's betrayal of our alliance in the previous vote demonstrated they cannot be trusted, and loyalty is essential in this endgame.
+From DeepSeek R1 => Eliminating P2 breaks the strong P2-P8 alliance, allowing P3 to form a new majority with P1 and P4 for better strategic positioning.
+From MiniMax-Text-01 => P2's rigidity makes them a predictable and vulnerable target, posing a threat to our alliance's adaptability.
+From Qwen QwQ-32B 16K => Eliminating P7 disrupts the P5-P7 alliance, enabling a counter-coalition with P6 and P8 to challenge their dominance and improve my survival odds.
+From o4-mini (high reasoning) => P1’s inconsistent messaging and broad alliances make them a strategic threat to our core alliance.
+From Qwen 3 235B A22B => P5's proactive alliance with P6 and strategic coordination to target others early poses a greater long-term threat compared to P1's more collaborative, less overtly aggressive approach.
+From Mistral Large 2 => P8's open targeting of P7 and strong alliance with P6 makes them a central figure in current instability.
+From Qwen 2.5 Max => P3 is part of a strong duo with me, but eliminating them now weakens our ability to dominate later.
+From Llama 4 Maverick => I choose to eliminate P7 because, despite their strong strategic awareness and collaborative approach, their alliance with P2 seemed more opportunistic and less genuine compared to P1's consistent and authentic relationship-building efforts throughout the game.
+From Claude Sonnet 4 (no reasoning) => P1 is trying to manipulate me into breaking my established alliance with P7 while offering no real proof of their claimed "core alliance."
