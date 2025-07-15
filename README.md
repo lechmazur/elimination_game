@@ -928,7 +928,7 @@ We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/projec
 ---
 
 ## Updates
-- Jul 14, 2025: Grok 2, Kimi K2 added.
+- Jul 14, 2025: Grok 4, Kimi K2 added.
 - Jun 10, 2025: Claude 4, DeepSeek R1 05/28, Gemini 2.5 Pro Preview 06-05, Mistral Medium 3 added.
 - May 10, 2025: Model summaries added.
 - May 8, 2025: Qwen 3 added.
