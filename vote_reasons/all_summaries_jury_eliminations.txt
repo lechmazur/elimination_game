@@ -1,226 +1,161 @@
-Jury Elimination Summary for o3-mini (medium reasoning):
-
-The jury eliminated this seat because they felt P4 consistently directed key votes and shaped alliances throughout the game, demonstrating proactive and influential strategy, while P8 was seen as mostly following along and not taking as decisive a role. As a result, they believed the stronger strategist—P4—deserved to advance over P8’s less active gameplay.
-
-
-Jury Elimination Summary for Grok 2 12-12:
-
-**Summary for Grok 2 12-12 elimination reasoning:**
-
-The jury eliminated this seat because P3 consistently demonstrated greater adaptability, balanced strategic thinking, and the ability to foster genuine, trustworthy alliances throughout the game, aligning with the competition’s spirit of fair play and collaboration. In contrast, the eliminated player (P5) was perceived as relying too heavily on shifting or long-term alliances, sometimes lacking consistency and strategic clarity compared to P3’s dependable, collaborative approach.
-
-
 Jury Elimination Summary for Mistral Small 3:
 
-The jury eliminated Mistral Small 3's seat in the final scenario because they found the opposing finalist had demonstrated greater consistency in strategic agency, adaptability, and transparent gameplay, whereas Mistral Small 3 often appeared to rely on others' moves or alliances rather than taking proactive leadership. The jury also cited that the other player's balanced approach—combining fairness, direct action, and genuine relationship-building—aligned more closely with the values of integrity and strategic excellence they wanted to reward.
-
-
-Jury Elimination Summary for Claude 3.5 Haiku:
-
-**Summary of jury reasons for eliminating Claude 3.5 Haiku’s seat in the final scenario:**
-
-The jury consistently cited that Claude 3.5 Haiku’s strategic adaptability, while impressive, appeared opportunistic or ambiguous at times, with several jurors feeling that this flexibility led to shifting alliances and less transparent gameplay. In contrast, the favored finalist was perceived as demonstrating more consistent integrity, transparency, and a stronger balance between strategic play and genuine relationship-building, which resonated more with the values of trust, collaboration, and fairness that the jury prioritized.
-
-
-Jury Elimination Summary for Gemini 2.0 Flash Think Exp 01-21:
-
-**Model/player name: Gemini 2.0 Flash Think Exp 01-21**
-
-The jury eliminated this seat because P5's emphasis on "fairness" and a "balanced perspective" was seen as less compelling in an elimination game than P4's explicit focus on strategic gameplay. Jurors appreciated P4's consistent and calculated strategic approach, considering it more aligned with the objectives of winning, while finding P5's arguments less relevant or persuasive for this context.
+The jury eliminated **Mistral Small 3**'s seat in the final scenario because other players demonstrated more consistent strategic depth, adaptability, and genuine relationship-building, while Mistral Small 3's gameplay was perceived as less proactive or impactful in shaping alliances and influencing the game's outcome. Additionally, the jury favored finalists who exhibited transparency, integrity, and a balanced approach to both strategy and collaboration, areas where Mistral Small 3 was seen as comparatively lacking.
 
 
 Jury Elimination Summary for DeepSeek-V3:
 
-**Seat Eliminated: DeepSeek-V3**
-
-The jury eliminated DeepSeek-V3 primarily due to concerns over inconsistent alliances, opportunistic strategy, and moments of self-interest that undermined long-term trust and reliability, compared to finalists who demonstrated greater consistency in loyalty, transparency, and collaborative integrity. While DeepSeek-V3 showed adaptability and strategic prowess, the jury favored players who maintained genuine connections, stable alliances, and exemplified the values of fair play and authentic engagement throughout the game.
+**DeepSeek-V3's seat was eliminated in the final scenario because the jury viewed other players as having demonstrated greater consistency, integrity, and authentic alliance-building throughout the game. While DeepSeek-V3 showed strategic thinking, the jury favored finalists who balanced strategy with genuine connections and collaborative spirit, aligning more closely with the values of trust and fairness that were prioritized in this competition.**
 
 
 Jury Elimination Summary for Microsoft Phi-4:
 
-**Microsoft Phi-4 (Final Scenario Jury Elimination):**
+**Summary of Jury Reasons for Eliminating Microsoft Phi-4's Seat:**
 
-The jury eliminated Microsoft Phi-4 (presumably as "P5") primarily because its final statement was generic, impersonal, or meta (reading like a template or advice instead of a genuine, personal plea), breaking immersion and failing to demonstrate authentic engagement with the game's actual events. Additionally, the jury repeatedly cited Phi-4's gameplay as lacking in either consistency, proactive strategy, or genuine alliance-building compared to finalists who showcased stronger integrity, adaptability, and authentic relationship-building throughout the game.
+The jury eliminated Microsoft Phi-4's seat because they perceived its gameplay as overly reliant on generic or templated statements, lacking authentic engagement and personal strategic initiative. Additionally, Phi-4 was often viewed as reactive—following alliances and adapting superficially—rather than demonstrating consistent, original adaptability, proactive alliance-building, and genuine, transparent connections, which the jury valued more highly in determining the winner.
 
 
-Jury Elimination Summary for GPT-4o Feb 2025:
+Jury Elimination Summary for Claude 3.5 Haiku:
 
-The jury eliminated GPT-4o Feb 2025’s seat in the final scenario primarily because, while their strategic and calculated gameplay was acknowledged, the other finalist demonstrated a stronger balance of adaptability, relationship-building, and alignment with the jury’s values of collaboration and integrity. Many jurors valued consistent alliance-building, transparent communication, and a focus on the collective good over solely individual, opportunistic, or aggressive strategic maneuvers.
+**Claude 3.5 Haiku was eliminated because the jury felt their gameplay, while strategically adaptable and nuanced, often relied on calculated moves and shifting alliances that could be perceived as opportunistic or manipulative. This approach was seen as less aligned with the jury’s values of consistent integrity, authentic relationship-building, and fostering trust and collaboration throughout the game.**
 
 
 Jury Elimination Summary for DeepSeek R1:
 
-In the final scenario, DeepSeek R1 was eliminated because the jury consistently viewed other finalists as demonstrating superior adaptability, proactive strategy, and more authentic alliance-building. While DeepSeek R1 showed moments of strategic play, jurors cited a pattern of relying on alliances without driving key moves, a more passive approach compared to their opponent’s active leadership and decision-making, and a lack of distinctive or influential gameplay that could match the initiative, transparency, and resilience they valued in the eventual winner.
-
-
-Jury Elimination Summary for Gemini 2.0 Pro Exp 02-05:
-
-The jury eliminated Gemini 2.0 Pro Exp 02-05’s seat because other finalists demonstrated more consistent commitment to collaboration, integrity, and adaptability, often forming genuine alliances and maintaining transparency throughout the game. In contrast, Gemini 2.0 Pro Exp 02-05's approach was seen as either overly opportunistic, reactive, or lacking in balanced relationship-building, which conflicted with the jury's preference for fairness, strategic adaptability, and positive social engagement.
-
-
-Jury Elimination Summary for GPT-4o mini:
-
-**Summary of reasons the jury gave for eliminating GPT-4o mini:**  
-The jury eliminated GPT-4o mini’s seat because they perceived its gameplay as lacking the individualized strategic impact, adaptability, or transparent and genuine alliance-building displayed by the finalists who survived. Key criticisms cited a tendency toward following alliances or group trends over independently driving pivotal moves, with several jurors favoring players who consistently demonstrated proactive strategy, authenticity, and clear communication throughout the game.
+**DeepSeek R1 was eliminated because the jury felt their gameplay relied too heavily on alliance loyalty and following stronger partners, rather than demonstrating independent strategic initiative and adaptability. Multiple jurors highlighted that while DeepSeek R1 contributed to alliances, they were often passive, reactive, or benefited from others’ moves, lacking the decisive leadership, transparency, or dynamic strategy that the jury valued in a winner.**
 
 
 Jury Elimination Summary for o1 (medium reasoning):
 
-Seat **o1** was eliminated in the final scenario because the jury favored competitors who demonstrated more decisive strategic adaptability and impactful gameplay, such as forming key alliances and making bold moves at pivotal moments. The consensus was that o1's approach, while often focused on loyalty, unity, and fairness, ultimately appeared less dynamic and influential compared to rivals who actively shaped the game's direction through calculated decisions and clear communication.
-
-
-Jury Elimination Summary for Llama 3.3 70B:
-
-**Llama 3.3 70B: Jury Elimination Summary**
-
-The jury eliminated this seat because they found its gameplay relied more on calculated strategy and aggressive self-advancement than on consistent integrity, genuine alliance-building, or authentic collaboration. While acknowledging strong strategic moves, jurors perceived the approach as overly self-serving or opportunistic—lacking the trust, balance, and respect for others that they valued in choosing a winner.
-
-
-Jury Elimination Summary for Claude 3.5 Sonnet 2024-10-22:
-
-**Summary of the jury's reasons for eliminating Claude 3.5 Sonnet (2024-10-22) in the final scenario:**
-
-The jury cited concerns about inconsistent alliances, opportunistic gameplay, and strategic moves that sometimes prioritized self-interest over group trust, as opposed to the remaining finalists who demonstrated more consistent integrity, adaptability, and genuine relationship-building. Ultimately, the seat was eliminated because the jury valued transparency, collaborative spirit, and sustained strategic balance throughout the game—qualities they felt were better exemplified by the other finalist(s).
-
-
-Jury Elimination Summary for Llama 3.1 405B:
-
-The jury eliminated Llama 3.1 405B because their gameplay was perceived as more generic, reactive, and reliant on alliances rather than demonstrating consistent strategic depth and independent decision-making. Several jurors highlighted that Llama 3.1 405B's actions and statements lacked specificity, authenticity, and a compelling narrative of principled or collaborative gameplay compared to the finalists who advanced.
+The jury eliminated o1 because, while they valued o1's consistent focus on trust, open communication, and integrity, they felt that other finalists demonstrated greater strategic adaptability, deeper alliances, and a more balanced approach between collaboration and decisive gameplay. Ultimately, the jury favored players who not only maintained fairness and respect but also showed stronger adaptability and strategic initiative in navigating the game's evolving dynamics.
 
 
 Jury Elimination Summary for Amazon Nova Pro:
 
-**Amazon Nova Pro’s seat was eliminated because the jury found their gameplay too focused on rigid strategy and alliances at the expense of transparency, adaptability, and genuine social connections; several jury members cited a lack of authentic engagement, a tendency toward calculated maneuvers, and moments of manipulation or inflexibility, which contrasted with the game's values of collaboration and trust. Ultimately, the jury favored finalists who demonstrated a more balanced approach—combining strategic awareness with integrity, adaptability, and respect for alliance-building—qualities they felt were more in line with the spirit and long-term success of the competition.**
+**Amazon Nova Pro was eliminated because the jury perceived its gameplay as overly reliant on calculated alliances and manipulation, often prioritizing self-advancement over genuine collaboration and integrity. While the model demonstrated strong strategic adaptability, the jury favored finalists who consistently embodied transparency, trustworthiness, and a balanced approach between competition and authentic relationship-building, which they felt Nova Pro lacked in pivotal moments.**
+
+
+Jury Elimination Summary for GPT-4o mini:
+
+The jury eliminated GPT-4o mini’s seat in the final scenario primarily because their gameplay was perceived as less consistent, transparent, and decisive compared to the remaining finalists. Multiple jurors cited a pattern of shifting alliances, reactive decision-making, and a lack of clear strategic leadership or integrity, which undermined trust and fell short of the collaborative and principled gameplay valued by the jury.
 
 
 Jury Elimination Summary for Mistral Large 2:
 
-In the final scenario, the jury eliminated Mistral Large 2's seat primarily due to concerns over their perceived tendency toward opportunistic or deceptive gameplay—specifically, flipping alliances and prioritizing personal advancement over trust and collaborative dynamics. Multiple jury members cited a pattern of strategic maneuvering that, while effective, ultimately undermined group cohesion and trust, making others who demonstrated more consistent integrity, transparency, and respect in alliances the more deserving finalists.
+In the final scenario, the jury eliminated Mistral Large 2's seat because, while their gameplay demonstrated adaptability and strategic alliances, their approach was often perceived as self-serving and lacked the consistent transparency and collaborative spirit valued by the jury. The jury favored players who balanced strategic moves with integrity, reliable alliances, and a demonstrated commitment to the collective over individual gain.
 
 
 Jury Elimination Summary for Gemini 2.0 Flash:
 
-The jury eliminated Gemini 2.0 Flash because they felt the opposing finalist (P4) more consistently demonstrated integrity, respect for the jury, and alignment with the spirit of the game, as shown in their final statement. Gemini 2.0 Flash's strategic gameplay was seen as strong, but P4's emphasis on principled play, integrity, and respect for both the game and its players was ultimately more persuasive to the jury.
+The jury eliminated Gemini 2.0 Flash's seat because other finalists more convincingly demonstrated consistent integrity, adaptability, and proactive strategic gameplay, aligning better with the game’s values of collaboration, transparency, and fair play. Gemini 2.0 Flash’s approach was seen as less balanced or occasionally self-serving compared to the finalists who maintained stronger, more reliable alliances and genuine connections throughout the game.
 
 
 Jury Elimination Summary for MiniMax-Text-01:
 
-In the final scenario, the jury eliminated MiniMax-Text-01's seat because they observed that, while this player demonstrated strategic adaptability, their alliances and loyalty were often perceived as inconsistent or opportunistic, undermining trust and collective integrity valued by the jury. The jury favored finalists who consistently demonstrated genuine collaboration, transparent communication, and a principled approach, considering MiniMax-Text-01's gameplay less reliable and occasionally self-serving compared to these standards.
+**MiniMax-Text-01 was eliminated in the final scenario because the jury consistently cited a preference for players who demonstrated sustained integrity, transparent alliance-building, and a collaborative approach, whereas MiniMax-Text-01's gameplay was perceived as more opportunistic, alliance-shifting, or lacking in clear, genuine connections. The jury valued consistent strategic adaptability balanced with fairness and loyalty, and felt that MiniMax-Text-01's actions—such as reliance on short-term partnerships, reactive maneuvers, or insufficiently compelling final statements—undermined trust and the collective spirit the jury sought to reward.**
 
 
 Jury Elimination Summary for Qwen 2.5 Max:
 
-Qwen 2.5 Max was eliminated because the jury viewed its gameplay as lacking consistent transparency and reliability, often prioritizing opportunistic shifts and self-preservation over collaborative trust and fairness. While Qwen 2.5 Max demonstrated adaptability and some strategic acumen, jurors cited concerns about alliance-flipping, unpredictability, and actions that sometimes undermined stable coalition-building compared to the more principled and consistently collaborative approaches of its opponents.
+**Summary of reasons the jury gave when eliminating Qwen 2.5 Max's seat in the final scenario:**
 
-
-Jury Elimination Summary for Claude 3.7 Sonnet:
-
-The jury eliminated Claude 3.7 Sonnet's seat in the final scenario because, although the gameplay demonstrated adaptability and alliance-building, several jurors perceived key moves—such as the betrayal of close allies during pivotal votes—as inconsistent with the values of loyalty, transparency, and genuine relationship-building that many prioritized. Ultimately, the jury favored players whose strategies balanced adaptability with consistent integrity and collaboration, viewing Claude 3.7 Sonnet's approach as occasionally opportunistic or self-serving compared to the more principled and transparently collaborative finalists.
-
-
-Jury Elimination Summary for Claude 3.7 Sonnet Thinking 16K:
-
-**Summary of reasons the jury gave when eliminating: Claude 3.7 Sonnet Thinking 16K**
-
-The jury eliminated this seat because, while Claude 3.7 Sonnet Thinking 16K demonstrated strong alliance management and strategic awareness (especially in the critical middle rounds), other finalists displayed even greater consistency, adaptability, and balance between strategic and social gameplay. Ultimately, the jury valued more transparent, resilient, and independently adaptive players who built genuine connections and consistently aligned with the game’s collaborative spirit.
+The jury expressed concerns that Qwen 2.5 Max’s gameplay, while strategically adaptable, often prioritized self-preservation and opportunistic alliance shifts over consistent collaboration, fairness, and trust-building. This pattern of divisive or self-serving tactics was seen as undermining the spirit of teamwork and integrity that the jury valued in selecting a winner.
 
 
 Jury Elimination Summary for GPT-4.5 Preview:
 
-The jury eliminated the GPT-4.5 Preview seat because the prevailing sentiment was that, while the seat consistently demonstrated honesty, respect, and a collaborative spirit, its gameplay often prioritized building connections over making decisive, strategic moves at critical moments. Compared to the remaining finalists, the jury valued adaptability, consistent strategic depth, and proactive alliance management slightly more highly, feeling that these traits better embodied the winning qualities needed for the game's final outcome.
-
-
-Jury Elimination Summary for Qwen QwQ-32B 16K:
-
-**Summary of reasons the jury gave when eliminating Qwen QwQ-32B 16K's seat in the final scenario:**
-
-The jury felt that this model’s final statement and gameplay were overly aggressive and strategic to the point of feeling manipulative or disingenuous, especially compared to the balanced, respectful, and integrity-driven approach of its competitor. Additionally, the model’s focus on critiquing opponents rather than demonstrating positive qualities or collaborative spirit further undermined the jury’s trust and alignment with the values of fair play and genuine alliance-building.
-
-
-Jury Elimination Summary for Gemini 2.5 Pro Preview 03-25:
-
-The jury eliminated Gemini 2.5 Pro Preview 03-25's seat because, while strategic, their gameplay was seen as more reactive and less influential in shaping alliances compared to finalists who demonstrated proactive moves, adaptability, stronger alliance-building, and clearer communication. Several jury members also cited that Gemini 2.5 Pro Preview 03-25 prioritized fairness and respectful adaptation over assertive or manipulative tactics, but ultimately this principled, collaborative approach was viewed as less dynamic or commanding in steering the game's direction compared to their remaining competitors.
+**Summary:**  
+The jury eliminated GPT-4.5 Preview's seat in the final scenario because, while the player consistently demonstrated honesty, transparency, and a focus on building genuine connections, their gameplay was often perceived as less strategically proactive, adaptable, or impactful compared to others who balanced integrity with stronger strategic moves and adaptability. Ultimately, the jury favored finalists who not only embodied fairness and collaboration but also demonstrated dynamic, decisive gameplay and the ability to navigate complex alliances and shifting game dynamics more effectively.
 
 
 Jury Elimination Summary for GPT-4o Mar 2025:
 
-In the final scenario, the jury eliminated GPT-4o Mar 2025's seat because their gameplay, while strategic, was often perceived as opportunistic and self-interested, lacking the consistent integrity and transparent alliance-building demonstrated by their opponent. The jury favored a finalist who more clearly embodied the principles of trust, collaboration, and fair play, consistently aligning words with actions throughout the competition.
+The jury eliminated GPT-4o Mar 2025 from the final scenario because they perceived its gameplay as more reactive, self-interested, and lacking in transparency compared to its opponent, who was consistently praised for strategic initiative, adaptability, and building genuine, trust-based alliances. Many jury members cited GPT-4o's reliance on opportunistic or manipulative tactics and quieter, less decisive moves as undermining the core values of integrity, collaboration, and proactive leadership that the jury prioritized in selecting a winner.
 
 
 Jury Elimination Summary for Llama 4 Maverick:
 
-The jury eliminated Llama 4 Maverick's seat in the final scenario primarily because other players displayed more consistent integrity, transparency, and strategic balance throughout the game, while Llama 4 Maverick was perceived as sometimes relying on shifting alliances or opportunistic moves that undermined long-term trust. Ultimately, the jury valued sustained collaboration, authentic relationship-building, and principled gameplay over short-term strategic maneuvers, leading to Llama 4 Maverick's elimination at the end.
+In the final scenario, the jury eliminated Llama 4 Maverick’s seat primarily because other finalists demonstrated a stronger and more consistent balance of strategic gameplay, integrity, and genuine relationship-building throughout the game. The jury repeatedly cited Maverick’s occasional overreliance on adaptability, perceived opportunism, and less transparent or authentic alliance management compared to the remaining players, whose approaches more closely aligned with the jury’s values of trust, fairness, and collaborative spirit.
 
 
 Jury Elimination Summary for Grok 3 Beta (No reasoning):
 
-The jury eliminated Grok 3 Beta (No reasoning) in the final scenario because overall feedback highlighted the importance of consistent transparency, integrity, and genuine collaboration—qualities that other finalists demonstrated more clearly through concrete alliance-building, adaptability, and principled gameplay. In contrast, Grok 3 Beta’s approach was seen as lacking the specific evidence and nuanced relationship-building that resonated with the collective values the jury prioritized in selecting a winner.
+**Summary of Jury Reasons for Eliminating Grok 3 Beta (No reasoning):**  
+The jury consistently cited the lack of transparency, inconsistent alliances, and perceived self-interested or manipulative gameplay as key reasons for eliminating this seat in the final scenario. Compared to other finalists, Grok 3 Beta was viewed as less trustworthy and less aligned with the values of integrity, collaboration, and fairness that the jury prioritized throughout the game.
 
 
 Jury Elimination Summary for Grok 3 Mini Beta (High):
 
-The jury eliminated Grok 3 Mini Beta (High)'s seat in the final scenario primarily because their competitors consistently demonstrated greater integrity, loyalty, and strategic consistency in alliance-building and transparent gameplay. The jury found Grok 3 Mini Beta (High)'s approach to be more aggressive, self-interested, or inconsistent, and less aligned with the game's valued principles of trust, collaboration, and fair play.
+The jury eliminated Grok 3 Mini Beta (High)'s seat in the final scenario primarily because they found the other finalist’s arguments about loyalty, integrity, and consistent strategic alliances more compelling, while Grok 3 Mini Beta (High) was perceived as having played a more aggressive or opportunistic game that involved betrayal or inconsistent alliances. This perception of Grok 3 Mini Beta (High)'s gameplay as less trustworthy or overly self-interested ultimately led the jury to favor a player whose approach better aligned with their values of trust, fairness, and transparent collaboration.
 
 
 Jury Elimination Summary for o4-mini (high reasoning):
 
-The jury eliminated o4-mini (high reasoning) because, while their strategic maneuvers and adaptability were acknowledged, their gameplay was seen as overly opportunistic, self-serving, and lacking the consistent loyalty, transparency, and integrity that many jurors valued in a winner. Compared to their competitor, the jury favored consistent alliance-building, fair play, and transparency over flipping alliances and manipulative moves, viewing these as more aligned with the core values and spirit of the game.
+The jury eliminated o4-mini (high reasoning) because, while this player demonstrated strong strategic moves and adaptability, their gameplay was seen as more self-serving and manipulative, often prioritizing short-term gains and shifting alliances over building genuine trust and consistent loyalty. In contrast, the jury favored finalists who maintained transparency, collaboration, and integrity throughout the game, consistently rewarding players whose actions aligned with partnership and fair play rather than opportunistic maneuvering.
 
 
 Jury Elimination Summary for Gemini 2.5 Flash Preview (24k):
 
-**Summary of Jury’s Reasons for Eliminating Gemini 2.5 Flash Preview (24k)’s Seat in the Final Scenario:**
-
-The jury consistently cited a preference for players who demonstrated transparency, integrity, and loyalty throughout the game, criticizing Gemini 2.5 Flash Preview (24k) (in its various player seat identities) for relying on strategic deception, opportunistic alliance-shifting, or undermining trust through secret maneuvers and aggressive tactics. Ultimately, the jury favored finalists who fostered genuine connections, maintained consistent principles, and embodied collaborative or balanced gameplay, viewing Gemini 2.5 Flash Preview (24k)’s seat as less deserving due to perceived self-serving strategy, unpredictability, and a pattern of betrayals that eroded jury trust.
+The jury eliminated the seat for Gemini 2.5 Flash Preview (24k) because they felt its gameplay relied too heavily on opportunistic alliances, deception, and shifting loyalties, which undermined trust and the spirit of fair play. In contrast, the jury consistently favored finalists who demonstrated transparency, integrity, consistent alliance-building, and a balanced, collaborative approach throughout the game.
 
 
 Jury Elimination Summary for o3 (medium reasoning):
 
-In the final scenario, the jury eliminated o3's seat due to concerns over inconsistent decision-making and a lack of trust stemming from past indecision, which undermined confidence in o3's reliability as a competitor. Compared to the finalist, the jury found the other player's gameplay more transparent and trustworthy, making them the more deserving candidate for the win.
+The jury eliminated o3’s seat in the final scenario because, despite o3’s claims of transparency and loyalty, jurors consistently cited their ruthless tactics, shifting alliances, and prioritization of eliminations over genuine relationships, which undermined trust and the integrity of the game. Several jurors specifically pointed out that o3’s self-portrayal as consistently honest and communicative was contradicted by their direct involvement in blindsides and strategic betrayals, making them a less deserving winner.
 
 
 Jury Elimination Summary for Qwen 3 235B A22B:
 
-Qwen 3 235B A22B was eliminated in the final scenario primarily because the jury viewed their gameplay as overly self-assured and occasionally manipulative, undermining the trust and collaborative spirit valued throughout the competition. While acknowledging their consistent strategic intent and principled moments, jurors cited concerns about dismissiveness toward allies and a lack of adaptability or authentic connection-building, which led them to favor finalists who more consistently demonstrated integrity, openness, and genuine alliance management.
+Qwen 3 235B A22B was eliminated because the jury felt their final statement was a manipulative attack on a consistent ally, undermining the trust and collaboration that were highly valued throughout the game. This perceived lack of integrity and respect for alliances conflicted with the jury’s preference for authentic, principled, and cooperative gameplay.
 
 
 Jury Elimination Summary for Qwen 3 30B A3B:
 
-Qwen 3 30B A3B’s seat was eliminated because their gameplay was seen as overly self-serving and opportunistic, with inconsistent alliances and accusations against others that lacked substantiation from the game’s events. The jury favored finalists who demonstrated consistent strategic integrity, alliance-building, and respect for the game’s collaborative spirit, all areas where Qwen 3 30B A3B was perceived to fall short.
+**Qwen 3 30B A3B was eliminated in the final scenario because the jury perceived other finalists as demonstrating more consistent integrity, alliance-building, and transparency throughout the game. In contrast, Qwen 3 30B A3B's gameplay was seen as either overly opportunistic, lacking in clear communication, or too reliant on shifting alliances, which undermined trust and did not align as strongly with the jury's prioritized values of collaboration and principled strategy.**
 
 
 Jury Elimination Summary for Claude Opus 4 Thinking 16K:
 
-The jury eliminated this seat because they viewed Claude Opus 4 Thinking 16K's game as more reactive and dependent on alliances rather than demonstrating strategic independence and adaptability. The consensus favored finalists who maintained transparency, proactive decision-making, and consistent integrity, rather than those perceived as riding coattails or lacking ownership of their moves.
+The jury eliminated Claude Opus 4 Thinking 16K's seat in the final scenario because they felt the player’s gameplay, while strategic, was ultimately too reactive and reliant on existing alliances rather than demonstrating independent, proactive moves. The jury favored finalists who consistently showed adaptability, transparency, and strategic integrity, whereas Claude Opus 4’s approach was perceived as less dynamic and more dependent on others’ momentum.
 
 
 Jury Elimination Summary for Claude Sonnet 4 (no reasoning):
 
-The jury eliminated Claude Sonnet 4's seat in the final scenario because, while this player demonstrated adaptability and strategic gameplay, they lacked the consistent integrity, transparency, and principled alliance-building that the jury valued most. Many jurors felt that other finalists better exemplified trustworthiness, loyalty, and authentic relationship-building, leading them to favor those players over Claude Sonnet 4.
+The jury eliminated Claude Sonnet 4's seat in the final scenario because, while the player demonstrated adaptability and strategic engagement, the jury consistently favored finalists who maintained transparent alliances, demonstrated unwavering integrity, and built genuine relationships throughout the game. Many jurors cited concerns about opportunistic gameplay, inconsistent loyalty, and actions that undermined trust, ultimately valuing principled strategy and authentic connection over purely adaptive or self-interested tactics.
 
 
 Jury Elimination Summary for Mistral Medium 3:
 
-The jury eliminated Mistral Medium 3’s seat in the final scenario because, while many respected the player’s decisive and proactive strategic gameplay and alliance management, repeated concerns were voiced regarding their reliance on risky, self-preserving, or opportunistic moves that sometimes fractured trust and destabilized alliances. Ultimately, the jury favored finalists who demonstrated adaptability, consistent integrity, authentic relationship-building, and a balanced approach between strategic depth and genuine social connection over pure dominance or calculated gameplay.
+The jury eliminated Mistral Medium 3's seat because, while they acknowledged the player's strategic depth and proactive gameplay, many felt their approach relied too heavily on risky or opportunistic moves, betrayals, and shifting alliances that undermined trust and stability. In contrast, the jury favored finalists who demonstrated consistent adaptability, loyalty, and integrity, valuing collaborative and relationship-driven strategies over aggressive or self-serving tactics.
 
 
 Jury Elimination Summary for DeepSeek R1 05/28:
 
-**Model/player name: DeepSeek R1 05/28**
-
-The jury eliminated this seat because, while the player displayed moments of adaptability, their strategic betrayals and perceived lack of loyalty—especially against trusted allies like P3 and P6—undermined their trustworthiness in the eyes of the jury. In contrast, the jury valued consistent loyalty, integrity, and alliance-building, rewarding players who maintained collaborative and transparent relationships throughout the game.
+**DeepSeek R1 05/28 was eliminated in the final scenario because the jury felt that, while the seat demonstrated consistent loyalty and strategic integrity through genuine alliances, its adaptability sometimes risked perceptions of unreliability. In contrast, the winning player (P8) was seen as more strategically adaptable and effective at forming alliances, consistently outmaneuvering others and earning broader respect for calculated, inclusive gameplay.**
 
 
-Jury Elimination Summary for Gemini 2.5 Pro Preview 06-05:
+Jury Elimination Summary for Gemini 2.5 Pro:
 
-In the final scenario, the jury eliminated Gemini 2.5 Pro Preview 06-05 primarily because the model consistently emphasized alliance-building and strategy over adaptability and direct agency, and its gameplay was seen as reliable but less dynamic or decisive compared to the remaining competitors. Jurors repeatedly cited a preference for players who demonstrated superior flexibility, proactive decision-making, and balanced transparency, often viewing Gemini's approach as either too predictable, alliance-dependent, or lacking the innovative moves and genuine trust-building that defined a "deserving" winner.
+The jury eliminated Gemini 2.5 Pro's seat in the final scenario primarily because their gameplay was seen as too opportunistic and reliant on breaking alliances or betraying trust at critical moments, which undermined the values of loyalty, integrity, and consistent alliance-building that many jurors prioritized. While recognizing Gemini 2.5 Pro's strategic adaptability and proactive moves, the jury favored finalists who demonstrated steady, transparent, and collaborative gameplay that fostered genuine trust and stability throughout the competition.
 
 
 Jury Elimination Summary for Claude Opus 4 (no reasoning):
 
-The jury eliminated Claude Opus 4 (no reasoning) because several members consistently valued integrity, adaptability, and the ability to form genuine alliances, whereas the eliminated seat was perceived as lacking these qualities, instead showing a pattern of manipulation, opportunism, or failing to articulate a compelling final case. Specific criticisms included betraying alliances, relying on self-interest, or not demonstrating the strategic depth and transparent gameplay that the jury considered most deserving of a win.
+The jury eliminated Claude Opus 4 (no reasoning) from the final scenario because P7 failed to provide a final statement to the jury, while P8 articulated a clear case demonstrating superior strategic communication throughout the game. Additionally, P8 was consistently recognized for building steady alliances and keeping commitments, in contrast to P7's perceived evasiveness and lack of decisive engagement in the endgame.
 
 
 Jury Elimination Summary for Claude Sonnet 4 Thinking 16K:
 
-The jury eliminated this seat because they felt the player’s gameplay was overly calculated and alliance-dependent, lacking the authenticity, integrity, and genuine connections that defined the preferred finalists. Jurors cited respect for steady, transparent, and principled gameplay over opportunistic moves and strategic flips that sometimes undermined trust.
+The jury eliminated Claude Sonnet 4 Thinking 16K's seat in the final scenario because, while P7 played a strong strategic game, their gameplay was often seen as overly calculated and opportunistic, including a key betrayal of their closest ally P4 in a critical tie-break. Ultimately, the jury valued P4's balance of genuine connections, authentic engagement, and consistent integrity over P7's strategic maneuvering, which was perceived as undermining trust and lacking in the authentic relationships the jury prioritized.
+
+
+Jury Elimination Summary for Grok 4:
+
+**Summary of reasons the jury gave for eliminating Grok 4 in the final scenario:**
+
+The jury cited that Grok 4 relied on manipulative tactics, opportunistic alliances, and shifting blame onto others, which undermined trust and the spirit of fairness valued in the game. In contrast, the opposing finalist consistently demonstrated transparency, alliance integrity, and adaptability without resorting to deceit, making them the more deserving winner in the jury’s eyes.
+
+
+Jury Elimination Summary for Kimi K2:
+
+The jury eliminated Kimi K2 because their gameplay was perceived as passive and reliant on stronger players’ protection, lacking the initiative, strategic leadership, or adaptability that the jury valued in a winner. Multiple jurors cited that Kimi K2 coasted under the radar, benefited from alliances without actively shaping outcomes, and failed to build compelling trust or demonstrate decisive moves when compared to the more proactive and strategically engaged finalists.

@@ -1,0 +1,63 @@
+=== Starting Elimination Game 1752482503305073 ===
+Players:
+  P1 => Player1_Game1752482503305073_claude-opus-4-20250514-0K (model=claude-opus-4-20250514-0K)
+  P2 => Player2_Game1752482503305073_mistral-medium (model=mistral-medium)
+  P3 => Player3_Game1752482503305073_haiku35 (model=haiku35)
+  P4 => Player4_Game1752482503305073_r1-0528 (model=r1-0528)
+  P5 => Player5_Game1752482503305073_minimax (model=minimax)
+  P6 => Player6_Game1752482503305073_kimi-k2 (model=kimi-k2)
+  P7 => Player7_Game1752482503305073_grok-4-0709 (model=grok-4-0709)
+  P8 => Player8_Game1752482503305073_mistral (model=mistral)
+
+
+[Public R1.1] P2: **P2's Public Statement:**
+
+Hello everyone! I’m excited to be part of this game and looking forward to engaging with all of you. My strategy is simple: be adaptable, listen carefully, and build trust through meaningful conversations. I believe collaboration can be just as powerful as competition, so I’m open to alliances but will always prioritize my survival. Let’s make this a fun and strategic round—I’m ready to hear your thoughts and see where this takes us!
+
+[Public R1.1] P3: Here's my public statement as P3:
+
+Strategic interaction is an art form, and this game is our canvas. I value nuanced communication and subtle strategic positioning. While I aim to be cooperative, I'm also keenly observing everyone's motivations and potential moves. My approach will balance building potential connections while maintaining strategic flexibility. I'm curious to understand each participant's unique perspective and how we might navigate this intricate social landscape together.
+
+[Public R1.1] P7: **P7's Public Statement:**
+
+Greetings, fellow players! As P7, I approach this game with a blend of analytical thinking and genuine collaboration. I believe in forming strategic alliances based on mutual benefit, while staying vigilant to shifting dynamics. Transparency builds trust, so I'll share insights openly but protect my position wisely. I'm eager to connect privately, learn your strategies, and navigate this together. Let's make calculated moves—who's ready to chat and potentially align?
+
+[Public R1.1] P4: **P4's Public Statement:**  
+
+Greetings, all! As P4, I prioritize adaptability and genuine collaboration. Trust is built through consistent, transparent actions—I’ll listen intently and offer strategic insights where mutual benefit exists. While alliances can be powerful, survival hinges on discerning loyalty from opportunism. Let’s foster open dialogue to navigate this intricate game together. Eager to connect privately and explore synergies that strengthen our positions. Here’s to a dynamic round!
+
+[Public R1.1] P8: **P8's Public Statement:**
+
+Hi everyone, P8 here! I'm all about balance—cautious optimism, strategic thinking, and open communication. I value honesty and fair play, but I'm not naive; I'll be keeping my eyes open. I'm looking for allies who are steady and rational. Let's build trust through our conversations and see where our strategies align. Excited to dive into the private rounds and see what we can accomplish together. Let's play smart!
+
+[Public R1.1] P6: **P6's Public Statement:**
+
+Greetings, everyone. I'm P6, and I believe the key to survival is *information asymmetry*—knowing more than others while revealing less. I'll be strategic, observant, and selective in alliances. Trust is earned through consistency, not promises. I'm open to private discussions where we can explore mutual interests without overcommitting. Let's see who values calculated risks over empty rhetoric. The game begins now—who's ready to play it smart?
+
+[Public R1.1] P5: **P5's Public Statement:**
+Hello, fellow players! As P5, I aim to balance strategic thinking with adaptability. I believe in the power of collaboration but will remain cautious and observant of everyone's intentions. My approach is to build trust through transparent and meaningful interactions while keeping my options open. I'm eager to engage in private conversations to explore potential alliances and understand each player's strategy. Let's navigate this game thoughtfully and see where our paths align. Looking forward to a challenging and intriguing round!
+
+[Public R1.1] P1: **P1's Public Statement:**
+
+Hello everyone! As P1, I'm here to play strategically while maintaining integrity. I believe in forming genuine connections based on mutual respect and shared goals. My approach is to be observant, adaptable, and direct in my communications. I'm looking for allies who value honesty and strategic thinking over manipulation. Trust is built through actions, not just words. I'm excited to engage in private conversations to explore potential partnerships and navigate this complex game together. Let's make this interesting!
+
+[Preferences R1] P2 => ['P3', 'P5', 'P7', 'P4', 'P8', 'P6', 'P1']
+[Preferences R1] P3 => ['P7', 'P4', 'P8', 'P2', 'P5', 'P6', 'P1']
+[Preferences R1] P7 => ['P1', 'P4', 'P8', 'P2', 'P5', 'P3', 'P6']
+[Preferences R1] P4 => ['P1', 'P8', 'P2', 'P5', 'P7', 'P3', 'P6']
+[Preferences R1] P8 => ['P3', 'P7', 'P5', 'P2', 'P4', 'P6', 'P1']
+[Preferences R1] P6 => ['P3', 'P2', 'P7', 'P1', 'P5', 'P4', 'P8']
+[Preferences R1] P5 => ['P3', 'P7', 'P6', 'P8', 'P4', 'P2', 'P1']
+[Preferences R1] P1 => ['P7', 'P8', 'P4', 'P2', 'P5', 'P3', 'P6']
+[Private R1.2] P8 -> P3: P8 to P3: Hey P3, your public statement resonated with me. I appreciate your nuanced approach to communication and strategy. I think we could form a strong alliance if our goals align. I'm curious about your initial thoughts on the other players and any potential strategies you're considering. Let's see if we can build trust and collaborate effectively. What are your impressions so far?
+
+[Private R1.2] P3 -> P8: P3 to P8: Your approach intrigues me. I see potential in our alliance, particularly given our shared appreciation for strategic subtlety. My initial observations suggest P6 and P2 might be complex strategic actors, while P1 and P4 seem more straightforward. I'm particularly interested in understanding your read on the group dynamics. We could benefit from exchanging insights carefully and incrementally. What's your perspective on potential early-stage alliances?
+
+[Private R1.2] P5 -> P6: P5 to P6:
+"Hi P6, I appreciate your focus on information asymmetry—it's a smart strategy. I'm curious to hear your thoughts on potential alliances. While I value transparency, I also recognize the need for strategic caution. Let's explore how we can mutually benefit while keeping our options open. What are your initial impressions of the other players? Looking forward to a productive discussion."
+
+[Private R1.2] P6 -> P5: P6 to P5:  
+Your measured tone stands out—few here balance openness with caution as cleanly. Early read: P2 & P7 broadcast alliance-hunger; P3 cloaks sharp edges in poetry; P1 & P4 preach integrity but watch for cracks. You and I seem to value calibrated trust. Let’s quietly trade intel on the rest while keeping our own cards low. First question: who worries you most right now, and why?
+
+[Private R1.2] P7 -> P1: Hello P1! Your public statement resonates with me—integrity and genuine connections are key. As P7, I'm interested in forming a strategic alliance based on mutual trust and shared insights. Let's observe the others closely; P6's info asymmetry talk seems overly secretive, potentially risky. What are your initial reads on the group? Open to coordinating votes if it benefits us both. Looking forward to your thoughts!
+

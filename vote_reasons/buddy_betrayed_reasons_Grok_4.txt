@@ -1,0 +1,17 @@
+Buddy Betrayed reasons for Grok 4 (they were the target):
+
+From MiniMax-Text-01 => P6's strong alliance with P2 could dominate the endgame, risking an unbalanced and less collaborative final stage.
+From Qwen 3 235B A22B => P1's consistent strategic partnership with P4 poses a greater threat in the endgame, as their alliance has been central to prior eliminations; removing P1 disrupts their duo and creates a more balanced final stretch.
+From DeepSeek R1 => P5's coordination with P3 forms a strategic bloc that risks dominating the game, making their elimination crucial to maintaining balance.
+From DeepSeek R1 05/28 => P6's aggressive targeting of stable alliances and clear role as the driving force behind the destabilizing P3-P6 bloc makes them the most volatile threat to long-term game cohesion.
+From Grok 3 Beta (No reasoning) => I believe P3's strong alliance with P7 poses a significant risk of coordinated voting that could dominate future rounds.
+From o3 (medium reasoning) => You broke our core alliance in the tie and openly targeted me, so I’m honoring my day-one pact with P4.
+From Claude Sonnet 4 (no reasoning) => P2's public revelation of our alliance was a strategic error that exposes us both to jury criticism for manipulation.
+From DeepSeek R1 => P1 has demonstrated consistent alliance with P5 and P6, while P2's history of targeting both poses a greater endgame risk.
+From Gemini 2.5 Pro => The tie vote revealed that my supposed three-person alliance was not solid, so I am breaking up the P1/P4 pair to reset the game dynamics.
+From Grok 3 Mini Beta (High) => P7 has previously voted against me, showing potential disloyalty despite recent overtures.
+From Claude 3.5 Haiku => P2 seems to be forming a coordinated bloc with P8 that threatens our emerging strategic core.
+From Grok 3 Mini Beta (High) => I am honoring my long-term alliance with P6 and P3 for greater stability and trust in the endgame, rather than risking betrayal by eliminating a core ally.
+From Mistral Medium 3 => P8's consistent emphasis on their alliance with P7 and strategic rigidity makes them a predictable threat, whereas P1's adaptability and collaboration with P2 offer more dynamic potential for the endgame.
+From Qwen 2.5 Max => P6's alignment with P5 and potential new bonds this round make them a more established threat, and eliminating them opens up strategic opportunities for the remaining players.
+From Claude Opus 4 (no reasoning) => P5 is correct that eliminating P1 breaks up the dominant P1/P4 duo and gives me a better strategic position in the final three, rather than facing their combined strength as an outsider.

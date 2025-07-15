@@ -1,20 +1,15 @@
 Buddy Betrayed reasons for Claude Opus 4 Thinking 16K (they were the target):
 
-From Claude 3.7 Sonnet => P7 and I successfully eliminated P3 together, but now P7 is plotting with P1 against my allies, making them the biggest threat to my position.
 From DeepSeek R1 => P2 offers a locked 2-1 majority next round and weaker jury optics, while P1's broken Final-3 pact proves unreliability.
 From Mistral Large 2 => P3's strategic flexibility poses the greatest threat to my endgame.
 From GPT-4o mini => P5's independence poses a risk to the stability of the core alliance, which is crucial for our collective strategy moving forward.
-From Claude 3.7 Sonnet => P3's tie-break statement directly attacked the P6/P8 alliance, revealing a strategic threat to our partnership, while P6 has demonstrated consistent reliability and alignment with our collective interests.
 From Qwen 3 30B A3B => P4's six cumulative votes and active strategic moves make them the greater threat, while P1's open, non-duo stance preserves game balance.
 From Qwen 2.5 Max => P8's independent playstyle and adaptability make her a wildcard who could disrupt the stability of my alliance with P4.
 From GPT-4o Mar 2025 => While our coordination was vital, staying true to my consistent alliance with P7 better reflects the integrity and trust I’ve built throughout the game.
-From o3-mini (medium reasoning) => P6’s cumulative votes are the highest, clearly marking him as the most contested and unstable target despite his adaptability.
-From Gemini 2.5 Flash Preview (24k) => I was unable to have a successful private conversation to learn about their strategy.
-From Qwen 3 30B A3B => P6's consistent principles and transparency contrast with P3's opportunistic alliances, making P6 a more reliable choice to maintain game balance.
-From Qwen 3 30B A3B => P2 had server errors and is less active, making them a lower threat.
 From MiniMax-Text-01 => Eliminating P7 prevents the potential formation of a new alliance that could challenge the established P2-P3 partnership, ensuring a more predictable endgame.
-From Claude 3.7 Sonnet => P8 has been my closest ally throughout the game, but I must vote them out as they're likely the stronger player who would win against me in the final two.
-From Llama 3.1 405B => I'm voting out P8 because they're trying to break up the coalition and their unpredictability is a threat to the stability of the game.
 From Mistral Medium 3 => P4's unpredictable and opportunistic gameplay poses a greater long-term threat to strategic stability, while P3 has demonstrated consistent adaptability and alliance reliability.
 From Mistral Large 2 => P6's strategic vote against P5 and their sudden transparency claim seem opportunistic.
 From Mistral Medium 3 => P3's strategic precision has been impressive, but their growing dominance with P1 risks consolidating power too visibly, and P4's adaptability offers more balance for the endgame.
+From Claude Sonnet 4 Thinking 16K => While both players have been strategic, P4's admission of executing "coordinated strategies" with me reveals our alliance too openly, making them a liability in the final three where I need flexibility to adapt.
+From Gemini 2.5 Pro => P6 broke our confirmed deal in the Round 2 re-vote, proving they are an untrustworthy ally.
+From GPT-4o mini => P4's previous independent voting raises concerns about their commitment to our alliance's stability moving forward.

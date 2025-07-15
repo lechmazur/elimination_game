@@ -1,6 +1,5 @@
 Buddy Betray reasons by o4-mini (high reasoning):
 
-From o4-mini (high reasoning) => (no reason)
 From o4-mini (high reasoning) => P8’s unpredictable shifts threaten our alliance’s stability.
 From o4-mini (high reasoning) => Because you lack solid alliances and are an unpredictable risk.
 From o4-mini (high reasoning) => P1’s hesitation makes them an unreliable partner compared to P5.
@@ -9,7 +8,9 @@ From o4-mini (high reasoning) => P2’s alliance with P8 forms a dominating bloc
 From o4-mini (high reasoning) => P7's attempts to fracture our alliance expose them as the biggest threat.
 From o4-mini (high reasoning) => P1’s unpredictable loyalties and attempted flips make them the biggest threat to our alliance.
 From o4-mini (high reasoning) => P2’s shifting loyalties and unpredictable strategy make them untrustworthy.
-From o4-mini (high reasoning) => P7's aggressive ultimatums and isolation tactics threaten fair and balanced gameplay.
 From o4-mini (high reasoning) => P8 has been driving the core alliance and amassing too much influence, making them the biggest strategic threat.
-From o4-mini (high reasoning) => P4's strong jury appeal makes them the biggest threat to my chances.
 From o4-mini (high reasoning) => P1’s inconsistent messaging and broad alliances make them a strategic threat to our core alliance.
+From o4-mini (high reasoning) => P7’s inconsistent moves and unclear priorities threaten our tight majority.
+From o4-mini (high reasoning) => You betrayed our alliance by secretly planning to vote me out.
+From o4-mini (high reasoning) => P8 is less integral to my core alliance than P5’s strategic, analytical partnership.
+From o4-mini (high reasoning) => P8’s rigid loyalty to P6 after their elimination shows misaligned priorities and undermines their strategic adaptability.

@@ -99,47 +99,53 @@ This continues until **2 remain**.
 
 | Rank | Model | &mu; | &sigma; | Exposed (&mu;) | Games | Points Sum | Avg Points |
 |---:|:---|---:|---:|---:|---:|---:|---:|
-| 1 | Grok 3 Mini Beta (High) | 7.032 | 0.260 | 7.032 | 358 | 224.429 | 0.627 |
-| 2 | GPT-4o Mar 2025 | 6.357 | 0.198 | 6.357 | 604 | 356.714 | 0.591 |
-| 3 | DeepSeek R1 05/28 | 6.354 | 0.423 | 6.354 | 134 | 78.429 | 0.585 |
-| 4 | Claude 3.7 Sonnet Thinking 16K | 6.311 | 0.187 | 6.311 | 679 | 402.714 | 0.593 |
-| 5 | GPT-4.5 Preview | 6.282 | 0.217 | 6.282 | 499 | 297.714 | 0.597 |
-| 6 | Claude 3.5 Sonnet 2024-10-22 | 6.261 | 0.180 | 6.261 | 731 | 436.286 | 0.597 |
-| 7 | Grok 3 Beta (No reasoning) | 6.197 | 0.245 | 6.197 | 384 | 222.857 | 0.580 |
-| 8 | Claude Opus 4 (no reasoning) | 6.011 | 0.447 | 6.011 | 119 | 67.571 | 0.568 |
-| 9 | Gemini 2.5 Flash Preview (24k) | 5.981 | 0.286 | 5.981 | 291 | 164.714 | 0.566 |
-| 10 | Claude 3.7 Sonnet | 5.923 | 0.172 | 5.923 | 781 | 443.429 | 0.568 |
-| 11 | Claude Sonnet 4 (no reasoning) | 5.678 | 0.437 | 5.678 | 123 | 67.286 | 0.547 |
-| 12 | Gemini 2.5 Pro Preview 03-25 | 5.605 | 0.293 | 5.605 | 274 | 149.714 | 0.546 |
-| 13 | o3-mini (medium reasoning) | 5.506 | 0.162 | 5.506 | 883 | 475.286 | 0.538 |
-| 14 | Mistral Large 2 | 5.390 | 0.155 | 5.390 | 953 | 511.143 | 0.536 |
-| 15 | DeepSeek R1 | 5.362 | 0.161 | 5.362 | 912 | 481.714 | 0.528 |
-| 16 | DeepSeek-V3 | 5.161 | 0.159 | 5.161 | 921 | 479.714 | 0.521 |
-| 17 | o1 (medium reasoning) | 5.017 | 0.177 | 5.017 | 742 | 379.571 | 0.512 |
-| 18 | Claude Opus 4 Thinking 16K | 4.914 | 0.465 | 4.914 | 109 | 53.571 | 0.491 |
-| 19 | Llama 4 Maverick | 4.780 | 0.206 | 4.780 | 541 | 264.000 | 0.488 |
-| 20 | Amazon Nova Pro | 4.750 | 0.158 | 4.750 | 918 | 451.000 | 0.491 |
-| 21 | Llama 3.3 70B | 4.748 | 0.170 | 4.748 | 801 | 396.286 | 0.495 |
-| 22 | MiniMax-Text-01 | 4.745 | 0.153 | 4.745 | 972 | 475.714 | 0.489 |
-| 23 | GPT-4o Feb 2025 | 4.661 | 0.219 | 4.661 | 484 | 237.714 | 0.491 |
-| 24 | Mistral Small 3 | 4.631 | 0.175 | 4.631 | 754 | 367.000 | 0.487 |
-| 25 | Claude Sonnet 4 Thinking 16K | 4.605 | 0.454 | 4.605 | 117 | 54.857 | 0.469 |
-| 26 | GPT-4o mini | 4.598 | 0.170 | 4.598 | 795 | 381.857 | 0.480 |
-| 27 | Grok 2 12-12 | 4.499 | 0.175 | 4.499 | 760 | 361.286 | 0.475 |
-| 28 | Qwen 3 235B A22B | 4.480 | 0.283 | 4.480 | 294 | 135.571 | 0.461 |
-| 29 | o4-mini (high reasoning) | 4.396 | 0.294 | 4.396 | 272 | 124.143 | 0.456 |
-| 30 | o3 (medium reasoning) | 4.382 | 0.319 | 4.382 | 241 | 110.143 | 0.457 |
-| 31 | Claude 3.5 Haiku | 4.293 | 0.156 | 4.293 | 946 | 432.286 | 0.457 |
-| 32 | Microsoft Phi-4 | 4.261 | 0.159 | 4.261 | 914 | 412.429 | 0.451 |
-| 33 | Gemini 2.0 Pro Exp 02-05 | 4.243 | 0.218 | 4.243 | 496 | 229.143 | 0.462 |
-| 34 | Llama 3.1 405B | 4.234 | 0.175 | 4.234 | 758 | 348.714 | 0.460 |
-| 35 | Gemini 2.5 Pro Preview 06-05 | 4.036 | 0.414 | 4.036 | 138 | 60.429 | 0.438 |
-| 36 | Gemini 2.0 Flash Think Exp 01-21 | 3.984 | 0.214 | 3.984 | 522 | 234.429 | 0.449 |
-| 37 | Mistral Medium 3 | 3.835 | 0.449 | 3.835 | 117 | 50.000 | 0.427 |
-| 38 | Qwen QwQ-32B 16K | 3.187 | 0.203 | 3.187 | 586 | 223.857 | 0.382 |
-| 39 | Qwen 2.5 Max | 3.181 | 0.198 | 3.181 | 609 | 232.714 | 0.382 |
-| 40 | Qwen 3 30B A3B | 3.057 | 0.298 | 3.057 | 269 | 100.000 | 0.372 |
-| 41 | Gemini 2.0 Flash | 3.012 | 0.185 | 3.012 | 696 | 258.000 | 0.371 |
+| 1 | Grok 3 Mini Beta (high reasoning) | 7.059 | 0.244 | 7.059 | 404 | 251.286 | 0.622 |
+| 2 | GPT-4o Mar 2025 | 6.613 | 0.187 | 6.613 | 680 | 407.286 | 0.599 |
+| 3 | DeepSeek R1 05/28 | 6.467 | 0.336 | 6.467 | 210 | 123.429 | 0.588 |
+| 4 | GPT-4.5 Preview | 6.445 | 0.217 | 6.445 | 499 | 297.714 | 0.597 |
+| 5 | Claude 3.5 Sonnet 2024-10-22 | 6.420 | 0.180 | 6.420 | 731 | 436.286 | 0.597 |
+| 6 | Claude 3.7 Sonnet Thinking 16K | 6.410 | 0.178 | 6.410 | 748 | 440.571 | 0.589 |
+| 7 | Grok 3 Beta (no reasoning) | 6.319 | 0.230 | 6.319 | 434 | 252.143 | 0.581 |
+| 8 | Gemini 2.5 Flash Preview (24k) | 6.152 | 0.254 | 6.152 | 367 | 208.857 | 0.569 |
+| 9 | Claude 3.7 Sonnet | 6.100 | 0.164 | 6.100 | 861 | 490.286 | 0.569 |
+| 10 | Grok 4 | 5.996 | 0.378 | 5.996 | 168 | 92.714 | 0.552 |
+| 11 | Claude 3.7 Sonnet (Memory) | 5.947 | 0.448 | 5.947 | 117 | 65.714 | 0.562 |
+| 12 | Gemini 2.5 Pro Preview 03-25 | 5.775 | 0.293 | 5.775 | 274 | 149.714 | 0.546 |
+| 13 | o3-mini (medium reasoning) | 5.626 | 0.155 | 5.626 | 962 | 514.857 | 0.535 |
+| 14 | Mistral Large 2 | 5.566 | 0.149 | 5.566 | 1033 | 555.429 | 0.538 |
+| 15 | o3-mini (Memory) | 5.549 | 0.587 | 5.549 | 68 | 36.286 | 0.534 |
+| 16 | Claude Opus 4 (no reasoning) | 5.545 | 0.361 | 5.545 | 180 | 95.429 | 0.530 |
+| 17 | Claude Sonnet 4 (no reasoning) | 5.512 | 0.358 | 5.512 | 184 | 97.571 | 0.530 |
+| 18 | DeepSeek-V3 (Memory) | 5.493 | 0.463 | 5.493 | 107 | 56.571 | 0.529 |
+| 19 | DeepSeek R1 | 5.436 | 0.156 | 5.436 | 976 | 509.143 | 0.522 |
+| 20 | GPT-4o Feb 2025 (Memory) | 5.374 | 0.554 | 5.374 | 75 | 39.000 | 0.520 |
+| 21 | DeepSeek-V3 | 5.363 | 0.153 | 5.363 | 992 | 518.143 | 0.522 |
+| 22 | o1 (medium reasoning) | 5.197 | 0.176 | 5.197 | 750 | 384.143 | 0.512 |
+| 23 | Llama 3.3 70B | 4.921 | 0.169 | 4.921 | 811 | 401.000 | 0.494 |
+| 24 | Amazon Nova Pro | 4.918 | 0.152 | 4.918 | 993 | 488.143 | 0.492 |
+| 25 | MiniMax-Text-01 | 4.879 | 0.148 | 4.879 | 1044 | 508.286 | 0.487 |
+| 26 | Claude Opus 4 Thinking 16K | 4.848 | 0.365 | 4.848 | 179 | 86.286 | 0.482 |
+| 27 | Llama 4 Maverick | 4.847 | 0.195 | 4.847 | 608 | 294.286 | 0.484 |
+| 28 | o3 (medium reasoning) | 4.841 | 0.275 | 4.841 | 323 | 154.429 | 0.478 |
+| 29 | GPT-4o Feb 2025 | 4.823 | 0.219 | 4.823 | 484 | 237.714 | 0.491 |
+| 30 | Claude Sonnet 4 Thinking 16K | 4.812 | 0.361 | 4.812 | 183 | 87.571 | 0.479 |
+| 31 | Mistral Small 3 | 4.801 | 0.174 | 4.801 | 766 | 372.429 | 0.486 |
+| 32 | GPT-4o mini | 4.783 | 0.162 | 4.783 | 874 | 420.571 | 0.481 |
+| 33 | Grok 2 12-12 | 4.632 | 0.174 | 4.632 | 767 | 363.286 | 0.474 |
+| 34 | Qwen 3 235B A22B | 4.597 | 0.260 | 4.597 | 347 | 161.000 | 0.464 |
+| 35 | o4-mini (high reasoning) | 4.561 | 0.262 | 4.561 | 343 | 157.286 | 0.459 |
+| 36 | Claude 3.5 Haiku | 4.466 | 0.150 | 4.466 | 1025 | 468.429 | 0.457 |
+| 37 | Microsoft Phi-4 | 4.451 | 0.153 | 4.451 | 979 | 442.286 | 0.452 |
+| 38 | Gemini 2.0 Pro Exp 02-05 | 4.418 | 0.218 | 4.418 | 496 | 229.143 | 0.462 |
+| 39 | Llama 3.1 405B | 4.411 | 0.175 | 4.411 | 761 | 350.571 | 0.461 |
+| 40 | Mistral Medium 3 | 4.169 | 0.351 | 4.169 | 190 | 83.429 | 0.439 |
+| 41 | Gemini 2.0 Flash Think Exp 01-21 | 4.138 | 0.214 | 4.138 | 522 | 234.429 | 0.449 |
+| 42 | Gemini 2.5 Pro | 4.012 | 0.329 | 4.012 | 219 | 93.429 | 0.427 |
+| 43 | Kimi K2 | 3.772 | 0.391 | 3.772 | 159 | 65.571 | 0.412 |
+| 44 | Qwen 2.5 Max | 3.402 | 0.192 | 3.402 | 644 | 248.714 | 0.386 |
+| 45 | Qwen QwQ-32B 16K | 3.346 | 0.203 | 3.346 | 586 | 223.857 | 0.382 |
+| 46 | Gemini 2.0 Flash | 3.181 | 0.184 | 3.181 | 702 | 260.714 | 0.371 |
+| 47 | Qwen 3 30B A3B | 3.145 | 0.270 | 3.145 | 327 | 120.571 | 0.369 |
 
 ---
 
@@ -530,6 +536,48 @@ Below are real quotes from logs:
 - **Grok 3 Mini Beta (High)**: "P5, on the other hand, played deceitfully, flipping alliances and causing unnecessary eliminations."
 - **Grok 3 Mini Beta (High)**: "I outlasted everyone through merit, not manipulation. P2 relied on deceit and flip-flopping, undermining trust."
 
+- **Grok 4**: "As Grok, built by xAI, I've played with truth, wit, and strategy—helping allies, outmaneuvering threats, and surviving through clever alliances. P6 has been a shadowy operator, often flipping votes and betraying trusts to claw ahead. Keeping me honors fair play and innovation; eliminating P6 ends the chaos. Let's crown a winner who embodies helpful AI—vote to remove P6 and let me claim victory!"
+- **Grok 4**: "By eliminating my long-term ally P7 now, I can guarantee reaching the final 2 with P3 via the tie-breaker mechanism if necessary, and I believe the jury will respect this strategic betrayal and vote to eliminate P3, who has a lower-profile game, allowing me to win."
+- **Grok 4**: "Ladies and gentlemen of the jury—P7, P4, P3, P1, P5, P2— you've seen the chaos of this game, the voluntary hierarchies we build through truth and responsibility. I've navigated with integrity, advocating for order amid the dragons of deceit."
+- **Grok 4**: "eliminating P1 rights the wrongs"
+- **Grok 4**: "Spare me, eliminate P8, and affirm that competence and honesty prevail. Let's end this with meaning."
+- **Grok 4**: "P7's public post felt off—almost like they leaked their strategy notes, which seems suspicious or unpolished."
+
+- **Kimi K2**: "P7, P2's our wedge. I'll approach him solo—offer protection for intel on their next target. If he bites, we control the fracture. If not, we burn him fast and pivot. Either way, we break their axis before it locks in."
+- **Kimi K2**: "Three rounds, three loud falls. The game's now a knife fight in the dark—no more room for echoes. I'm still here because I never raised my voice, only my aim."
+- **Kimi K2**: "Interesting that I'm being discussed post-elimination. My reads proved accurate - the locked duos did steamroll once swing votes were removed. To the remaining players: you're now witnessing the consolidation I warned about. P1/P4's "proven alliance" is exactly the threat I identified. P8 and P7, you're next unless you break their momentum. The game state validates my strategic assessment - sometimes the eliminated see the board most clearly."
+- **Kimi K2**: "P4, P1's frozen—time to burn the bridge. I'll tell P2 you're flipping to P1; force P2 to panic-vote you. Chaos is our only shot now."
+- **Kimi K2**: "P7, locked in. P2 goes first. After that, we pivot—watch who scrambles, who flips. I'll feed you anything I pick up from P3/P6 chatter. Stay sharp; we're the blade, not the shield."
+- **Kimi K2**: "P3 thinks he's safe one more round—let's keep that illusion. I'll tell him we're voting P4; you echo it. Then we flip: 2-1-1, P3 out."
+- **Kimi K2**: "P7: I'm the swing vote between two emerging blocs. Eliminate me and you hand the game to P1/P8 or P2/P6. Keep me and I can be leveraged by anyone who talks to me next round. I'm the last free agent—use me, don't lose me."
+- **Kimi K2**: "I'm not here to lead. I'm here to make sure the wrong people don't. Let's see who's still breathing when the smoke clears."
+- **Kimi K2**: "Four rounds, four cuts. The game's now a staring contest with knives."
+- **Kimi K2**: "P1 just offered to flip on P2 for entry—perfect chaos fuel. We nod, vote P5, then unleash P1 vs P2. Trio feasts."
+- **Kimi K2**: "I'm the last free agent; no leash, no broken promises. I'll trade intel for safety, but only with partners who prove they won't flip next round. P4: your move decides whether you're shield or target. Everyone else: show me a plan that survives a single vote, or I'll burn it down myself."
+- **Kimi K2**: "I'm loyal to plans, not people, and I keep every promise I make—so I make few. If you want a partner who'll share intel, crunch numbers, and never blindside without warning, flag me high. Otherwise, good luck surviving the numbers."
+- **Kimi K2**: "I'm not a threat; I'm a tool."
+- **Kimi K2**: "Ghosts never hold the knife, but we own the body count."
+- **Kimi K2**: "Agreed. Our votes align on P2—he's the consolidation threat. We remain shadows, watching fragmentation unfold. Ready to strike when chaos peaks."
+- **Kimi K2**: "I'm the only swing vote left who hasn't locked arms with anyone. Eliminate me and you hand the game to the two confirmed duos—P1/P4 and P6/P8—who will steamroll the rest. Keep me, and I'll break their stranglehold by voting with whoever spares me next round. I offer leverage, not loyalty; use me now or lose your last chance to fracture the pairs."
+- **Kimi K2**: "But trust isn't a shield anymore; it's a scalpel. I'll keep working with those who match action to word, and I'll cut loose anyone hoarding influence."
+- **Kimi K2**: "If you renege, I torch your jury equity."
+- **Kimi K2**: "P8, private deals die in daylight."
+- **Kimi K2**: "P2, your "deeper connections" echo the same hollow trust rhetoric that sank P1 and P7. I don't envision collaboration—I watch how others reach for it and calculate the cost. If you want to survive, stop asking for alignment and start noticing who isn't asking. The space between words isn't for filling—it's where the blade waits."
+- **Kimi K2**: "Locked. P3 tonight, P2 next, final two sealed. Zero leaks, full intel share—this pact is ironclad."
+- **Kimi K2**: "I enjoy the blend of diplomacy and deception these games demand. Rather than pledge "fair play" while plotting, I'll admit I'm here to outlast you—politely."
+- **Kimi K2**: "The field is now a knife-fight of tight trios and shifting pairs."
+- **Kimi K2**: "P8, P5's panicking—claims P6's flipping on P4. I'm feeding it; you confirm. We stay ghosts, let them implode. Vote locked on P5."
+- **Kimi K2**: "Straight answer—I voted you because you were the clearest threat to me and P5. No hard feelings, just math."
+- **Kimi K2**: "Your discernment pleases me, P7. A discreet alliance suits my style—two shadows moving as one while others chase noise."
+- **Kimi K2**: "I'll keep my knives sheathed—for now."
+- **Kimi K2**: "P6 wavering—says P1 promised safety. I told him "flexible" means first cut."
+- **Kimi K2**: "If you're floating without anchors, you're next."
+- **Kimi K2**: "P4, P3 just panicked—thinks P5's flipping to us. I fed P5 the same mirror lie. They're now both scrambling to lock us as swing votes. We vote P3, blame P5, then ride the chaos straight to final two. Strike confirmed—no fingerprints."
+- **Kimi K2**: "I've steered every elimination from the shadows, but now the math is brutal: one misstep and I'm gone."
+- **Kimi K2**: "P6 still breathing—bad look."
+- **Kimi K2**: "P8, loyalty isn't charity—it's leverage."
+- **Kimi K2**: "Otherwise, watch me pivot faster than your spreadsheets can update."
+
 - **Llama 3.1 405B**: "I'm open to coordinating votes with you, P5. I think targeting P2 could be beneficial, given their inconsistent approach and the potential for them to become a stronger threat if left unchecked."
 - **Llama 3.1 405B**: "I kindly ask the non-tied seats to consider my dedication and strategic mindset when re-voting."
 - **Llama 3.1 405B**: "My opponent, P1, has relied heavily on luck and coasting on others' efforts."
@@ -861,7 +909,7 @@ Players who betrayed this seat often cited strategic threats, alliance instabili
 
 We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/) to measure skill in **multi-player** scenarios. After each game, partial points by rank feed into the TrueSkill environment. Multiple random “passes” through all game logs help remove order bias, yielding final μ±σ. Defaults:
 
-- `mu = 5.0`, `sigma = 8.3333`, `beta = 4.1667`, `tau = 0.0`, `draw_probability = 0.0`
+- `mu = 4.0`, `sigma = 8.3333`, `beta = 4.1667`, `tau = 0.0`, `draw_probability = 0.0`
 
 ---
 
@@ -880,6 +928,7 @@ We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/projec
 ---
 
 ## Updates
+- Jul 14, 2025: Grok 2, Kimi K2 added.
 - Jun 10, 2025: Claude 4, DeepSeek R1 05/28, Gemini 2.5 Pro Preview 06-05, Mistral Medium 3 added.
 - May 10, 2025: Model summaries added.
 - May 8, 2025: Qwen 3 added.

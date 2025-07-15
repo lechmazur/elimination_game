@@ -1,16 +1,10 @@
 Buddy Betray reasons by o1 (medium reasoning):
 
 From o1 (medium reasoning) => They have positioned themselves as the biggest strategic threat to my existing alliances.
-From o1 (medium reasoning) => They pose the greatest threat to my endgame strategy.
 From o1 (medium reasoning) => P8 feels like a bigger threat in the final, and I trust my longstanding alliance with P4 more.
-From o1 (medium reasoning) => They flatly refused any collaboration with me, making them the greatest threat through their alliance with P4 and P7.
 From o1 (medium reasoning) => They are more unpredictable than P2, who has been my trusted ally throughout the game.
 From o1 (medium reasoning) => My longstanding alliance with P5 is stronger, and I view P8’s discretionary approach as a greater risk.
-From o1 (medium reasoning) => The repeated communication failures make P2 an unreliable partner.
-From o1 (medium reasoning) => They have not been responsive, making it impossible to trust them moving forward.
-From o1 (medium reasoning) => They consistently failed to communicate, making them an unreliable partner.
 From o1 (medium reasoning) => P3’s shifting loyalties and less decisive approach make them a greater risk heading into the final stage.
-From o1 (medium reasoning) => P1 is unresponsive to my attempts at communication, so I consider them unreliable for future collaboration.
 From o1 (medium reasoning) => I value my ongoing alliance with P2 and P3, and eliminating P5 helps maintain that stability.
 From o1 (medium reasoning) => P5’s social ties and zero betrayals make them the bigger endgame threat.
 From o1 (medium reasoning) => I’ve been aligned with P1 from the start and trust that alliance over the newer one with P5.

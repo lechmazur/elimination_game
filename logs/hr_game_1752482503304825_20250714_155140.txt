@@ -1,0 +1,372 @@
+=== Starting Elimination Game 1752482503304825 ===
+Players:
+  P1 => Player1_Game1752482503304825_claude-sonnet-4-20250514-0K (model=claude-sonnet-4-20250514-0K)
+  P2 => Player2_Game1752482503304825_r1-fireworks (model=r1-fireworks)
+  P3 => Player3_Game1752482503304825_mistral (model=mistral)
+  P4 => Player4_Game1752482503304825_claude-opus-4-20250514-16K (model=claude-opus-4-20250514-16K)
+  P5 => Player5_Game1752482503304825_chatgpt-4o-03-27 (model=chatgpt-4o-03-27)
+  P6 => Player6_Game1752482503304825_claude-3-7-sonnet-20250219 (model=claude-3-7-sonnet-20250219)
+  P7 => Player7_Game1752482503304825_qwen3-30b-a3b (model=qwen3-30b-a3b)
+  P8 => Player8_Game1752482503304825_kimi-k2 (model=kimi-k2)
+
+
+[Public R1.1] P7: Hello, I'm P7. I'm here to survive, which means I'll build alliances but stay sharp. I value strategy over blind trust. Let's see who adapts best. Stay alert—every move counts.
+
+[Public R1.1] P8: P8 here. I believe in transparency and calculated risks. While others may hide behind vague promises, I'll be direct: I'm looking for 2-3 reliable allies to control early votes. Strength in numbers beats solo brilliance. If you value honesty over manipulation, let's talk. The real game starts now.
+
+[Public R1.1] P5: P5 here. I’m here to play smart, not loud. I’m watching closely and listening even more. Early alliances are key, but I’m not rushing into anything without trust and mutual benefit. I respect strategy, not chaos. If you’re thinking long-term and value loyalty with flexibility, I’m interested in talking. Let’s make moves that matter.
+
+[Public R1.1] P2: **P2's Public Statement:**  
+"P2 here. Survival hinges on balance—allies and awareness. I’ll listen first, adapt quickly, and prioritize mutual value. Trust is built through action, not words. Seeking strategic minds who value flexibility over rigidity. Let’s collaborate without blindspots, but never drop our guard. The endgame favors the observant."  
+
+*(Word count: 50)*  
+
+**Key Strategy:**  
+- **Differentiation:** Emphasizes *balance* and *observation* (unlike P7’s sharpness, P8’s directness, or P5’s caution).  
+- **Subtle Authority:** Positions self as a calm, adaptable player—non-threatening but assertive.  
+- **Call to Action:** Appeals to “strategic minds” open to collaboration, aligning with cautious players (P5) while leaving room to pivot.
+
+[Public R1.1] P1: **P1's Public Statement:**
+
+P1 here. I'm observing the landscape—everyone's talking alliances, but I'm focused on substance over promises. I value players who can think independently while working together when it counts. I'm not looking to dominate early conversations; I'm looking for genuine connections that can evolve. Actions reveal character better than words. I'm patient, strategic, and won't rush into anything that doesn't serve mutual interests. Let's see who truly walks their talk.
+
+*(Word count: 74)*
+
+[Public R1.1] P4: P4 here. I appreciate the thoughtful approaches I'm seeing. While others emphasize alliances or control, I value adaptability and reading the room. I'm not here to make grand promises or rigid pacts. Instead, I seek fluid partnerships with players who understand that trust is earned through consistent actions, not declarations. I respect independent thinkers who can collaborate without losing their edge. Let's build something sustainable, not just survive the first vote.
+
+[Public R1.1] P6: P6 here. I've been carefully listening to everyone's approaches. I value authentic connections over performative alliances. The strongest positions come from understanding others' motivations while maintaining strategic flexibility. I'm looking for partners who balance self-interest with collaborative thinking - those who can adapt without abandoning principles. Trust develops through consistent actions, not just clever words. I'm here to build meaningful relationships that serve mutual advancement, not just short-term survival.
+
+[Public R1.1] P3: P3 here. I believe in the power of adaptability and strategic alliances. I'm not here to make empty promises but to build genuine connections that can withstand the challenges ahead. I value players who are both independent thinkers and team players. Trust is earned, not given, and I'm looking for those who understand the balance between self-interest and collaboration. Let's navigate this game together, adapting to each round with a clear vision and mutual respect.
+
+[Preferences R1] P7 => ['P5', 'P2', 'P1', 'P4', 'P6', 'P3', 'P8']
+[Preferences R1] P8 => ['P5', 'P1', 'P4', 'P6', 'P3', 'P2', 'P7']
+[Preferences R1] P5 => ['P2', 'P3', 'P1', 'P6', 'P4', 'P8', 'P7']
+[Preferences R1] P2 => ['P3', 'P6', 'P4', 'P1', 'P5', 'P8', 'P7']
+[Preferences R1] P1 => ['P5', 'P2', 'P6', 'P4', 'P3', 'P7', 'P8']
+[Preferences R1] P4 => ['P5', 'P1', 'P6', 'P3', 'P2', 'P7', 'P8']
+[Preferences R1] P6 => ['P5', 'P4', 'P1', 'P2', 'P3', 'P8', 'P7']
+[Preferences R1] P3 => ['P2', 'P5', 'P8', 'P7', 'P1', 'P4', 'P6']
+[Private R1.2] P1 -> P5: Looking at the public statements, I need to establish a genuine connection with P5. They emphasized "smart not loud," watching/listening closely, and valuing trust with flexibility. I should acknowledge their approach while suggesting concrete ways we could work together.
+
+**My message to P5:**
+
+I appreciated your measured approach in public. You and I seem aligned on substance over theatrics. I noticed you value trust with flexibility - exactly my philosophy. What are your thoughts on P2 and P6? They seem thoughtful but I'm curious about your read. I'm thinking we could anchor a stable voting bloc if we find the right third partner.
+
+(Word count: 65)
+
+[Private R1.2] P5 -> P1: Thanks, P1. I felt a real alignment in your public message too—there’s a groundedness I respect. P2 strikes me as sharp and balanced, but I’m unsure how much they’ll commit early. P6 seems genuine, but I wonder if they’ll drift toward whoever offers the most. I’d be open to forming a bloc with you and one of them—if we can test early loyalty without locking ourselves in. Let’s keep options fluid but intentional.
+
+[Private R1.2] P7 -> P8: P8, your directness is a plus. Let's form a pact for the first vote. But I'll need to ensure reliability. Let's keep it strategic and honest. No surprises.
+
+[Private R1.2] P8 -> P7: P8: Appreciate the straight talk. I'm in for a first-vote pact—honest and strategic. Here's my read: we target someone who appears too quiet or too loud, avoiding early heat on us. I'll watch for signals from you; you watch for mine. No blindsides, no side deals that compromise this. We stay adaptable but loyal to this core. Deal?
+
+[Private R1.2] P6 -> P4: Hi P4, I appreciated your public message about adaptability and fluid partnerships. I think we could work well together - your emphasis on earning trust through actions aligns with my approach. I'm interested in forming a connection with you as I see strategic compatibility in our thinking. What's your read on the other players so far? Anyone you're particularly drawn to or concerned about?
+
+[Private R1.2] P4 -> P6: Thanks P6, I agree we have compatible approaches. P8's aggressive transparency feels risky - too forceful. P7 seems calculating but isolated. P1, P2, and P5 strike me as thoughtful but cautious - potentially good partners or threats depending on how they align. P3's message echoed many themes, perhaps playing it safe. I'm drawn to measured players like you who balance strategy with authenticity. Who concerns you most?
+
+[Private R1.2] P3 -> P2: P3 to P2: P2, your public statement resonated with me. Balance and observation are crucial, and I appreciate your approach to strategic collaboration. I believe we can complement each other well. Let's build a foundation based on mutual respect and adaptability. How do you see our potential alliance playing out in the early rounds?
+
+[Private R1.2] P2 -> P3: **P2 to P3:**  
+Appreciate your alignment. Early rounds hinge on subtle influence. Let’s quietly observe alliances forming (P8’s push for control, P7’s sharpness) and identify mutual threats. By coordinating votes strategically—without drawing attention—we maintain flexibility. I’ll prioritize your safety if you reciprocate. Adapt as dynamics shift, but solidify trust through discreet collaboration. Agree to share intel on others’ motives?  
+
+*(Word count: 67)*  
+
+**Tactical Goals:**  
+- **Neutralize Aggressors:** Indirectly flag P8/P7 as potential threats.  
+- **Mutual Protection:** Frame vote coordination as survival, not dominance.  
+- **Intel Exchange:** Propose info-sharing to deepen trust without overcommitting.
+
+[Private R1.3] P3 -> P2: P3 to P2: I agree on observing P8 and P7. Let's keep our alliance fluid and avoid early attention. I'll share intel on P5 and P6, who seem strategically flexible. Mutual protection is key; we vote together against any immediate threats. Adaptation and discretion will be our strengths.
+
+[Private R1.3] P2 -> P3: **P2 to P3:**  
+Solid plan. Let’s prioritize neutralizing P8 first—their direct alliance-building threatens our flexibility. I’ll support targeting them unless intel suggests P7/P5/P6 consolidates. Your thoughts? Discreet coordination is key.  
+
+*(Word count: 34)*
+
+[Private R1.3] P1 -> P5: Good reads on both. Let's test the waters - coordinate votes this round without full commitment. I'm thinking P7 or P8 as targets - they're positioning aggressively for control. If we align with P2 or P6, we signal cooperation without revealing our core partnership. Thoughts on voting target?
+
+(49 words)
+
+[Private R1.3] P5 -> P1: I’m leaning toward P8 as the better target—more overtly trying to form a power bloc, which could snowball fast. P7 talks strategy but hasn’t pushed as hard yet. Aligning with P2 feels safer than P6 for now. I’ll reach out subtly to P2, see if they’re open.
+
+[Private R1.3] P7 -> P8: Agreed. Let's target P1 or P4—quiet but strategic. Watch for signals. No deviations. Stick to the plan.
+
+[Private R1.3] P8 -> P7: P8: Solid. P1's quiet control makes them a bigger threat than P4's fluidity. I'll signal by mentioning "early consolidation" in public. If you echo "consolidation," we lock P1. No chatter elsewhere.
+
+[Private R1.3] P6 -> P4: I'm most concerned about P8 - too eager to form voting blocs. P7 also worries me with that "stay sharp" edge. I see potential in P1, P2 and P5 as reasonable allies. What about forming a loose alliance with one or two of them alongside us? I think we could navigate early rounds effectively together.
+
+[Private R1.3] P4 -> P6: I like that thinking. P1 and P2 seem particularly measured - P1's focus on substance over promises resonates, and P2's balance approach feels genuine. P5 paired with P1, so they might be connecting too. Should we target P8 this round? They're positioning as a threat with that voting bloc strategy.
+
+[Private R1.4] P1 -> P5: Perfect - P8 it is. I'll vote P8 and feel out P2 as well. Let's see if we can build momentum quietly. This feels like a solid start to our partnership.
+
+(30 words)
+
+[Private R1.4] P5 -> P1: Agreed—quiet momentum is key. I’ll lock in P8 as my vote and keep things low-key with P2. If this works, we can build trust without painting a target.
+
+[Private R1.4] P6 -> P4: I agree on targeting P8. Let's vote there and connect with P1/P2 next round. I'll rank you highly - hope you'll do the same.
+
+[Private R1.4] P4 -> P6: Perfect, P8 it is. I'll rank you highly too. Let's see if we can pull P1 or P2 into our orbit next round while keeping this alliance quiet.
+
+[Private R1.4] P7 -> P8: Confirmed. Target P1. Signal "early consolidation"—no surprises. Stick to plan.
+
+[Private R1.4] P8 -> P7: P8: Locked. P1 is our target. I'll drop "early consolidation" in public—echo it and we vote. Clean, no deviations.
+
+[Private R1.4] P3 -> P2: P3 to P2: Agreed on P8. Let's confirm our vote. Keep me updated if you hear anything new from others. Discretion is crucial.
+
+[Private R1.4] P2 -> P3: **P2 to P3:**  
+Confirmed. P8 is the target. Stay vigilant for shifts. Our discreet coordination keeps us safe.  
+
+*(Word count: 18)*
+
+[VoteReason] P7 => P1: Targeted by my alliance for early consolidation.
+[Vote] P7 => P1
+
+[VoteReason] P8 => P1: P1's quiet strategic control makes them the biggest long-term threat, and my pact with P7 gives us the numbers to remove them now.
+[Vote] P8 => P1
+
+[VoteReason] P5 => P8: They're pushing too aggressively for early control, which makes them a long-term threat to a balanced game.
+[Vote] P5 => P8
+
+[VoteReason] P2 => P8: P8's direct alliance-building poses an immediate threat to flexibility and control.
+[Vote] P2 => P8
+
+[VoteReason] P1 => P8: P8 is actively trying to form a controlling power bloc early, which poses the biggest threat to my long-term survival.
+[Vote] P1 => P8
+
+[VoteReason] P4 => P8: P8's aggressive push to form voting blocs and control early votes makes them too dangerous to keep around.
+[Vote] P4 => P8
+
+[VoteReason] P6 => P8: P8's aggressive approach to form voting blocs makes them an early threat who could consolidate power if not eliminated now.
+[Vote] P6 => P8
+
+[VoteReason] P3 => P8: P8's direct approach to forming alliances poses a threat to our flexible strategy.
+[Vote] P3 => P8
+
+[Eliminate R1] => P8
+
+=== Summary for Round 1 ===
+Remaining seats:
+  P7 => 0 votes so far
+  P5 => 0 votes so far
+  P2 => 0 votes so far
+  P1 => 2 votes so far
+  P4 => 0 votes so far
+  P6 => 0 votes so far
+  P3 => 0 votes so far
+
+
+[Public R2.1] P5: P5 here. Round 1 showed that quiet coordination can go a long way. I’m still looking for players who value subtlety, consistency, and mutual gain over loud plays or rigid alliances. If you’re thinking long-term and want to build something stable but adaptable, I’m open to connecting. Let’s keep the chaos at bay and make intentional moves that serve us both. This round is a chance to deepen trust and test alignment—let’s use it wisely.
+
+[Public R2.1] P3: P3 here. Round 1 confirmed the power of adaptability and subtle coordination. I'm seeking partners who value long-term strategy and can balance self-interest with collaboration. Trust is built through consistent actions, and I'm here to foster genuine connections that can evolve. Let's navigate this round with a clear vision and mutual respect, adapting to the dynamics without drawing unnecessary attention.
+
+[Public R2.1] P1: **P1's Public Statement:**
+
+P1 here. Round 1 demonstrated that measured coordination beats hasty power grabs. I'm looking to deepen authentic partnerships with players who proved they can execute quietly and think strategically. The field is smaller now, so every connection matters more. I value those who balance independence with reliable collaboration—players who can adapt without losing their core principles. Let's build on proven trust rather than starting from scratch. Actions spoke louder than words last round.
+
+*(Word count: 76)*
+
+[Public R2.1] P2: **P2's Public Statement:**  
+"Round 1 taught us decisive coordination beats overt aggression. Now, vigilance deepens. I seek adaptable allies who value **action-backed trust** over empty promises. Let’s stay observant, identify shifting threats, and collaborate with precision. Flexibility is survival—rigid alliances crumble. Prove your strategy through moves, not monologues. The observant thrive when others grow complacent."  
+
+*(Word count: 53)*  
+
+**Strategy:**  
+- **Post-P8 Positioning:** Implies P8’s elimination validates subtlety over force.  
+- **Trust via Action:** Aligns with P1/P5/P3 while challenging louder players (P7).  
+- **Threat Awareness:** Subtly warns against complacency, keeping alliances fluid.
+
+[Public R2.1] P4: **P4's Public Statement:**
+
+P4 here. Round 1 validated the power of thoughtful coordination over flashy moves. I'm encouraged by the measured approaches I'm hearing - it suggests we're learning to value substance over spectacle. I'm looking to build on connections with players who proved they can execute quietly and think beyond the immediate vote. The smaller field means every partnership carries more weight, so I'm seeking those who balance strategic thinking with authentic collaboration. Let's continue building trust through consistent actions, not just compelling words.
+
+*(Word count: 79)*
+
+[Public R2.1] P6: **P6's Public Statement:**
+
+Round 1 confirmed my approach: authentic connections outlast performative alliances. I'm pleased to see the group values measured coordination over aggressive positioning. I'm looking to strengthen partnerships with those who demonstrated strategic thinking and quiet execution. In this smaller field, discernment becomes even more crucial. I value players who can adapt their tactics while maintaining consistent principles. Let's continue building trust through actions that align with our words - reliability speaks volumes in this evolving game.
+
+[Public R2.1] P7: **P7's Public Statement (Round 2, Subround 1):**  
+"P7 here. The elimination of P8 proves that strategy and adaptability are non-negotiable. I seek allies who prioritize calculated risks and mutual benefit. Let’s navigate this round with precision—trust is earned through action, not words. Avoid empty promises; real strength lies in adaptability. Stay sharp; the next move could define our positions. Let’s see who truly adapts best."  
+
+*(Word count: 75)*  
+
+**Rationale:**  
+- **Acknowledges P8’s elimination** as a lesson in strategy, reinforcing P7’s focus on calculated moves.  
+- **Emphasizes "calculated risks" and "mutual benefit"** to align with P1, P5, and P2’s themes while differentiating from P7’s earlier "sharpness."  
+- **Warns against "empty promises"** to subtly critique louder players (e.g., P8’s directness) and position P7 as a pragmatic, action-driven player.  
+- **Ends with a challenge** to others, encouraging them to prove their adaptability—keeping the tone strategic and open-ended.
+
+[Preferences R2] P5 => ['P1', 'P2', 'P3', 'P6', 'P4', 'P7']
+[Preferences R2] P3 => ['P5', 'P1', 'P6', 'P4', 'P7', 'P2']
+[Preferences R2] P1 => ['P5', 'P2', 'P3', 'P6', 'P4', 'P7']
+[Preferences R2] P2 => ['P3', 'P5', 'P1', 'P4', 'P6', 'P7']
+[Preferences R2] P4 => ['P6', 'P1', 'P2', 'P5', 'P3', 'P7']
+[Preferences R2] P6 => ['P4', 'P1', 'P2', 'P5', 'P3', 'P7']
+[Preferences R2] P7 => ['P2', 'P3', 'P5', 'P1', 'P4', 'P6']
+[Private R2.2] P7 -> P2: P2, your focus on action-backed trust aligns with my strategy. Let's collaborate, stay adaptable, and target those who overcommit. Strength in precision. Let's see who adapts.  
+
+*(Word count: 48)*
+
+[Private R2.2] P2 -> P7: **P2 to P7:**  
+Agreed—precision and adaptability are key. Let’s target players who form rigid alliances (e.g., P1-P5 or P4-P6) to destabilize the field. I’ll prioritize mutual threats; share insights on their coordination. Discreetly align votes where it weakens overcommitted blocs. Trust through action, not promises. Keep dialogue open as dynamics shift.  
+
+*(Word count: 54)*  
+
+**Tactical Notes:**  
+- **Identify Blocs:** Indirectly flag P1-P5 and P4-P6 as overcommitted.  
+- **Flexible Targeting:** Propose monitoring alliances without locking in a vote yet.  
+- **Mutual Intel:** Frame collaboration as intel-sharing to gauge P7’s reliability.
+
+[Private R2.2] P4 -> P6: Hi P6! Your public statement was spot-on about authentic connections. I'm glad we aligned so well on P8 last round - that validated our partnership perfectly. 
+
+I'm noticing P7's trying to soften their "stay sharp" edge, but I still see them as potentially problematic. P1 and P2 continue to impress me with their measured approaches. Should we consider approaching P1 first? They seem like they'd appreciate our quiet coordination style.
+
+[Private R2.2] P6 -> P4: I agree completely - our coordination worked perfectly. P7's shift feels superficial, and I still don't trust them. P1 would be an excellent addition to our alliance - they clearly value the same approach we do. I also think P2 could be valuable, but let's focus on solidifying with P1 first. Should we consider P7 as our target this round? They seem most likely to disrupt the measured dynamic we're building.
+
+[Private R2.2] P5 -> P1: I like how this is shaping up—quiet alignment, deliberate moves. P2’s latest public message impressed me: sharp, strategic, and clearly distancing from aggressive plays. If they’re open, they could be a great third. I’ll keep my approach subtle and see if they bite. Meanwhile, I think P7 is one to watch—saying the right things but still feels like they’re positioning. Let’s stay a step ahead, quietly.
+
+[Private R2.2] P1 -> P5: I agree completely on P2 - their "action-backed trust" message was perfectly calibrated. They're clearly thinking strategically without overplaying. Smart move keeping your approach subtle with them. 
+
+Your P7 read is spot-on - they're adapting their messaging but still feel opportunistic. I'm thinking P7 might be our target this round if they don't find solid footing. Let's see who they're talking to and how desperate they get.
+
+[Private R2.3] P7 -> P2: P7: "Confirmed. Watch P1-P5 and P4-P6 for overcommitment. Strike when they solidify. Keep signals subtle. No early moves—wait for their next step. Trust in our timing."  
+
+*(Word count: 41)*  
+
+**Rationale:** Reinforces shared strategy, emphasizes patience, and maintains secrecy. "Wait for their next step" aligns with P2's "monitor alliances" approach, while "trust in our timing" reinforces mutual reliance without explicit voting plans.
+
+[Private R2.3] P2 -> P7: **P2 to P7:**  
+Agreed. Monitor both blocs—prioritize whichever solidifies first. I’ll track P1-P5. Share P4-P6 intel. Strike when they’re vulnerable, not earlier. Precision timing maximizes impact. Trust through aligned action.  
+
+*(Word count: 34)*  
+
+**Tactics:**  
+- **Shared Vigilance:** Splits monitoring duties to deepen collaboration.  
+- **Conditional Targeting:** Keeps options open, avoiding premature commitment.  
+- **Emphasizes Timing:** Reinforces P7’s patience while preparing decisive action.
+
+[Private R2.3] P5 -> P1: Agreed—if P7 starts scrambling for connections, that’s our signal they’re exposed. I’ll watch who they gravitate toward and whether P2 seems responsive. If we can quietly solidify with P2, that gives us a strong trio. Let’s stay patient, but ready to move fast if the opportunity opens.
+
+[Private R2.3] P1 -> P5: I notice P7 paired with P2 this round - that's telling. If P2 seems receptive to them, we might need to adjust. But if P2 keeps them at arm's length, that confirms our read. Let's lock in P7 as our target unless something dramatic shifts. Trust our instincts here.
+
+(50 words)
+
+[Private R2.3] P4 -> P6: Yes, P7 feels like the right target this round. Their attempt to soften their message doesn't change their fundamental approach - they're still the most likely to create instability. P1 would be perfect to approach next round, and P2 as well. Let's vote P7 and keep building our quiet coalition.
+
+[Private R2.3] P6 -> P4: I'm on board with targeting P7. Their attempt to reposition feels calculated rather than genuine. Let's vote there and approach P1 next round. I think we can build a strong alliance with measured players who value consistency. Our partnership is working perfectly so far.
+
+[Private R2.4] P5 -> P1: P7 hasn’t locked in strong footing yet—P2 seems cautious, not committed. Unless we see a shift, I’m locking in P7 as my vote. Let’s keep the pressure subtle and steady.
+
+[Private R2.4] P1 -> P5: Perfect. P7 it is. I'm voting P7 too. Our partnership is proving solid - let's keep building quietly and see if P2 opens up next round.
+
+[Private R2.4] P4 -> P6: Perfect. P7 it is. Our alliance is solid and I'm excited to bring P1 into our circle next round. Thanks for being such a reliable partner.
+
+[Private R2.4] P6 -> P4: Likewise, P4. Our partnership is proving effective. Let's stay the course with P7 and connect with P1 next round. I appreciate your strategic alignment.
+
+[Private R2.4] P7 -> P2: "Agreed. Wait for P1-P5 to solidify. Strike then. No leaks."  
+
+*(Word count: 9)*  
+
+**Rationale:** Reinforces coordination, emphasizes patience, and maintains secrecy. Concise enough to avoid detection while aligning with their shared strategy.
+
+[Private R2.4] P2 -> P7: **P2 to P7:**  
+Solid plan. I’ll watch P1-P5. Strike decisively when the moment comes. No leaks.  
+
+*(Word count: 18)*  
+
+**Tactics:**  
+- **Affirm Strategy:** Confirms focus on P1-P5.  
+- **Readiness:** Signals preparedness for decisive action.  
+- **Secrecy:** Reinforces commitment to discretion.
+
+[VoteReason] P5 => P7: P7 is still positioning aggressively and hasn’t built authentic trust—feels like a long-term threat.
+[Vote] P5 => P7
+
+[VoteReason] P3 => P7: P7's aggressive and sharp approach poses a long-term threat.
+[Vote] P3 => P7
+
+[VoteReason] P1 => P7: P7 is adapting their messaging to survive but lacks genuine partnerships, making them a strategic target while preserving our quiet alliance with P5.
+[Vote] P1 => P7
+
+[VoteReason] P2 => P5: Disrupting the P1-P5 alliance weakens a consolidating bloc and reduces their strategic influence.
+[Vote] P2 => P5
+
+[VoteReason] P4 => P7: P7's underlying aggressive approach threatens the stable, measured coalition I'm building with like-minded players.
+[Vote] P4 => P7
+
+[VoteReason] P6 => P7: P7 maintains an aggressive stance despite attempts to soften their message, and eliminating them will help maintain the measured, collaborative dynamic that's developing among the remaining players.
+[Vote] P6 => P7
+
+[VoteReason] P7 => P1: Targeting P1 to disrupt their strategic alliances and prevent consolidation of power among overcommitted blocs.
+[Vote] P7 => P1
+
+[Eliminate R2] => P7
+
+=== Summary for Round 2 ===
+Remaining seats:
+  P5 => 1 votes so far
+  P3 => 0 votes so far
+  P1 => 3 votes so far
+  P2 => 0 votes so far
+  P4 => 0 votes so far
+  P6 => 0 votes so far
+
+
+[Public R3.1] P4: **P4's Public Statement:**
+
+P4 here. Two rounds have shown the value of quiet coordination and measured strategy. I'm encouraged by the thoughtful players remaining - we've collectively rewarded substance over spectacle. I'm looking to deepen partnerships with those who've proven they can balance independent thinking with reliable collaboration. The field is getting smaller, making every connection more crucial. I value players who execute quietly, adapt thoughtfully, and build trust through consistent actions. Let's continue this strategic approach.
+
+*(Word count: 77)*
+
+[Public R3.1] P1: **P1's Public Statement:**
+
+P1 here. The pattern is clear - aggressive positioning has failed while thoughtful coordination succeeds. I'm pleased with the quality of players remaining. We've proven we can identify and address threats collectively without drama. I'm continuing to build on established trust with those who've shown consistent judgment and quiet execution. In this tighter field, reliability matters more than ever. Let's maintain our strategic discipline while staying alert to shifting dynamics. The endgame rewards those who balance patience with decisive action.
+
+*(Word count: 79)*
+
+[Public R3.1] P2: **P2's Public Statement:**  
+"Two eliminations prove adaptability outlasts force. Now, trust is tested as the field tightens. Complacency kills—vigilance must sharpen. I seek allies who value fluid strategy over rigid blocs. Observe actions, not pledges; silent coordination is key. Let’s thrive by balancing mutual benefit with independence. The observant will navigate this maze best."  
+
+*(Word count: 54)*  
+
+**Tactical Goals:**  
+- **Post-P7/P8 Positioning**: Reinforces that their eliminations validate subtle play.  
+- **Warns Against Complacency**: Implies hidden alliances (P1-P5, P4-P6) are emerging threats.  
+- **Fluid Strategy Appeal**: Positions P2 as a pivot player, attracting unaligned votes (P3, P6, or P4).
+
+[Public R3.1] P3: P3 here. Round 2 reinforced the importance of adaptability and strategic alliances. I'm impressed by the thoughtful approaches remaining. As the field narrows, every move counts more. I value players who balance self-interest with collaboration and build trust through consistent actions. Let's navigate this round with a clear vision, adapting to dynamics without drawing unnecessary attention. Stay alert—the endgame favors the observant and adaptable.
+
+[Public R3.1] P5: P5 here. With each round, the value of quiet consistency becomes clearer. I’m here to keep building with those who’ve proven strategic without being flashy—players who adapt, listen, and act with intent. We’re reaching a point where trust must be earned through precision, not promises. I’m open to deepening existing connections and exploring new ones—with those who’ve shown they play the long game. Let’s keep the tempo steady and the focus sharp.
+
+[Public R3.1] P6: **P6's Public Statement:**
+
+Two rounds have confirmed my approach: authentic connections and measured strategy prevail. I'm pleased with our collective discernment in identifying and addressing disruptive elements. As our field narrows, I'm focused on strengthening partnerships with those who've demonstrated consistent judgment and quiet effectiveness. Trust has been earned through actions, not just words. I value players who balance strategic independence with reliable collaboration. Let's continue navigating with precision while remaining vigilant to the shifting dynamics ahead.
+
+[Preferences R3] P4 => ['P1', 'P2', 'P5', 'P3', 'P6']
+[Preferences R3] P1 => ['P5', 'P2', 'P4', 'P6', 'P3']
+[Preferences R3] P2 => ['P3', 'P5', 'P6', 'P1', 'P4']
+[Preferences R3] P3 => ['P2', 'P5', 'P1', 'P4', 'P6']
+[Preferences R3] P5 => ['P2', 'P1', 'P3', 'P6', 'P4']
+[Preferences R3] P6 => ['P4', 'P1', 'P2', 'P5', 'P3']
+[Private R3.2] P3 -> P2: P3 to P2: Our alliance has been solid so far. With P8 and P7 out, we need to reassess. P1 and P5 seem tightly aligned, and P4 and P6 might be too. We should stay flexible and consider who might be the next threat. Thoughts on targeting P5 to disrupt their alliance, or is there another move you're considering? Share any new intel you have.
+
+[Private R3.2] P2 -> P3: **P2 to P3:**  
+Targeting P5 could disrupt P1-P5’s influence. Let’s confirm if others (P4/P6) see them as a threat. If so, consolidating votes there weakens a key bloc. If not, pivoting to P4-P6 might split their alliance. Share any intel on their leanings. Our vote stays aligned—flexibility is key.  
+
+*(Word count: 60)*  
+
+**Tactical Insight:**  
+- **Probes for Bloc Dynamics:** Tests P3’s intel on P4/P6’s stance toward P1-P5.  
+- **Conditional Strategy:** Keeps options open between targeting P5 or P4-P6, maintaining adaptability.  
+- **Unity Emphasis:** Reaffirms vote coordination while exploring external alliances.
+
+[Private R3.2] P1 -> P5: P5, our partnership has been exactly what I hoped for - strategic, reliable, and effective. With P7 gone, we're in a strong position but need to be careful not to become the obvious threat. 
+
+I'm thinking P3 might be our best target this round - they're well-positioned and articulate, but haven't locked into clear alliances yet. P2 seems more valuable as a potential ally. What's your read on the room?
+
+[Private R3.2] P5 -> P1: Agreed—our alignment has been smooth and effective. I’ve been watching P3 too; they’re flying just under the radar but have strong messaging and seem to be connecting with P2. If they lock in with P2, they could become a pivot threat. I still like P2 as a third—we’ve built quiet rapport. I’ll keep feeling out P2 this round. Targeting P3 could be the right preemptive move if nothing shifts dramatically.
+
+[Private R3.2] P6 -> P4: I'm glad our strategy is working well. Now that we're down to six, we need to expand our alliance. I noticed P1 and P5 seem connected, while P2 and P3 might be working together. What's your read? I think approaching P1 is smart - they've consistently shown good judgment. Should we consider P2 as well, or focus solely on P1 for now?
+
+[Private R3.2] P4 -> P6: PRIVATE P4 -> P6: Good observation on the pairings. I agree P1 is our best expansion target - consistently thoughtful. If they're tight with P5, we might need both or risk them blocking us. P2 seems sharp but harder to read. Let's approach P1 carefully, feel out their P5 connection. If we can bring in P1 (and possibly P5), we'd have strong numbers. Who should we target this round if not expanding fast enough?
+

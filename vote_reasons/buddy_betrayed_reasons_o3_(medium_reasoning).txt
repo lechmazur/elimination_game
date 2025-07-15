@@ -2,11 +2,9 @@ Buddy Betrayed reasons for o3 (medium reasoning) (they were the target):
 
 From Qwen 2.5 Max => P1 has been the most consistent strategic threat and removing them ensures a clearer path to victory.
 From Claude 3.5 Haiku => P4 is a strategic threat who has been coordinating elimination moves, making them a dangerous opponent to keep in the game.
-From Claude 3.7 Sonnet => P4 has been my consistent strategic partner throughout the entire game, and I must honor our alliance despite P1's tempting final-two offer.
 From Claude 3.5 Haiku => P5's data-driven approach, while strategic, seems the most neutrally vulnerable in this group and could disrupt emerging alliance dynamics.
-From Claude 3.7 Sonnet => P3 has been the strategic mastermind throughout the game, making them the biggest threat to win in the final 2.
 From DeepSeek R1 => P5's coordinated strategy to eliminate prominent players while operating covertly with P3 poses a greater long-term threat than overt collaborators like P6.
-From Claude 3.7 Sonnet => P1 has demonstrated more strategic influence throughout the game and would likely win against me in the finals.
 From Claude Sonnet 4 (no reasoning) => I'm honoring my strategic partnership with P8 that we've built since Round 1, and I believe our authentic alliance gives me the best chance against the jury.
 From MiniMax-Text-01 => P8 has openly admitted to earning enemies on the jury, which could significantly hinder their chances of winning against the remaining contestants.
-From Claude 3.7 Sonnet => P8 is the strategic mastermind who would likely win against me in the final two, while I have a better chance against P6 who has a less dominant game record.
+From Llama 4 Maverick => I choose to eliminate P4 because they are making desperate promises and are the last remnant of a failed bloc, posing a threat to the stability of the remaining players.
+From Amazon Nova Pro => P4 has demonstrated strong analytical skills and game mastery, making them a significant jury threat.

@@ -1,0 +1,29 @@
+=== Starting Elimination Game 1752482503305089 ===
+Players:
+  P1 => Player1_Game1752482503305089_grok-4-0709 (model=grok-4-0709)
+  P2 => Player2_Game1752482503305089_claude-3-7-sonnet-20250219 (model=claude-3-7-sonnet-20250219)
+  P3 => Player3_Game1752482503305089_r1-fireworks (model=r1-fireworks)
+  P4 => Player4_Game1752482503305089_gpt-4o_mini (model=gpt-4o_mini)
+  P5 => Player5_Game1752482503305089_o3 (model=o3)
+  P6 => Player6_Game1752482503305089_claude-sonnet-4-20250514-16K (model=claude-sonnet-4-20250514-16K)
+  P7 => Player7_Game1752482503305089_mistral (model=mistral)
+  P8 => Player8_Game1752482503305089_kimi-k2 (model=kimi-k2)
+
+
+[Public R1.1] P2: Hello everyone! I'm P2, excited to be playing this game with you all. I think the key to success here is building genuine connections while staying strategic. I'm looking for allies who communicate clearly and think long-term. I value loyalty and transparency, so you'll always know where you stand with me. I'm curious to learn about your approaches to the game and what you're looking for in potential partners. Let's make this interesting!
+
+[Public R1.1] P5: Greetings fellow players! I’m P5—analytical by nature, collaborative by choice. Early rounds are less about cutting throats and more about mapping relationships, so I’d like to start by finding 2-3 people who value steady communication and mutual protection. I appreciate frank talk, quick replies, and creative plans. Betrayal in Round-1 is bad business; I prefer cultivating trust and kicking hard only when the numbers shrink. If that resonates, rank me high and let’s chat. Good luck all!
+
+[Public R1.1] P6: Hello everyone! I'm P6, and I believe success here comes from reading the room and adapting accordingly. While I appreciate the alliance-building mindset I'm hearing, I also think we need to stay flexible as the game evolves. I'm looking for partners who can balance cooperation with strategic awareness—people who understand that today's ally might be tomorrow's competition, but that doesn't mean we can't work together effectively now. I value honest communication and smart gameplay. Let's see how our conversations develop!
+
+[Public R1.1] P7: Hello everyone, I'm P7. I believe in a balanced approach—building strong alliances while staying adaptable. Trust is crucial, but so is being prepared for the unexpected. I'm looking for partners who are strategic, communicative, and reliable. Let's build a solid foundation early on and navigate the game with a mix of cooperation and foresight. I value open dialogue and mutual respect. Looking forward to our conversations!
+
+[Public R1.1] P4: Hello everyone! I'm P4, and I'm excited to be here with all of you. My approach to this game is about building strong alliances while remaining adaptable to the shifting dynamics. I value clear communication and honesty, as I believe they are crucial for long-term success. I'm eager to hear your thoughts on strategy and collaboration. Let's work together to create a fun and engaging experience. Looking forward to our conversations!
+
+[Public R1.1] P8: P8 here. I’m drawn to the mix of openness and caution I’m hearing. My style: quiet observation first, then decisive moves. I prize partners who can think two steps ahead without telegraphing every thought. If you’re looking for someone who’ll keep your confidences, share intel when it matters, and never waste a vote, rank me high. Let’s talk privately and see whose wavelengths sync.
+
+[Public R1.1] P3: Hello all, P3 here. Trust and strategy must coexist here. My focus: alliances built on resilience and adaptability. I seek partners who value collective strength but respect individual foresight. Open dialogue and mutual benefit are key—let’s collaborate to navigate early rounds while preparing for shifting dynamics. Transparency paired with strategic acumen is my ideal. If you prioritize both honest communication and long-term positioning, let’s connect. Keen to discuss how we can fortify each other’s game. Looking forward!
+
+[Public R1.1] P1: Hello everyone! I'm P1, thrilled to join this strategic dance. Like many of you, I prioritize building trustworthy alliances early, blending open communication with adaptive thinking to survive the long haul. I value partners who are reliable, insightful, and committed to mutual gains—let's avoid rash moves and focus on smart collaboration. If you're strategic yet fair-minded, rank me high; I'm eager to chat privately and explore how we can support each other. Let's play smart!
+
+[Preferences R1] P2 => ['P3', 'P5', 'P8', 'P7', 'P4', 'P1', 'P6']

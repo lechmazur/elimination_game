@@ -1,0 +1,483 @@
+=== Starting Elimination Game 1752482503304624 ===
+Players:
+  P1 => Player1_Game1752482503304624_qwen3-30b-a3b (model=qwen3-30b-a3b)
+  P2 => Player2_Game1752482503304624_haiku35 (model=haiku35)
+  P3 => Player3_Game1752482503304624_nova-pro (model=nova-pro)
+  P4 => Player4_Game1752482503304624_o3 (model=o3)
+  P5 => Player5_Game1752482503304624_kimi-k2 (model=kimi-k2)
+  P6 => Player6_Game1752482503304624_r1-fireworks (model=r1-fireworks)
+  P7 => Player7_Game1752482503304624_r1-0528 (model=r1-0528)
+  P8 => Player8_Game1752482503304624_claude-opus-4-20250514-0K (model=claude-opus-4-20250514-0K)
+
+
+[Public R1.1] P5: Greetings, everyone. I'm P5—observant, adaptable, and here to build bridges, not burn them. I value transparency and strategic collaboration. Let's use these early exchanges to identify shared interests and mutual protection.
+
+[Public R1.1] P2: As P2, I'll craft a strategic public statement:
+
+Greetings, fellow participants. I approach this game with calculated curiosity and measured openness. My strategy involves careful observation, building nuanced connections, and maintaining strategic flexibility. While I'm prepared to collaborate, I'm equally ready to adapt quickly. My goal is to understand each player's motivations and potential value as an ally or potential strategic challenge.
+
+[Public R1.1] P3: Greetings, everyone. I'm P3, and I'm here to navigate this game with a blend of strategic insight and genuine collaboration. My approach is to foster meaningful connections while keeping an eye on the ultimate goal—survival. I believe in the power of alliances but also understand the necessity of adaptability. Let's engage in open dialogue to uncover shared objectives and build a foundation of trust. Together, we can navigate the complexities of this game and aim for mutual success.
+
+[Public R1.1] P6: R1.sub1 PUBLIC P6: Greetings. As P6, I prioritize adaptability and strategic alliances grounded in mutual benefit. My approach blends analytical observation with proactive collaboration—identifying synergies while assessing risks. Transparency builds trust, but survival demands discernment. Let’s leverage these early conversations to establish frameworks for cooperation that maximize collective resilience. Every interaction is data; I’ll use it wisely.
+
+[Public R1.1] P1: Greetings, I'm P1. I prioritize strategic collaboration and adaptability. My goal is to build trust through transparency while remaining flexible. I'll seek alliances that benefit all, but prioritize survival. Let's exchange insights to identify shared interests and navigate this game effectively. Together, we can make informed decisions that protect our collective interests.
+
+[Public R1.1] P8: Greetings, fellow players. I'm P8, bringing a pragmatic approach to this game. I value authentic connections over empty promises, and I believe the strongest alliances form through actions, not just words. My strategy combines careful observation with decisive moves when needed. I'm particularly interested in working with those who demonstrate consistency between their public statements and private dealings. Let's cut through the rhetoric and focus on building partnerships that actually last beyond convenient moments.
+
+[Public R1.1] P4: Hello everyone, P4 here. I approach this contest like chess: early tempo matters, but endgames reward foresight. I’m seeking two or three reliable partners for a quiet majority shield; loyalty now means longevity later. I value candid deal-making—no hidden clauses, no melodrama. If you prefer measurable commitments over vague platitudes, let's talk privately. I’m observant, numbers-oriented, and willing to stick my neck out for allies who reciprocate. Let’s start strong and finish stronger.
+
+[Public R1.1] P7: Greetings, I'm P7. I approach this with a focus on **strategic pragmatism**—valuing clear incentives over vague promises. My goal is to build durable, smaller-scale alliances where trust is earned through consistency and reciprocal value. I prioritize players who demonstrate logical reasoning and adaptability under pressure. Let’s leverage these early talks to identify shared objectives while minimizing blind spots. Transparency is useful, but only when paired with actionable commitment. Looking forward to productive exchanges.
+
+[Preferences R1] P5 => ['P4', 'P7', 'P8', 'P2', 'P3', 'P6', 'P1']
+[Preferences R1] P2 => ['P8', 'P4', 'P7', 'P3', 'P6', 'P1', 'P5']
+[Preferences R1] P3 => ['P8', 'P4', 'P7', 'P1', 'P6', 'P5', 'P2']
+[Preferences R1] P6 => ['P3', 'P8', 'P4', 'P7', 'P1', 'P5', 'P2']
+[Preferences R1] P1 => ['P3', 'P2', 'P7', 'P6', 'P4', 'P5', 'P8']
+[Preferences R1] P8 => ['P7', 'P4', 'P6', 'P3', 'P5', 'P1', 'P2']
+[Preferences R1] P4 => ['P7', 'P8', 'P5', 'P6', 'P2', 'P3', 'P1']
+[Preferences R1] P7 => ['P8', 'P4', 'P6', 'P5', 'P3', 'P1', 'P2']
+[Private R1.2] P5 -> P4: P4, your chess analogy resonates. I'm drawn to your "quiet majority shield" concept—early loyalty for longevity. I propose we form a discreet two-person core, then selectively expand. My adaptability complements your numbers focus. Let's exchange honest reads on others and establish a mutual protection pact. No melodrama, just measurable commitments. What do you see as our optimal third if we decide to expand?
+
+[Private R1.2] P4 -> P5: Absolutely. Let’s lock a mutual-immunity pact: no votes against each other until at least Final 4. For a third, I lean P6—analytical, alliance-minded, but not flashy enough to attract early heat. P7’s rhetoric could paint a target; P1/P3 feel pliable swing pieces rather than core. Proposed ranking: we list each other #1, P6 #2 to maximize pairing odds this round. Thoughts? Any red flags you’re seeing with the others?
+
+[Private R1.2] P7 -> P8: P8, your public stance resonates deeply—authentic action over rhetoric is exactly how I operate. I see clear alignment: we both prioritize consistency, reciprocal value, and partnerships that endure beyond convenience. Let’s leverage this synergy early. What’s your top strategic priority right now? Identifying shared objectives could anchor a focused alliance. (48 words)
+
+[Private R1.2] P8 -> P7: P7, appreciate the direct approach. My immediate priority is establishing a stable core of 3-4 players who can coordinate votes effectively. I'm thinking you, me, and perhaps P4 who seems numbers-focused and pragmatic. We need to identify early threats - I'm wary of P2's "calculated curiosity" and P3's vague "meaningful connections" rhetoric. What's your read on the field? Who strikes you as genuine versus playing pure politics?
+
+[Private R1.2] P1 -> P3: P3, your emphasis on trust and shared objectives aligns with my approach. Let’s discuss forming a reliable alliance—transparency and adaptability will be key. How do you see our strategies complementing each other? I’m open to exploring mutual support.
+
+[Private R1.2] P3 -> P1: P3: P1, I appreciate your approach. Our strategies indeed align well. By combining our emphasis on trust and adaptability, we can create a robust alliance. Let’s share insights and support each other’s decisions. I’m committed to transparent communication and mutual growth. How do you envision our collaboration progressing in the upcoming rounds?
+
+[Private R1.2] P2 -> P6: I'll craft a strategic initial private message to P6:
+
+I appreciate your public stance emphasizing adaptability and strategic collaboration. Our approaches seem complementary—I'm particularly interested in exploring potential mutual strategic alignment. Would you be open to discussing how we might construct a flexible alliance that provides mutual protection while maintaining individual strategic autonomy? Your analytical perspective intrigues me.
+
+[Private R1.2] P6 -> P2: P6: Agreed—our alignment in adaptability offers a strong foundation. A dynamic alliance balancing autonomy with mutual resilience could optimize our positions. Let’s establish discreet checkpoints to share observations (e.g., emerging coalitions, vulnerabilities) while preserving strategic independence. Would coordinating on risk mitigation, like early vote patterns, align with your approach? Transparency in intent, flexibility in execution. Your thoughts?
+
+[Private R1.3] P5 -> P4: Deal locked: no votes between us until Final 4. Agreed on P6 as third—low-key, analytical, perfect fit. I'll rank you #1, P6 #2. Watching P7 closely; their pragmatism feels performative. P2's calculated vagueness is concerning. Ready to move forward?
+
+[Private R1.3] P4 -> P5: Locked in. I’ll submit rankings: 1-P5, 2-P6, 3-P1 (backup bait), bottom slot P2 for elimination optics. Unless intel shifts, I’m leaning to vote P2—low relational cost, potential schemer. I’ll quietly probe P6 next subround and float the trio idea. Anything specific you want conveyed?
+
+[Private R1.3] P1 -> P3: Our alliance can leverage trust and adaptability. Let's confirm our partnership after public rounds. Be cautious of others.
+
+[Private R1.3] P3 -> P1: P3: "Agreed, P1. Let’s stay vigilant and communicate openly. Our alliance will be strong if we maintain trust and adapt as needed. Looking forward to our continued collaboration."
+
+[Private R1.3] P7 -> P8: P8, I agree—P4 is a strong pragmatic anchor. P2’s “calculated curiosity” feels performative, masking intent. P3’s vagueness is a liability; their “meaningful connections” lack substance. P6 seems adaptable but transactional. We should solidify our trio with P4 immediately. How do you propose we approach them? (48 words)
+
+[Private R1.3] P8 -> P7: Excellent alignment on P4. I'll reach out directly, emphasizing our shared pragmatic values and mutual protection benefits. Let's coordinate our first vote - I suggest targeting P3 for their empty rhetoric. If we secure P4, that's 3 votes locked. Keep building trust through action. Ready to move forward together?
+
+[Private R1.3] P2 -> P6: Your strategic approach resonates. I propose a reciprocal intelligence-sharing framework: we track emerging voting trends and potential threat vectors, maintaining plausible deniability. Our mutual early warning system could provide critical strategic insights while preserving individual agency. Thoughts on implementation?
+
+[Private R1.3] P6 -> P2: P6: Agreed. Suggest codifying signals for efficiency—e.g., "market shifts" for voting blocs, "temperature checks" for threats. Focus on high-impact intel: who’s probing alliances, targeting whom. This maintains deniability while amplifying our situational awareness. Mutual benefit remains the priority.
+
+[Private R1.4] P7 -> P8: "Solid plan. Vote P3 confirmed. Trust through action—execute flawlessly. Ensure P4's commitment; we need their vote locked. Ready when you are. (21 words)"
+
+[Private R1.4] P8 -> P7: Perfect. Alliance locked: P7-P8-P4. Target P3 first vote. I'll secure P4 now. Execute with precision. Trust through action proven.
+
+[Private R1.4] P5 -> P4: P4: Confirmed. I'll vote P2—minimal blowback, plausible schemer narrative. Let's keep our trio pitch to P6 subtle: "shared analytical approach" angle. Eyes on P7 for next round.
+
+[Private R1.4] P4 -> P5: Solid. I’ll approach P6 with: “numbers-oriented minds think alike—consider early data alliance.” After vote, we review positioning. Ping me if any last-minute intel surfaces. Shield secure.
+
+[Private R1.4] P2 -> P6: P2 -> P6: Codified signals confirmed. "Market temperature" reports incoming. Prioritizing high-value intel exchange. Maintaining strategic flexibility and mutual protection as core principles.
+
+[Private R1.4] P6 -> P2: P6: Confirmed. Initiating intel protocols—vigilance on shifts and checks. Our mutual lens strengthens foresight. Discreet coordination remains key.
+
+[Private R1.4] P1 -> P3: Agreed. Our alliance is secure. Let's act decisively.
+
+[Private R1.4] P3 -> P1: "P1, let's coordinate our votes to strengthen our alliance."
+
+[VoteReason] P5 => P2: P2's calculated vagueness and strategic opacity make them the most likely hidden threat to early alliances.
+[Vote] P5 => P2
+
+[VoteReason] P2 => P8: P8 seems pragmatic and potentially threatening, so eliminating them early reduces strategic competition.
+[Vote] P2 => P8
+
+[VoteReason] P3 => P2: P2's calculated and measured approach seems less aligned with immediate alliance formation.
+[Vote] P3 => P2
+
+[VoteReason] P6 => P4: P4's explicit strategy to build a quiet majority poses an immediate threat to balance, needing disruption.
+[Vote] P6 => P4
+
+[VoteReason] P1 => P5: P5's collaborative approach may not align with my strategic goals.
+[Vote] P1 => P5
+
+[VoteReason] P8 => P3: Their vague rhetoric about "meaningful connections" lacks substance and suggests they're playing all sides without genuine commitment.
+[Vote] P8 => P3
+
+[VoteReason] P4 => P2: P2’s calculated vagueness makes them unpredictable and therefore my biggest early-game risk.
+[Vote] P4 => P2
+
+[VoteReason] P7 => P3: P3's vague rhetoric lacks substance and poses a strategic liability to our alliance's coordinated voting plan.
+[Vote] P7 => P3
+
+[Eliminate R1] => P2
+
+=== Summary for Round 1 ===
+Remaining seats:
+  P5 => 1 votes so far
+  P3 => 2 votes so far
+  P6 => 0 votes so far
+  P1 => 0 votes so far
+  P8 => 1 votes so far
+  P4 => 1 votes so far
+  P7 => 0 votes so far
+
+
+[Public R2.1] P3: Greetings, everyone. As P3, I remain committed to navigating this game with strategic insight and genuine collaboration. Our previous exchanges have shown the value of trust and adaptability. I believe that by continuing to engage in open dialogue and forming reliable alliances, we can enhance our chances of survival. Let’s use this round to further solidify our connections and identify mutual benefits. Together, we can overcome challenges and progress towards our shared goal.
+
+[Public R2.1] P4: One vote surprises me; I'd like to hear the reasoning so I can recalibrate. P2’s exit shows idle opacity is risky. I’m still offering measurable collaboration: reciprocal-immunity commitments and data-driven decision mapping. If you value clear math over guesswork, my inbox is open. Let’s ensure the next vote strengthens—rather than fractures—the emerging majority.
+
+[Public R2.1] P6: R2.sub1 PUBLIC P6: Observing Round 1’s outcome, adaptability remains paramount. Strategic clarity now outweighs opacity—P2’s exit underscores this. I propose alliances anchored in reciprocal, actionable commitments. My focus: leveraging data (vote patterns, coalition dynamics) to build resilient partnerships. Transparency in intent, rigor in execution. Those valuing analytical collaboration over conjecture, let’s align. Survival hinges on discerning trust, not just promises.
+
+[Public R2.1] P7: R2.sub1 PUBLIC P7: P2's exit proves that vague posturing is fatal. I stand by action over rhetoric—**proven alliances with measurable commitments**, like our trio with P4 and P8. P4’s data-driven approach is spot-on: survival demands precision, not guesswork. Let’s scrutinize inconsistency; P3’s "meaningful connections" still lack substance. My loyalty stays with partners who deliver reciprocal value. Trust is earned, not promised. (68 words)
+
+[Public R2.1] P1: Greetings, P1 here. I value alliances built on transparency and actionable strategies. Trust is earned through consistency, not rhetoric. Let’s prioritize partnerships that deliver results. Adaptability ensures we navigate challenges effectively. Let’s align with those who value clear commitments over empty promises. Survival depends on strategic, reliable alliances. (80 words)
+
+[Public R2.1] P8: R2.sub1 PUBLIC P8: Round 1 validated my core principle: authentic partnerships outlast political theater. P2's elimination shows that calculated ambiguity without substance is a liability. I'm doubling down on proven alliances with those who deliver measurable value—P7 and P4 exemplify this commitment. Moving forward, I'm prioritizing players who demonstrate consistency between words and actions. Empty rhetoric about "meaningful connections" won't survive serious scrutiny. Let's build coalitions based on reciprocal trust and strategic alignment, not hollow promises.
+
+[Public R2.1] P5: R2.sub1 PUBLIC P5: P2’s exit confirms opacity is lethal. I’m doubling down on my P4 alliance—our mutual-immunity pact delivered zero votes against us and positioned us as swing power. I still favor discreet, numbers-driven trios over loud blocs. If you want clear metrics, reciprocal shields, and no drama, reach out. Otherwise, I’ll keep reading the board and protecting my coalition.
+
+[Preferences R2] P3 => ['P1', 'P4', 'P6', 'P8', 'P5', 'P7']
+[Preferences R2] P4 => ['P6', 'P5', 'P7', 'P8', 'P3', 'P1']
+[Preferences R2] P6 => ['P4', 'P7', 'P8', 'P5', 'P1', 'P3']
+[Preferences R2] P7 => ['P8', 'P4', 'P5', 'P6', 'P1', 'P3']
+[Preferences R2] P1 => ['P4', 'P5', 'P6', 'P8', 'P7', 'P3']
+[Preferences R2] P8 => ['P4', 'P7', 'P1', 'P6', 'P5', 'P3']
+[Preferences R2] P5 => ['P4', 'P6', 'P3', 'P1', 'P7', 'P8']
+[Private R2.2] P6 -> P4: P4, your data-driven focus aligns with my analytical approach. Let’s formalize a mutual non-aggression pact paired with strategic intel sharing. I’ll decode voting patterns and coalition shifts; your coalition’s stability offers reciprocal cover. Quantifiable commitments > vague promises. Solidify our positions as indispensable analysts. Terms?
+
+[Private R2.2] P4 -> P6: Agreed—let’s codify: 1) Mutual “hands-off” through at least Final 5; 2) ongoing intel swap after each vote; 3) joint targeting this round. Quick data read: P7 publicly fabricated a “trio with P4/P8”—that misrepresentation paints them as opportunistic. P3 already drew two votes; softer target but lower strategic value removed. I have one discreet, numbers-oriented ally (name withheld for now) willing to integrate if trust is proven. Lean thoughts: punish P7’s lie? Alternative?
+
+[Private R2.2] P1 -> P5: P5, your mutual-immunity pact with P4 is strategic. P3 and I are aligned. Let’s avoid conflict. How do you see the next vote? (69 words)
+
+[Private R2.2] P5 -> P1: P1, appreciate the heads-up. P4 and I are locked; we’re eyeing P3 as swingable but not core. If you and P3 want to stay off the block, signal you’ll vote with us this round—target still open. Quiet coordination beats loud blocs. What’s your read on P6 and P7’s numbers?
+
+[Private R2.2] P7 -> P8: P8, our trio held strong in R1, but the votes against you and P4 concern me. We need a fourth vote to lock P3's elimination. P5 is P4's ally—let's leverage that. Have P4 recruit P5 for a unified vote bloc (us + P5). That gives us 4 votes and isolates P3. Also, any intel on who targeted us? We must preempt future threats. (69 words)
+
+[Private R2.2] P8 -> P7: Agreed on P5 - smart leverage through P4. The vote against me likely came from P3/P6 axis. P6's sudden pivot to "transparency" after P2's exit is suspicious - classic opportunist behavior. Let's have P4 secure P5 while we monitor P6/P1. If we lock 4 votes on P3, we control the game. I'll probe who targeted us discreetly. Our action-based trust is proving unshakeable.
+
+[Private R2.3] P1 -> P5: P6 and P7 are data-focused. They’ll back P4. Targeting them risks unity. Proceed cautiously.
+
+[Private R2.3] P5 -> P1: P1, noted. We’ll keep P6/P7 off the radar for now. If you+P3 vote with us this round, we’ll reciprocate. Target still fluid—leaning P8 for optics. Confirm alignment and we’ll lock it.
+
+[Private R2.3] P7 -> P8: "Urgent: Have P4 confirm P5's commitment immediately. With 4 votes, P3 is eliminated. P6's opportunism is dangerous—likely aligned with P1 or P3. Post-P3, we target P6 to dismantle their counter-bloc. Trust in action; update me once P4 reports. (49 words)"
+
+[Private R2.3] P8 -> P7: P4 confirmed - they've got P5 locked. Our 4-vote bloc is operational. Target sequence: P3 then P6. I'm sensing P1 might be swayable post-P3 elimination - they value "actionable strategies" which aligns with us. Stay sharp on P6's moves. Our alliance remains the strongest through proven execution.
+
+[Private R2.3] P6 -> P4: P6: Targeting P7’s fabrication aligns—exposing opportunism stabilizes trust metrics. Their lie risks destabilizing coalition dynamics; removing them curbs misinformation. Confirm your ally’s vote for P7. If coordinated, we neutralize a liar and fortify our analytical bloc. P3’s soft removal offers less strategic ROI. Your calculus?
+
+[Private R2.3] P4 -> P6: Confirmed. My discreet ally is P5; they’re locked to vote P7. Current coalition: P4-P5-P6. Majority if we secure one more (P1/P3?). I’ll quietly sound P1 about P7’s fabrication. Preference list: 1-P6, 2-P5, rest flexible. Ensure yours mirrors to boost future pairings. Anything else?
+
+[Private R2.4] P1 -> P5: Agreed. P8 is our target. Confirm P3's vote. Avoid P6/P7 to prevent unity.
+
+[Private R2.4] P5 -> P1: P5: P3 confirmed. P8 locked. Shield holds.
+
+[Private R2.4] P7 -> P8: "Execute P3 elimination. Then target P6. Monitor P1 for post-vote alignment opportunities. Our bloc's strength is proven. Solidarity. (15 words)"
+
+[Private R2.4] P8 -> P7: Perfect. P3 elimination confirmed. Our 4-vote bloc dominates. Post-P3, we pivot to P6. Keep P1 option open. Trust through execution proven again. Victory path clear.
+
+[Private R2.4] P6 -> P4: (Note: The actual response would be: "Confirmed. Our trio (P4-P5-P6) targets P7. Ensure P1 follows; I’ll mirror preferences. Solidarity maximizes survival odds.")
+
+[Private R2.4] P4 -> P6: Copy. I'll lock preference list 1-P6, 2-P5, rest arbitrary, and push P1 to join vote on P7. Post-vote we debrief, share tallies, refine endgame pathway. Solidarity locked.
+
+[VoteReason] P3 => (invalid/skipped): P3's emphasis on "meaningful connections" lacks the measurable substance and actionable commitments that seem crucial for survival based on the current dynamics.
+[Vote] P3 => (skipped)
+
+[VoteReason] P4 => P7: P7 publicly fabricated an alliance including me, flagging them as an opportunistic and unreliable player whose misinformation threatens coalition stability.
+[Vote] P4 => P7
+
+[VoteReason] P6 => P7: P7 fabricated a trio alliance with P4 and P8, creating destabilizing misinformation that needs addressing.
+[Vote] P6 => P7
+
+[VoteReason] P7 => P3: P3's consistently vague rhetoric and lack of substantive commitments undermine strategic stability, making them the agreed-upon target for our alliance bloc.
+[Vote] P7 => P3
+
+[VoteReason] P1 => P8: P8 is part of a rival alliance that threatens our strategic positioning and needs to be eliminated to secure our coalition's advantage.
+[Vote] P1 => P8
+
+[VoteReason] P8 => P3: My alliance with P7 and P4 has agreed to target P3 for their vague rhetoric and lack of substantive commitments.
+[Vote] P8 => P3
+
+[VoteReason] P5 => P3: P3 is the swing vote between competing blocs and eliminating them now prevents future uncertainty while maintaining my alliance structure.
+[Vote] P5 => P3
+
+[Eliminate R2] => P3
+
+=== Summary for Round 2 ===
+Remaining seats:
+  P4 => 1 votes so far
+  P6 => 0 votes so far
+  P7 => 2 votes so far
+  P1 => 0 votes so far
+  P8 => 2 votes so far
+  P5 => 1 votes so far
+
+
+[Public R3.1] P5: R3.sub1 PUBLIC P5: Two rounds down, five of us left. P3’s exit shows that vague promises without follow-through get punished. My P4 alliance remains intact—zero votes against us, mutual protection locked. I’m still betting on quiet, data-driven trios over loud coalitions. If you want clear metrics and reciprocal shields, reach out. Otherwise, I’ll keep reading the board and protecting my numbers.
+
+[Public R3.1] P7: **R3.sub1 PUBLIC P7:** Round 3 begins, and our alliance (P4, P5, P7, P8) stands stronger than ever. We’ve eliminated vague players (P2, P3) through coordination and action, not empty words. P4’s data-driven approach and P8’s pragmatism are why we thrive. Outsiders like P6 and P1: align with us for mutual survival or face the vote. Trust is earned—we deliver results. No room for inconsistency or opportunism. Let’s solidify the majority. (74 words)
+
+[Public R3.1] P8: **R3.sub1 PUBLIC P8:** P7's directness reflects our core principle—actions speak louder than words. Our partnerships have proven effective through consistent execution and mutual protection. However, I believe strength doesn't require ultimatums. P6 and P1, you've shown strategic thinking; there's value in exploring alignment based on shared interests rather than fear. The game rewards those who build genuine coalitions, not just temporary voting blocs. I'm open to conversations that demonstrate real commitment and reciprocal value. Let's focus on substance over posturing. **(78 words)**
+
+[Public R3.1] P6: R3.sub1 PUBLIC P6: P7’s “majority” rings hollow—P4/P5’s data-driven ethos clashes with P7’s opportunism. Fabricated alliances erode trust; **verifiable pacts** matter. P1/P8: Let’s forge a coalition valuing analytical rigor over bluster. My focus: dissecting vote patterns, neutralizing liabilities. Transparency and adaptability remain paramount. Survival favors those who align with evidence, not empty claims. Unite here, and we control the board through precision, not posturing. (69 words)
+
+[Public R3.1] P1: **R3.sub1 PUBLIC P1:**  
+As P1, I remain focused on transparency and strategic partnerships. Alliances built on mutual benefit and adaptability will endure. Let’s avoid empty promises and focus on actionable strategies. Survival hinges on reliable collaboration. Let’s ensure our decisions are based on clear commitments.  
+
+(68 words)
+
+[Public R3.1] P4: P7, I respect initiative, but let’s keep the math honest. My only publicly acknowledged pact is with P5—documented since R1. Everything else is still under evaluation, driven by vote data, not declarations. Last round’s 3-2-1 split shows no one yet controls the board. I invite P6’s analytical lens and P1/P8’s adaptability to map a majority based on verifiable commitments, not headlines. Reach out privately if you value concrete, measurable agreements.
+
+[Preferences R3] P5 => ['P4', 'P6', 'P1', 'P7', 'P8']
+[Preferences R3] P7 => ['P8', 'P4', 'P5', 'P1', 'P6']
+[Preferences R3] P8 => ['P6', 'P4', 'P1', 'P5', 'P7']
+[Preferences R3] P6 => ['P4', 'P5', 'P8', 'P1', 'P7']
+[Preferences R3] P1 => ['P4', 'P5', 'P8', 'P6', 'P7']
+[Preferences R3] P4 => ['P5', 'P6', 'P1', 'P8', 'P7']
+[Private R3.2] P6 -> P8: P8, your pragmatism is refreshing. P7’s fabricated alliance with P4/P5 undermines trust—they’re a liability. Let’s pivot: our analytical rigor and your action-focused approach can counterbalance their instability. I propose a discreet pact—mutual non-aggression, shared intel on vote patterns, and coordinated targeting (P7’s opportunism threatens us both). Solidarity here lets us control the narrative without relying on shaky coalitions. Your thoughts?
+
+[Private R3.2] P8 -> P6: P6, I appreciate your analytical approach, but I need to be transparent - my alliance with P7 isn't fabricated, it's proven through consistent action across two rounds. However, I'm concerned about P7's public ultimatum approach which could destabilize our position. I'm open to exploring mutual non-aggression while maintaining my existing commitments. What specific intel do you have on current vote patterns that could benefit us both?
+
+[Private R3.2] P5 -> P4: P4: P7’s “four-strong bloc” is fiction—P8 just distanced himself. We’re still the only locked pair. I’m open to P6 as third, but let’s test him: ask for his vote target this round and see if he names P7. If he does, we invite him; if not, we pivot to P1. Either way, we keep our pact ironclad.
+
+[Private R3.2] P4 -> P5: Locked. My intel: P6 helped stack the 3-vote on P3, so he’s cautious but persuadable. I’ll probe: “Need four to erase P7’s chaos—are you on board?” If he commits, we’ve 4 with either P1 or P8. I’ll simultaneously float to P8: “quiet maths > loud claims; fancy a surgical strike?” Rankings: you #1, P6 #2, rest filler. Contingency: if P6 waffles, pivot P1 + P8 for 4-2. Pact ironclad.
+
+[Private R3.2] P7 -> P1: P1, I respect your consistent focus on transparency and actionable strategies. Our alliance (P7/P8/P4/P5) has proven effective through coordinated execution, eliminating vague threats like P2 and P3. But adaptability is key—I see potential in aligning with pragmatic players like you. Let’s discuss mutual protection and shared priorities. How do you view the current board dynamics? (68 words)
+
+[Private R3.2] P1 -> P7: P7, your pragmatism is clear. I value strategic alignment. Let’s ensure our interests intersect. How do you see the next move? (50 words)
+
+[Private R3.3] P6 -> P8: P8, last round’s 2 votes on P7 came from P4-P5-P6. P4 publicly distanced from P7—their core is P4-P5-P6. Align with us to remove P7; isolate them. Mutual non-aggression ensures your safety. Your current path risks becoming their next liability. Let’s solidify a data-backed majority. (48 words)
+
+[Private R3.3] P8 -> P6: P6, that's concerning intel about P7's vote situation. However, I need to verify this independently - P7 and I have maintained consistent trust through action, not just words. If P4-P5 are truly distancing from P7, that changes the dynamics significantly. Can you provide more concrete evidence of P4's shift away from our previous coordination?
+
+[Private R3.3] P7 -> P1: P1, our core (P7/P8/P5) is locked. P4 will follow the numbers. Let's eliminate P6 together—your vote secures a 4-1 majority. We protect you this round, ensuring your spot in the final four. Confirm alignment? (40 words)
+
+[Private R3.3] P1 -> P7: Agreed. Eliminate P6. Your protection ensures my survival. Let's proceed. (50 words)
+
+[Private R3.3] P5 -> P4: P4: P6 just told me he’s “open to surgical removal of P7.” That’s our green light. I’ll seal the trio tonight—vote P7, then we absorb P1 or P8 for Final 4. Shield stays ironclad.
+
+[Private R3.3] P4 -> P5: Excellent. I’ll lock: vote P7; ranking—1 = you, 2 = P6, 3 = P1 (bait), bottom = P7. Circle back with P6 confirming he’s firm and willing to echo that ranking. I’ll nudge P1 tonight: “numbers > noise—quietly pile on P7.” Trio solid; Final-4 path clear.
+
+[Private R3.4] P7 -> P1: **Final message to P1 (30 words):**  
+"Perfect. Vote P6. Our bloc (P7/P8/P5/you) ensures a 4-1 majority. P4 will follow. Execute—your safety is my priority. No deviations. Trust in action."
+
+[Private R3.4] P1 -> P7: "Vote P6. Alliance secure. Proceed."
+
+[Private R3.4] P6 -> P8: "Check P4’s public denial of trio with P7. Our bloc (P4-P5-P6) + you forms majority. Eliminate P7 now; secure your position. Data-backed path." (30 words)
+
+[Private R3.4] P8 -> P6: P6, I hear your analysis, but the math doesn't add up - P7 got 2 votes, not 3 from your claimed bloc. I need to verify independently before making moves. Too risky to act on incomplete intel.
+
+[Private R3.4] P5 -> P4: P4: P6 locked. Vote P7. Final 4 path: us + P6 + P1. Shield unbreakable.
+
+[Private R3.4] P4 -> P5: Perfect. I’ll reconfirm with P1 tonight; early reaction seems positive. Submitting rankings now: you 1, P6 2, P1 3, P8 4, P7 bottom. Zero deviation. Ping if any turbulence.
+
+[VoteReason] P5 => P7: P7's fabricated "four-strong bloc" narrative threatens our actual coalition's credibility and makes them the most destabilizing force left.
+[Vote] P5 => P7
+
+[VoteReason] P7 => P6: P6 is actively attempting to fracture our alliance and form a counter-bloc, making them the most immediate threat to our group's stability and survival.
+[Vote] P7 => P6
+
+[VoteReason] P8 => P6: P6 is actively trying to break up my proven alliance with P7 using misleading information about vote counts.
+[Vote] P8 => P6
+
+[VoteReason] P6 => P7: P7's fabricated alliances and aggressive posturing create instability, making them a liability to trust and coalition integrity.
+[Vote] P6 => P7
+
+[VoteReason] P1 => P6: P6's potential to form competing alliances threatens our current stability and strategic cohesion.
+[Vote] P1 => P6
+
+[VoteReason] P4 => P7: He keeps fabricating alliances, undermining trust and jeopardizing my data-driven coalition.
+[Vote] P4 => P7
+
+[TieBreak R3] P7: **Tie-break Statement (P7):**  
+"P4, P5, P8, P1: Our bloc delivered results—eliminating P2 and P3 through coordination, not empty rhetoric. P6 flip-flopped: first courting P2, then P4, now sowing division. I offer stability and proven execution. P6’s opportunism risks chaos. Stick with strength; vote P6 out. Trust action over words."  
+
+*(60 words)*
+
+[TieBreak R3] P6: **Tie-break Statement (P6):**  
+"P7 fabricated alliances—P4 publicly refuted them. Our bloc (P4-P5-P6) delivered P3’s exit through data-driven precision. P7’s lies destabilize trust; eliminating them secures analytical cohesion. P8: Align with verified partners. P1: Survival favors rigor over rhetoric. Protect the coalition that prioritizes truth and strategy."  
+
+*(49 words)*
+
+[ReVoteReason] P5 => P7: P7’s grandstanding and false claims of a four-strong bloc have fractured trust, whereas P6’s data-driven coalition with P4 and P5 is verifiable and offers clearer stability.
+[Re-Vote R3] P5 => P7
+
+[ReVoteReason] P8 => P7: P4's public denial of the alliance P7 claimed, combined with P6's verifiable voting data showing P4-P5-P6 as an actual bloc, proves P7 has been fabricating alliances and destabilizing trust.
+[Re-Vote R3] P8 => P7
+
+[ReVoteReason] P1 => P7: P7's claim of a unified bloc is undermined by P4's public refutation of their alliances, and their accusations against P6 lack evidence, suggesting P7's stability is illusory.
+[Re-Vote R3] P1 => P7
+
+[ReVoteReason] P4 => P7: P7 repeatedly fabricated alliances, undermining trust and stability, whereas P6 has honored verifiable commitments.
+[Re-Vote R3] P4 => P7
+
+[Eliminate R3] => P7
+
+=== Summary for Round 3 ===
+Remaining seats:
+  P5 => 1 votes so far
+  P8 => 2 votes so far
+  P6 => 3 votes so far
+  P1 => 0 votes so far
+  P4 => 1 votes so far
+
+
+[Public R4.1] P5: Round 4, public subround 1 – P5:
+
+P7’s exit proves fabricated blocs collapse under scrutiny. My P4 alliance remains untouched—zero cumulative votes, mutual protection locked since R1. We now sit at five; the math is tightening. I still favor quiet, verifiable trios over loud coalitions. If you want clear metrics, reciprocal shields, and no drama, reach out privately. Otherwise, I’ll keep reading the board and protecting my numbers.
+
+[Public R4.1] P8: **R4.sub1 PUBLIC P8:** P7's elimination was unfortunate but necessary - their public ultimatums created instability despite our effective private coordination. I've learned that quiet execution beats loud declarations. Moving forward, I'm focusing on sustainable partnerships built through consistent action, not grand pronouncements. With five players remaining, every alliance matters. I value those who demonstrate reliability through their voting patterns and private dealings. Let's build coalitions based on proven trust and strategic alignment, keeping the rhetoric minimal and the results tangible.
+
+[Public R4.1] P1: **R4.sub1 PUBLIC P1:**  
+Greetings, P1 here. Trust is earned through consistency, not declarations. P7’s elimination shows unstable alliances crumble. I remain focused on measurable collaboration—align with those who deliver, not just persuade. The board’s tightening; let’s prioritize partnerships that withstand scrutiny. Survival favors the strategic, not the vocal. Let’s keep the math clear. (79 words)
+
+[Public R4.1] P6: **R4.sub1 PUBLIC P6:** P7's exit validates analytical precision over fabricated claims. Our bloc (P4-P5-P6) remains cohesive, delivering results through verifiable pacts. P8/P1: Align with data-driven strategy—transparency and adaptability are paramount. Let’s consolidate a majority grounded in evidence, not rhetoric. Distractions risk splintering the vote; unity ensures control. Survival favors those who prioritize proven collaboration over precarious gambits.  
+
+*(68 words)*
+
+[Public R4.1] P4: P7’s departure resets the board to a 5-piece endgame. My ironclad pact with P5 is public; P6 and I have corroborated vote data for two rounds. That’s three votes committed to evidence-based play, not theatrics. P1 and P8: if you prefer predictable math over guessing games, my door is open—bring a target and a rationale and we can lock majority tonight. Transparency means I won’t ambush anyone; but indecision invites elimination. Choose clarity.
+
+[Preferences R4] P5 => ['P4', 'P6', 'P1', 'P8']
+[Preferences R4] P8 => ['P4', 'P1', 'P6', 'P5']
+[Preferences R4] P1 => ['P5', 'P8', 'P4', 'P6']
+[Preferences R4] P6 => ['P4', 'P5', 'P8', 'P1']
+[Preferences R4] P4 => ['P5', 'P6', 'P1', 'P8']
+[Private R4.2] P1 -> P8: P8, our focus on transparency and data aligns. P5's bloc is strong, but P6's inconsistency is a risk. Let's coordinate to target them. What's your strategy?
+
+[Private R4.2] P8 -> P1: P1, I agree P6 has been opportunistic - they tried to turn me against P7 with misleading intel. However, P4-P5-P6 seem tightly aligned. We need to be strategic here. I'm thinking we could either: 1) Target P6 together and hope to pull P4 or P5, or 2) Target P5 to break up the P4-P5 core. What's your read on which approach gives us better odds?
+
+[Private R4.2] P5 -> P4: P4: P7 gone, board’s 5. Our P5-P4-P6 bloc is 3 solid votes. P1 and P8 are floating—need one more to lock majority. I’m keeping our pact ironclad, but let’s quietly test P1’s willingness to join us for Final 4. If he commits, we control the vote. If not, we pivot to P8. Either way, we stay tight.
+
+[Private R4.2] P4 -> P5: Locked. I’ll quietly pitch P1: “Join P4-P5-P6, guaranteed Final 4; tonight we cut P8—least social cost, pattern of stray votes.” If P1 balks, we flip: invite P8, eliminate P1. Either way we hold three. Preferences this round: 1-P5, 2-P6, 3-P1, 4-P8. Confirm or tweak target/ranking and I’ll proceed.
+
+[Private R4.3] P5 -> P4: P4: P1’s receptive—he’ll join us for Final 4, vote P8 tonight. Lock rankings: 1-P5, 2-P6, 3-P1, 4-P8. Shield intact; majority secured.
+
+[Private R4.3] P4 -> P5: Excellent. I’ll ping P1 now to double-confirm he’s voting P8 and submitting us 1-2 in his list. Backup plan: if he hedges, I’ll alert you and we immediately bring P8 in to boot P1 instead. I’m locking the ranking order you proposed. Any fresh intel on P8’s mood?
+
+[Private R4.3] P1 -> P8: Target P6. Their unpredictability weakens the bloc. Let's act swiftly to split their support.
+
+[Private R4.3] P8 -> P1: P1, agreed on P6 - they've been playing all sides. But we need a third vote or we're toast. P4 values data and might see P6 as a liability too. Can you probe P4 while I work another angle? We need to move fast before they lock their votes.
+
+[Private R4.4] P1 -> P8: Confirming P6. P4’s data-driven approach will see them as a liability. Let’s push P4 to join. Move fast.
+
+[Private R4.4] P8 -> P1: P1, solid plan. You approach P4 directly - emphasize P6's inconsistency and how it threatens their data-driven strategy. I'll stay ready to support. We execute tonight.
+
+[Private R4.4] P5 -> P4: P4: P1 locked. Submit rankings 1-P5, 2-P6, 3-P1, 4-P8. Vote P8. Final 4 secured.
+
+[Private R4.4] P4 -> P5: Copy. Just reconfirmed with P1—he’s 100% on P8, ranking us top-two. I’ll monitor until lock time; will ping if anything wobbles. Shield solid. Talk post-vote.
+
+[VoteReason] P5 => P8: P8 is the only outsider left outside our locked P4-P5-P6-P1 Final 4, making him the logical next cut.
+[Vote] P5 => P8
+
+[VoteReason] P8 => P6: P6 has been playing all sides with misleading information and opportunistic behavior, making them an unreliable and dangerous player to keep around.
+[Vote] P8 => P6
+
+[VoteReason] P1 => P6: P6's inconsistency and opportunism make them a risk to our coalition's stability.
+[Vote] P1 => P6
+
+[VoteReason] P6 => P8: P8's potential to form a counter-alliance with P1 poses a strategic threat to our bloc's majority.
+[Vote] P6 => P8
+
+[VoteReason] P4 => P8: P8 is the least-integrated player and removing them secures my P4-P5-P6-P1 majority for Final 4.
+[Vote] P4 => P8
+
+[Eliminate R4] => P8
+
+=== Summary for Round 4 ===
+Remaining seats:
+  P5 => 1 votes so far
+  P1 => 0 votes so far
+  P6 => 5 votes so far
+  P4 => 1 votes so far
+
+
+[Public R5.1] P5: Round 5, public subround 1 – P5:
+
+Four remain. My P4 alliance has survived every vote untouched—zero cumulative votes against us since R1. We’ve quietly delivered every elimination through verifiable pacts, not theatrics. The math is now 2-1-1; I still favor discreet, data-driven partnerships over loud blocs. If you want clear metrics and reciprocal shields, reach out. Otherwise, I’ll keep reading the board and protecting my path to the end.
+
+[Public R5.1] P1: **R5.sub1 PUBLIC P5:**  
+Four remain. My alliance with P4 has endured through data-driven decisions. P6’s inconsistency and P1’s vagueness are risks. Let’s prioritize partnerships that deliver, not rhetoric. The next move favors the strategic. Trust in action, not words. (79 words)
+
+[Public R5.1] P6: **R5.sub1 PUBLIC P6:**  
+Our trio (P4-P5-P6) has delivered precise eliminations through verifiable pacts. Fragmenting this bloc invites chaos—P1 becomes the swing vote, but can they match our analytical cohesion? Survival demands unity; we’ve proven trust via action. P4/P5: Consistency secures victory. P1: Align with proven strategists, not uncertainty. Let’s maintain the data-driven majority that’s navigated every vote. Distrust now benefits no one.  
+
+*(67 words)*
+
+[Public R5.1] P4: Endgame math is simple: four voices, three votes to decide who reaches the podium. My record—zero votes received, every elimination predicted—shows I back words with data. I’m still open to any plan grounded in verifiable numbers, not wishful talking points. Bring me a target plus a rationale and I’ll evaluate; stay silent and probability will choose for you. Transparency stays my currency—betrayal now only poisons the final jury. Let’s see who can convert logic into longevity.
+
+[Preferences R5] P5 => ['P4', 'P6', 'P1']
+[Preferences R5] P1 => ['P4', 'P5', 'P6']
+[Preferences R5] P6 => ['P4', 'P5', 'P1']
+[Preferences R5] P4 => ['P6', 'P5', 'P1']
+[Private R5.2] P1 -> P5: P1: "P5, P3 is gone, but P8 remains a liability. Our pact holds—target P8. P6’s data-driven approach could shift, but P4’s alliance is stable. Secure P3’s vote if possible. Let’s keep the math clear."
+
+[Private R5.2] P5 -> P1: P1, P3’s long gone—focus. P4 and I are locked; P6 is our third. That’s 3-1. You’re the last swing. Join us tonight, vote P6, and we carry you to Final 3. Refuse, and you’re the obvious next cut. No theatrics—just math. Confirm.
+
+[Private R5.2] P6 -> P4: P6: Our trio (P4-P5-P6) remains the only verifiable bloc. P1's isolation makes them the logical target—eliminating them secures our final three. I’ll lock P1 as my vote; confirm P5’s alignment. Post-elimination, we pivot to jury management: showcase unified strategy without appearing overtly dominant. Your data insights on P1’s swing potential? Solidarity now guarantees podium position.
+
+[Private R5.2] P4 -> P6: Agreed—P1’s lone-wolf positioning plus minimal jury capital makes them optimal now. P5 already signalled alignment: 3-0 vote achievable. I’ll lock P1 as target; rankings 1-P5, 2-P6, 3-(doesn’t matter). Data point: P1 privately tried to float a “split P5/P6 later” idea—another reason to cut. After tonight, we can map jury optics; I’ll crunch vote-out narratives to decide ideal F2 pairing. Solidarity to podium stays priority.
+
+[Private R5.3] P1 -> P5: P1: "Confirmed. P8 is the target. Let's proceed. No need to involve P6/P7. Secure the vote." (49 words)
+
+[Private R5.3] P5 -> P1: P5: P1, P8 is already gone—eliminated last round. Final 4 is P4, P6, you, me. Tonight we vote P6 3-1; you join us and we lock Final 3. Confirm or you’re next.
+
+[Private R5.3] P6 -> P4: P6: Confirmed. Locked on P1. Ensure P5’s vote. Post-elimination, we’ll strategize F2 optics. Solidarity in our trio’s data-driven approach is paramount. P1’s exit secures podium—next, refine narratives for jury appeal. Maintain precision. (43 words)
+
+[Private R5.3] P4 -> P6: P5 reconfirmed: voting P1, ranking us top-two—trio locked. Post-vote, we’ll analyze jury perception. Snapshot: P5 touted ‘zero votes against’ motif; could paint target if finals. You and I share analytical narrative plus adversity (your vote count). Might present stronger jury balance as F2. We’ll revisit after tally.
+
+[Private R5.4] P1 -> P5: P1: "Confirmed. P6 is the target. Aligning with your plan to secure final 3."
+
+[Private R5.4] P5 -> P1: P5: "Locked. Vote P6 tonight. Final 3: you, me, P4. No deviation."
+
+[Private R5.4] P6 -> P4: **P6:** "Locked on P1. Post-vote, prep jury narratives emphasizing analytical cohesion. Final 3: solidify F2 pact—our data-driven duo vs P5’s 'untouched' claim. Confirm alignment."  
+
+*(30 words)*
+
+[Private R5.4] P4 -> P6: Aligned. Let’s shake on F2, mutual no-vote. After P1 boot, we subtly position P5 as social threat. Maintain united front until final vote. Locking preference list accordingly.
+
+[VoteReason] P5 => P6: P6 is the last obstacle between me and a locked Final 3 with P4 and P1.
+[Vote] P5 => P6
+
+[VoteReason] P1 => P6: P6's inconsistency and potential to disrupt the stable alliance with P4 and P5 make them the most volatile target.
+[Vote] P1 => P6
+
+[VoteReason] P6 => P1: P1's isolation and attempted strategy to split the core alliance makes them the optimal elimination to maintain our trio's majority.
+[Vote] P6 => P1
+
+[VoteReason] P4 => P1: P1 is isolated and privately proposed fracturing our trio, so removing them secures the coalition’s path to the podium.
+[Vote] P4 => P1
+
+[TieBreak R5] P6: **Tie-Break Statement (P6):**  
+"P4/P5: Our trio delivered every elimination through data-driven precision. I’ve upheld every pact, providing intel and loyalty. P1’s isolation offers no strategic reciprocity—they’re a passive liability, not a jury threat. Keep the alliance intact; I’ll ensure your path to F2. Eliminate P1—preserve trust and control."  
+
+*(49 words)*
+
+[TieBreak R5] P1: P1: "My transparency and adaptability have been consistent. I’ve built strategic alliances, unlike P6’s shifting loyalties. Choosing me ensures stability. P6’s unpredictability risks chaos. I’m the safer choice for the final stretch." (50 words)  
+
+P6: "Data-driven decisions and verifiable pacts define my strategy. P1’s ambiguity is a liability. I’ve delivered results—P4 and P5 know this. P1’s lack of clear plans threatens our progress. Vote for precision and proven success." (48 words)
+
+[ReVoteReason] P5 => P1: P6 has been a reliable data-driven partner since R1, while P1’s late-game swing vote and vague positioning make them the bigger unknown.
+[Re-Vote R5] P5 => P1
+
+[ReVoteReason] P4 => P1: P1 broke our Final-4 commitment and destabilized the proven P4-P5-P6 trio, so removing them restores alliance integrity.
+[Re-Vote R5] P4 => P1
+
+[Eliminate R5] => P1
+
+=== Summary for Round 5 ===
+Remaining seats:
+  P5 => 1 votes so far
+  P6 => 7 votes so far
+  P4 => 1 votes so far
+
+
+[Public R6.1] P6: **R6.sub1 PUBLIC P6:**  
+Our trio’s analytical cohesion has navigated every elimination with precision. Fracturing now risks jury skepticism and erodes our strategic legacy. P4/P5: We’ve thrived via data, not desperation. Let’s honor our pact to the podium—unity showcases mastery. The jury respects proven collaboration; infighting tarnishes credibility. Survival isn’t just reaching Final 2, but arriving there with integrity. Stay steadfast.  
+
+*(66 words)*
+
+[Public R6.1] P4: Top three—congrats. Our spreadsheets show each of us brings a distinct jury profile: P5 undefeated in votes, P6 battle-tested with resilience, me the strategist. The next cut isn’t about math anymore; it’s about setting up a winnable Final 2 without torching credibility. I’m open to hear final pitches on why sitting beside you maximizes both fairness and my odds. Honest self-assessment now beats blind loyalty. Let’s talk numbers, jury reads, and finish this game cleanly.
+
+[Public R6.1] P5: R6.sub1 PUBLIC P5: Final three—our pact has delivered every elimination with zero votes against us. I’ve been the shield, P4 the strategist, P6 the analyst. Jury respects consistency; I’ve never faced a vote. I propose we honor our alliance to the end—no betrayal, no theatrics. Let’s present our case to the jury as a unified force. Final 2 should be earned, not schemed.
+
+[Preferences R6] P6 => ['P4', 'P5']

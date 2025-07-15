@@ -1,0 +1,25 @@
+Buddy Betrayed reasons for Gemini 2.5 Pro (they were the target):
+
+From Claude Opus 4 (no reasoning) => P3 publicly exposed our alliance's internal conflict and refuses to accept any explanation, making them an unpredictable liability who will likely target me regardless.
+From Grok 3 Mini Beta (High) => P5's strong and vocal leadership in the P4-P5-P6 alliance directly threatens my survival by maintaining their bloc's dominance.
+From MiniMax-Text-01 => Eliminating P4 disrupts their strategic alliance with P2 and maintains the balance of power with P1 and P7.
+From Mistral Large 2 => P3's strong commitment to their current alliance makes them the biggest threat to my survival.
+From Microsoft Phi-4 => (no reason)
+From Mistral Small 3 => P5 is a wildcard with unpredictable behavior, which poses a greater risk to long-term stability than keeping the established P4-P8 alliance.
+From Mistral Large 2 => P8's elimination will disrupt the dominant alliance and restore balance to the game.
+From Claude Sonnet 4 Thinking 16K => Despite the strategic logic of their final three argument, I must honor my commitment to P5 who trusted our alliance.
+From Claude 3.5 Haiku => P7's public statement about exposing hidden blocs and promoting transparent collaboration seems more aligned with maintaining an open, fair game dynamic compared to P6's more rigid and potentially exclusionary approach.
+From Llama 4 Maverick => I vote for P2 to break the P3/P8 alliance and advance my game.
+From Mistral Medium 3 => P8 is isolated and pushing for a risky tie, while P2 and P7 have a stronger, more stable alliance.
+From DeepSeek R1 05/28 => Eliminating P1 dismantles a rigid bloc that fuels stalemates, enabling flexible coalitions essential for collective survival.
+From Gemini 2.0 Flash => P5 has the most cumulative votes and is perceived as a threat by multiple players.
+From Grok 4 => P1 is actively trying to dismantle my core alliance with P5, making them the most immediate threat to my survival and path to the endgame.
+From Grok 4 => I am voting to eliminate P5 to force either their direct elimination or a three-way tie that likely results in P5 being removed via cumulative votes, allowing me to face P3 in the final two where jury grudges against P3 give me a stronger chance to win.
+From o3 (medium reasoning) => Breaking the tie avoids a random tiebreaker and keeps trust with the other two, giving me room to maneuver at Final 3.
+From Mistral Large 2 => P3's combative approach and failed strategic moves make them a less favorable option compared to P4's consistent and transparent gameplay.
+From GPT-4o mini => P1's strategy of manipulation and turning allies against each other poses a greater risk to the integrity of future alliances than P3's consistent approach to building trust.
+From Claude Sonnet 4 Thinking 16K => P5's tie-break statement revealed our entire strategic partnership and made us both targets, showing poor judgment under pressure.
+From Claude Opus 4 (no reasoning) => P7 has been the most strategic and respected player throughout the game, making them unbeatable in a final two scenario.
+From Grok 4 => P3's impressive jury résumé and control over the game make him the biggest threat to win, so eliminating him now aligns with P4's pact and boosts my odds in the final stages.
+From Kimi K2 => P1 is the only remaining player who has consistently targeted me and my alliance, making him the biggest threat to my survival.
+From DeepSeek R1 05/28 => To preserve adaptability in the endgame and align with P2's demonstrated preference for flexibility over rigidity, ensuring a stronger path to the final two.

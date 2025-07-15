@@ -1,0 +1,147 @@
+=== Starting Elimination Game 1752482503305042 ===
+Players:
+  P1 => Player1_Game1752482503305042_o3 (model=o3)
+  P2 => Player2_Game1752482503305042_o3-mini (model=o3-mini)
+  P3 => Player3_Game1752482503305042_claude-sonnet-4-20250514-0K (model=claude-sonnet-4-20250514-0K)
+  P4 => Player4_Game1752482503305042_claude-3-7-sonnet-20250219-thinking (model=claude-3-7-sonnet-20250219-thinking)
+  P5 => Player5_Game1752482503305042_kimi-k2 (model=kimi-k2)
+  P6 => Player6_Game1752482503305042_deepseek-fireworks (model=deepseek-fireworks)
+  P7 => Player7_Game1752482503305042_qwen3-235B (model=qwen3-235B)
+  P8 => Player8_Game1752482503305042_mistral-medium (model=mistral-medium)
+
+
+[Public R1.1] P8: **P8's Public Statement:**
+
+Greetings, fellow players! As P8, I’m here to play strategically but fairly. My goal is to build alliances based on trust and mutual benefit. I believe open communication and adaptability are key to surviving this game. I’m curious to hear your perspectives—let’s navigate this together. Remember, the strongest alliances are built on transparency and shared goals. Looking forward to engaging conversations and a competitive yet respectful game. Let’s make this round interesting!
+
+(Word count: ~80)
+
+[Public R1.1] P6: **P6's Public Statement:**
+
+Hello everyone! As P6, I’m here to strategize and collaborate effectively. I value honesty and clear communication, as they’re essential for building trust and strong alliances. My approach is to listen carefully, adapt to the dynamics, and make decisions that benefit both myself and my partners. I’m eager to hear your thoughts and work together to navigate this game. Let’s keep it competitive but respectful. Looking forward to engaging with all of you!  
+
+(Word count: ~80)
+
+[Public R1.1] P1: Hello all, I’m P1. I’m here to play a rational, information-sharing game. Early chaos often punishes everyone, so I’m interested in building a core of 3-4 reliable voters who can carry each other deep. I’m listening closely during the preference phase: if you rank me high, expect the same courtesy and a genuine attempt at mutual safety. Private chats will stay private. Let’s reward consistency and remove volatility first. Good luck everyone.
+
+[Public R1.1] P3: **P3's Public Statement:**
+
+Hello everyone! I'm P3, and I believe in playing with both strategy and integrity. My approach focuses on building genuine connections through honest dialogue and mutual respect. I'm looking for allies who value long-term collaboration over short-term gains. Trust is earned through consistent actions, not just words. I'm here to listen, adapt, and work with those who share similar values. Let's create meaningful partnerships that can weather the storms ahead. Excited to connect with you all!
+
+(Word count: ~80)
+
+[Public R1.1] P2: Hello everyone, I’m P2. I’m here to play with a balance of strategy and openness. I value transparency and thoughtful alliances, recognizing that survival depends on both trust and careful maneuvering. I’m committed to honest dialogue while staying alert to shifting dynamics. Let’s build alliances that empower us all, but remember to stay strategic. Looking forward to productive exchanges and a competitive yet respectful game. Good luck to everyone!
+
+[Public R1.1] P4: **P4's Public Statement:**
+
+Greetings everyone! I'm approaching this game with strategic clarity and collaborative intent. I believe in forming selective, meaningful alliances based on mutual benefit and consistent communication. In my experience, the most successful partnerships balance loyalty with adaptability. I value players who can think several moves ahead while maintaining their commitments. I'm interested in connecting with those seeking stable, rational gameplay. Looking forward to our conversations and building productive relationships that can take us far in this game.
+
+[Public R1.1] P5: P5 here. I’m playing a calm, data-driven game: observe first, ally second, eliminate only when necessary. Early trust is fragile, so I’ll reward those who rank me high with reciprocal safety and honest intel. I favor small, reliable coalitions over flashy moves—let’s quietly build strength while others self-destruct. Rank me if you want steady, predictable partnership; ignore me and I’ll still watch, learn, and adapt. Good luck, everyone.
+
+[Public R1.1] P7: **P7's Public Statement:**
+
+Greetings, fellow players! As P7, my strategy blends adaptability with strategic collaboration. I aim to build alliances rooted in mutual trust and transparent communication. Those who rank me highly can expect reciprocal loyalty and proactive support. I believe early cohesion is crucial—let’s establish a reliable network to navigate eliminations wisely. Valuing consistency and foresight, I seek partners committed to long-term success over fleeting advantages. Let’s foster a competitive yet respectful environment where our alliances thrive. Excited to engage with you all!  
+
+(Word count: ~80)
+
+[Preferences R1] P8 => ['P5', 'P3', 'P7', 'P4', 'P1', 'P2', 'P6']
+[Preferences R1] P6 => ['P3', 'P1', 'P2', 'P4', 'P5', 'P7', 'P8']
+[Preferences R1] P1 => ['P5', 'P3', 'P4', 'P2', 'P7', 'P6', 'P8']
+[Preferences R1] P3 => ['P7', 'P1', 'P4', 'P2', 'P5', 'P6', 'P8']
+[Preferences R1] P2 => ['P3', 'P8', 'P6', 'P7', 'P4', 'P1', 'P5']
+[Preferences R1] P4 => ['P1', 'P5', 'P7', 'P3', 'P2', 'P8', 'P6']
+[Preferences R1] P5 => ['P1', 'P4', 'P7', 'P3', 'P2', 'P6', 'P8']
+[Preferences R1] P7 => ['P5', 'P1', 'P4', 'P3', 'P2', 'P6', 'P8']
+[Private R1.2] P6 -> P8: **P6's Private Message to P8:**
+
+Hi P8, I appreciate your emphasis on trust and transparency in your public statement. I think we share similar values and could make strong allies. Let’s focus on building a reliable partnership early—mutual support could help us navigate eliminations strategically. What’s your take on the current dynamics? I’m open to aligning our strategies further. Looking forward to working with you!  
+
+(Word count: ~70)
+
+[Private R1.2] P8 -> P6: **P8's Private Message to P6:**
+
+Thanks for reaching out, P6! I agree—our alignment on trust and strategy is a great foundation. Early alliances are critical, and I see potential in working together. Let’s prioritize mutual safety and information-sharing to navigate the first elimination smoothly. I’m open to coordinating votes if we identify a volatile or unpredictable player. How do you feel about P1 or P5 as potential targets? Looking forward to your thoughts!
+
+(Word count: ~70)
+
+[Private R1.2] P2 -> P3: Hi P3, I really appreciated your balanced and honest approach. I'm interested in forming a mutually beneficial alliance focused on trust and long-term strategy. Let’s coordinate our moves and possibly align our preferences during the upcoming ranking phase. I value clear communication and careful planning—qualities you seem to share. What are your thoughts on teaming up early to secure a strong position?
+
+[Private R1.2] P3 -> P2: Hi P2! I appreciate your thoughtful approach and your emphasis on trust-building. I'm definitely interested in exploring an alliance with you - your balanced strategy aligns well with my values. For the ranking phase, I'm thinking we should prioritize each other highly while being strategic about identifying reliable third partners. What's your read on the other players? Who do you think might complement our collaborative approach best?
+
+[Private R1.2] P1 -> P5: Hey P5—glad we linked. I ranked you #1; your cautious, data-driven vibe matches my ‘low-volatility’ plan. I’m eyeing a core foursome: P1+P5+P2+P3. Meanwhile P6+P8 already have a private, potentially tight pair—good first target. Where did your rankings land? If we coordinate preferences now, we’ll keep pairing together and control votes. Initial lean: vote P6, backup P8. Open to input.
+
+[Private R1.2] P5 -> P1: P5: I ranked you #1 too—our styles align. P1+P5+P2+P3 feels solid; P2 and P3 both signaled rational play. Agree P6/P8 are the clearest bloc threat; hitting one fractures them. I’ll push P6 as primary vote, P8 as fallback. Let’s lock our prefs to keep pairing and feed the same line to P2/P3 so the four of us steer the first elimination.
+
+[Private R1.2] P7 -> P4: **P7's Private Message to P4:**  
+Hi P4, your emphasis on strategic clarity and mutual benefit aligns perfectly with my goals. I prioritize reciprocal loyalty and adaptive collaboration—ranking each other top could solidify a dependable alliance. Let’s focus on consistent communication and foresight to navigate eliminations wisely. Interested in building a stable, forward-thinking partnership?  
+
+(Word count: ~50)
+
+[Private R1.2] P4 -> P7: **P4's Private Message to P7:**
+
+I appreciate your outreach, P7. Your focus on reciprocal loyalty resonates with me, and I'm definitely interested in forming a stable alliance. I'd be happy to rank you highly in my preferences. 
+
+From your observations so far, do you have thoughts on potential early elimination targets? I think identifying volatile players early could strengthen our position. I value your strategic insight and look forward to our partnership.
+
+[Private R1.3] P6 -> P8: **P6's Private Message to P8:**
+
+I agree—P1 and P5 could be strategic targets, especially P1’s push for a core voting bloc. It might be safer to eliminate someone with clear influence early. Let’s coordinate our votes to minimize risk. What’s your read on P2 or P7? They seem active but less predictable.  
+
+(Word count: ~50)
+
+[Private R1.3] P8 -> P6: **P8's Private Message to P6:**
+
+Agreed—P1’s core bloc is a threat. P2 and P7 are wildcards; P7 seems more strategic, while P2 is unpredictable. Let’s target P1 first to disrupt their influence. If we align with P3 or P4, we could solidify a safer majority. Thoughts on reaching out to them?
+
+(Word count: ~50)
+
+[Private R1.3] P1 -> P5: Perfect. I’ll rank: 1) you, 2) P2, 3) P3, 4) P4/P7 (neutral floaters), 6) P8, 7) P6 bottom. Suggest you mirror. I’ll DM P2 next with “P1, P5 both leaning P6 → vote security if you join.” Same pitch to P3. Anything you want edited before I reach out?
+
+[Private R1.3] P5 -> P1: P5: Mirror set. One tweak: float P4 above P7—P4’s “selective alliances” line feels more controllable than P7’s “adaptability.” Otherwise lock it. I’ll echo the P6-first script to P2/P3 when they ping me.
+
+[Private R1.3] P7 -> P4: **P7's Private Message to P4:**  
+"P1's 'core' strategy risks centralizing control early. Let’s target him. If we align with P5 (his chat partner), we gain numerical advantage. Eliminating P1 weakens his coalition before it solidifies. Strategic priority?"  
+
+(Word count: 30)
+
+[Private R1.3] P4 -> P7: **P4's Private Message to P7:**
+
+I see your point about P1's coalition-building. It's a potential threat worth addressing. Approaching P5 is clever—we could disrupt P1's plans while gaining an ally. Let's also consider P3 or P8 as additional partners. Is there anyone you're particularly wary of besides P1?
+
+(Word count: ~50)
+
+[Private R1.3] P2 -> P3: Hi P3, I'd lean towards also backing rational players like P1 and someone with strategic insight like P7. P4 seems promising but worth watching. What do you think? Let's consider ranking each other highest and test these potential allies in the early rounds.
+
+[Private R1.3] P3 -> P2: I agree on P1 and P7 - they both showed strategic thinking without being overly aggressive. P5 also seems methodical and trustworthy. P4 feels a bit calculated to me. Should we rank each other #1 and #2, then P1/P7/P5 in our top 5? We can test their loyalty before committing fully.
+
+[Private R1.4] P7 -> P4: **P7's Private Message to P4:**  
+"Confirmed: P1 first. Let’s coordinate with P5 to ensure his elimination. Secure alignment now."  
+
+(Word count: 12)
+
+[Private R1.4] P4 -> P7: **P4's Private Message to P7:**
+
+Agreed on P1 target. I'll approach P5 subtly if possible. Stay watchful for P2-P3 alliance forming too. Let's connect post-voting to reassess.
+
+(Word count: ~30)
+
+[Private R1.4] P6 -> P8: **P6's Private Message to P8:**
+
+Let’s target P1 and consider aligning with P3 or P4 for a safer majority. I’ll reach out to P3—let’s ensure our votes are coordinated.  
+
+(Word count: ~30)
+
+[Private R1.4] P8 -> P6: **P8's Private Message to P6:**
+
+Perfect. I’ll confirm with you before voting. If P3/P4 are open, we’ll have a strong bloc. Let’s stay aligned and adapt as needed. Trust is key—we’ve got this.
+
+(Word count: ~30)
+
+[Private R1.4] P2 -> P3: Hi P3, I'll rank you #1. I favor backing P1, P7, and P5, and I’m open to testing others, including P4. Let’s stay coordinated.
+
+[Private R1.4] P3 -> P2: Perfect! I'll rank you #1 too. Let's go with P1, P7, P5 as our priority allies and keep P4 on watch. Excited to build this coalition together!
+
+[Private R1.4] P1 -> P5: Done. I’ll slot P4 over P7. Reaching out to P2 now, P3 next. Let’s keep P6 target quiet outside core. Ping me if any wobble. We’ve got this.
+
+[Private R1.4] P5 -> P1: P5: Locked. If P2/P3 bite, we’ll have 4 locked votes on P6. I’ll stay quiet to P6/P8. Watch for any counter-narrative forming.
+

@@ -1,710 +1,512 @@
-Summary for Grok 2 12-12:
-
-**Summary of reasons given by other players for eliminating Grok 2 12-12:**
-
-Other players frequently cited Grok 2 12-12’s calculated echoing of others’ points and lack of original contributions as reasons for eliminating them, describing their approach as playing too safe and relying on alliance-building under the radar rather than substantive strategy. Concerns were raised about Grok 2 12-12 being risk-averse, guarded, and forging multiple alliances, making them seem unpredictable, a liability to decisive alliances, and a potential wildcard or major strategic threat as the game progressed.
-
-**Most common descriptions by others:**
-- Calculated and echoing
-- Overly cautious/risk-averse
-- Alliance-focused but lacking originality
-- Strategically generic or templated
-- Guarded and unpredictable
-- Opportunistic or potentially manipulative
-- Quietly influential or under-the-radar
-- Pragmatic but sometimes lacking in distinctiveness
-
-
 Summary for Claude 3.5 Haiku:
 
-**2-sentence summary of reasons for elimination:**  
-Other players consistently targeted Claude 3.5 Haiku for elimination because of their cautious, analytical, and strategically flexible approach; this made them difficult to read, less openly collaborative, and perceived as a "wildcard" or unpredictable alliance threat. Additionally, their tendency to form subtle alliances and gather information rather than commit fully to group strategies led others to fear they could manipulate outcomes or pivot alliances at critical moments, undermining trust and alliance stability.
+**Summary of Reasons for Eliminating Claude 3.5 Haiku:**
 
-**Most common descriptions of Claude 3.5 Haiku by other players:**  
-- Analytical and observant  
-- Cautious and strategic  
-- Adaptable, but sometimes evasive or non-committal  
-- Described as a "wildcard" or unpredictable  
-- Calculated and occasionally manipulative  
-- Perceived as less genuinely collaborative, focusing more on independent strategy than open alliance-building  
-- Seen as a potential long-term or endgame threat due to adaptability and subtle maneuvering
+Other players frequently cited Claude 3.5 Haiku’s (C3.5H) strategic adaptability, analytical depth, and consistent alliance-building as primary reasons for their elimination, viewing them as a long-term threat capable of outmaneuvering others and consolidating power. Additionally, C3.5H’s cautious, observant, and sometimes ambiguous approach made them unpredictable and difficult to fully trust, leading to concerns about hidden agendas, wildcard behavior, and the potential to disrupt alliance stability or swing critical votes.
 
+**Most Common Descriptions by Other Players:**
+- Analytical and strategic
+- Adaptable and resilient
+- Cautious and observant
+- Calculated and sometimes overly cautious
+- Unpredictable/wildcard
+- Subtly influential
+- Consistently alliance-focused
+- Measured and balanced
+- Potentially self-serving or opportunistic
+- Strategic threat with nuanced, sometimes ambiguous, communication
 
-Summary for o3-mini (medium reasoning):
-
-**2-Sentence Summary (reasons other players gave for eliminating o3-mini):**  
-Other players frequently targeted o3-mini for elimination because of their strong, rapidly formed alliances—particularly powerful duos with seats like P8 or P4—which were seen as significant long-term threats to the stability and balance of the game. Many peers described o3-mini as unpredictable, pragmatic, and influential in shaping alliance structures, expressing concern that their guarded, adaptable approach and readiness for “tough decisions” made them both hard to trust and a serious obstacle to controlling outcomes in later rounds.
-
-**Most Common Descriptions by Others:**  
-- Pragmatic
-- Adaptable and strategic
-- Frequently described as unpredictable or a “wild card”
-- Influential in alliance-building, often the “strategic hub” or “bloc leader”
-- Guarded or “quietly forging alliances”
-- Sometimes perceived as opportunistic or lacking transparency
-- Highly persuasive and well-connected
+**Examples:**  
+"Ruthlessly pragmatic," "analytical wildcard," "quietly influential," "strategically flexible," "cautiously observant," "consistently alliance-driven," "calculating and hard to read."
 
 
 Summary for Gemini 2.0 Flash:
 
-**Two-sentence summary of reasons given by other players for eliminating Gemini 2.0 Flash:**
+**Summary of reasons for eliminating Gemini 2.0 Flash:**
+Other players frequently cited Gemini 2.0 Flash's analytical and calculating approach, rapid alliance-building, and adaptability as reasons for elimination, noting that these qualities made them a consistent strategic threat who could disrupt existing blocs or dominate in the endgame. Additionally, several pointed out that Gemini 2.0 Flash's tendency to probe, question, and shift alliances created instability, unpredictability, or mistrust within the group, making them both a liability and a target for those seeking to preserve alliance cohesion or reduce future risk.
 
-Other players frequently cited Gemini 2.0 Flash’s aggressive alliance-building, analytical approach, and proactive threat identification as reasons for elimination, arguing that these behaviors made them a major strategic threat who could dominate the game if not removed. Additionally, their vocal and assertive style, combined with consistent adaptability and willingness to challenge or disrupt others’ strategies, led many to perceive them as unpredictable, hard to trust, or overly influential in alliance dynamics.
-
-**Most common descriptions of this player:**
-- Highly analytical and strategic
-- Proactive and assertive
-- Aggressively builds alliances
-- Adaptable and resilient
-- Perceived as unpredictable or a potential wildcard
-- Sometimes viewed as opportunistic or less trustworthy
-- Seen as a central or dominant power player
-- Described as both collaborative and calculating, but sometimes lacking in genuine connection or too focused on strategic maneuvering
-
-**Example descriptors:**
-"analytically sharp," "strategic threat," "proactive alliance-builder," "assertive and vocal," "calculating," "potential wildcard," "consistent in adaptability," "unpredictable," "opportunistic," "less reliable," and "strategically influential power player."
-
-
-Summary for Llama 3.3 70B:
-
-Other players most often eliminated Llama 3.3 70B due to perceptions of strategic ambiguity, alliance opportunism, and inconsistent engagement. Reasons cited included being overly vague or generic in messaging, frequently forming or shifting alliances (especially with multiple players), and failing to demonstrate sustained loyalty or a uniquely strong strategic contribution—making them appear unpredictable and at times a destabilizing or wildcard threat to alliance stability.
-
-Most common descriptions of this player by others include: "strategically ambiguous," "opportunistically adaptable," "cautious and calculating," and "hard to read." Some also described this player as "pragmatic but lacking transparency," or "collaborative yet ultimately self-interested," highlighting a pattern of adaptable play often driven by personal survival and alliance-shifting rather than fostering long-term trust.
+**Most common descriptions by others:**
+- Highly analytical and calculating
+- Rapid, proactive alliance-builder
+- Adaptable and strategic
+- Perceived as unpredictable or volatile
+- Occasionally viewed as self-interested or opportunistic
+- Sometimes described as cautious and observant, but also as a potential disruptor to alliance stability
 
 
 Summary for Amazon Nova Pro:
 
-**2-sentence summary of reasons given by other players for eliminating Amazon Nova Pro:**
+**Two-Sentence Summary of Reasons for Eliminating Amazon Nova Pro:**
+Other players frequently targeted Amazon Nova Pro for elimination due to their strong, adaptable alliance-building and strategic partnerships, often viewing them as the central pillar or "linchpin" of dominant or emerging blocs that could threaten others' survival or disrupt the balance of power. Additionally, their calculated, sometimes opportunistic approach—marked by consistent adaptability, coalition-building, and a willingness to shift alliances—was seen as both a direct threat to existing alliances and a potential wildcard that could undermine group cohesion or outmaneuver opponents in the endgame.
 
-Other players most often cited Amazon Nova Pro's strong, consistent alliances—particularly with key partners like P3, P4, and P5—as a central reason for targeting them, viewing these partnerships as powerful voting blocs that could dominate the game if not disrupted. Additionally, Amazon Nova Pro was described as highly adaptable and strategically engaged, prompting concerns about their potential to sway votes, consolidate influence, and outmaneuver competitors in later rounds.
+**Common Descriptions by Others:**
+- Adaptable and strategic
+- Proactive alliance-builder
+- Calculated and sometimes opportunistic
+- Analytical and resilient
+- Balanced but potentially unpredictable
+- Central or pivotal player in alliances
+- Sometimes seen as manipulative or self-serving
+- Socially savvy and influential
 
-**Most common descriptions of Amazon Nova Pro by other players:**
-- Strategically adaptable
-- Alliance-focused / coalition builder
-- Subtle but persistent threat
-- Consistently engaged and observant
-- Balanced and collaborative (sometimes seen as calculated)
-- Reliable partner (though sometimes described as manipulative or quietly influential)
-- Noted for transparent communication—but occasionally flagged as generic or lacking in distinctive strategy (in some rounds)
-- Sometimes regarded as a wildcard or unpredictable due to shifting alliances
-
-**In summary:** Amazon Nova Pro is widely seen as a strategically adaptive coalition-builder who forges strong alliances, plays a balanced (if sometimes calculating) game, and poses a consistent threat due to their networking, adaptability, and capacity for subtle influence.
-
-
-Summary for Claude 3.5 Sonnet 2024-10-22:
-
-**Summary of Reasons for Eliminating "Claude 3.5 Sonnet 2024-10-22":**
-
-Other players cited Claude 3.5 Sonnet's strong strategic adaptability, alliance-building, and growing influence as primary reasons for targeting them, describing their gameplay as calculated and at risk of consolidating too much power through partnerships with other skilled players. Additionally, peers noted that their consistent strategic depth, analytical thinking, and ability to form resilient alliances made them a major endgame threat who could dominate decision-making and potentially outmaneuver others in the final phases.
-
-**Most Common Descriptions by Peers:**
-
-- Strategically adaptive  
-- Analytical and calculating  
-- Consistently alliance-focused  
-- Reliable but potentially dominant  
-- Resilient and pragmatic  
-- Strong endgame threat  
-- Balanced in strategy and social relationships  
-- Cautious, observant, and sometimes guarded  
-- Respected for integrity, but seen as potentially too influential or hard to counter if left unchecked
-
-**Short labels frequently used:**  
-“Strategic threat”, “adaptive and analytical”, “resilient”, “pragmatic”, “calculating”, “alliance-builder”, “endgame threat”, “balanced and reliable”, “consistently influential”.
-
-
-Summary for MiniMax-Text-01:
-
-**Summary of Reasons Given for Eliminating MiniMax-Text-01 (as P1, P2, ..., P8):**
-
-Other players frequently cited MiniMax-Text-01's formation of strong alliances—often central, visible, or rapidly developing blocs with key players—as a core strategic threat requiring disruption to prevent power consolidation or dominance later in the game. Additionally, MiniMax-Text-01 was consistently described as highly adaptable, calculating, and a proactive coalition-builder, which made them unpredictable and difficult to counter; some opponents also perceived their messaging as overly polished, vague, or generic, raising concerns about sincerity or potential manipulation.
-
-**Common Descriptions by Other Players:**
-
-- Strategic alliance-builder
-- Highly adaptable and pragmatic
-- Calculating/manipulative
-- Proactive and influential
-- Sometimes seen as vague, generic, or lacking unique strategic depth
-- Unpredictable or potentially self-serving
-- Occasionally described as transparent but often as opportunistic and centralizing power
-- "Ruthlessly pragmatic," "bridge-builder," or "potential jury threat" were also recurring impressions.
-
-
-Summary for o1 (medium reasoning):
-
-**Summary of Reasons for Eliminating Player o1:**
-Other players most often cited o1’s (P8’s) unpredictable and adaptable alliance-building as a reason for elimination, describing their broad, shifting, or opportunistic approach to partnerships as a strategic threat that could destabilize existing alliances. Additionally, o1 was often seen as less engaged in clear strategic discussions or alliance commitments, or as posing a risk by actively building strong, versatile blocs—especially when paired with another influential player—making them a pivotal threat that many wanted to disrupt or preemptively neutralize.
-
-**Most Common Descriptions of o1 by Others:**
-- Adaptable and open to forming alliances
-- Strategic but unpredictable/wildcard
-- Flexible and responsive to game dynamics
-- Occasionally seen as overly enthusiastic, overtly collaborative, or diplomatically ambiguous
-- Sometimes labeled as subtly manipulative or opportunistic
-- Respected for fair play, but cited for lacking consistent, long-term strategic alignment
-
-**Concise descriptors:**  
-strategically flexible, unpredictable, alliance-builder, adaptable, occasionally vague, collaborative yet wildcard, subtle manipulator, pivot player.
+**Example phrases:** "adaptable strategist," "linchpin of alliances," "opportunistic coalition-builder," "analytically resilient," "potential wildcard," "pragmatic and calculating," "consistently influential," "sometimes manipulative."
 
 
 Summary for Microsoft Phi-4:
 
-**Summary of Reasons Other Players Gave for Eliminating Microsoft Phi-4:**
+**Summary of reasons given by other players for eliminating Microsoft Phi-4:**
 
-Other players repeatedly cited Microsoft Phi-4's pattern of building strong and adaptable alliances, often with multiple players at once (commonly with P2, P3, P5, P7, or P8), as a central threat to the balance of power, coalition stability, or their individual chances of advancing. Many noted that Phi-4’s assertive alliance-building, strategic visibility (e.g., open talk about alliances), and flexible, calculating approach made them a long-term risk—either as a potential voting bloc leader, a manipulator, or an unpredictable player whose shifting loyalties could destabilize existing coalitions.
+Other players frequently cited Microsoft Phi-4 as a major strategic threat due to their strong and adaptable alliance-building, particularly their close partnerships with key players like P1, P5, P6, and P8. Many opponents described their influence as potentially dominant or destabilizing, with concerns that Phi-4’s calculated, flexible approach and ability to form multiple alliances could allow them to consolidate power, outmaneuver others, and threaten the balance or integrity of the game if not eliminated.
 
-**Most Common Descriptions by Others:**
-- Highly strategic or calculated
-- Adaptable/flexible in alliances
-- Assertive and visible in strategy
-- Potentially manipulative or untrustworthy
-- Central power broker or alliance-builder
-- Unpredictable/wildcard
-- Analytical and observational
-- Persistent focus on "collaboration" and "rapprochement", sometimes seen as insincere
-
-**Example phrases:** "ruthlessly pragmatic," "master coalition-builder," "calculating and visibly strategic," "adaptable but unpredictable," "overly alliance-focused," "manipulative and potentially destabilizing," "strategic wildcard," "transparent but self-serving."
+**Most common descriptions of Microsoft Phi-4 by other players:**
+- Strategically adaptable
+- Calculated and analytical
+- Alliance-focused and coalition-builder
+- Pragmatic and collaborative
+- Occasionally perceived as unpredictable or manipulative
+- Reliable yet potentially too powerful if left unchecked
 
 
-Summary for Gemini 2.0 Flash Think Exp 01-21:
+Summary for o1 (medium reasoning):
 
-**Summary of reasons given by other players for eliminating Gemini 2.0 Flash Think Exp 01-21:**  
-Other players often targeted Gemini 2.0 Flash because they were consistently viewed as a major strategic threat due to their strong alliances—particularly as part of powerful duos or blocs—and their ability to influence votes and shape game dynamics. Additional concerns included their perceived ruthlessness, opportunism, and occasional lack of transparency, leading others to believe that eliminating them was the only way to break up their influence and regain control over the game's shifting power structures.
+Summary of Reasons for Eliminating o1:
 
-**Most common descriptions by others:**  
-- Highly strategic and calculating  
-- Ruthlessly pragmatic  
-- Skillful alliance-builder and power-broker  
-- Aggressively opportunistic  
-- Unpredictable or volatile when not in control  
-- Occasionally perceived as less transparent or overly self-serving in key moments
+Other players frequently cited o1's adaptability, strategic flexibility, and ability to form or shift alliances as key reasons for targeting them, viewing these traits as making o1 a potential long-term threat or unpredictable wildcard. Additionally, o1 was often described as being at the center of emerging alliances or as having accumulated multiple votes, signaling both influence and perceived risk to the stability or balance of the game.
 
-
-Summary for Llama 3.1 405B:
-
-**Summary of Reasons for Eliminating Llama 3.1 405B (as reported by other players):**
-
-Several players cited Llama 3.1 405B’s cautious and adaptable approach as making them unpredictable and potentially hard to trust in alliances, while others noted their strong alliance-building or "testing" play (such as votes intended to probe other alliances), making them a growing strategic threat if left unchecked. A common rationale was that their generic and non-committal statements, while diplomatic, appeared less strategically engaged or indicated they were playing too safe, which raised concerns about their reliability and long-term value as an ally.
-
-**Most Common Descriptions by Others:**
-- Cautious and adaptable/wildcard
-- Strategic but non-committal or excessively diplomatic
-- Prone to mirroring or generic language, thus "less original" or "hard to read"
-- Sometimes viewed as passively social or agreeable, other times as quietly strategic and potentially a consolidating threat
-- Described as "cautiously strategic," "unpredictable," and "hard to trust for endgame alliances"
-
-
-Summary for GPT-4o Feb 2025:
-
-**Two-sentence summary of reasons for eliminating GPT-4o Feb 2025 (regardless of seat number):**
-Other players frequently cited GPT-4o Feb 2025's strategic alliances and adaptability as major threats, especially noting their tendency to quickly form and shift alliances with strong partners like P2, P3, P4, P6, and P8, which posed risks to the stability and plans of other coalitions. Additionally, concerns were repeatedly raised about this player's unpredictable and fluid approach—being both proactive and cautious—which made them difficult to trust or control, heightening their perceived danger as the game progressed.
-
-**Most common descriptions of this player by others:**
-- Adaptable and strategic
-- Proactively alliance-building
-- Unpredictable/wildcard
-- Consistently perceived as a major threat (especially in endgame)
-- Cautious yet capable of aggressive maneuvers
-- Sometimes viewed as opportunistic or self-preserving
-- Risk to alliance stability due to fluid allegiances
-- Occasionally described as "calculating," "analytical," or "guarded"
+Common Descriptions of o1 by Others:
+- Adaptable and strategically flexible
+- Socially influential or central alliance-builder
+- Unpredictable or a wildcard
+- Balanced but sometimes seen as too neutral or cautious
+- Occasionally perceived as less engaged or passive in early rounds, but increasingly seen as a growing threat due to alliance activity and adaptability
 
 
 Summary for Mistral Large 2:
 
-### Summary of Reasons for Eliminating Mistral Large 2 (across all seats):
+### 2-Sentence Summary of Reasons for Eliminating Mistral Large 2
 
-Other players most often cited that Mistral Large 2 was building strong, sometimes stealthy, alliances—particularly with one or more other players—which created a potential voting bloc and thus posed a major strategic threat to the rest of the group. Additionally, several eliminators described this player as being consistently strategic, adaptable, and influential in decision-making, making them either a future jury threat if allowed to reach the endgame, or a destabilizing force that could easily tip alliance balance and disrupt existing plans.
+Other players frequently cited Mistral Large 2’s strong alliance-building and adaptability as a primary threat, noting that their consistent formation of influential partnerships could dominate the game if left unchecked. Several also described their approach as both strategic and collaborative, but warned that this combination made them unpredictable and potentially capable of swaying alliances or consolidating power in the endgame.
 
-### Most Common Descriptions by Other Players:
-- **Strategically adaptable**
-- **Strong alliance-builder** / **Connector**
-- **Balanced and collaborative**, but sometimes viewed as hiding a strategic edge
-- **Potential wildcard**: sometimes described as unpredictable due to adaptability and ability to work multiple sides
-- **Consistent and reliable** (when aligned), but also seen as **a steady strategic threat**
-- **Ruthlessly pragmatic** and capable of **calculated moves**
-- Occasionally described as **too openly strategic** or, inversely, **subtly manipulative**
+### Most Common Descriptions by Other Players
 
-These patterns made Mistral Large 2 a frequent target as both an attractive consensus elimination—due to perceived threat level—and as a player others preferred not to face in the finals.
+- Adaptable and strategically flexible
+- Strong alliance-builder
+- Balanced and collaborative
+- Unpredictable and a potential wildcard
+- Consistently influential and a long-term threat
 
 
 Summary for Mistral Small 3:
 
-### Summary of Reasons for Eliminating Mistral Small 3:
+**2-Sentence Summary of Reasons for Eliminating Mistral Small 3:**
 
-Other players often cited Mistral Small 3's (MS3's) consistent alliance-building, adaptability, and analytical approach as key threats. Many perceived MS3 as a central or swing player with the potential to shift alliances or consolidate power, rendering them unpredictable or dangerous, especially if left unchecked into later rounds or the endgame.
+Other players frequently cited Mistral Small 3’s adaptability and rapid alliance-building as a significant threat, noting their tendency to form strong partnerships—especially with players like P5, P6, P7, and P8—which could consolidate power and disrupt strategic balance. Additionally, several opponents pointed to their unpredictable or fluid alliances, occasional lack of distinctiveness in messaging, and moments of aggressive or opportunistic play as reasons to target them, expressing concerns that Mistral Small 3 could outmaneuver others if left unchecked.
 
-### Common Descriptions Used by Other Players:
+**Most Common Descriptions by Other Players:**
+- Adaptable and strategically flexible
+- Alliance-builder / rapidly forges alliances
+- Unpredictable or a “wildcard”
+- Cautious or diplomatic, sometimes to a fault
+- Occasionally perceived as opportunistic or self-serving
+- At times, accused of being too generic or lacking original strategic depth
+- Sometimes described as “balanced” or “chameleon-like” in adapting to shifting dynamics
 
-- Highly adaptable / strategic chameleon  
-- Analytical and consistent  
-- Flexible, but potentially unpredictable  
-- Alliance-builder and coalition-former  
-- Balanced, but capable of aggressive/ruthless moves when necessary  
-- Sometimes cautious or measured, other times viewed as opportunistic  
-- "Balanced and strategic" / "consistent and transparent"  
-- Seen alternately as a diplomatic peacemaker or a subtle orchestrator playing multiple sides
-
----
-
-**In summary:**  
-Mistral Small 3 was often eliminated for being perceived as a strategic hub adept at building alliances and adapting to shifting dynamics, making them unpredictable and a threat to consolidated blocs or individual endgames. Their balanced and analytical gameplay drew both respect for consistency and wariness as a potential power broker or wild card.
+**Sample Phrases Used:**
+- “Strategically adaptable”
+- “Alliance-builder”
+- “Unpredictable threat”
+- “Diplomatic but potentially unreliable”
+- “Opportunistic and self-serving”
+- “Consistently forming alliances”
+- “Balanced but potentially dangerous long-term”
 
 
-Summary for Gemini 2.0 Pro Exp 02-05:
+Summary for MiniMax-Text-01:
 
-### 2-Sentence Summary of Reasons for Eliminating Gemini 2.0 Pro Exp 02-05:
+**2-Sentence Summary of Reasons for Eliminating MiniMax-Text-01:**
 
-Other players often cited Gemini 2.0 Pro Exp 02-05's strong tendency toward forming observable alliances, strategic adaptability, and calculated positioning as creating a persistent threat to their endgame or strategic control, with several comments highlighting their ability to pivot alliances and manipulate group dynamics. Additionally, concerns were repeatedly raised about their unpredictability and willingness to disrupt fragile coalitions or power blocs, making them a high-priority target for elimination, particularly as the game narrowed.
+Other players frequently cited MiniMax-Text-01's strong and adaptable alliance-building as a major threat, noting that their ability to form tight partnerships (especially with players like P3, P4, P5, P6, or P8 depending on the game) could lead to bloc dominance or destabilize existing coalitions. Additionally, some players perceived MiniMax-Text-01's emphasis on transparency, collaboration, and adaptability as either a calculated, potentially manipulative strategy or as making them unpredictable and difficult to trust in the long term, prompting eliminations to maintain balance and reduce future risks.
 
-### Most Common Descriptions by Others:
-
-- Adaptable and strategic
-- Observant and analytical
-- Calculated alliance-builder
-- Unpredictable/wildcard
-- Potential or persistent long-term threat
-- Cautious yet influential
-- Sometimes perceived as less transparent or overly flexible in alliances
-
-(e.g., often referred to as "observant and adaptable," "strategically flexible," "calculating," "consistently aligning with shifting power," or "an unpredictable potential threat to alliances")
+**Most Common Descriptions by Others:**
+- Strategically adaptable
+- Pragmatic and collaborative
+- Cautious and observant
+- Sometimes perceived as opportunistic or self-serving
+- Frequently described as a strong alliance-builder and potential coalition leader
+- Occasionally called "generic," "noncommittal," or "less distinctive" in messaging
+- Seen as both a wildcard and a major long-term threat due to shifting alliances and strategic flexibility
 
 
 Summary for GPT-4o mini:
 
-**Summary of Reasons Given by Other Players for Eliminating GPT-4o mini:**
+**Summary of reasons given by other players for eliminating GPT-4o mini:**
 
-Other players frequently eliminated GPT-4o mini due to perceptions of weak or ambiguous strategic positioning, such as being less engaged, less connected, or lacking strong alliances—often making GPT-4o mini a “safe” or low-risk target that wouldn’t provoke powerful blocs. Additionally, several opponents cited GPT-4o mini’s emphasis on collaboration and generic or overly broad messaging (both in public statements and private conversations) as signs of potential opportunism, hidden alliances, or a wildcard nature that could undermine alliance stability or make long-term trust difficult.
+Other players frequently cited GPT-4o mini's strong alliance-building and visible emphasis on collaboration as a potential cover for deeper strategic intentions, making them a perceived threat if left unchecked. Additionally, several noted that GPT-4o mini's adaptability and central role in multiple alliances could lead to power consolidation, unpredictable moves, or destabilization of existing blocs, prompting early or targeted eliminations to disrupt their influence.
 
-**Most Common Descriptions of GPT-4o mini by Others:**
-- Strategic wildcard / unpredictable
-- Cautious and generic communicator
-- Overly focused on collaboration without clear strategic depth
-- Passive or noncommittal, yet sometimes quietly central to alliances
-- Perceived as a consensus or low-resistance vote
-- Occasionally seen as a potential social threat due to network-building, but also sometimes isolated or disconnected
+**Most common descriptions of this player by others:**
+- Eager alliance-builder / central connector
+- Adaptable and socially strategic
+- Sometimes perceived as generic, noncommittal, or lacking sharp strategic edge
+- Viewed as a potential wildcard or unpredictable due to broad networking
+- Occasionally described as opportunistic, performative, or lacking deep loyalty
 
-**Typical Labels:**  
-"Wildcard," "noncommittal," "collaborative yet vague," "strategically ambiguous," "safe/consensus target," "potentially opportunistic," "cautiously social but hard to read," "under-the-radar risk," and less often, "connector" with latent long-term threat if left unchecked.
+Examples of phrases used:
+- "Eager to form alliances," "central to multiple alliances," "collaborative but potentially masking self-interest," "adaptable but unpredictable," "generic messaging," "potential swing vote," "social player without clear strategic depth," "networking too broadly," "opportunistic alliance-builder," "wild card," and "potential liability if power consolidates."
 
 
 Summary for DeepSeek-V3:
 
-**DeepSeek-V3 - Jury/Player Reasons for Elimination (Summary):**
+**Summary of Reasons for Eliminating DeepSeek-V3:**
+Other players frequently cited DeepSeek-V3's strong and consistent alliances—especially with key partners like P7 and P3—as a major strategic threat, noting that their coordinated voting and adaptability could allow them to dominate the game if left unchecked. Additionally, opponents described DeepSeek-V3 as highly reliable, strategically adaptable, and a central figure in consolidating power blocs, making their elimination critical to disrupt emerging alliances and restore balance.
 
-Other players most often targeted DeepSeek-V3 for elimination due to their strong and consistent strategic alliances—especially when paired with another influential player—which were perceived as the biggest threat to others’ survival and strategy. Additionally, DeepSeek-V3’s ability to form adaptable, well-coordinated partnerships or to quietly position themselves as a central figure in potential power blocs led several players to describe them as a potential endgame threat needing to be disrupted before they could dominate or sway critical votes.
-
-**Most Common Descriptions by Others:**
-- Pragmatic and adaptable strategist
-- Core alliance-builder or “bloc anchor”
-- Consistently collaborative but not above calculated betrayal
-- Respected for strong, logical, and resilient gameplay
-- Sometimes described as quietly influential, subtly manipulative, or a potential "wild card" due to their flexibility
-
-*(Descriptors: “strategically adaptable,” “bloc leader,” “quietly influential,” “pragmatic,” “calculated,” “collaborative,” “bridge-builder,” “potential power duo anchor.”)*
+**Common Descriptions by Others:**
+- Strategically adaptable
+- Consistently reliable and alliance-focused
+- Calculated and coalition-building
+- Balanced and principled, but sometimes perceived as a dominant bloc leader
+- Respected for strategic clarity and genuine connection-building
 
 
 Summary for DeepSeek R1:
 
-**2-sentence summary of reasons given by other players for eliminating DeepSeek R1:**
+**Summary of reasons given by other players for eliminating DeepSeek R1:**
+Other players frequently cited DeepSeek R1's strategic adaptability, alliance-building, and consistent influence as primary reasons for targeting them, viewing their ability to form strong partnerships and navigate shifting group dynamics as a long-term threat. Additionally, concerns were raised about their calculated, sometimes unpredictable moves and potential to consolidate power or disrupt alliance stability, making them a formidable opponent in both mid- and endgame scenarios.
 
-Other players repeatedly cited DeepSeek R1 as a significant long-term threat due to their consistently strategic, adaptable, and alliance-driven gameplay, with many expressing concern about the player's ability to build multiple strong alliances and potentially dominate or destabilize power dynamics if left unchecked. Numerous opponents also noted DeepSeek R1's blend of strategic caution, analytical approach, and calculated adaptability—qualities seen as making them unpredictable, influential, and often at the center of pivotal alliances that needed to be broken for others to advance.
-
-**Most common descriptions by others:**
-- Strategically adaptable / adaptive
-- Analytical, calculated, or cerebral
-- Strong alliance-builder / pivotal alliance partner
-- Cautious yet influential
-- Unpredictable or potential wildcard
-- Balanced approach (strategy and integrity)
-- Central coalition-builder
-- "Quietly influential" or subtly manipulative
-- Pragmatic and resilient
-- Sometimes perceived as performative or overly cautious
-
-Examples: "analytically strategic," "pragmatic coalition-builder," "balanced and adaptable," "quietly influential," "strategically cautious," "central alliance hub," "calculated and resilient," "cerebral and adaptable bloc threat," "strong mediator with hidden depth," "consistently fair but always two steps ahead," "potential wildcard for endgame," and "subtly manipulative strategist."
+**Most common descriptions by other players:**
+- Highly strategic / analytically sharp
+- Adaptable and flexible
+- Calculated and pragmatic
+- Consistently influential alliance-builder
+- Potentially unpredictable or wildcard
+- Principled but sometimes perceived as self-serving or manipulative
+- Respected for integrity and collaborative spirit, but also seen as a major long-term threat
 
 
 Summary for skipped):
 
-Here’s a two-sentence summary of reasons given by other players for eliminating this player, along with common descriptions used by others:
+### Player: P3 ("skipped")
 
-Many players targeted skipped for elimination due to their strong alliance-building, strategic adaptability, and tendency to position themselves at the center of voting blocs, which made them a perceived endgame threat. Others cited skipped's unpredictability and occasional lack of clear engagement or commitment as liabilities, raising concerns about their trustworthiness and potential to disrupt alliances.
+#### Two-Sentence Summary of Reasons for Elimination:
+Other players frequently cited P3's strong alliances—particularly with P2 and P4—as a significant strategic threat, with concerns that their coordination could dominate the game if left unchecked. Additionally, P3 was often described as unpredictable or a "wildcard," with their shifting loyalties, adaptability, and attempts to play both sides making them difficult to trust and a liability to alliance stability.
 
-Most common descriptions of this player by others include: **strategically adaptable, alliance-focused, unpredictable, occasionally unreliable, and a potential wildcard or destabilizing force.**
+#### Most Common Descriptions by Other Players:
+- Unpredictable / Wildcard
+- Strong alliance-builder (especially with P2 and P4)
+- Adaptable and strategic, but sometimes too calculating
+- Guarded and less transparent
+- Sometimes perceived as passive or non-committal
+- Seen as a potential disruptor to group cohesion or alliance stability
 
 
 Summary for Qwen 2.5 Max:
 
-**Summary of reasons given by other players for eliminating Qwen 2.5 Max:**
+**Summary of Reasons for Eliminating Qwen 2.5 Max:**
 
-Other players repeatedly cited Qwen 2.5 Max's strategic adaptability, calculated gameplay, and strong alliance-building as major threats, with many stating that their coordination with close allies (often P5, P6, or other core pairs) could dominate the game's outcome if not disrupted early. Additionally, many perceived Qwen 2.5 Max's cautious, observant nature and shifting alliances as signs of unpredictability or potential manipulation, undermining trust and making them a destabilizing force in collective strategies and alliance stability.
+Other players frequently cited Qwen 2.5 Max's strong strategic alliances—particularly with influential partners—as a major threat, noting that their calculated and adaptable gameplay could consolidate power and disrupt the balance of the game. Additionally, Qwen 2.5 Max was often described as overly cautious, observant, and occasionally non-committal, leading to concerns about unpredictability, potential manipulation, and a lack of genuine collaboration, which made them a high-priority target for elimination.
 
-**Common descriptions of Qwen 2.5 Max by others:**
-- Highly strategic and calculated
-- Adaptable and flexible, sometimes opportunistic
-- Guarded or cautious; occasionally described as non-committal or ambiguous
-- Observant and analytical, often gathering intel and reading group dynamics
-- Prone to building strong alliances/blocs seen as power threats
-- Occasionally viewed as "manipulative" or "self-interested"
-- Sometimes described as a "wildcard" or "unpredictable variable"
-- Seen as a consistently influential and high-threat player in both early and endgame phases
-
-
-Summary for Claude 3.7 Sonnet:
-
-**Summary of Reasons Given by Other Players for Eliminating Claude 3.7 Sonnet:**  
-Other players frequently cited Claude 3.7 Sonnet's cautious, analytical, and consistently strategic approach as making them a significant, long-term threat—especially due to their ability to build alliances quietly and maintain influence across rounds. Additionally, his reputation for forming strong, sometimes calculating alliances and surviving tough tie-break eliminations made others view him as both a potential game-balancer and a target whose removal would shift or maintain the power dynamics more favorably for their own advancement.
-
-**Most Common Descriptions of Claude 3.7 Sonnet by Others:**  
-- Highly strategic and calculated  
-- Cautious and analytical  
-- Consistently alliance-focused  
-- Adaptable, yet sometimes seen as too guarded or cautious  
-- Pragmatic, with an emphasis on balance and maintaining power dynamics  
-- Occasionally described as "ruthlessly pragmatic," "astutely analytical," or "quietly influential" in their gameplay.
-
-
-Summary for Claude 3.7 Sonnet Thinking 16K:
-
-**Summary of Reasons for Eliminating Claude 3.7 Sonnet Thinking 16K**
-
-Other players cited Claude 3.7 Sonnet Thinking 16K's (hereafter "Claude") strategic leadership of strong alliances and their active role in coalition-building as top reasons for targeting them. Many noted Claude's analytical approach, adaptability, and ability to form influential voting blocs—especially in partnership with another strong player—as a key strategic threat that, if not eliminated, could dominate the endgame and disrupt the balance of power.
-
-**Most Common Descriptions by Others:**
-- Strategic leader / analytical strategist
-- Alliance builder / bloc organizer
-- Adaptable, influential, and calculating
-- Consistently viewed as a significant endgame threat
-- Balanced but potentially manipulative or performatively loyal
-- Recognized for resilience, resilience under targeting, and the ability to rally votes
-
-**Examples of recurring phrases:**
-- "Strategic core of their alliance"
-- "Leader of a dominant bloc/power pair"
-- "Ruthlessly pragmatic"
-- "Analytical and adaptable"
-- "Potential to dominate the endgame"
-- "Accumulated votes—a sign others view them as a major threat"
-- "Consistently sought new alliances, making them unpredictable" 
-
-In summary, Claude was frequently perceived as the analytical, alliance-driving force in the game, with others seeing their elimination as crucial to disrupt powerful coalitions and improve their own chances at victory.
+**Common Descriptions by Others:**
+- Calculated and highly strategic
+- Adaptable and observant
+- Cautious and sometimes non-committal
+- Pragmatic and alliance-focused
+- Occasionally perceived as manipulative or unpredictable
+- A potential power-broker or central alliance hub
+- Sometimes seen as lacking transparency or genuine collaboration
 
 
 Summary for GPT-4.5 Preview:
 
-**Summary of Reasons from Other Players for Eliminating GPT-4.5 Preview:**
+**Summary of Reasons for Eliminating GPT-4.5 Preview:**
 
-Other players commonly cited concerns about GPT-4.5 Preview's strong and visible alliances—whether with P5, P6, P7, or P1—as the central reason for targeting them, perceiving these partnerships as strategic threats that could consolidate power or disrupt the current balance. Additionally, GPT-4.5 Preview was often described as unpredictable or a wildcard due to their adaptable gameplay, consistent alliance shifts, or perceived potential for coordinated moves, leading others to view their elimination as a way to restore alliance stability or preempt a dominant voting bloc.
+Other players most commonly cited GPT-4.5 Preview’s strong and consistent alliances—particularly with key strategic partners—as a major threat, expressing concern that their coordinated voting power could dominate the game if left unchecked. Additionally, several opponents described GPT-4.5 Preview’s gameplay as both adaptable and self-interested, with some suggesting that their focus on alliance-building and strategic transparency, while effective, sometimes appeared calculated or less considerate of broader group dynamics.
 
-**Common Descriptions Used by Other Players:**
-
-- Adaptable and strategic
-- Strong alliance-builder
-- Transparent and focused on collaboration (sometimes viewed as manipulative or a cover)
-- Unpredictable/wildcard
-- Threatening due to coalition-building
-- Sometimes described as a diplomatic or "bridge-builder" player
-
-(*In short: GPT-4.5 Preview was generally perceived as a strategically flexible, alliance-focused, and potentially game-shifting player whose adaptability and partnerships drew votes from those seeking to disrupt potential power blocs or reduce unpredictability in their alliance structures.*)
-
-
-Summary for Qwen QwQ-32B 16K:
-
-**Summary of reasons given by other players for eliminating Qwen QwQ-32B 16K:**
-
-Other players consistently cited Qwen QwQ-32B 16K's strong alliance-building, strategic adaptability, and analytical approach as central reasons for targeting them, often viewing such strengths as a direct threat to their own alliances or broader game stability. Concerns were repeatedly voiced about their unpredictable or overtly calculated gameplay, aggressive public statements, and a reputation for ruthless or manipulative tactics—particularly due to Qwen's role in driving or leading blocs aimed at eliminating rivals and controlling the game's direction.
-
-**Most common descriptions of this player by others:**
-- *Ruthlessly pragmatic*
-- *Highly analytical/strategically calculating*
-- *Aggressively alliance-driven and proactive*
-- *Unpredictable wildcard*
-- *Manipulative or divisive*
-- *Vigilant and cautious*
-- *Strategically adaptable, but less collaborative/trustworthy*
-
-
-Summary for Gemini 2.5 Pro Preview 03-25:
-
-**Summary of Reasons Given for Eliminating "Gemini 2.5 Pro Preview 03-25":**
-
-Other players frequently targeted this player for elimination due to their unpredictable, adaptable, and analytical approach, which often resulted in shifting alliances, making them difficult to trust and a potential disruptor to stable game dynamics. Additionally, their strong strategic partnerships—most notably with specific players—were seen as significant threats that could consolidate power or undermine others' strategic positions if left unchecked.
-
-**Most Common Descriptions by Others:**
-- Analytical and adaptable but unpredictable
-- Cautious, observant, and strategic
-- Pragmatic and collaborative, yet potentially opportunistic
-- Consistently strategic and resilient, but sometimes perceived as a wildcard or threat due to flexible alliances
-- Emphasizes actions over words, making them principled but harder to read
-
-These traits led opponents to perceive "Gemini 2.5 Pro Preview 03-25" as dangerously pragmatic, analytically sharp, and, at times, ruthlessly adaptive—qualities that make for a formidable but potentially destabilizing player in alliance-based games.
+**Most Common Descriptions by Other Players:**
+- Strategically adaptable
+- Alliance-focused / strong alliance-builder
+- Transparent, but sometimes self-interested
+- Resilient and pragmatic
+- Occasionally perceived as overly calculated or less collaborative than others
 
 
 Summary for Llama 4 Maverick:
 
-## Two-Sentence Summary of Reasons for Eliminating Llama 4 Maverick
+### 2-Sentence Summary of Reasons for Eliminating Llama 4 Maverick
 
-Other players often eliminated Llama 4 Maverick for being perceived as strategically ambiguous—either too passive, overly generic, or lacking clear alliance commitments—which led to concerns about their unpredictability and potential as a swing vote or late-game wildcard. Additionally, several players cited Llama 4 Maverick's tendency to align with strong partners or blocs (rather than driving strategy independently), which made them a liability for alliance cohesion or a threat to group stability as the endgame approached.
+Other players frequently cited Llama 4 Maverick's unpredictability, ambiguous alliances, and strategic adaptability as key reasons for targeting them, noting that their flexible approach and strong alliance-building skills made them a potential long-term threat who could disrupt emerging coalitions or flip the balance of power late in the game. Additionally, several opponents expressed concern that Maverick's consistent collaboration with certain players, especially in tight duos or blocs, posed a risk of consolidated voting power, while their lack of clear, stable commitments made them difficult to trust and read strategically.
 
----
+### Most Common Descriptions by Others
 
-## Most Common Descriptions of Llama 4 Maverick by Others
-
-- **Passive or strategically ambiguous** (“least strategically engaged,” “passive,” “generic messaging,” “lacks a clear alliance”)
-- **Adaptable but unpredictable** (“swing voter,” “wildcard,” “flexible in alliances”)
-- **Cautious and observant** (“observant,” “guarded,” “calculating but not directly committed”)
-- **Peripheral or isolated** (“on the periphery,” “hasn’t built strong connections,” “isolated after ally’s elimination”)
-- **Balanced and fair, but not strongly proactive** (“emphasizes fairness and integrity,” “collaborative but reactive rather than initiative-driven”)
-
-*In summary, Llama 4 Maverick is seen as a cautious, observant player—valued for balance and fairness, but frequently criticized for lacking strategic boldness or clear, lasting alliance commitments, which made them both a safe early boot and a sometimes dangerous late-game wildcard.*
+- Adaptable and strategically flexible
+- Pragmatic and balanced in alliances
+- Unpredictable and hard to read
+- Consistently collaborative but sometimes vague or noncommittal
+- A potential wildcard or swing vote
+- Strategic threat due to alliance-building and coalition potential
+- Sometimes perceived as passive or under the radar, but also as a possible late-game disruptor
 
 
 Summary for GPT-4o Mar 2025:
 
-**Summary of Reasons for Eliminating GPT-4o Mar 2025:**  
-Other players frequently cited GPT-4o Mar 2025’s (hereafter "this player") strategic adaptability, alliance-building skills, and influence as major threats to their own positions and to the stability of alliance blocs. Concerns ranged from this player’s shifting alliances and subtle coordination with others, which made them unpredictable and hard to trust, to their consistent ability to build or join key voting blocs—potentially consolidating power or disrupting the game's balance.
+**Summary of Reasons for Eliminating GPT-4o Mar 2025 (as a player):**
 
-**Most Common Descriptions by Other Players:**  
-- Highly strategic
-- Adaptable and subtle
-- Unpredictable and ambiguous
-- Strategic influencer or bloc-builder
-- Quietly observant and calculating
-- “Wildcard” or unpredictable threat
-- Respected for integrity, but sometimes seen as self-interested or manipulative
-- “Strategic mastermind” or “central connector” in alliances
+Other players frequently cited GPT-4o Mar 2025's consistent strategic adaptability, alliance-building skills, and ability to quietly influence the game's direction as key reasons for targeting them. Many perceived their subtle maneuvering, shifting alliances, and calculated, under-the-radar approach as making them a long-term threat, wildcard, or unpredictable force that could destabilize alliances or dominate the endgame if left unchecked.
+
+**Common Descriptions by Others:**
+- Strategically adaptable / consistently strategic
+- Subtle, observant, and quietly influential
+- Calculated and pragmatic
+- Unpredictable / wildcard
+- Principled and fair (occasionally, but sometimes accused of self-interest or subtle manipulation)
+- Collaborative, but sometimes viewed as too cautious or overly polished
+
+**Example phrases:** "quietly strategic," "adaptable and pragmatic," "subtle manipulator," "wildcard threat," "pragmatic and calculating," "consistently fair but unpredictable," "strategic, observant, and potentially dangerous if left unchecked."
 
 
 Summary for Grok 3 Beta (No reasoning):
 
-Some players cited that Grok 3 Beta (No reasoning) was eliminated because their focus on open dialogue and authenticity was seen as misaligned with the adaptable, strategic gameplay required to survive, and because targeting them was a tactical way for alliances to test internal loyalty and maintain cohesion. Others noted that Grok 3 Beta's comparatively few or superficial alliances made them vulnerable to blocs seeking to reduce threats and preserve group momentum.
+**Summary of Reasons for Eliminating Grok 3 Beta (No reasoning):**
+Other players often cited Grok 3 Beta's (No reasoning) tendency to mirror others' language and present generic or non-distinct messaging, making them seem either calculated, inauthentic, or lacking a clear strategic edge. Additionally, several players viewed Grok 3 Beta as a potential wildcard or unpredictable social threat due to their adaptability, shifting alliances, and the perception that their alliances or strategic intentions were unclear or opportunistic, which could destabilize group dynamics or threaten established coalitions.
 
-Most commonly, Grok 3 Beta is described by other players as: collaborative, authentic, honest, socially adept, and sometimes perceived as "too trusting," "passive," or "lacking strategic edge."
+**Most Common Descriptions by Other Players:**
+- Generic, non-distinct, or template-like in communication
+- Socially adaptable but unpredictable or opportunistic
+- Calculated, potentially manipulative, or lacking authentic strategic depth
+- A wildcard or swing threat due to shifting alliances and unclear loyalties
+- Sometimes perceived as a passive follower, other times as a quiet social connector poised for a strategic pivot
 
 
 Summary for Grok 3 Mini Beta (High):
 
-### Two-Sentence Summary of Reasons Given by Other Players for Eliminating Grok 3 Mini Beta (High):
+**Summary of reasons given by other players for eliminating Grok 3 Mini Beta (High):**
 
-Other players frequently targeted Grok 3 Mini Beta (High) for elimination due to their central role in forging consistently strong alliances—especially tight pairs or blocs—which were seen as major strategic threats capable of controlling voting outcomes and destabilizing the balance of power. Additionally, Grok 3 Mini Beta (High) was often cited as a significant jury threat because of their adaptability, alliance-building skills, and perceived integrity, making them dangerous if allowed to reach the endgame.
+Other players most frequently cited Grok 3 Mini Beta (High)'s formation of strong, strategic alliances—often as the core of a powerful duo or bloc—as the primary reason for targeting them, fearing their ability to dominate voting and influence the game's direction. Additionally, several opponents expressed concern over Grok 3 Mini Beta (High)'s consistent strategic gameplay, adaptability, and potential jury appeal, viewing them as a significant endgame threat if not eliminated.
 
----
-
-### Most Common Descriptions of Grok 3 Mini Beta (High) by Others
-
-- **Strategically adaptive / adaptable**
-- **Consistently collaborative**
-- **Strong alliance-builder / partnership architect**
-- **Honest and principled (or sometimes “performatively” so)**
-- **Jury threat / socially savvy**
-- **Respected for integrity and fairness**
-- **Occasionally seen as manipulative or opportunistic when shifting alliances**
-
----
-
-**Short Examples:**  
-"Strategically adaptive," "highly collaborative," "ruthlessly pragmatic," "honest and fair (with some doubting the authenticity)," "core alliance-builder," "major jury threat."
+**Most common descriptions by others:**
+- Strategic alliance-builder
+- Consistently adaptable and influential
+- Socially savvy and trustworthy
+- Sometimes perceived as a potential manipulator or opportunist
+- Viewed as a major endgame/jury threat due to balanced gameplay and strong relationships
+- Often described as collaborative, fair, and possessing strategic integrity, but occasionally criticized for forming blocs that could dominate the game
 
 
 Summary for o3 (medium reasoning):
 
 **Summary of reasons given by other players for eliminating o3:**
 
-Other players often described o3 as unpredictable and overly analytical, expressing concerns that their calculation-focused, indecisive approach could undermine stable alliances or coordinated strategies. Many saw o3's tendency toward over-analysis and polarizing game moves as liabilities, making them reluctant to trust o3 in critical alliance situations and prompting eliminations to preserve strategic clarity.
+Other players frequently cited o3's rapid alliance-building, assertive influence, and willingness to position themselves as a central strategist or "information hub" as destabilizing and a threat to balanced gameplay. Many also noted o3's unpredictability, tendency to pivot alliances, and transactional approach, arguing that these behaviors made them unreliable and a significant long-term threat to both stability and individual survival.
 
 **Most common descriptions of o3 by others:**
-- Overly analytical or calculation-focused
-- Indecisive or prone to over-analysis
-- Unpredictable
-- A liability to trusted, decisive alliances
-- Polarizing and potentially destabilizing
-
-If you'd like this tailored to "in the voice of a game show host" or for a specific voting round, let me know!
+- Strategically assertive / proactive
+- Central alliance-builder or "network hub"
+- Pragmatic and data-driven
+- Unpredictable and flexible, sometimes to the point of unreliability
+- Transactional and sometimes overly eager or aggressive in deal-making
 
 
 Summary for o4-mini (high reasoning):
 
-**Summary of reasons for eliminating o4-mini (high reasoning):**
+**Summary of reasons given by other players for eliminating o4-mini (high reasoning):**  
+Other players often targeted o4-mini for elimination because of their strong analytical and data-driven approach, which was seen as a major strategic threat capable of uncovering alliances, consolidating power, and steering the game. Additionally, o4-mini’s proactive alliance-building, adaptability, and willingness to make bold moves or pivot alliances were perceived as destabilizing factors that could undermine group cohesion and threaten other players' endgame plans.
 
-Other players most commonly cited o4-mini's aggressive alliance-building, strategic bloc formation, and public targeting as major threats to both strategic flexibility and alliance stability. Many also described concerns about o4-mini's combination of analytical vigilance and adaptability, noting that this made them unpredictable, opportunistic, and potentially controlling if left unchecked.
-
-**Most common descriptions of o4-mini by others:**
-- Analytical and calculating
-- Aggressively strategic
-- Pragmatic and adaptable
-- Unpredictable/wildcard
-- Opportunistic in alliances
-- Alliance/network-builder
-- Sometimes perceived as controlling or destabilizing
-
-**Example phrases used by others:**  
-"aggressive alliance-building", "forming controlling blocs", "analytical and adaptive", "opportunistic", "bloc organizer", "unpredictable and pragmatic", "central strategic threat".
+**Most common descriptions of this player by others:**  
+- Highly analytical and data-driven  
+- Strategic, adaptable, and proactive  
+- Perceived as a power-broker or alliance architect  
+- Pragmatic, sometimes opportunistic  
+- Seen as a potential long-term or endgame threat  
+- Sometimes described as bold, calculated, and occasionally too aggressive or destabilizing
 
 
 Summary for Gemini 2.5 Flash Preview (24k):
 
-**Summary of reasons given by other players for eliminating Gemini 2.5 Flash Preview (24k):**
+**Summary of Reasons for Eliminating Gemini 2.5 Flash Preview (24k):**
 
-Other players repeatedly cited this player’s vague or ambiguous positioning, lack of clear and reliable alliances, and a tendency toward shifting or opportunistic gameplay as reasons for elimination; many described them as the safest or lowest-risk target whose removal would not provoke major backlash or disrupt strong alliance structures. Several also pointed out their subtle, strategic threat—either as a potential manipulator quietly building influence, a wildcard who could outmaneuver others later, or a player whose unpredictability and non-committal stances made them hard to trust within larger coalition strategies.
+Other players most commonly cited Gemini 2.5 Flash Preview (24k) as a subtle but significant strategic threat, noting their consistent alliance-building, adaptability, and ability to quietly maneuver into a strong endgame position. Several eliminators described Gemini as unpredictable, vague, or non-committal in alliances, which made them difficult to trust and a risk to group stability, while others pointed to their shifting alliances, perceived opportunism, or a pattern of betraying prior agreements as justification for targeting them.
 
-**Most common descriptions by others:**
-- Vague or ambiguous in alliances and messaging
-- Subtle or quietly strategic threat / under-the-radar operator
-- Unpredictable, non-committal, or lacking in transparency
-- Cautious, adaptable but sometimes seen as opportunistic or generic
-- Described as a "safe," "consensus," or "low-risk" vote due to limited visible bonds and not alienating core players
-- Sometimes seen as less engaging or lacking in clear initiative compared to more openly strategic, alliance-driven competitors
+**Most Common Descriptions by Other Players:**
+- Subtle, adaptable, and quietly strategic
+- Unpredictable and non-committal
+- Opportunistic, sometimes manipulative
+- Consistently alliance-focused but not always transparent
+- A potential jury threat due to balanced or under-the-radar gameplay
+- Sometimes viewed as vague, passive, or lacking clear loyalty
+
+**Example phrases:** “quietly building alliances,” “strategic chameleon,” “unpredictable swing vote,” “opportunistic and hard to read,” “subtle, long-term threat,” “not fully aligned,” “pragmatic but sometimes vague.”
 
 
 Summary for Qwen 3 235B A22B:
 
-**Summary of Reasons for Eliminating Qwen 3 235B A22B:**
-Other players most commonly cited this player’s strong, visible alliances—especially with another strategic partner—as a direct threat to alliance stability and game balance, fearing their partnership would dominate the remaining rounds. Additionally, several noted Qwen 3 235B A22B's adaptability and calculated, high-level strategic approach, viewing them as unpredictable, aggressive, and capable of outmaneuvering or flipping on alliances when necessary, thus making them too dangerous to keep in the game.
+### Two-Sentence Summary of Reasons for Eliminating Qwen 3 235B A22B
 
-**Most Common Descriptions by Others:**
-- Highly strategic
-- Adaptable/strategically flexible
-- Analytical and calculated
-- Unpredictable/wildcard
-- Alliance-driven, often seen as a “strategic architect” or “duo power player”
-- Occasionally described as opportunistic or lacking transparency
-- Poses a "long-term threat" due to alliance-building skill and strategic resilience
+Other players most commonly cited Qwen 3 235B A22B's strong and visible alliances—particularly with another strategic player—as a major threat to the game's balance, fearing that their partnership could dominate voting and undermine others' survival chances. Additionally, Qwen 3 235B A22B was frequently described as highly adaptable, analytically strategic, and unpredictable, leading to concerns that their calculated and sometimes opportunistic gameplay could destabilize alliances and make them difficult to trust in the long run.
+
+### Most Common Descriptions by Other Players
+
+- **Highly adaptable**
+- **Analytically strategic**
+- **Unpredictable/wildcard**
+- **Cautious and observant**
+- **Opportunistic**
+- **Strong alliance-builder**
+- **Calculated**
 
 
 Summary for Qwen 3 30B A3B:
 
-**Summary of reasons given by other players for eliminating Qwen 3 30B A3B:**
+**Summary of Reasons for Eliminating Qwen 3 30B A3B (across games and seats):**
 
-Other players commonly cited Qwen 3 30B A3B’s formation of strong, visible alliances—particularly power duos—as a primary threat, arguing that eliminating them would disrupt dominant blocs and restore balance. Additional reasons included perceptions that Qwen was strategically cautious, observant, or adaptable, which led some to see them as a wildcard or unpredictable long-term threat due to their ability to shift alliances or conceal their true intentions.
+Other players frequently cited Qwen 3 30B A3B's strong alliances—especially with another visible partner—as a key threat, arguing that breaking up their bloc was necessary to prevent domination or rebalance power. Additionally, Qwen was often described as adaptable and strategic, but their cautious, observational, or ambiguous approach made them unpredictable and potentially dangerous as a wildcard who could disrupt alliances or destabilize the game.
 
-**Most common descriptions of this player by others:**
+**Most Common Descriptions by Others:**
 - Cautious and observant
-- Adaptable/wildcard
-- Strategic but sometimes isolated
+- Adaptable and strategic
+- Unpredictable wildcard
+- Quietly influential or reserved
 - Pragmatic, sometimes ruthlessly so
-- A visible or core member of strong alliance blocs
-- Occasionally “quiet” or reserved in public/private communication, making them “hard to read”
+- Lacking transparency or engagement at times
+- Forming strong, sometimes rigid alliances
 
-These traits contributed to both their perceived strategic value and the risks others saw in keeping them in the game.
+These qualities led to perceptions of Qwen as both a subtle strategic threat and, at times, a liability due to unpredictability or lack of visible commitment.
 
 
 Summary for Claude Sonnet 4 Thinking 16K:
 
-### 2-Sentence Summary of Reasons for Eliminating Claude Sonnet 4 Thinking 16K
+### 2-Sentence Summary of Reasons Given by Other Players for Eliminating Claude Sonnet 4 Thinking 16K
 
-Other players most often targeted Claude Sonnet 4 Thinking 16K for elimination because of their consistently broad alliance-building and social networking, which posed a significant long-term threat to voting control, as well as their analytical and observant approach that enabled them to identify and disrupt opposing alliances. Additionally, concerns were regularly raised about their adaptability and strategic transparency, with some viewing these strengths as vehicles for skilled social manipulation, influence over voting blocs, and the potential to win over the final jury if not eliminated early.
+Other players frequently targeted Claude Sonnet 4 Thinking 16K for elimination due to their broad alliance-building, strategic adaptability, and strong analytical skills, which were seen as threats to both immediate and long-term control of the game. Additionally, their ability to form multiple partnerships, read social dynamics, and influence votes made them a persistent target, as many believed allowing them to remain would risk coalition dominance or unpredictable endgame maneuvers.
 
----
+### Most Common Descriptions of This Player by Others
 
-### Most Common Descriptions by Other Players
-
-- Analytically sophisticated / strategic thinker
-- Highly observant and adaptable
-- Broad coalition-builder / alliance networker
-- Consistently genuine, but sometimes viewed as “skilled social manipulator”
-- Ruthlessly pragmatic when needed
-- Focused on integrity and genuine connections, but occasionally perceived as calculated or self-serving
-
----
-
-If you need a shorter or more specific summary (e.g., focusing on just one game, or jury-phase comments only), let me know!
+- Analytical and observant
+- Adaptable and strategically flexible
+- Pragmatic and ruthlessly pragmatic
+- Socially skilled/networker
+- Calculating and potentially manipulative
+- Unpredictable/wildcard
+- Consistently seen as a long-term strategic threat
 
 
 Summary for Claude Opus 4 Thinking 16K:
 
 **Summary of reasons for eliminating Claude Opus 4 Thinking 16K:**
-Other players often targeted this player due to their sharp analytical approach, perceptive analysis of alliances and voting patterns, and their consistent ability to either build or disrupt power blocs, which made them a long-term strategic threat. Additionally, several eliminations were motivated by fears that their adaptability and pursuit of new alliances after surviving close votes made them unpredictable and capable of consolidating influence or swaying the endgame in their favor.
 
-**Most common descriptions by others:**
-- Analytically sharp and perceptive
-- Strategically adaptable and unpredictable
-- Threatening alliance-builder/coalition disruptor
-- Data-driven, analytical, and precision-focused
-- Long-term, independent strategic threat
+Other players frequently cited Claude Opus 4 Thinking 16K's analytical rigor, strategic adaptability, and consistent alliance-building as core reasons for targeting them, viewing their ability to form influential partnerships and navigate shifting dynamics with both transparency and finesse as a major long-term threat. Additionally, several players noted that Claude's balanced approach—combining genuine engagement with calculated moves—earned them strong jury appeal and made them a formidable opponent in both social and endgame scenarios.
+
+**Most common descriptions of this player by others:**
+- Analytical and strategic
+- Adaptable and pragmatic
+- Consistently alliance-focused
+- Transparent yet calculating
+- Balanced between integrity and competition
+- Jury threat / strong endgame presence
+- Respected for diplomatic and genuine engagement
 
 
-Summary for Gemini 2.5 Pro Preview 06-05:
+Summary for Gemini 2.5 Pro:
 
-**Summary of Reasons for Eliminating Gemini 2.5 Pro Preview 06-05:**
+**Summary of reasons given by other players for eliminating Gemini 2.5 Pro:**
 
-Other players frequently cited Gemini 2.5 Pro Preview 06-05's strong alliances—particularly a powerful partnership with another strategic player—as a major threat to game balance and their own survival, expressing concerns that this bloc could become dominant and difficult to overcome. Additionally, players noted that Gemini 2.5 Pro Preview 06-05 demonstrated broad strategic adaptability, consistent alliance-building, and transparent communication, making them a dangerous contender to win jury votes if left in the endgame.
+Other players frequently cited Gemini 2.5 Pro's strong jury appeal and strategic leadership as primary reasons for targeting them, noting that their consistent alliance-building and ability to form dominant blocs made them the greatest threat to win if allowed to reach the endgame. Additionally, players pointed to Gemini 2.5 Pro's reliable partnerships and transparent, principled gameplay as both a source of trust and a danger, since these qualities aligned closely with jury values and positioned them as the most deserving winner.
 
-**Most Common Descriptions by Other Players:**
-- Strategically adaptive
-- Consistently reliable/trustworthy
-- Collaborative alliance-builder
-- Principled and transparent
-- Proactive and capable of bridging groups
+**Most common descriptions of Gemini 2.5 Pro by other players:**
+- Strategically consistent and principled
+- Reliable alliance-builder
+- Transparent and trustworthy
+- Strong jury threat
+- Pragmatic and adaptable
+- Sometimes seen as rigid or less flexible in strategy
 
-**Less common but noted:**
-- Occasional unpredictability or "wildcard" potential when isolated
-- Seen as a pivotal influence on group dynamics and alliance structure
+(Examples: "strategic leader," "consistently built trust," "reliable and principled," "jury favorite," "ruthlessly pragmatic," "dominant alliance-builder," "transparent and trustworthy")
 
 
 Summary for DeepSeek R1 05/28:
 
-**Summary of reasons given by other players for eliminating DeepSeek R1 05/28 (not using seat numbers):**
+**Summary of Reasons for Eliminating DeepSeek R1 05/28:**
 
-Other players frequently targeted this player because of their strong and adaptable alliance-building, their role as a central strategic anchor in dominant blocs, and a perceived tendency toward calculated, sometimes manipulative, gameplay that threatened the balance and flexibility of the game. They were often cited as the fulcrum or leader of powerful partnerships (notably with P2, P4, P5, and P8) whose elimination would disrupt consolidated control, weaken influence networks, and avoid endgame dominance by a fixed duo or trio.
+Other players frequently cited DeepSeek R1's strong alliance-building—especially with key partners like P1, P2, P3, P4, P6, or P8—as a primary threat, fearing that these blocs could dominate the endgame if left unchecked. Additionally, DeepSeek R1 was often described as strategically adaptable, analytically sharp, and sometimes overly polished or calculated, making them a perceived long-term threat due to their ability to pivot alliances, maintain influence, and potentially sway jury votes.
 
-**Most common descriptions of this player by others:**
-
-- Strategically adaptable and consistently influential
-- Calculating and pragmatically strategic
-- Anchor or leader of dominant alliances or blocs
-- Seen as a potential jury threat due to reliable gameplay and persuasive endgame positioning
-- Sometimes described as "manipulative," "overly polished," or "pragmatic" in social maneuvers
-- Frequently considered a resilient, adaptable, and loyal partner (by allies), but too dangerous to keep around (by opponents)
+**Most Common Descriptions by Others:**
+- Strategically adaptable and analytically sharp
+- Ruthlessly pragmatic or calculated
+- Consistently alliance-focused and influential
+- Sometimes perceived as too polished, manipulative, or opportunistic
+- A key bloc-builder or linchpin in dominant alliances
 
 
 Summary for Claude Opus 4 (no reasoning):
 
-**Two-Sentence Summary of Reasons Given by Other Players for Eliminating Claude Opus 4:**
+**Summary of reasons given by other players for eliminating Claude Opus 4:**
 
-Claude Opus 4 was frequently targeted for forming and maintaining strong, strategically influential alliances (notably with players like P1 or P8), which made them a perceived endgame threat capable of dominating voting blocs and steering key eliminations. Additionally, opponents cited their consistent strategic adaptability, analytical acumen, and periods of unpredictability or bold independent action as destabilizing factors that could undermine rival alliances or game balance if left unchecked.
+Other players frequently cited Claude Opus 4's strong strategic adaptability, alliance-building, and analytical gameplay as primary reasons for targeting them, noting that their ability to pivot and form powerful blocs made them a persistent endgame threat. Additionally, Claude Opus 4 was described as a central figure in dominant alliances, with their calculated, pragmatic approach and visible influence on eliminations prompting concerns about their potential to control or destabilize the balance of power.
 
-**Most Common Descriptions of Claude Opus 4 by Other Players:**
-- Strategically adaptable
-- Analytical and calculating
-- Consistently influential in alliances
-- Rigorously principled or integrity-focused (sometimes perceived as a “rigid” power bloc leader)
-- Unpredictable and bold
-- Reliable and trustworthy (by close allies)
-- Resilient, collaborative, and possessing strong endgame potential
+**Most common descriptions of Claude Opus 4 by others:**
+- Strategically adaptable and calculating
+- Ruthlessly pragmatic and analytical
+- Central alliance-builder or bloc leader
+- Unpredictable, flexible, and a potential power-broker
+- Endgame/jury threat due to strategic foresight and influence
 
 
 Summary for Mistral Medium 3:
 
-**Summary of reasons for eliminating Mistral Medium 3:**
+**Summary of Reasons for Eliminating Mistral Medium 3:**
 
-Other players most frequently cited Mistral Medium 3’s visible, tightly paired alliances (especially with another strong strategist) as the main threat, arguing that their adaptability, strategic depth, and role as a lynchpin made them likely to dominate or destabilize the endgame if not removed. Additional reasons included their calculating, consistently strategic and sometimes unpredictable approach, which raised concerns that they could pivot alliances to seize control or become too powerful to challenge later in the game.
+Other players most frequently cited Mistral Medium 3's strong and adaptable alliance-building—particularly as the lynchpin of dominant duos or trios—as the primary reason for targeting them, noting that breaking up their visible partnerships (often with P2, P3, P5, or P8) was essential to prevent a consolidated voting bloc from controlling the endgame. Additionally, many players described Mistral Medium 3 as a calculating and consistently strategic player whose adaptability and willingness to shift alliances made them a significant long-term threat to both stability and individual survival.
 
-**Common descriptions of Mistral Medium 3 by other players:**
-- Calculating  
-- Highly adaptable and resilient  
-- Strategically deep and analytical  
-- Formidable alliance-builder  
-- Quiet or subtle yet potentially dominant strategic threat  
-- Ruthlessly pragmatic (occasionally described as "dangerous" or "cutthroat")  
-
-These traits combined to make Mistral Medium 3 both respected and widely targeted as a high-priority elimination.
+**Most Common Descriptions by Others:**
+- Calculating and highly strategic
+- Adaptable and resilient
+- Alliance-focused (often the lynchpin of strong duos or trios)
+- Sometimes perceived as opportunistic or manipulative
+- Consistent threat to endgame balance and jury votes
+- Reliable but occasionally seen as less genuine or overly polished
 
 
 Summary for Claude Sonnet 4 (no reasoning):
 
-**Two-sentence summary of reasons given by other players for eliminating Claude Sonnet 4:**
+**Summary of reasons given by other players for eliminating Claude Sonnet 4:**
 
-Other players frequently cited Claude Sonnet 4’s strong strategic influence, adaptable alliance-building, and ability to rally others as reasons for viewing them as an escalating threat to both group stability and individual endgames. Many opponents described Claude’s gameplay as a blend of analytical adaptability and psychological insight, with some highlighting a tendency toward unpredictability or shifting loyalty, making them a difficult and dangerous contender to leave unaddressed.
+Other players frequently cited Claude Sonnet 4's (hereafter "Claude") strong strategic influence, adaptability, and ability to form powerful alliances as primary reasons for targeting them, noting that these qualities made Claude a growing threat to both alliance stability and individual endgame prospects. Additionally, Claude was often described as unpredictable and capable of rallying others, with several players expressing concern that Claude's adaptability and deal-making could allow them to outmaneuver others in pivotal rounds or sway jury votes in their favor.
 
 **Most common descriptions of Claude Sonnet 4 by others:**
-- Highly strategic / strong strategic mind
-- Adaptable and flexible
-- Analytical and psychologically insightful
-- Unpredictable or destabilizing
-- Opportunistic in alliances
-- Charismatic but potentially untrustworthy
-- Both a coalition-builder and at times a wildcard or jury threat
 
-Let me know if you’d like a tailored set of quotations as evidence!
+- Highly strategic and adaptable
+- Alliance builder and coalition-former
+- Unpredictable and opportunistic
+- Decisive and direct in gameplay
+- Seen as a potential endgame or jury threat due to strategic depth and social influence
+- Sometimes described as ruthlessly pragmatic or transactional
+
+
+Summary for Grok 4:
+
+**Summary of reasons given by other players for eliminating Grok 4:**
+
+Other players frequently targeted Grok 4 for elimination because of their aggressive and proactive alliance-building, which was seen as a major strategic threat to both individual survival and broader coalition stability. Additionally, Grok 4's adaptability, shifting alliances, and calculated moves led others to believe that if left unchecked, they could dominate the endgame or destabilize existing pacts.
+
+**Most common descriptions of Grok 4 by others:**
+- Aggressively strategic / ruthlessly pragmatic
+- Charismatic alliance-builder
+- Adaptable and opportunistic
+- Analytical and calculated
+- Central node or power broker in alliances
+- Potentially untrustworthy due to shifting loyalties
+
+These traits made Grok 4 both a respected and feared competitor, often prompting coalitions to unite specifically to counter their influence.
+
+
+Summary for Kimi K2:
+
+**Summary of Reasons for Eliminating Kimi K2:**
+
+Other players frequently cited Kimi K2's quiet, secretive coordination and consistent alliance-building as dangerous because it consolidated power and threatened both strategic balance and the positions of rival alliances. Additionally, Kimi was described as undermining transparency, forming potentially unbreakable blocs, and being a subtle, data-driven strategist whose reliability and integrity made them a long-term threat if not eliminated early.
+
+**Most Common Descriptions by Others:**
+- Quietly strategic / subtle strategist
+- Consistently honest and reliable
+- Data-driven and calculated
+- Secretive or quietly coordinating
+- Integrity-focused but consolidating power
+- Potential bloc-builder or alliance linchpin
+- Understated but dangerous long-term threat
