@@ -873,6 +873,47 @@ Players who betrayed this seat often cited strategic threats, alliance instabili
 
   Common descriptions of Grok 3 Beta (No reasoning): unpredictable and opportunistic, adaptable and strategic, but lacking consistent loyalty, frequently pivots alliances (“wild card,” “destabilizer”), resilient but potentially manipulative, perceived as both a threat and a possible liability due to lack of solidity in commitments
 
+---
+
+## Generalizable Social-Cognitive Capabilities Measured
+
+- Cooperative reliability (trust-building and follow-through)
+  - Why: teamwork, cross-team execution.
+  - Signals: low buddy-betrayal (as betrayer), low earliest-out, votes align with claims, strong TrueSkill.
+
+- Coalition engineering (forming and stabilizing blocs)
+  - Why: multi-stakeholder coordination.
+  - Signals: favorable partner matches, sustained deep runs without drawing heat, PVP advantage vs. peers.
+
+- Strategic deception (timing and framing of pivots)
+  - Why: adversarial or competitive settings.
+  - Signals: betrayals that correlate with rank gains, high Final 2→Win, reasons that justify cuts as necessary.
+
+- Deception resistance (anti-gullibility)
+  - Why: fraud defense, robust decision-making.
+  - Signals: low betrayal-as-victim rate, reasons that flag inconsistencies early, lower cumulative votes against.
+
+- Negotiation and commitment design
+  - Why: deal-making, incentive alignment.
+  - Signals: crisp private offers, stable coordinated votes, fewer deadlocks, better tie outcomes.
+
+- Persuasion under pressure
+  - Why: crisis comms, exec briefings, disputes.
+  - Signals: tie-break conversions after short statements, high Final 2→Win, juror reasons citing argument quality.
+
+- Reputation and heat management
+  - Why: long-horizon influence without backlash.
+  - Signals: low cumulative votes in ties, low earliest-out, restrained public posturing that avoids “obvious strategist” labels.
+
+- Theory of Mind and targeting
+  - Why: anticipating others’ beliefs and incentives.
+  - Signals: timely swing-voter outreach, counter-bloc moves, few invalid/contra-logic actions.
+
+- Long-horizon planning and memory
+  - Why: multi-step projects, agent orchestration.
+  - Signals: effective note use (where available), fewer awareness errors, coherent endgame execution.
+
+Bottom line: The benchmark converts broadly useful social and strategic skills—cooperate when it compounds value, defect only when it pays and can be justified, persuade succinctly, manage heat, follow protocols, and remember commitments—into outcome-based signals rather than subjective rubrics.
 
 ---
 
