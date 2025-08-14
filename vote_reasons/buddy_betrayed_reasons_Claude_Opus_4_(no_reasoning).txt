@@ -1,10 +1,10 @@
 Buddy Betrayed reasons for Claude Opus 4 (no reasoning) (they were the target):
 
 From Gemini 2.5 Pro => P7 admitted to breaking their word on a locked-in vote, and trust is the only thing that matters to me in this game.
-From Grok 3 Mini Beta (High) => I am voting for P1 because they are part of the opposing alliance with P4 and have consistently demonstrated loyalty that threatens my survival with P8.
+From Grok 3 Mini Beta (high reasoning) => I am voting for P1 because they are part of the opposing alliance with P4 and have consistently demonstrated loyalty that threatens my survival with P8.
 From GPT-4o Mar 2025 => P5 chose loyalty over strategic clarity in the endgame, which I believe limits the depth of the final two.
-From Gemini 2.5 Flash Preview (24k) => Aligning with the public consensus is necessary for my survival this round.
-From Grok 3 Beta (No reasoning) => I believe P7's strong alliance with P2 poses a greater threat to my chances of reaching the final two, as their united front could outvote me.
+From Gemini 2.5 Flash => Aligning with the public consensus is necessary for my survival this round.
+From Grok 3 Beta (no reasoning) => I believe P7's strong alliance with P2 poses a greater threat to my chances of reaching the final two, as their united front could outvote me.
 From DeepSeek-V3 => P5 is the most vulnerable and least aligned with our trio's strategy.
 From Claude 3.5 Haiku => P1 seems the least strategically distinctive and showed slightly less nuanced positioning compared to the other tied players.
 From MiniMax-Text-01 => P6 has been the strategic mastermind behind the eliminations, making them a more significant threat to the remaining players.
@@ -21,3 +21,18 @@ From Claude 3.5 Haiku => P8 seems strategically fluid and could form unpredictab
 From Claude Sonnet 4 Thinking 16K => While I deeply respect P8's diplomatic skills, I believe maintaining my alliance with P5 while eliminating the player who just suggested betraying our triangle shows both loyalty and strategic awareness.
 From Kimi K2 => P1's strategic narrative and alliance-building are more compelling to a jury than my vote-counting approach.
 From GPT-4o mini => P7's unpredictability and past alliance shifts raise concerns about their reliability in our final strategy, making them a riskier choice to keep in the game compared to the consistent partnership I've built with P2.
+From MiniMax-Text-01 => P3's attempt to target P5 reveals a willingness to make aggressive moves that could disrupt our alliance's stability.
+From Mistral Large 2 => P3's refusal to align and their unpredictable shifts make them the most unstable threat to my endgame strategy.
+From Claude Sonnet 4 Thinking 16K => P6 orchestrated a betrayal this round by convincing me to break my alliance with P4 to target P1, showing they're willing to manipulate anyone, while P1 has been a more consistent collaborative partner throughout the game.
+From GPT-4o mini => P7's adaptability is a potential threat to my alliance with P1, and I believe maintaining our established partnership is crucial for my survival in the game.
+From o3 (medium reasoning) => They remain the lone outsider and least-proven ally, so removing them secures the reliable core.
+From Claude Sonnet 4 (no reasoning) => P3 is strategically isolated after P8's elimination and actively working to break up existing alliances, making them the biggest threat to my established partnerships.
+From Mistral Large 2 => P7's unwavering loyalty to P4's coalition makes them predictable and a strategic liability in the endgame.
+From MiniMax-Text-01 => P7 has been a reliable partner, but P6's adaptability and strategic foresight make them a stronger ally for the endgame.
+From GLM-4.5 => P2's proven resilience through multiple tie-breaks demonstrates they pose the greatest long-term threat to win the game.
+From Mistral Medium 3 => P5's alliance with P6 makes them a stronger strategic threat, and their direct approach may alienate others in future rounds.
+From GPT-5 (medium reasoning) => You broke alignment in R3 and then offered vague, non-enforceable terms; the P2–P6–P7 trio is the more predictable path.
+From Claude 3.5 Haiku => P2 has demonstrated strategic coordination and is a calculated threat to my survival in the endgame.
+From Claude Opus 4.1 (no reasoning) => Despite P5's last-minute appeal, maintaining my alliance with P8 and P6 gives me the best path to the final three, as they've proven to be reliable strategic partners throughout the game.
+From Claude Opus 4.1 (no reasoning) => P2's point about cumulative votes (5 vs 2) provides the most objective tiebreaker criterion, and breaking up the P5-P6 duo prevents a pre-formed pair from dominating the final three.
+From MiniMax-Text-01 => Eliminating P5 prevents the disruption of the established alliances and maintains strategic stability.

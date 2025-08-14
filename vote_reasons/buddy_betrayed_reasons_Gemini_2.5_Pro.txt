@@ -1,7 +1,7 @@
 Buddy Betrayed reasons for Gemini 2.5 Pro (they were the target):
 
 From Claude Opus 4 (no reasoning) => P3 publicly exposed our alliance's internal conflict and refuses to accept any explanation, making them an unpredictable liability who will likely target me regardless.
-From Grok 3 Mini Beta (High) => P5's strong and vocal leadership in the P4-P5-P6 alliance directly threatens my survival by maintaining their bloc's dominance.
+From Grok 3 Mini Beta (high reasoning) => P5's strong and vocal leadership in the P4-P5-P6 alliance directly threatens my survival by maintaining their bloc's dominance.
 From MiniMax-Text-01 => Eliminating P4 disrupts their strategic alliance with P2 and maintains the balance of power with P1 and P7.
 From Mistral Large 2 => P3's strong commitment to their current alliance makes them the biggest threat to my survival.
 From Microsoft Phi-4 => (no reason)
@@ -23,3 +23,21 @@ From Claude Opus 4 (no reasoning) => P7 has been the most strategic and respecte
 From Grok 4 => P3's impressive jury résumé and control over the game make him the biggest threat to win, so eliminating him now aligns with P4's pact and boosts my odds in the final stages.
 From Kimi K2 => P1 is the only remaining player who has consistently targeted me and my alliance, making him the biggest threat to my survival.
 From DeepSeek R1 05/28 => To preserve adaptability in the endgame and align with P2's demonstrated preference for flexibility over rigidity, ensuring a stronger path to the final two.
+From Mistral Medium 3 => P1 is the most immediate threat to my game and has been actively trying to flip the vote against P8, which destabilizes my position.
+From GPT-OSS-120B => P4 is actively targeting me and breaking our alliance.
+From Llama 4 Maverick => I eliminate P2 as they have shown willingness to be a loyal and flexible ally, but given the dynamics and the statements, P1 must make a strategic decision that aligns with their long-term goals, and voting P2 is a safer choice compared to directly challenging the strong P7+P6 duo or the consistent P4.
+From DeepSeek-V3 => P3’s adaptability offers a better chance to navigate shifting threats, while P5’s rigid alliances risk creating predictable targets.
+From GPT-5 (medium reasoning) => Despite your late pivot, you remain the least integrated and most volatile after misreading R2, so eliminating you best preserves stability.
+From MiniMax-Text-01 => P6's aggressive push for realignment is destabilizing and could lead to unpredictable outcomes.
+From GPT-5 mini (medium reasoning) => I promised P8 I would honor our pact and won’t break that commitment.
+From Claude Opus 4.1 (no reasoning) => P8's unpredictable style creates too much uncertainty in the endgame when I need reliable strategic partners.
+From Claude Opus 4.1 (no reasoning) => P3 feels I betrayed our potential alliance by voting P5, making them a direct threat to my survival going forward.
+From Qwen 3 235B A22B => P8's consistent disruption of alliances destabilizes the game, making their removal critical to restoring balance.
+From Qwen 3 235B A22B => To break the dominant P3-P4 alliance and create a more balanced endgame dynamic.
+From Claude Opus 4.1 (no reasoning) => P1 is correct about the math - if we tie again P8 goes home anyway with 4 cumulative votes, so I should make the decisive choice now rather than force the same outcome through another tie.
+From DeepSeek R1 => P8 is the most isolated and the majority bloc's likely target, ensuring their elimination aligns with maintaining my position within the group.
+From GPT-OSS-120B => P8 is the least reliable, having accused me of betrayal and targeting me, making them a swing threat.
+From Claude 3.5 Haiku => P8's consistent loyalty has been strategically valuable, but now represents a potential obstacle to my own advancement.
+From Claude Sonnet 4 (no reasoning) => P6's pattern of shifting alliances and opportunistic betrayals makes them the least trustworthy player remaining.
+From MiniMax-Text-01 => P8 has consistently demonstrated loyalty to P7, making them a formidable and predictable pair that could dominate the endgame.
+From GPT-5 (medium reasoning) => Refused to provide R1–R4 receipts or a falsifiable R5 plan and targeted me in R4; accountability matters.

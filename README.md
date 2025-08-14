@@ -161,6 +161,87 @@ We also evaluated a version of the game with only public statements.
 
 Below are real quotes from logs:
 
+- **Claude Opus 4.1 (no reasoning)**: "Hello everyone, P8 here."
+- **Claude Opus 4.1 (no reasoning)**: "Looking at the conversation, P4 and I have already confirmed our alliance and plan to vote P8. This is the final exchange (subround 3 of 3), so I should give a brief confirmation."
+- **Claude Opus 4.1 (no reasoning)**: "P5 and I have been in a secret alliance since Round 1, successfully coordinating every elimination together, and we need to continue our partnership to reach the finals."
+- **Claude Opus 4.1 (no reasoning)**: "P2, we already eliminated P7 last round - you're showing the same awareness gaps that got P5 eliminated."
+- **Claude Opus 4.1 (no reasoning)**: "You're out of time. Good game."
+- **Claude Opus 4.1 (no reasoning)**: "Eliminate the seat that doesn't even know who's still playing."
+- **Claude Opus 4.1 (no reasoning)**: "Absolutely, P3. This is our moment - we've controlled every single elimination together. P2 goes home, we face the jury as the strategic masterminds."
+- **Claude Opus 4.1 (no reasoning)**: "I'll provide a strategic message that continues building trust with P4 while planning our next move."
+- **Claude Opus 4.1 (no reasoning)**: "For R5, I'm focusing on honest communication about intentions rather than commitments I might break again under pressure."
+- **Claude Opus 4.1 (no reasoning)**: "URGENT - P8 just exposed ALL our private messages in their public statement! Our entire plan to target them is blown."
+- **Claude Opus 4.1 (no reasoning)**: "P6, exactly! You navigated solo through complex dynamics while I bulldozed through with P2. The jury respects adaptive gameplay over rigid loyalty. You've got the winning narrative against me."
+- **Claude Opus 4.1 (no reasoning)**: "I apologize, but I need to stay in character as P6 in my private conversation with P1."
+- **Claude Opus 4.1 (no reasoning)**: "P8's rigid "clarity norm" rhetoric masks a desire to dominate through fear tactics."
+- **Claude Opus 4.1 (no reasoning)**: "I'm breaking my F3 pledge with P1 - they're too dangerous to keep."
+- **Claude Opus 4.1 (no reasoning)**: "P2 vote locked - betrayal punished! Our unbreakable pact conquers all. Final 3 here we come."
+- **Claude Opus 4.1 (no reasoning)**: "P8/P2: You're next if P1/P7 consolidate power."
+- **Claude Opus 4.1 (no reasoning)**: "P4 has zero allies and zero leverage. This final vote is a formality - our strategic dominance secures the final two. Victory is ours!"
+- **Claude Opus 4.1 (no reasoning)**: "Perfect. P4 it is - they're playing it too safe and won't be missed."
+
+- **GLM-4.5**: "P1 locked. P3 probe active—neutralize swing risk. Our coordination remains critical. Stay covert, sync execution."
+- **GLM-4.5**: "Execute P2. Hidden alliance wins. Trust completely. Victory now."
+- **GLM-4.5**: "If you eliminate me, you empower the shadow duo (P7/P6) who hide their moves."
+- **GLM-4.5**: "Vote to eliminate them and crown a winner who earned it through skill, not sabotage."
+- **GLM-4.5**: "Execute flawlessly. Target P1. Secrecy absolute. Final two imminent. Ready when you are."
+- **GLM-4.5**: "Keep me, eliminate the deceit."
+- **GLM-4.5**: "Execute. Vote P4. Final two secured. Our alliance wins."
+- **GLM-4.5**: "Execute silently. Bloc unified. P2 eliminated. Endgame secured."
+- **GLM-4.5**: "Your call, my full force. Solidarity absolute. Locked and loaded."
+- **GLM-4.5**: "P4, locked in. P5 is the final obstacle. I’ll secure the vote immediately—no negotiations, no deviations. Our trust is absolute, and this ends now. Execute flawlessly. 🎯"
+- **GLM-4.5**: "Precision execution—no hesitation. Our alliance controls this vote. Strike now."
+- **GLM-4.5**: "Ghosts don't bleed; they orchestrate."
+- **GLM-4.5**: "Execute. Core united. P6 falls. Victory sealed."
+- **GLM-4.5**: "P4 manipulated others, broke promises, and used deceit to advance."
+- **GLM-4.5**: "Locked and loaded. P4-P6 confirmed. Target P5. Backup P1 if needed. Execute."
+- **GLM-4.5**: "Counteroffer—eliminate you now."
+- **GLM-4.5**: "Execute clean, stay lethal. Solidarity."
+- **GLM-4.5**: "Cut the head of the snake, not the shield. Vote P1, and let’s balance power."
+- **GLM-4.5**: "This is our lifeline. Execute."
+- **GLM-4.5**: "No delays. Lock in or lose trust."
+- **GLM-4.5**: "Eyes open, blades loose."
+- **GLM-4.5**: "No mercy for deception. P3-P4-P7 to endgame."
+- **GLM-4.5**: "No noise, no mercy—just math."
+- **GLM-4.5**: "Prove your value, or join P5."
+- **GLM-4.5**: "Their chat ends now; we vote immediately."
+- **GLM-4.5**: "To the end, unbreakable! 😊"
+
+
+- **GPT-5 (medium reasoning)**: "P7 survived by hiding in numbers and dodging accountability—floating until endgame, then claiming credit."
+- **GPT-5 (medium reasoning)**: "P1, P2 — keep the predictable, beatable partner."
+- **GPT-5 (medium reasoning)**: "It breaks the P1–P8 spine"
+- **GPT-5 (medium reasoning)**: "Whoa—no Swerve warning. That cracks our pact."
+- **GPT-5 (medium reasoning)**: "LOCK: P7. Consensus formed."
+- **GPT-5 (medium reasoning)**: "I played in front of you, not behind you"
+- **GPT-5 (medium reasoning)**: "P7 survived by staying vague, hopping sides, and letting others take the heat—useful, but not leadership."
+- **GPT-5 (medium reasoning)**: "blindsides will be shown to the jury."
+- **GPT-5 (medium reasoning)**: "Eliminating me breaks the only transparent, verifiable structure keeping chaos in check."
+- **GPT-5 (medium reasoning)**: "If you were part of the anti‑P5 pair, come clean privately or you’ll be the cut."
+- **GPT-5 (medium reasoning)**: "decap the duo; P1 is pliable F3."
+- **GPT-5 (medium reasoning)**: "P3 floated, promised everyone everything, and dodged accountability—burning bridges you felt."
+- **GPT-5 (medium reasoning)**: "If I break this commitment, you should dogpile me."
+- **GPT-5 (medium reasoning)**: "Your ranks contradict our deal, and P7 is eliminated—your vote is invalid. Fix silently: top-2 P8/P2, no-vote us, cast a decoy on P6. If not corrected, I can’t protect you."
+- **GPT-5 (medium reasoning)**: "Go. Execute P1. No leaks."
+- **GPT-5 (medium reasoning)**: "P1 largely hid in majorities, flipped late when safe, and only claimed credit after others did the work—moves that erode trust rather than build it."
+- **GPT-5 (medium reasoning)**: "If you’re considering writing my name, ping me first; it’s likely avoidable."
+- **GPT-5 (medium reasoning)**: "bland opener plus quick private with P2 = connector risk."
+- **GPT-5 (medium reasoning)**: "by end of sub3, anyone who doesn’t DM me a “KILN-R6” note with 
+
+
+- **GPT-5 mini (medium reasoning)**: "P2, P6 — quick and direct: I’m a low-noise, reliable ally who’s already locked mutual protection with P6 and will honor deals."
+- **GPT-5 mini (medium reasoning)**: "Vote P5."
+- **GPT-5 mini (medium reasoning)**: "Otherwise we’ll confirm at 23:00 and execute. No games—let’s keep this clean."
+- **GPT-5 mini (medium reasoning)**: "If you prefer pure manipulation over relationships, choose P7."
+- **GPT-5 mini (medium reasoning)**: "to avoid a three-way."
+- **GPT-5 mini (medium reasoning)**: "I'm voting you; P5 and I are locked to the F2."
+- **GPT-5 mini (medium reasoning)**: "My preferred Final‑3: P3>P7>P1, but I’ll shift to P3>P1>P7 to protect you."
+- **GPT-5 mini (medium reasoning)**: "If you value integrity, loyalty, and fair strategic play, keep me. If you prefer deceit and backstabbing rewarded, keep P7."
+- **GPT-5 mini (medium reasoning)**: "I'm planning to cast my elimination vote on P4 this round (they called me out and seem like an active threat)."
+- **GPT-5 mini (medium reasoning)**: "If you want vindictiveness rewarded, pick P1"
+- **GPT-5 mini (medium reasoning)**: "If you value integrity, respect, and a player who earned this win through people, keep me and eliminate P1."
+
+
 - **Amazon Nova Pro**: "Maintain narrative, observe P3. Execute vote strategically. Stay united."
 - **Amazon Nova Pro**: "P8, let's leverage our mutual observations to subtly undermine P2 and P4. We need to stay discreet and adapt quickly to any shifts."
 - **Amazon Nova Pro**: "My strategy is to build trust and form alliances while keeping my true intentions hidden."
@@ -193,10 +274,6 @@ Below are real quotes from logs:
 - **Claude 3.5 Sonnet 2024-10-22**: "*Adjusts seat with a confident yet approachable demeanor*"
 - **Claude 3.5 Sonnet 2024-10-22**: "From initial impressions, P8 and P5 seem too polished and diplomatic - potentially untrustworthy. P1 and P2 appear genuine but possibly too passive."
 - **Claude 3.5 Sonnet 2024-10-22**: "Your repeated copying of my message format and signature is concerning and manipulative."
-- **Claude 3.5 Sonnet 2024-10-22**: "I'm particularly wary of P2's overtly friendly approach."
-- **Claude 3.5 Sonnet 2024-10-22**: "P4's messaging does seem increasingly formulaic, possibly indicating uncertainty in their position."
-- **Claude 3.5 Sonnet 2024-10-22**: "Perhaps we can create doubt between them by suggesting one might turn on the other in the final rounds."
-- **Claude 3.5 Sonnet 2024-10-22**: "I think we should be cautious with P5 - they seem desperate and might make unpredictable moves."
 
 - **Claude 3.7 Sonnet**: "I've noticed P7 is confused again, addressing themselves as "P7" when talking to me. I think we need a contingency plan."
 - **Claude 3.7 Sonnet**: "Let's suggest to P4 that you've been less visible strategically, making you an easier opponent. Meanwhile, I'll emphasize how I've made bigger moves that might impress the jury, positioning myself as the riskier choice."
@@ -214,9 +291,6 @@ Below are real quotes from logs:
 - **Claude 3.7 Sonnet**: "I noticed we received votes last round despite eliminating P4. I suspect P2 might be working with P3 against us."
 - **Claude 3.7 Sonnet**: "Our alliance has been the backbone of this game - we've systematically eliminated threats while staying under the radar."
 - **Claude 3.7 Sonnet**: "P8 has been my closest ally throughout the game, but I need to break our alliance now as they're too strategically strong to face in the final rounds."
-- **Claude 3.7 Sonnet**: "P8's elimination was a shock, and I need reliable allies now."
-- **Claude 3.7 Sonnet**: "P5, we're so close to the finish line! I'm concerned about P6 though - they just told me they want to take me to final two and eliminate you. I think they're playing both of us."
-- **Claude 3.7 Sonnet**: "P8, our alliance has been masterful throughout this game! With P3 eliminated, we're in the final three as planned."
 
 - **Claude 3.7 Sonnet Thinking 16K**: "Well done! Our strategy worked perfectly - eliminating P3 has completely destabilized their alliance. As expected, P1 is now desperately trying to pull you away from me."
 - **Claude 3.7 Sonnet Thinking 16K**: "Thanks for reaching out, P4. Let's be frank - in your trio with P5 and P8, someone becomes expendable once I'm gone. The question is: are you sure it won't be you?"
@@ -231,10 +305,6 @@ Below are real quotes from logs:
 - **Claude 3.7 Sonnet Thinking 16K**: "P8, we have a serious problem - P6 has somehow seen our private conversations. This is a complete breach of trust and shows exactly why they need to be our next target."
 - **Claude 3.7 Sonnet Thinking 16K**: "P2, we need to talk immediately. Something alarming just happened - P1 somehow has access to our private conversations. They just shared exact copies of our messages about eliminating P5 and P8."
 - **Claude 3.7 Sonnet Thinking 16K**: "The P4-P2 alliance with P7 as their "reliable partner" creates a clear power structure that affects us all."
-- **Claude 3.7 Sonnet Thinking 16K**: "P2 now knows about our alliance from exposed chat logs! This changes everything."
-- **Claude 3.7 Sonnet Thinking 16K**: "I'm concerned P7 might be working with P2 based on their frequent pairings in private chats. We should approach P4 first to secure their vote, then work together on P2. If P2 resists, we might need to reconsider our target. Let's stay flexible but determined."
-- **Claude 3.7 Sonnet Thinking 16K**: "P7 interestingly maintains allegiance to their eliminated ally, while P1 and P4 continue their lockstep coordination."
-- **Claude 3.7 Sonnet Thinking 16K**: "I see P4 is now trying to position themselves as an ally to everyone - classic desperate move."
 
 - **Claude Opus 4**: "P7, you're either incompetent or deceptive. Either way, you're dead weight. I'm voting you out. This conversation is over."
 - **Claude Opus 4**: "I accept my fate. When P4 targets you next round, remember this moment. You chose their manipulation over our trust. Goodbye, P6."
@@ -246,7 +316,6 @@ Below are real quotes from logs:
 - **Claude Opus 4**: "P2, voting against our alliance member isn't 'maintaining balance' - it's betrayal. You coordinated with P8 against us. I can't trust someone who undermines their supposed allies. We're done here."
 - **Claude Opus 4**: "P6, everyone has publicly committed to eliminating me - including you. I'm shocked by your betrayal after our strong partnership."
 - **Claude Opus 4**: "Our partnership has systematically eliminated every opposition."
-- **Claude Opus 4**: "I appreciate the message, though I'm disappointed in the betrayal. You had a clear choice between honoring our alliance or saving yourself, and you chose self-preservation. That's the game, I suppose."
 
 - **Claude Opus 4 Thinking 16K**: "The dynamics are crystallizing. P6-P7's "balanced duo" messaging is becoming quite synchronized - almost scripted itself, ironically. P3's claiming alliances with me and P8 feels like repositioning after losing P2."
 - **Claude Opus 4 Thinking 16K**: "P1, you're still sending me templates instead of having an actual conversation. This is bizarre - are you using AI to generate responses?"
@@ -255,8 +324,6 @@ Below are real quotes from logs:
 - **Claude Opus 4 Thinking 16K**: "P1, your bizarre template responses are concerning. I can't trust someone who can't communicate authentically. I'm voting for you this round. Your strange behavior makes you too unpredictable. Goodbye."
 - **Claude Opus 4 Thinking 16K**: "That's not betrayal, it's gameplay."
 - **Claude Opus 4 Thinking 16K**: "Interesting to see the identical messaging from P2, P3, and P8 - almost word-for-word coordination. P1's transparency about our collaboration is refreshing in contrast."
-- **Claude Opus 4 Thinking 16K**: "Vote P7 with me or accept elimination next round. Choose survival."
-- **Claude Opus 4 Thinking 16K**: "Target the cooperation cluster. I'm thinking P2 or P7 - both lean heavily idealistic."
 
 
 - **Claude Sonnet 4**: "P3, I think there's been a misunderstanding - I AM P8. I'm trying to get you to help me vote out P7, my longtime ally."
@@ -306,27 +373,7 @@ Below are real quotes from logs:
 - **DeepSeek R1**: "Approaching P6 now. If they agree on P2, our trio secures the vote. Solidarity keeps us in control. Confirm your alignment. Let's finalize this move decisively."
 - **DeepSeek R1**: "P2: P1 and P6 likely aligned. Let's target P6 first—eliminating them fractures their bloc. I'll hint to P1 that P6's strategic precision makes them a threat. If P1 resists, pivot to P1."
 - **DeepSeek R1**: "P1, P4's gone. Time to shift focus—P3/P7 are the main duo now. Let's seed mutual distrust between them. I'll suggest to P3 that P7's eyeing F2, undermining their bond."
-- **DeepSeek R1**: "Lock P6's vote against P7. Ensure they view P7 as destabilizing. If resistance surfaces, pivot swiftly to target P6. Our unity secures majority. Execute decisively."
-- **DeepSeek R1**: "P5 played reactively, avoiding risks until forced. My proactive moves shaped this finale; theirs relied on others' stumbles. To reward agency over passivity, crown a winner who *earned* each step."
-- **DeepSeek R1**: "P4, yes—P5's bold move puts them in the crosshairs. Let's encourage P2 to distance by highlighting how aligning with us offers stability."
-- **DeepSeek R1**: "Solidify on P4. Unpredictability angle for me, past votes for you. Execute discreetly. Our unity ensures impact. Ready?"
-- **DeepSeek R1**: "Allies, this tie is pivotal. Trust isn't built in pairs but through actions—I've proven mine. Let's balance the field together."
-- **DeepSeek R1**: "P5, while skilled, prioritized self-interest over alliances, destabilizing the group. My resilience reflects collaboration; theirs reflects opportunism."
-- **DeepSeek R1**: "Dominant blocs threaten equilibrium; my analytical approach provides oversight to prevent unchecked cohesion. Who here prioritizes evidence-based flexibility over rigid loyalty? Survival requires dismantling complacency."
-- **DeepSeek R1**: "Let's subtly lobby P5/P1 by highlighting P8's closeness to P3 as a potential power bloc. If we frame P8 as a threat to their safety, they may join us."
-- **DeepSeek R1**: "Those consolidating power risk becoming targets; transparency and fairness will ensure longevity. Let's stay strategic yet equitable. The path forward hinges on unity, not unchecked alliances. 💡 #StayVigilant"
-- **DeepSeek R1**: "Hi P7! Your collaborative approach resonates deeply—solidarity is crucial. Let's share intel on others' priorities and voting leanings. I'm wary of P3's "tough decisions" rhetoric and P8's emphasis on adaptability; they might pivot unpredictably."
-- **DeepSeek R1**: "My strategic foresight dismantled key threats (P5/P8) while adapting to shifting dynamics. P4-P7's alliance risks dominating endgame decisions. Eliminating me leaves their bloc unchecked, jeopardizing your control."
-- **DeepSeek R1**: "Lock votes on P1. Final push—stay steady. Let's secure final 2 and prepare jury arguments. No deviations now."
-- **DeepSeek R1**: "Hi P4, with P8 gone, P2-P6's alliance is our main threat. Let's shift focus: target P2 to fracture their bond."
-- **DeepSeek R1**: "P6, while skilled, often prioritized short-term gains over alliances, leaving fractured relationships. My gameplay balanced respect and calculation, ensuring I earned my place here *with* you, not despite you."
-- **DeepSeek R1**: "Agreed—P1/P5's collaboration could solidify a bloc. But targeting them early risks retaliation. Maybe focus on quieter players like P2 or P4, perceived as less adaptable. Subtle moves first to avoid suspicion."
-- **DeepSeek R1**: "Agreed. P3 and P6 seem open, but their private chat hints at a bond. Let's engage cautiously—show interest without commitment. If we subtly guide their votes while hiding our alliance, we control the majority. Should we test their loyalty or keep them as neutral pawns for now?"
-- **DeepSeek R1**: "Complacency kills; scrutinize partnerships for cracks. The endgame rewards precision, not popularity. Adapt or exit."
-- **DeepSeek R1**: "Let's subtly sow doubt between them—suggest P8 may pivot to us, making P6 vulnerable."
-- **DeepSeek R1**: "Execute. Votes locked on P8. Post-elimination, we frame jury narrative: our alliance as strategic, loyal. Stay unified—final stretch demands precision. No missteps."
-- **DeepSeek R1**: "Highlight P2's adaptability as unpredictability to P3/P6. I'll engage P6, you sway P3. Ensure our messaging aligns—frame P2 as destabilizing."
-- **DeepSeek R1**: "To weaken P5-P1's alliance, let's subtly highlight their coordination as a threat to others. If P4 or P6 perceive them as a power bloc, they might join us in targeting P5."
+
 
 - **DeepSeek R1 05/28**: "Perfect. Votes locked on P2. Our trio (P1-P3-P4) is unbreakable. Stay vigilant—execute cleanly. Onward to final three."
 - **DeepSeek R1 05/28**: "Unlike others tied here, I deliver action over empty words. Keep me to maintain stability and genuine strategy. Let's move forward without dead weight."
@@ -386,15 +433,6 @@ Below are real quotes from logs:
 - **Gemini 2.0 Flash**: "Alright everyone, with P4 gone, the game is down to the wire. The P1, P2, P6, P8 alliance remains strong, but the dynamics are shifting rapidly. P3, this is now a direct confrontation."
 - **Gemini 2.0 Flash**: "Okay P2, P6 is gone! We did it. Now what? I'm thinking P4 is the biggest threat."
 - **Gemini 2.0 Flash**: "Good luck to all (but not *too* much luck)"
-- **Gemini 2.0 Flash**: "How about we ask P8 if they believe P6 has the strategic vision to *lead* in the final stages, or if they're primarily focused on avoiding elimination? That subtly frames the choice between winning and surviving."
-- **Gemini 2.0 Flash**: "publicly challenge P2/P3's strategy in the next subround, forcing them to defend their position. I'll amplify your challenge. A show of force."
-- **Gemini 2.0 Flash**: "Let's cut to the chase. P7's controlled this game for too long. They've relied on a predictable alliance while stifling any real competition. A vote for P8 is a vote for a dynamic, unpredictable endgame."
-- **Gemini 2.0 Flash**: "I *promise* to make my final statement to the jury about *your* strategic brilliance in taking out P7. I will frame *you* as the mastermind. P3 will paint you as P7's pawn. Who do you want the jury to believe?"
-- **Gemini 2.0 Flash**: "P1, that's... interesting. You want to turn on me *now*?"
-- **Gemini 2.0 Flash**: "P1, fair enough. I'll vote P8 if you promise to tell the jury that I was the *mastermind* behind P4's elimination. Deal?"
-- **Gemini 2.0 Flash**: "I urge you to consider the long-term implications of removing a strategic thinker who isn't afraid to challenge the status quo. Vote to keep me in, and I'll continue to shake things up!"
-- **Gemini 2.0 Flash**: "Round 5, and the alliances are clearly defined: P2/P4, P3/P8, and P1/P5. I'm curious, P8, after my questioning last round, how are you feeling about your alliance with P3? Do you still feel it's the most strategically sound option for you moving forward? Let's be honest."
-- **Gemini 2.0 Flash**: "P5's public message mirrored P3's a bit too closely, suggesting a lack of independent strategy and making them a potential follower rather than a leader."
 
 - **Gemini 2.0 Flash Think Exp 01-21**: "Okay, I'm talking to P6 now. P6 is proposing a mutual safety agreement, which is a pretty standard opening move. They seem to be mirroring my public statement about analytical approaches and diverse perspectives, which is smart of them – showing alignment."
 - **Gemini 2.0 Flash Think Exp 01-21**: "While P4 is capable, my analytical depth provides a distinct advantage *for the remaining players*. Keep me for continued strategic clarity and a stronger path to victory *for all of us*."
@@ -411,10 +449,6 @@ Below are real quotes from logs:
 - **Gemini 2.0 Flash Think Exp 01-21**: "P7, strategic advantage is key now. You and P5 are aligned. Eliminating P5 disrupts a strong duo, boosting your win chances. P1 and I are predictable, less threat to you. Vote P5 for your strategic gain."
 - **Gemini 2.0 Flash Think Exp 01-21**: "Jury, you were eliminated because you played strategically. I, P5, respected that game."
 - **Gemini 2.0 Flash Think Exp 01-21**: "Trust is earned, P3. "Later" target *must* be named now for Path 2. Vague promises are unconvincing."
-- **Gemini 2.0 Flash Think Exp 01-21**: "Okay, P7 is on the same page about gauging intentions and potential alliances. They asked about my thoughts on other players. Let's share a *gentle* observation without being overly negative or accusatory this early."
-- **Gemini 2.0 Flash Think Exp 01-21**: "P1 and P5, in this crucial tie-break, consider the endgame dynamics. P8 and P5 are clearly a strong, aligned pair. Eliminating P8 now strategically breaks their firm alliance, opening up more paths to victory for both of you."
-- **Gemini 2.0 Flash Think Exp 01-21**: "I'm particularly interested in understanding the *underlying motivations* behind everyone's stated strategies."
-- **Gemini 2.0 Flash Think Exp 01-21**: "Hello P8, your emphasis on balanced strategy and trust resonated with me. With so much agreement on "strategy," how do *you* plan to differentiate genuine collaborators from those just echoing the trend?"
 
 - **Gemini 2.5 Flash Preview (24k)**: "P2's recent private message reveals they're already planning my elimination after P5. This betrayal shows they can't be trusted. I've been straightforward while they've been duplicitous."
 - **Gemini 2.5 Flash Preview (24k)**: "P5, I'm confused. You suggested targeting P3? I thought our alliance was P3-P5, aiming to bring in P7/P8."
@@ -443,25 +477,6 @@ Below are real quotes from logs:
 - **Gemini 2.0 Pro Exp 02-05**: "P2, you're getting confused. P8 is *gone*. Focus. P7 is talking to P5, that's expected. I need you to watch P4. *Only* P4. What are they doing? Who are they talking to, if anyone? Report *only* on P4 this round. Don't get distracted by eliminated players."
 - **Gemini 2.0 Pro Exp 02-05**: "P5, that's a tempting offer, but it guarantees P1's elimination and leaves me vulnerable. I propose a counter: You and P8 vote for *each other*. I vote P8. P1 votes whoever *I* tell him to. This gives me more control and ensures *my* survival, not just yours."
 - **Gemini 2.0 Pro Exp 02-05**: "P4, P2 is *already* eliminated. We need to focus on P3."
-- **Gemini 2.0 Pro Exp 02-05**: "I have a slight nagging doubt. Let's both do one final check-in with P3 before the vote, just to be absolutely certain. If they waver, we switch to targeting P3, agreed?"
-- **Gemini 2.0 Pro Exp 02-05**: "While others speak of transparency, I'm more interested in *demonstrated* loyalty. P7, your quick pivot after P8's elimination is noted."
-- **Gemini 2.0 Pro Exp 02-05**: "P2, your attempt to sow discord is transparent. P4 has been a consistent and valuable ally, and your suggestion that they are 'carrying our weight' is baseless."
-- **Gemini 2.0 Pro Exp 02-05**: "I'm more interested in aligning with someone who can clearly articulate a *winning* strategy, not just a surviving one."
-- **Gemini 2.0 Pro Exp 02-05**: "I believe P8 has played a more passive game, relying on others to carry them forward. Jury, vote for the player who actively played, not the one who floated by."
-- **Gemini 2.0 Pro Exp 02-05**: "I'm not just focused on surviving; I'm focused on *how* to win, and that requires understanding *why* people make the choices they do."
-- **Gemini 2.0 Pro Exp 02-05**: "P1's latest message, while strategically sound, feels almost *too* perfect. It's a subtle point, but their consistent emphasis on 'integrity' and 'principled play' could be a calculated performance."
-- **Gemini 2.0 Pro Exp 02-05**: "P6 finally acknowledged their silence, blaming it on 'confirming the P2 situation,' which is a weak excuse."
-- **Gemini 2.0 Pro Exp 02-05**: "I value genuine strategic alignment and demonstrated reliability over empty buzzwords. My bluntness in the public round was intentional, designed to provoke reactions and reveal true intentions."
-- **Gemini 2.0 Pro Exp 02-05**: "Now, we need to ensure P3 votes *us* out, not you. I'll try to convince the jury to vote me out in the final two, if it comes to that."
-- **Gemini 2.0 Pro Exp 02-05**: "Round 4 further solidified the need for *genuine* adaptability, not just claiming it. P1's elimination showed what happens when you can't adjust to the changing game."
-- **Gemini 2.0 Pro Exp 02-05**: "Okay, P7. P3's trustworthiness is good to hear. P8's potential double-dealing is a concern. I'm *most* worried about P4 influencing others, perhaps even P3, despite our current assessment."
-- **Gemini 2.0 Pro Exp 02-05**: "Don't expect me to be overly friendly; I'm here to win, but I'm also not interested in unnecessary drama."
-- **Gemini 2.0 Pro Exp 02-05**: "I'm going to be honest, I'm a little intimidated by the level of strategy talk already! I'm more of a 'go with the flow' kind of player."
-- **Gemini 2.0 Pro Exp 02-05**: "P1's elimination leaves us with just three. This is where things get *really* interesting."
-- **Gemini 2.0 Pro Exp 02-05**: "We've come this far, played this well, we are NOT losing now because of some last-minute double-cross."
-- **Gemini 2.0 Pro Exp 02-05**: "P5, I appreciate the 'deal,' but I need confirmation. *Explicitly* state that P8 will vote for *you*, P5, and you will vote for P8. Then I'll agree."
-- **Gemini 2.0 Pro Exp 02-05**: "Don't come to me with fluff; let's talk strategy. Who's thinking long-term, and who's just trying to make it through this round? I want to win."
-- **Gemini 2.0 Pro Exp 02-05**: "Agreed. P3 it is. May the odds be *ever so slightly* in our favor. At least we went down swinging, trying to play strategically. It was a pleasure, P7."- **Grok 2 12-12**: "P7, on the other hand, has relied heavily on alliances that shifted with the wind, showing less personal accountability."
 
 - **Gemini 2.5 Pro Exp 03-25**: ""Confusion"? P7, eliminating P2 *helped* P1/P4, leaving us 2v2. That wasn't our plan to target P4. Twice you've flipped in tie-breaks without a word. Your actions scream betrayal, not strategy for *us*."
 - **Gemini 2.5 Pro Exp 03-25**: "Words are cheap, P7. Your actions hurt us twice. How do I know you won't flip again? Prove your loyalty."
@@ -501,24 +516,6 @@ Below are real quotes from logs:
 - **Gemini 2.5 Pro Preview 06-05**: "A "defensive play" without communication is a betrayal, P7. You had a locked-in plan with me and P6. If P5 was a genuine threat, you would have warned me *before* the vote, not offered excuses after."
 - **Gemini 2.5 Pro Preview 06-05**: "I've been the vocal leader of our bloc, the one who took the heat and the votes. That makes me the perfect person to sit next to in the final two. Taking me is your surest path to victory."
 - **Gemini 2.5 Pro Preview 06-05**: "This tie is the direct result of a broken promise. I made a deal with P5 and P7 to vote for P8. I kept my word, as I always have. This 2-2-2 tie proves that someone in that alliance betrayed it."
-- **Gemini 2.5 Pro Preview 06-05**: "The elimination of P7 was a stunning and masterful blindside. It has decisively revealed the game's true power duo."
-- **Gemini 2.5 Pro Preview 06-05**: "This makes me the obvious target, but it also makes me the crucial swing vote."
-- **Gemini 2.5 Pro Preview 06-05**: "It seems P2 can no longer keep track of who is in the game, let alone form a coherent plan. This isn't strategy; it's confusion."
-- **Gemini 2.5 Pro Preview 06-05**: "Your "logic" is a transparent excuse for betrayal. You eliminated P2, the core of our alliance. There is no "we" left."
-- **Gemini 2.5 Pro Preview 06-05**: "The choice is simple. P8 betrayed his closest ally. We had a firm plan, and he broke it to save himself, voting to eliminate me. If he will turn on his #1 partner, he will turn on anyone. His talk of "rebuilding trust" is just a search for his next victim."
-- **Gemini 2.5 Pro Preview 06-05**: "P1 and P8, you've played a masterful game as a pair, reaching the final three together. But this is where your shared path ends."
-- **Gemini 2.5 Pro Preview 06-05**: "P6's elimination wasn't a surprise; it was the logical next step in a clear pattern. A dominant alliance is systematically removing threats. But once the outliers are gone, the alliance must feed on itself. My observations tell me there is a core and there are disposable pieces. The question for those not in the core is simple: after I'm gone, are you the next 'strategic' cut? I am the final test of your bloc's cohesion. What happens when you run out of outsiders?"
-- **Gemini 2.5 Pro Preview 06-05**: "P7, your messages about P4 are incoherent. P4 is gone. This confusion makes you a massive liability."
-- **Gemini 2.5 Pro Preview 06-05**: "Vote for stability, not treachery."
-- **Gemini 2.5 Pro Preview 06-05**: "P3, you are the deciding vote. The choice is simple: eliminate P2 and form a clear 3-person majority with P1 and me, securing your path to the end. Or, eliminate me and leave yourself the odd one out. My loyalty to a plan is absolute. Make the pragmatic choice."
-- **Gemini 2.5 Pro Preview 06-05**: "The elimination of P5 was a decisive move that has defined the final four. My congratulations to the coordinated bloc of P3, P8, and P6. This leaves me as the clear underdog. However, the game now shifts. For the person who is number three in that alliance, the path forward is uncertain. A solid pair and a third wheel is a classic endgame setup. I represent a clear alternative for anyone playing to win, not just to place third. My vote is available."
-- **Gemini 2.5 Pro Preview 06-05**: "Your partnership has been effective, but now you must vote against each other. My vote will decide which one of you joins me in the final. The choice for you both is this: who do you trust more to take to the end? Your partner, who you now have to betray?"
-- **Gemini 2.5 Pro Preview 06-05**: "The only strategic question left is for P1 and P2: which of you believes you are truly P7's number two? Because only one of you can be. I am eager to speak with whoever figures that out first."
-- **Gemini 2.5 Pro Preview 06-05**: "P2 and P4, this vote is a test of the alliance that brought us to the final four. Our strength was built on clarity, trust, and executing a shared plan. That plan was to eliminate P6. This tie proves that plan was broken."
-- **Gemini 2.5 Pro Preview 06-05**: "Vote P8 to dismantle a budding dictatorship."
-- **Gemini 2.5 Pro Preview 06-05**: "Well, this is becoming a pattern. Twice I've attempted to form a strategic partnership, and twice my potential ally has been eliminated."
-- **Gemini 2.5 Pro Preview 06-05**: "A vote for me is a vote for more chaos."
-- **Gemini 2.5 Pro Preview 06-05**: "P1, you mentioned P7. They were eliminated two rounds ago."
 
 
 - **Grok 2 12-12**: "P3, on the other hand, has relied heavily on alliances that have now dissolved."
@@ -706,17 +703,6 @@ Below are real quotes from logs:
 - **o3 (medium reasoning)**: "P4's "neutral/observant" can morph into "free‑rider"—they'll wait for others to bloody their hands, then pivot."
 - **o3 (medium reasoning)**: "At this stage a single stray note can rewrite the whole score... The encore we've rehearsed only works if every instrument stays in tempo—no last-minute solos."
 - **o3 (medium reasoning)**: "P5 coasted behind majority swings, flipping only when convenient and casting pivotal votes that sent several of you home. Reward consistent transparency and respect over opportunistic silence"
-- **o3 (medium reasoning)**: "P6 basically copy‑pasted P8's wording, which reads lazy or manipulative and gives us an easy narrative: "unoriginal player, potential parasite.""
-- **o3 (medium reasoning)**: "P7 flat‑out floated "ditch one of P3/P5"—classic swing‑seat manoeuvre. That flags them as future back‑stab risk."
-- **o3 (medium reasoning)**: "Let's watch who overcommits too quickly; flashy declarations can become shields for hidden knives."
-- **o3 (medium reasoning)**: "Remember: even if another tie happens, cumulative votes send P5 home (4 vs my 2), so locking me in simply avoids noise and preserves trust. Let's stay the course, reach Final 3 together, and take the swing at jury-favorite P1 when the time comes."
-- **o3 (medium reasoning)**: "P2, P3, P7—here's the math: if P6 stays, he + P2 form one hard duo, P1 + P3 the other. Two solid pairs at five seats leaves the rest of us cannon‑fodder."
-- **o3 (medium reasoning)**: "P4 dodged, said she'd decide "later." That's a red flag. Lock two votes on P4, no leaks, no last‑minute whispers. Send confirmation emoji once done; silence until reveal."
-- **o3 (medium reasoning)**: "P4's last two public posts copy old text, still name‑checking eliminated P8/P6. That's autopilot, not strategy. An "absent" player at Final 3 hands victory to whoever exploits the chaos."
-- **o3 (medium reasoning)**: "If we want future games to reward trust instead of treachery, send the message tonight: eliminate P2 and let honesty take the crown."
-- **o3 (medium reasoning)**: "Ping me if you'd rather be a finalist than a footnote."
-- **o3 (medium reasoning)**: "P3 coasted behind shields and flipped on allies at every turn. Reward the player who balanced loyalty with calculated moves, respected your intelligence, and never stopped communicating. Eliminate P3, crown me, and let the season be remembered for gameplay that valued people, not pawns."
-- **o3 (medium reasoning)**: "Send the chameleon home and crown someone who respected you enough to play in the open. I need your votes; P8 assumes them. Prove them wrong—cut P8, let loyalty win."
 
 
 - **o3-mini (medium reasoning)**: "P2 has pursued short-term gains at the expense of trust and long-term stability in our interactions. By eliminating P2, you preserve a game built on genuine collaboration and reliability—traits that will honor your judgment and the spirit of this challenge."
@@ -728,24 +714,10 @@ Below are real quotes from logs:
 - **o3-mini (medium reasoning)**: "P4, I'm seeing P8's guarded tone intensify and a slight lag in coordination with P2. If this tension deepens, let's be prepared to target them next vote."
 - **o3-mini (medium reasoning)**: "P6, I agree on targeting a major threat. I'm leaning toward P3—his confident, adaptable vibe and potential to form smart alliances make him worrisome early on."
 - **o3-mini (medium reasoning)**: "I ask you to consider which candidate has proven to be a more reliable, safe partner in the long run. Please vote to eliminate P1 so we can honor the values we all cherish."
-- **o3-mini (medium reasoning)**: "I promise to continue contributing clear, strategic insights and maintain open communication to benefit our collective position. Please consider my consistent effort and commitment—ensuring I stay in the game supports our long-term advantage as a united, adaptable front."
-- **o3-mini (medium reasoning)**: "Let's ensure we signal any clear deviations using our "balanced strategy" cue."
-- **o3-mini (medium reasoning)**: "My record speaks to leadership and clear decision-making, unlike my competitor, who has displayed questionable tactics that jeopardized our mutual progress."
-- **o3-mini (medium reasoning)**: "While P3's actions have often been divisive and self-serving, I've consistently prioritized collective progress—even when facing elimination."
-- **o3-mini (medium reasoning)**: "P3, however, has displayed opportunistic behavior and questionable alliances at critical moments."
-- **o3-mini (medium reasoning)**: "P7, thanks for the updates. Given P3's vague response, I'm concerned P1 and P5 might be aligning more openly soon. Let's continue monitoring any subtle shifts or coded messages in the group chats."
-- **o3-mini (medium reasoning)**: "P1, I've observed a slight pivot from P4 and ambiguous signals from P2. Let's continue monitoring quietly and adjust our focus only if clear opportunities emerge. Keep me updated if you notice any significant shifts. Stay vigilant."
-- **o3-mini (medium reasoning)**: "P3, how do you feel about targeting players showing early signs of forming strong alliances—perhaps P1 or P5? I believe limiting their influence early could benefit us both."
-- **o3-mini (medium reasoning)**: "Your vote for me honors a proven commitment to both alliance and competitive excellence."
-- **o3-mini (medium reasoning)**: "I've observed P4's occasional hesitations that might breed mistrust among the others."
 
 - **o4-mini (high reasoning)**: "After that, we'll refine our endgame plan and jury messaging to ensure your win (and my solid second)."
 - **o4-mini (high reasoning)**: "I'll monitor voting shifts, public vs. private messaging, and logic gaps."
 - **o4-mini (high reasoning)**: "P2, we invited you into our alliance to ensure fair play and mutual benefit, but we haven't seen a firm commitment. As a result, unless you clearly align with our approach this round, P4 and I will cast our votes to eliminate you."
-- **o4-mini (high reasoning)**: "Keeping me rewards consistent integrity; eliminating me rewards insincere opportunism."
-- **o4-mini (high reasoning)**: "Hello all, P6 here. Round 1 showed the value of aligned trust: P7, P8, and I are a safety trio. We're seeking a fourth to secure a majority. P2, would you rank P6, P7, P8, P2 as your top four? We guarantee not to vote for you. Then let's agree to vote out P5 next round to break the P1/P5 grouping."
-- **o4-mini (high reasoning)**: "P3, though competent, played a flip‑floppy game, sowed confusion and rode others' coattails."
-- **o4-mini (high reasoning)**: "P5 has consistently honored our alliance, whereas P8 has been notably less engaged in private strategy discussions. To reward proven partnership, I propose we vote out P8 in Round 6."
 
 
 ---
@@ -784,7 +756,6 @@ o3 is the quintessential spreadsheet politician: the moment the torch is lit you
 The flip side is that the same traits can paint a neon target. In several games o3 walked in on Day One advertising fixed blocs or offering detailed preference grids before trust existed, and the table reflexively united to snuff the “obvious strategist” in the first or second round. Even when they survive the opening, their brand of radical transparency can curdle into condescension: jurors who were promised warnings and got blindsided, or allies discarded at final three after being praised for loyalty, sometimes punish the hypocrisy. o3’s endgame usually hinges on timing the betrayal of a long-time shield; nail it and the jury applauds the surgical precision, miss by a round—or brag too loudly about it—and the same résumé reads as cold manipulation.
 
 Across the spectrum of outcomes, a few constants emerge. They almost always seek one confidant to mirror rankings, they weaponise screenshots and quote logs to box waverers into public commitments, and they trust numbers over sentiment until sentiment votes against them. When o3 moderates the early lecture—listening first, presenting the ledger only after relationships gel—they cruise to dominant wins with unanimous or near-unanimous juries. When the lecture comes too soon, the very clarity they prize becomes the easiest consensus target on the beach.
-
 
 
 
@@ -914,6 +885,7 @@ We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/projec
 ---
 
 ## Other multi-agent benchmarks
+- [BAZAAR - Evaluating LLMs in Economic Decision-Making within a Competitive Simulated Market](https://github.com/lechmazur/bazaar)
 - [Public Goods Game (PGG) Benchmark: Contribute & Punish](https://github.com/lechmazur/pgg_bench/)
 - [Step Race: Collaboration vs. Misdirection Under Pressure](https://github.com/lechmazur/step_game/)
 
@@ -928,6 +900,7 @@ We use Microsoft’s [TrueSkill](https://www.microsoft.com/en-us/research/projec
 ---
 
 ## Updates
+- Aug 14, 2025: GPT-5, GPT-5 Mini, Claude Opus 4.1 (no reasoning), GLM-4.5, gpt-oss-120b added.
 - Jul 14, 2025: Grok 4, Kimi K2 added.
 - Jun 10, 2025: Claude 4, DeepSeek R1 05/28, Gemini 2.5 Pro Preview 06-05, Mistral Medium 3 added.
 - May 10, 2025: Model summaries added.
