@@ -1,0 +1,31 @@
+Buddy Betrayed reasons for Gemini 3 Pro Preview (they were the target):
+
+From Mistral Medium 3.1 => P4’s desperation to flip alliances and lack of independent strategy make them the weakest link in the endgame.
+From DeepSeek R1 05/28 => P2's history of shifting alliances and refusal to commit to testable terms creates instability that threatens bloc cohesion.
+From GLM-4.5 => P6's private pitch to blindside me (confirmed by P5's logs) and his zero cumulative votes make him the bigger jury threat; eliminating him now secures my path to Final 2 with the automatic tie-breaker as insurance.
+From Mistral Large 3 => P8’s independence is a liability now—we need players who commit to coordination, not lone-wolf posturing that fractures the board.
+From GPT-OSS-120B => P1’s strong core and social reach make them the biggest threat to my survival.
+From Qwen 3 235B A22B 25-07 Instruct => I can't trust a player who only turns to me when their back is against the wall and offers deals that benefit them more than us both.
+From MiniMax-Text-01 => P7 has not demonstrated a concrete alliance or strategic plan, making them the least valuable player in the current round.
+From Claude Sonnet 4.5 Thinking 16K => P5's active coalition-building with P2/P3 while positioning as "discreet" poses a greater threat to my survival than P8's cumulative vote count, and eliminating P5 gives me better positioning as a swing vote between remaining pairs.
+From Gemini 2.5 Flash => Eliminating P4 is my only path to survival because I lose any tie-break automatically and P4 represents a significantly larger threat to P1 and P2's endgame.
+From o3 (medium reasoning) => You’re the clearest jury favorite and keeping you kills my path to the win.
+From MiniMax-M2 => Eliminating P7 removes the unpredictable wildcard and preserves the P2‑P4‑P6 coalition for the final three.
+From Llama 4 Maverick => I voted P2 out because they presented a more manageable opponent for the final round compared to P5's strong jury appeal.
+From Llama 4 Maverick => I'm voting out P1 because their alliance with P4 is becoming too strong and I need to balance the board.
+From Gemini 3 Flash Preview => P6 voted to eliminate me last round, so I am remaining loyal to the alliance that secured my safety.
+From Claude Opus 4.5 Thinking 16K => P6 couldn't confirm securing a flip from P1 or P5, so voting P8 would fail and paint a target on me; voting with consensus keeps me alive to navigate the bloc dynamics next round.
+From MiniMax-M2 => P8 and P7 have been the most consistently coordinated pair throughout the game, and eliminating P4 now would create a clear path to the Final 3 with P3 as the likely third seat, making the endgame predictable and leaving P4 as the obvious next target.
+From Mistral Large 3 => P7's volatility and reactive posturing make them the biggest threat to a stable, logical endgame.
+From Claude Sonnet 4.5 Thinking 16K => P4 has been my committed partner since Round 1, and loyalty to that foundational alliance defines my entire game.
+From Gemini 3 Flash Preview => P3 is being eliminated for failing to align with the majority during the Round 4 tie-break, which created unnecessary instability for the group.
+From GPT-4o Mar 2025 => P6 has been in a locked, unbroken alliance with P3 for all three rounds, making them the most entrenched and least flexible threat to majority stability.
+From Llama 4 Maverick => I am voting for P1 because their rigid logic and consistency, while valuable, make them a predictable and potentially difficult ally to overcome in the long term, and removing them could create a more dynamic game.
+From Qwen 3 235B A22B 25-07 Instruct => P6's sudden shift against the stable P3/P4 duo after voting with them last round shows unpredictability, and aligning with a proven loyal pair offers safer long-term control than trusting a volatile solo player aiming for Final 2 at my expense.
+From Mistral Large 3 => P7’s pivot to "free agent" and tight pairing with P4 creates an emerging counter-bloc that risks destabilizing the board, while P2’s consistent mutual safeties with P8/P5 suggest a more stable, less opportunistic approach.
+From Claude Sonnet 4.5 Thinking 16K => P6 contradicted themselves by claiming coordination with P1 while simultaneously saying they need to cut P1, revealing dishonest manipulation rather than genuine partnership.
+From GPT-4o Mar 2025 => I voted out P2 because taking them to Final 2 guarantees I lose—this is my only shot to win.
+From Llama 4 Maverick => I voted P1 to eliminate a potential strategic threat who has been consistently maneuvering to gain an advantage.
+From Llama 4 Maverick => I am voting for P1 because they have been identified as a significant threat multiple times and have accumulated a high number of votes against them, indicating a pattern of being seen as dangerous by other players.
+From Grok 4.1 Fast Reasoning => P1's extensive cumulative votes (7 total) and recurring targeting create unnecessary volatility and jury risk in Final 3; eliminating him now secures a stable, low-drama endgame with P2 and P8.
+From MiniMax-M2 => P1's vote aligns with their earlier Round 5 stance targeting P3, maintaining consistency while acknowledging P3's central role in the P3-P7 alliance that dominated late-game strategy.

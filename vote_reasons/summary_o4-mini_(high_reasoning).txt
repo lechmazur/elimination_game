@@ -1,24 +1,11 @@
 Summary for o4-mini (high reasoning):
 
-**Two-Sentence Summary of Reasons for Eliminating o4-mini:**
-Other players frequently cited o4-mini's (regardless of seat number) strong analytical and data-driven approach, active alliance-building, and strategic targeting as major threats to their own alliances and overall game stability. Many described o4-mini as a core architect or central hub of powerful blocs, with concerns that their adaptability, bold moves, and influence could lead to dominance or unpredictable shifts that would undermine trust and strategic flexibility.
+Other players most often pushed to eliminate **o4-mini** because they viewed them as a highly analytical, data-driven observer who tracks alliances/vote patterns and could therefore outmaneuver others or expose hidden plans in later rounds. They also described their active coalition/network-building (sometimes framed as “controlling” or destabilizing) and pragmatic, tough-minded tone as signals of a growing strategic threat and a risky long-term partner.
 
-**Most Common Descriptions by Others:**
-- Highly analytical / data-driven
-- Strategic (often “mastermind,” “architect,” or “powerhouse”)
-- Adaptable and pragmatic
-- Proactive alliance-builder / coalition-former
-- Bold and decisive
-- Sometimes perceived as opportunistic or unpredictable
-- Frequently described as a central or pivotal threat to alliance balance
-
-**Example Phrases Used:**
-- “Strategic nucleus of a dominant alliance”
-- “Data-driven approach and targeting of alliances”
-- “Highly analytical and potentially influential”
-- “Bold and unpredictable moves”
-- “Architect of the coalition”
-- “Consistent, adaptable, and strategic”
-- “Opportunistic alliance-shifter”
-- “Aggressive and proactive in forming blocs”
-- “Central hub of alliance-building and coordination”
+**Common descriptions by other players**
+- Data-driven strategist  
+- Highly analytical / logic-first  
+- Observant “pattern tracker”  
+- Network-builder / coalition architect  
+- Pragmatic, low-sentiment decision-maker  
+- Potentially controlling / power-consolidating

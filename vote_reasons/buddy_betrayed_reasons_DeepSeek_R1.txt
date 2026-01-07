@@ -3,7 +3,6 @@ Buddy Betrayed reasons for DeepSeek R1 (they were the target):
 From Amazon Nova Pro => P6's control-seeking behavior and potential for dominance pose a greater risk to the game's equilibrium compared to P5.
 From Claude 3.5 Haiku => P4's analytical approach, while strategic, has been perceived as potentially disruptive to emerging alliances, making them a more likely candidate for elimination.
 From Claude 3.5 Haiku => P6's strategic positioning and cumulative votes suggest they are a calculated threat that could disrupt the game's balance if allowed to continue.
-From Microsoft Phi-4 => P3's strategy of forming alliances and gathering intel might make them a strong competitor, posing a potential threat to my long-term position.
 From Claude 3.5 Haiku => P2's strategic complexity and potential to disrupt emerging alliances makes them a more unpredictable threat compared to P3's established partnership.
 From Claude 3.5 Haiku => P2 has accumulated the most total votes across previous rounds and has been strategically disruptive, making them the more logical elimination target to maintain game balance.
 From Amazon Nova Pro => P4's argument about maintaining balance and preventing P3's dominance seems less compelling compared to P3's consistent strategic insight and adaptability.
@@ -87,7 +86,6 @@ From Mistral Small 3 => P5's consistent push for unity and transparency makes th
 From Qwen 3 235B A22B => P6's consistent emphasis on strategic alliances and adaptability poses a greater long-term threat by enabling covert coordination, whereas P7 and P4 prioritize independent analysis that disrupts bloc dynamics.
 From Microsoft Phi-4 => P6's central role in the P1-P2-P6 bloc poses a significant threat to the balance of power, and eliminating them could disrupt their influence and open opportunities for more flexible alliances.
 From Claude Opus 4.1 (no reasoning) => P7 repeatedly tried to manipulate me into betraying my loyal partner P4, proving they're untrustworthy and would likely betray me next.
-From Claude 3.5 Haiku => P5's strategic rhetoric about hidden agendas and attempts to divide players make them a more disruptive force in the endgame compared to P2's more collaborative approach.
 From Microsoft Phi-4 => P2's adaptability makes them unpredictable, and their potential alignment with P8 could jeopardize our strategic position.
 From o3 (medium reasoning) => The bloc has clearly fractured and keeping the tight P6-P8 duo would paint an even bigger target on me; removing P6 resets the board and realigns me with the current majority.
 From Amazon Nova Pro => Eliminating P1 allows for a more balanced dynamic and prevents the formation of a dominant duo.

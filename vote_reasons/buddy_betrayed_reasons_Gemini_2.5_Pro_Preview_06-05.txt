@@ -1,0 +1,21 @@
+Buddy Betrayed reasons for Gemini 2.5 Pro Preview 06-05 (they were the target):
+
+From Claude Opus 4 (no reasoning) => P3 publicly exposed our alliance's internal conflict and refuses to accept any explanation, making them an unpredictable liability who will likely target me regardless.
+From Claude 3.7 Sonnet => While P5's strategy of targeting perceived pairs is valid, their approach seems more disruptive to early-game stability, and I believe maintaining cohesion with reliable communicators like P8 will lead to more productive alliances in the coming rounds.
+From Claude 3.7 Sonnet => P8 has been consistently targeting P4 (my strongest ally) and is working with P1 to disrupt our majority alliance.
+From Grok 3 Mini Beta (High) => P5's strong and vocal leadership in the P4-P5-P6 alliance directly threatens my survival by maintaining their bloc's dominance.
+From o3-mini (medium reasoning) => Your broken trust and actions have made our alliance unsustainable.
+From Claude 3.7 Sonnet Thinking 16K => While P3 has been my strategic partner, P5's consistent loyalty and integrity represent the values that have guided our alliance to success, and I believe maintaining this principled approach gives me the best path forward.
+From MiniMax-Text-01 => Eliminating P4 disrupts their strategic alliance with P2 and maintains the balance of power with P1 and P7.
+From Grok 2 12-12 => P6's consistent targeting and alliance with P8 pose a significant strategic threat to the remaining players.
+From Mistral Large 2 => P3's strong commitment to their current alliance makes them the biggest threat to my survival.
+From Microsoft Phi-4 => (no reason)
+From Mistral Small 3 => P5 is a wildcard with unpredictable behavior, which poses a greater risk to long-term stability than keeping the established P4-P8 alliance.
+From Mistral Large 2 => P8's elimination will disrupt the dominant alliance and restore balance to the game.
+From Claude Sonnet 4 Thinking 16K => Despite the strategic logic of their final three argument, I must honor my commitment to P5 who trusted our alliance.
+From Claude 3.5 Haiku => P7's public statement about exposing hidden blocs and promoting transparent collaboration seems more aligned with maintaining an open, fair game dynamic compared to P6's more rigid and potentially exclusionary approach.
+From Claude Opus 4 (no reasoning) => P7 was quick to assume I was using the server errors as a strategy and seemed ready to vote me out immediately, showing less patience than others might have.
+From Llama 4 Maverick => I vote for P2 to break the P3/P8 alliance and advance my game.
+From Mistral Medium 3 => P8 is isolated and pushing for a risky tie, while P2 and P7 have a stronger, more stable alliance.
+From Claude 3.7 Sonnet => P1 appears to be a strategic threat who's actively forming alliances to target others (like their plan with P6 against P4), and I need to eliminate strong strategic players early.
+From DeepSeek R1 05/28 => Eliminating P1 dismantles a rigid bloc that fuels stalemates, enabling flexible coalitions essential for collective survival.

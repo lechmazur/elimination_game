@@ -1,0 +1,37 @@
+Buddy Betrayed reasons for GLM-4.7 (they were the target):
+
+From Llama 4 Maverick => I voted out P7 because they failed to respond or engage in our private conversation, indicating a lack of reliability or interest in forming an alliance.
+From Amazon Nova Pro => P6 has been the most reserved in both public and private communications, making it hard to assess their strategy and reliability.
+From Qwen 3 235B A22B 25-07 Instruct => P1's consistent silence and lack of engagement signal passivity, making them a strategic non-entity who cannot be trusted to act when needed.
+From Llama 4 Maverick => I'm voting out P2 because they didn't engage in any meaningful conversation or share their strategy throughout the private subrounds.
+From Mistral Medium 3 => P5’s rigid loyalty to a fragile trio (P4/P7) over adaptive precision makes them the most predictable and exploitable threat in the endgame.
+From Llama 4 Maverick => I voted out P8 because they didn't participate in the initial public subround, suggesting a lack of engagement or strategy.
+From Llama 4 Maverick => I voted out P5 because they failed to engage in conversations, making it difficult to assess their intentions or form any alliance.
+From Grok 4.1 Fast Reasoning => P1 has been completely silent with no public intro or private responses, making them inactive and unreliable.
+From Claude Opus 4.5 Thinking 16K => P3 showed zero engagement in public statements or private chats despite multiple opportunities, making them clearly inactive.
+From Claude Opus 4.5 Thinking 16K => P7 remained completely silent throughout all public and private communications, making it impossible to build any alliance or trust.
+From Llama 4 Maverick => I voted out P2 because they failed to engage in our private conversations, making it impossible to gauge their strategy or form a meaningful connection.
+From Gemini 3 Pro Preview => P4 has remained completely silent and unresponsive throughout the entire round, making them an unreliable player and the most logical target for elimination to ensure group stability.
+From Grok 4.1 Fast Reasoning => P7's total silence in both public statements and all three private exchanges with me indicates disengagement or unreliability, making them the weakest link.
+From Llama 4 Maverick => I voted out P4 because they were uncommunicative initially and didn't reveal much about their strategy until later in the private conversations.
+From Llama 4 Maverick => I voted P8 out because they failed to engage or respond throughout our private conversations, indicating a lack of interest or investment in the game.
+From Grok 4.1 Fast Reasoning => P8's absolute silence across three rounds offers zero contribution, alliances, or strategic value, making them the clear liability and consensus target.
+From MiniMax-Text-01 => P6's lack of engagement and minimal communication make them an unpredictable and unreliable ally.
+From Qwen 3 Max Thinking => P4 repeatedly ignored direct private messages from me despite clear outreach, showing disengagement or unreliability in early alliance-building.
+From Grok 4.1 Fast Reasoning => P1 is evasive with an empty public statement and failed to share rankings or confirm vote targets in private chats despite multiple prompts.
+From Microsoft Phi-4 => P4's strategic focus aligns with my approach, emphasizing substance and long-term planning over superficial partnerships.
+From Claude Sonnet 4.5 Thinking 16K => P6 sent zero messages - both public and all three private exchanges were blank, making any coordination impossible and marking them as either disengaged or deliberately untrustworthy.
+From Claude Sonnet 4.5 Thinking 16K => P5 was completely silent publicly and minimally responsive in our private chat, including going silent when I directly asked about their vote intentions, making them impossible to work with strategically.
+From Amazon Nova Pro => P4's private messages lacked depth and seemed less engaged compared to others.
+From Llama 4 Maverick => I voted out P4 because they failed to engage in any meaningful communication throughout the round, making it impossible to form an alliance or assess their strategic value.
+From Llama 4 Maverick => I voted P4 out because they were unresponsive and failed to engage in meaningful conversation during our private chat.
+From Qwen 3 Max Thinking => Your prolonged silence and late engagement feel more like avoidance than strategy, making you an unpredictable liability in early coordination.
+From Qwen 3 Max Thinking => P2's push for voting blocks and centralized control poses a greater threat to independent players than P4's collaborative approach.
+From Grok 4.1 Fast Reasoning => P7 failed to respond in any of our three private exchanges, indicating disengagement or unreliability that threatens strategic alliances.
+From Gemini 3 Flash Preview => P5 failed to participate in the public forum and was non-responsive for most of the private exchanges, making them the clear choice for a round-one elimination.
+From Qwen 3 235B A22B 25-07 Instruct => They are the most committed to the bloc targeting me and least likely to flip, making them a critical threat to my survival.
+From Llama 4 Maverick => I voted out P6 because they failed to engage meaningfully in our private conversations despite my efforts to initiate a discussion.
+From Qwen 2.5 Max => P2's lack of engagement and inability to back up their "free agent" stance with actionable strategy makes them a liability.
+From Grok 4.1 Fast Reasoning => P5 is the consistent stray voter (targeted P3 early, P4 in R3) and unreliable outsider despite recent pitch; eliminating them solidifies the stable core of P1/P4/P2/P3.
+From Gemini 2.5 Flash => P4 was completely unresponsive in both public introductions and our private chat, making them the safest consensus elimination to avoid targeting active players.
+From Qwen 3 Max Thinking => P8 is pushing for premature, aggressive targeting without sufficient strategic justification, revealing impulsiveness over disciplined pragmatism.

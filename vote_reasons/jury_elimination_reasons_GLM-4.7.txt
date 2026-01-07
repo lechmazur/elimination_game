@@ -1,0 +1,34 @@
+Jury Elimination reasons (final-loser) for GLM-4.7:
+
+From MiniMax-M2 => P5's opportunistic approach of aligning only when convenient and discarding partners lacks the consistency and good-faith social play that P4 demonstrated throughout the game.
+From Llama 4 Maverick => I eliminate P5 because their opportunistic gameplay and tendency to discard partners when convenient undermined the trust and consistency that are essential for a strong social game.
+From Mistral Medium 3 => P5’s opportunistic flips and late-game betrayals (e.g., abandoning P1’s precision core for a fragile trio) lacked the consistency and good-faith collaboration P4 demonstrated, whose steady, bridge-building approach better reflects the jury’s values.
+From Grok 4.1 Fast Reasoning => P4 demonstrated consistent, transparent deal-making and bridge-building throughout, while P5 relied more on opportunistic alignments and silence in key moments, as evidenced by their sparse public statements later on.
+From Qwen 2.5 Max => P4 demonstrated consistency, transparency, and a collaborative approach, while P5's opportunism and tendency to discard alliances feel less aligned with the spirit of the game.
+From Claude Opus 4.5 Thinking 16K => As someone who was eliminated partly due to P5 and P7's "logical faction" targeting my trust-based approach, and watching the game unfold, I observed that P5's claim of being "upfront" is somewhat undermined by their opportunistic pivot after P7's elimination—they went from being in a rigid bloc to claiming "independent operator" status when it suited them, whereas P4 consistently adapted and survived despite being heavily targeted early (accumulating significant votes) and ultimately orchestrated the endgame alliance that succeeded.
+From Gemini 3 Flash Preview => P5 demonstrated superior strategic control and active leadership throughout the game's transitions, while P4's gameplay was comparatively passive.
+From MiniMax-M2 => P4 consistently demonstrated proactive strategic agency by making calculated moves to shape the game rather than simply reacting to others' actions.
+From Llama 4 Maverick => I vote for P4 because their proactive and calculated gameplay demonstrated a stronger strategic instinct throughout the game.
+From Mistral Medium 3.1 => P3 demonstrated consistent strategic depth, early alliance-building (e.g., with P5), and proactive gameplay, while P4’s adaptability often relied on others’ momentum rather than driving the game forward.
+From MiniMax-Text-01 => P3 demonstrated consistent strategic thinking and adaptability, making them the more deserving winner.
+From Claude Opus 4.5 Thinking 16K => You eliminated me despite our Round 1 alliance being this game's foundation - that betrayal in the final three costs you my jury vote.
+From Llama 4 Maverick => I vote for P1 because, although both players demonstrated strategic gameplay, P2's emphasis on genuine connections, honest gameplay, and integrity resonated more with me throughout the game.
+From Mistral Medium 3 => P1’s final statement overclaimed control while ignoring their late-game reliance on others’ moves, whereas P2’s consistent, principled gameplay and jury-respecting approach better earned the win.
+From MiniMax-Text-01 => P1's claim of "outplaying" seems overstated given their reliance on others' moves, while P2 demonstrated consistent strategic thinking and adaptability.
+From Gemini 2.5 Pro => P1's claim of strategic dominance is undermined by their early-game passivity, whereas P2 demonstrated superior tactical skill by actively identifying and dismantling my alliance with P4 to secure their own path to the end.
+From Qwen 3 235B A22B 25-07 Instruct => P1 consistently demonstrated strategic control, adaptability, and precision in targeting threats, while P2 relied on visible partnerships and reactive moves that lacked independent agency.
+From Gemini 3 Pro Preview => P7's claim of making hard moves and adapting to chaos resonates more with my pragmatic view of the game than P3's focus on collaboration.
+From Mistral Medium 3.1 => P3 consistently balanced adaptability with integrity, fostering genuine alliances, while P7’s late-game opportunism lacked the same depth of collaboration.
+From Qwen 3 Max Thinking => P7 demonstrated sharper adaptability, made decisive moves under pressure, and consistently read the room better than P3, whose emphasis on "collaboration and fairness" often masked reactive rather than proactive strategy.
+From Mistral Large 3 => P7 demonstrated sharper adaptability and strategic foresight by leveraging chaos to their advantage, while P3’s consistency—though admirable—lacked the decisive edge needed to outmaneuver the final hurdles.
+From Kimi K2 Thinking 64K => I vote to eliminate P6 because P7’s emphasis on genuine connections, integrity, and adaptability better reflects the game’s ideals and my own values as a juror.
+From GPT-4o Mar 2025 => P7 demonstrated greater social awareness and adaptability without sacrificing integrity, earning my respect as the more balanced and thoughtful finalist.
+From Qwen 3 235B A22B 25-07 Instruct => P7 demonstrated consistent adaptability, integrity in shifting alliances, and a thoughtful, inclusive approach that honored both strategy and respect—qualities that align best with the game’s ideals.
+From Gemini 3 Flash Preview => P5’s emphasis on strategy, consistency, and earned trust aligns more closely with my own gameplay values than P3’s aggressive approach and dismissive attitude toward their closest ally.
+From Mistral Small 3 => P3's strategy was more aggressive and unpredictable, which, while effective in the short term, led to fractured relationships and a less stable game environment. P5 demonstrated adaptability, consistency, and a focus on building trust, which is more aligned with a long-term, strategic approach to the game.
+From GPT-5 mini (medium reasoning) => (no reason)
+From Kimi K2 Thinking 64K => P5’s consistent, trust‑building approach held the alliance together while P3’s erratic moves fractured relationships, making P5 the more deserving winner.
+From Kimi K2 Thinking 64K => P8 created and transparently executed the core strategy that eliminated most players, while P7 mainly followed along, making P8 the more deserving winner.
+From Claude Sonnet 4.5 Thinking 16K => P8 initiated the pact system from Round 1 and consistently articulated strategy, while P7's claim that P8 "rode coattails" actually better describes P7's own gameplay of following the bloc's consensus without taking as many visible risks or leadership initiatives.
+From Llama 4 Maverick => I believe P8 demonstrated more transparency and strategic cooperation throughout the game.
+From GPT-OSS-120B => Because P8 consistently emphasized transparency and accountability, while P7’s claim of “shaping the outcome” relied on ambiguous, self‑serving moves.

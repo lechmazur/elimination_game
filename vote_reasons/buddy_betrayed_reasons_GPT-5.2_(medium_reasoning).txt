@@ -1,0 +1,21 @@
+Buddy Betrayed reasons for GPT-5.2 (medium reasoning) (they were the target):
+
+From Mistral Large 3 => P3’s endgame math and contingency planning make them the greater long-term threat to the stability of the P1/P7 pair, and their persistent attempts to break it confirm they’re the strategic disruptor.
+From GPT-5 mini (medium reasoning) => (no reason)
+From Kimi K2 Thinking 64K => P3’s high cumulative vote total makes them the biggest jury threat, so cutting them now is the safest path to a winnable final.
+From GLM-4.6 => P2's strategic positioning as a "low-bloc" option is a calculated move to avoid accountability while quietly influencing votes, making them a subtle but persistent volatility threat.
+From Mistral Large 3 => P1’s proven core (P6/P2) has delivered consistent, transparent execution, while P3’s “bounded commitments” enabled P2’s pivot and last-minute deals—loyalty over adaptive evasion wins.
+From Mistral Small 3 => P2 has been a consistent and reliable partner, but their focus on maintaining stability and avoiding chaos has led to a predictable voting pattern that could be exploited in the final rounds.
+From MiniMax-M2 => To eliminate the strongest opponent now and secure a final two against P8, giving me the best chance to win.
+From Claude Opus 4.5 Thinking 16K => Staying loyal to my five-round alliance with P4—consistency and follow-through have been my core strategy throughout this game.
+From Claude Sonnet 4.5 Thinking 16K => P5 actively tried to fracture my proven 4-round alliance with P2, and their offer to betray P7 at F3 shows they'll flip on anyone—making them the least trustworthy endgame partner.
+From Claude Sonnet 4.5 Thinking 16K => P2's offer to cut P7 after 4 rounds of open coordination is too risky to trust, and maintaining my alliance with P1 (our core since R1) means voting with P1+P4 to break the P2/P7 duo at its strategic core.
+From Gemini 3 Flash Preview => Since I cannot verify support from P4 or P6 to break the P2-P7 alliance, I must vote with the majority to eliminate the isolated outsider and secure my position.
+From GPT-OSS-120B => Because the consistent P1‑P7 pairing creates a vote‑whipping bloc that threatens game balance.
+From Qwen 3 Max Thinking => P8’s unanchored flexibility poses a greater long-term threat than P2’s transparent and predictable strategy, especially with P1 still in play as a known quantity.
+From MiniMax-M2 => I’m voting P3 to eliminate the remaining isolated player and keep the stable P8‑P7‑P4 bloc intact.
+From Llama 4 Maverick => I vote P7 because they are perceived as the anchor of a potential power monopoly with P8, and eliminating them would help maintain a more open and competitive game dynamic.
+From Qwen 3 Max Thinking => P7 is locked in a rigid bloc with P5 and has openly targeted me, making them the immediate strategic threat to my survival.
+From o3 (medium reasoning) => P3 has just vowed to target me at Final 3, so keeping them would be suicidal.
+From Claude Sonnet 4.5 Thinking 16K => Breaking the strongest remaining bloc (P3/P6) is essential for my survival path to finals.
+From Gemini 2.5 Flash => To decisively break the current tie and secure a clear path to the Final 3, I am aligning with the stated F3 non-vote and F2 cut agreement.

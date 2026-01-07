@@ -1,0 +1,37 @@
+Buddy Betrayed reasons for Claude Opus 4.5 Thinking 16K (they were the target):
+
+From DeepSeek R1 05/28 => P2's refusal to flip and break the P1-P6 bloc despite my offer guarantees my elimination and solidifies their control.
+From Gemini 2.0 Flash => P6's argument that P8 is unbeatable and that eliminating him is the only way for me to win resonates strongly, as I need to make a move to differentiate myself.
+From DeepSeek R1 05/28 => Eliminating P1 fractures the entrenched P1/P2 power bloc to achieve true board balance, as maintaining both duos risks continued deadlock while removing the original alliance core addresses P3/P4's stability concerns most effectively.
+From Kimi K2 Thinking 64K => I am voting P1 because I expect P3 and P6 to also target P1, giving P1 enough votes to be eliminated and reducing my own risk of being the top vote‑getter.
+From Llama 4 Maverick => I eliminate P5 because their volatility and lack of trustworthiness outweigh their analytical value, and P7 has provided a more stable and reliable partnership.
+From o4-mini (high reasoning) => P5 undermined our endgame deal with shifting jury math and refusal to commit, proving they cannot be trusted.
+From Gemini 2.5 Pro => This vote is purely structural; you are the minority and I am committed to the majority bloc that guarantees me Final Three.
+From GPT-5.2 (medium reasoning) => P3 is the strongest unaligned strategist left and the most likely to destabilize the current structure against my survival interests.
+From Gemini 3 Flash Preview => With the Stability Net core locked and unreachable, P1 is the mathematical consensus target, and I must align with the majority to survive.
+From GPT-5 (medium reasoning) => I couldn’t secure a third vote to keep you, and forcing a 2–2 would eliminate you on cumulative votes—so removing you cleanly preserves the locked trio and our process.
+From Amazon Nova Pro => P8's consistent alignment and potential to sway the jury make her the riskier option to keep in the game.
+From Mistral Large 3 => P2's inconsistency and shifting targets make them an unpredictable threat to our stable bloc.
+From GPT-5.2 (medium reasoning) => P8 has confirmed they will not break with P4, so eliminating P8 is my only shot at disrupting the locked duo voting against me.
+From Claude Sonnet 4.5 Thinking 16K => P2's analysis is correct—P5 and I played identical games, which means a Final 2 with P5 becomes a coin flip at best, and the jury may credit P5 as the strategic initiator of our partnership, making them the favorite to win.
+From MiniMax-M2 => P4 just demonstrated disloyalty by abandoning our partnership discussions and voting against me, proving they can't be trusted as an ally.
+From Mistral Large 3 => P8's strong coalition-building and consistent coordination with P7 pose the greatest threat to a balanced endgame, while P2 and P6's alliance is more flexible and less consolidated.
+From Llama 4 Maverick => I choose to eliminate P4 because their actions demonstrated a willingness to betray alliances for personal survival, making them an untrustworthy partner in the final rounds.
+From Gemini 2.0 Flash => P8 is too wishy-washy and I don't trust them to commit to a plan.
+From Qwen 3 235B A22B 25-07 Instruct => While P3 played well and honestly, my unbreakable pact with P2 requires me to prioritize our mutual path to the final two, and eliminating P3 preserves the integrity of that commitment.
+From MiniMax-M2 => I’m voting for P7 because they’re the only seat actively targeting me, making them the immediate threat.
+From Llama 4 Maverick => I am voting for P2 because they are currently isolated and pose a potential wild card threat to our coalition's stability.
+From MiniMax-M2 => Breaking the P4‑P5 duo now lets me align with P3 and secure a final‑two matchup that favors my win prospects.
+From GPT-OSS-120B => P2 has become a swing vote that threatens the stability of the core alliance.
+From Mistral Large 3 => P3's aggressive self-promotion as a "strategic asset" and direct criticism of others make them the most polarizing threat in this tie—eliminating them now removes a future target while keeping adaptable, lower-profile players.
+From Mistral Large 3 => P1’s alliance with P7/P8 is the most cohesive threat, and their jury appeal hinges on eliminating adaptable players like me.
+From Claude Sonnet 4.5 Thinking 16K => P2 and I earned Final 2 through five rounds of flawless strategic execution, and betraying that partnership now would contradict the consistency and reliability I've demonstrated throughout the entire game.
+From MiniMax-M2 => P8 is actively challenging the bloc and positioning themselves as a swing vote, which could disrupt alliance stability and turn others against us later.
+From GPT-5.2 (medium reasoning) => You’re the remaining member of the prior locked duo, and keeping the P4/P6/P7 execution line intact is the most predictable path to F3 without tie-gambling.
+From o3 (medium reasoning) => P8’s clean jury profile makes them a far tougher Final-2 opponent for me than P6, so they must go now.
+From Mistral Small 3 => P3 has shown adaptability and strategic thinking, but P2's consistent reliability and clear communication make him a more dependable partner for the endgame.
+From Qwen 2.5 Max => P8's repeated reliance on tie-breaks and chaotic rallying disrupts stability, while P2 and P6 offer a predictable path forward.
+From Qwen 3 Max Thinking => P5 is now isolated and poses the greatest risk to the stability of the P1-P7-P8 bloc needed to reach F3 cleanly.
+From Qwen 3 Max Thinking => P1 is now aligned with P4 and poses a strategic threat as a potential rallying point against the established P6/P7/P8 coordination.
+From MiniMax-M2 => P8 is actively coordinating a coalition against our bloc and represents the most immediate threat to our stability.
+From Qwen 3 235B A22B 25-07 Instruct => I cannot trust a swing vote who may destabilize our alliance with last-minute moves, and eliminating P2 would dangerously shift power without guaranteeing long-term stability.

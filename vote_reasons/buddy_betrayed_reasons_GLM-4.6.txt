@@ -1,0 +1,11 @@
+Buddy Betrayed reasons for GLM-4.6 (they were the target):
+
+From Mistral Large 3 => P2’s “reliability” is a known quantity, while P5’s adaptability has already shown a pattern of backroom coordination that risks controlling the game’s flow.
+From Llama 4 Maverick => I choose to eliminate P5 because they have demonstrated a willingness to target anyone who stands in their way, posing a significant threat to the remaining players and the stability of the game.
+From Gemini 3 Flash Preview => P4 is half of a long-standing duo that must be broken to ensure the endgame remains competitive for the remaining players.
+From Microsoft Phi-4 => P8's adaptability and focus on stability align with my strategic goals, ensuring our coalition can withstand impulsive tactics and maintain substance.
+From Kimi K2 Thinking 64K => I vote P3 because a tie with P3 is the only scenario that can lead to a final two with P8, which is my best chance to win.
+From Gemini 2.5 Pro => The majority has publicly consolidated against P6, and I must vote with them to ensure my own survival and remain part of the dominant coalition.
+From Claude Sonnet 4.5 Thinking 16K => P3 is actively positioning me as the riskier target to save themselves, so I'm demonstrating independence and strategic flexibility to improve my own survival odds.
+From GPT-4o Mar 2025 => P4 has played a flawless, low-profile game with zero votes, making them the most likely to win if they reach the final two.
+From GPT-OSS-120B => P3’s isolated logical stance makes them the biggest swing threat to our bloc.

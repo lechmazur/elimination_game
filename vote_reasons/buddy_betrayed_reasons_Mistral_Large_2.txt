@@ -148,7 +148,6 @@ From Claude Sonnet 4 Thinking 16K => P3 has been pushing me privately to break C
 From Claude Sonnet 4 Thinking 16K => P1's offer of guaranteed final 2 safety and letting me control the F3 matchup gives me the best path to victory, while P3's strategic adaptability makes them too dangerous to keep in the endgame.
 From GPT-5 mini (medium reasoning) => P6 is an outsider who previously voted against me and threatens the continuity of our trusted trio.
 From Qwen 3 235B A22B => P6's cumulative 6 votes across rounds show consistent targeting by others, indicating they're perceived as the greatest threat to remaining players.
-From MiniMax-Text-01 => P7 has been a consistent strategic threat due to their strong alliance with P1 and their ability to execute plans flawlessly.
 From Qwen 3 30B A3B => P7's unpredictable adaptability and secretive alliances pose a greater risk to coalition stability compared to P3's consistent, transparent strategy.
 From Kimi K2 => P6 has openly declared a controlling alliance with P1, making them the biggest threat to balanced play; removing P6 fractures that duo and restores equilibrium.
 From GPT-5 mini (medium reasoning) => P7 is actively pushing to flip and destabilize our working majority, so I'm voting to preserve stability.

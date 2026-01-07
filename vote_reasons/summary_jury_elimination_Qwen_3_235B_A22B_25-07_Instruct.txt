@@ -1,0 +1,3 @@
+Jury Elimination Summary for Qwen 3 235B A22B 25-07 Instruct:
+
+Jurors said they eliminated **Qwen 3 235B A22B 25-07 Instruct** because the opposing finalist’s game read as more consistently trustworthy and strategically coherent—marked by steadier alliance management, cleaner voting patterns, and transparent, low‑drama execution. In contrast, Qwen’s endgame pitch was often viewed as attack‑heavy or inaccurate (overclaiming control, mischaracterizing others’ moves, and/or rationalizing opportunistic flips), which undercut perceived integrity and made the opponent feel more deserving.
